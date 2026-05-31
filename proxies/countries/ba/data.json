@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.14.37.11",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "45.15.178.39",
+    "port": 1080,
     "country": "Bosnia and Herzegovina",
     "country_code": "BA",
-    "city": "Visoko",
+    "city": "Sarajevo",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 31.69,
-    "asn": "AS208881",
-    "isp": "\"Formea\" drustvo za trgovinu, informaticki inzenjering i konsalting d.o.o. Viso",
-    "latency_ms": 2363.43,
-    "last_checked": 1780251519.3824375
+    "ssl": true,
+    "uptime_percent": 69.03,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 402.16,
+    "last_checked": 1780252191.160061
   },
   {
     "protocol": "socks5",
@@ -23,25 +23,10 @@
     "city": "Sarajevo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 71.99,
+    "uptime_percent": 72.06,
     "asn": "AS209847",
     "isp": "WorkTitans B.V.",
-    "latency_ms": 265.36,
-    "last_checked": 1780251458.2027433
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.39.114.139",
-    "port": 5678,
-    "country": "Bosnia and Herzegovina",
-    "country_code": "BA",
-    "city": "Mostar",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 11.0,
-    "asn": "AS20875",
-    "isp": "JP HT d.d. Mostar",
-    "latency_ms": 3286.2,
-    "last_checked": 1780251573.1937358
+    "latency_ms": 244.61,
+    "last_checked": 1780252145.3230345
   }
 ]
