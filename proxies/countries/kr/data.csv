@@ -1,35 +1,45 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,183.110.216.128,8091,South Korea,KR,Seongnam-si,anonymous,false,53.16,AS4766,Korea Telecom,1059.46,1780259641.5191746
-socks4,158.247.240.61,1080,South Korea,KR,Seoul,elite,true,66.62,AS20473,"The Constant Company, LLC",8827.62,1780259636.7656062
-socks5,158.179.173.238,1080,South Korea,KR,Chuncheon,elite,true,39.97,AS31898,Oracle Corporation,2984.73,1780259624.690641
-socks4,121.139.218.165,43295,South Korea,KR,Ansan-si,elite,true,17.81,AS4766,Korea Telecom,1319.26,1780259623.177506
-http,43.128.145.26,1080,South Korea,KR,Seoul,elite,true,96.89,AS132203,Shenzhen Tencent Computer Systems Company Limited,748.23,1780259620.5833826
-socks4,158.247.253.121,1080,South Korea,KR,Seoul,elite,true,75.22,AS20473,"The Constant Company, LLC",3092.91,1780259617.1574574
-http,1.231.81.166,3128,South Korea,KR,Jongno-gu,transparent,true,94.21,AS9318,SK Broadband Co Ltd,4299.72,1780259615.3620217
-http,183.110.216.128,8090,South Korea,KR,Seongnam-si,anonymous,false,53.21,AS4766,Korea Telecom,1078.64,1780259608.9009008
-socks4,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,50.14,AS31898,Oracle Corporation,4307.62,1780259607.387902
-socks5,158.247.241.3,1080,South Korea,KR,Seoul,elite,true,36.74,AS20473,"The Constant Company, LLC",9550.9,1780259598.0980613
-http,219.249.37.107,8382,South Korea,KR,Buk-gu,elite,false,46.98,AS9318,SK Broadband Co Ltd,1249.78,1780259593.206452
-socks4,132.226.229.220,1080,South Korea,KR,Seoul,elite,true,52.25,AS31898,Oracle Corporation,6577.77,1780259591.985321
-socks5,158.247.253.121,1080,South Korea,KR,Seoul,elite,true,77.67,AS20473,"The Constant Company, LLC",7824.5,1780259589.3964636
-http,14.34.180.21,38157,South Korea,KR,Pyeongtaek-si,elite,false,4.49,AS4766,Korea Telecom,14453.66,1780259578.2894678
-http,219.249.37.107,8380,South Korea,KR,Buk-gu,elite,false,85.75,AS9318,SK Broadband Co Ltd,1270.06,1780259577.4369664
-http,219.249.37.107,8197,South Korea,KR,Buk-gu,elite,false,80.32,AS9318,SK Broadband Co Ltd,1218.31,1780259572.4584098
-socks4,146.56.191.98,14785,South Korea,KR,Seoul,elite,true,25.34,AS31898,Oracle Corporation,7172.67,1780259557.5071938
-socks5,115.136.121.54,9050,South Korea,KR,Songpa-gu,elite,true,36.27,AS17858,LG POWERCOMM,1996.62,1780259553.3228378
-socks5,121.169.46.116,1090,South Korea,KR,Suwon,elite,true,93.26,AS4766,Korea Telecom,3406.22,1780259548.1051042
-socks5,132.226.229.220,1080,South Korea,KR,Seoul,elite,true,42.5,AS31898,Oracle Corporation,9568.86,1780259541.7076976
-socks5,158.180.77.24,1080,South Korea,KR,Chuncheon,elite,true,88.62,AS31898,Oracle Corporation,2267.09,1780259537.3649414
-http,183.110.216.159,8090,South Korea,KR,Seongnam-si,anonymous,false,53.19,AS4766,Korea Telecom,4031.33,1780259533.686297
-socks5,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,42.75,AS31898,Oracle Corporation,2746.77,1780259527.6513417
-http,175.194.173.105,3128,South Korea,KR,Goyang-si,elite,true,13.3,AS4766,Korea Telecom,1131.52,1780259521.576896
-socks5,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,42.08,AS31898,Oracle Corporation,4169.14,1780259495.3406146
-http,183.110.216.159,8091,South Korea,KR,Seongnam-si,anonymous,false,53.29,AS4766,Korea Telecom,2088.37,1780259483.2871568
-http,8.213.151.128,3128,South Korea,KR,Seoul,elite,true,90.38,AS45102,"Alibaba (US) Technology Co., Ltd.",688.29,1780259450.145205
-socks5,158.247.206.191,1080,South Korea,KR,Seoul,elite,true,29.84,AS20473,"The Constant Company, LLC",13041.81,1780259599.7388136
-http,210.223.44.230,3128,South Korea,KR,Seoul,anonymous,true,78.01,AS4766,Korea Telecom,4358.37,1780259648.1017356
-socks4,59.11.209.162,1080,South Korea,KR,Suwon,elite,true,100.0,AS4766,Korea Telecom,1297.0,1780259693.8722765
-socks5,59.11.209.162,1080,South Korea,KR,Suwon,elite,true,100.0,AS4766,Korea Telecom,2180.35,1780259684.9888973
-socks4,49.167.236.96,1080,South Korea,KR,Mapo-gu,elite,true,17.7,AS17858,LG POWERCOMM,2129.66,1780259681.6438403
-socks4,58.235.170.51,5678,South Korea,KR,Chilgok-gun,elite,true,62.36,AS9318,SK Broadband Co Ltd,1232.84,1780259672.9458454
-socks5,49.167.236.96,1080,South Korea,KR,Mapo-gu,elite,true,14.14,AS17858,LG POWERCOMM,3229.52,1780259615.1012719
+http,183.110.216.128,8090,South Korea,KR,Seongnam-si,anonymous,false,53.21,AS4766,Korea Telecom,1060.31,1780260291.3679192
+socks4,152.70.91.193,40000,South Korea,KR,Seoul,elite,true,66.99,AS31898,Oracle Corporation,1210.85,1780260291.2671478
+socks4,121.139.218.165,43295,South Korea,KR,Ansan-si,elite,true,17.81,AS4766,Korea Telecom,2295.42,1780260290.7316537
+socks4,158.247.212.189,1080,South Korea,KR,Seoul,elite,true,36.91,AS20473,"The Constant Company, LLC",4899.49,1780260283.0166366
+socks4,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,50.15,AS31898,Oracle Corporation,8480.75,1780260282.806939
+socks5,132.226.229.220,1080,South Korea,KR,Seoul,elite,true,42.53,AS31898,Oracle Corporation,10803.58,1780260277.9129498
+http,183.110.216.159,8090,South Korea,KR,Seongnam-si,anonymous,false,53.19,AS4766,Korea Telecom,1044.29,1780260276.4341998
+socks5,152.70.91.193,40000,South Korea,KR,Seoul,elite,true,51.43,AS31898,Oracle Corporation,2120.39,1780260275.9149058
+socks5,158.247.206.191,1080,South Korea,KR,Seoul,elite,true,29.86,AS20473,"The Constant Company, LLC",2729.56,1780260266.3269124
+socks5,152.70.237.238,3128,South Korea,KR,Seoul,elite,true,42.78,AS31898,Oracle Corporation,9025.62,1780260266.1112897
+socks5,121.169.46.116,1090,South Korea,KR,Suwon,elite,true,93.26,AS4766,Korea Telecom,2434.39,1780260265.8814042
+socks4,158.247.206.191,1080,South Korea,KR,Seoul,elite,true,39.93,AS20473,"The Constant Company, LLC",5896.82,1780260262.774264
+socks4,114.108.177.104,60984,South Korea,KR,Daejeon,elite,true,17.97,AS3786,LG DACOM KIDC,2282.48,1780260259.8063047
+socks5,158.180.77.24,1080,South Korea,KR,Chuncheon,elite,true,88.65,AS31898,Oracle Corporation,12512.92,1780260259.5275311
+socks4,132.226.229.220,1080,South Korea,KR,Seoul,elite,true,52.26,AS31898,Oracle Corporation,9281.18,1780260257.3914776
+socks4,158.247.253.121,1080,South Korea,KR,Seoul,elite,true,75.35,AS20473,"The Constant Company, LLC",5180.97,1780260255.46177
+http,183.110.216.128,8091,South Korea,KR,Seongnam-si,anonymous,false,53.17,AS4766,Korea Telecom,1030.67,1780260253.219018
+http,8.213.151.128,3128,South Korea,KR,Seoul,elite,true,90.38,AS45102,"Alibaba (US) Technology Co., Ltd.",682.97,1780260241.3158946
+socks5,158.247.241.3,1080,South Korea,KR,Seoul,elite,true,36.76,AS20473,"The Constant Company, LLC",4103.93,1780260239.983024
+http,1.231.81.166,3128,South Korea,KR,Jongno-gu,transparent,true,94.21,AS9318,SK Broadband Co Ltd,1205.01,1780260235.3382838
+socks5,115.136.121.54,9050,South Korea,KR,Songpa-gu,elite,true,36.29,AS17858,LG POWERCOMM,2185.75,1780260229.4465969
+socks5,130.162.141.185,52916,South Korea,KR,Seoul,elite,true,42.08,AS31898,Oracle Corporation,6970.78,1780260227.7678185
+http,146.56.164.121,3128,South Korea,KR,Seoul,transparent,false,34.8,AS31898,Oracle Corporation,15035.88,1780260222.4386206
+http,219.249.37.107,8382,South Korea,KR,Buk-gu,elite,false,46.98,AS9318,SK Broadband Co Ltd,1207.67,1780260212.0048866
+socks5,158.179.173.238,1080,South Korea,KR,Chuncheon,elite,true,39.99,AS31898,Oracle Corporation,1978.53,1780260209.327759
+http,219.249.37.107,8380,South Korea,KR,Buk-gu,elite,false,85.75,AS9318,SK Broadband Co Ltd,1215.29,1780260208.2962818
+http,121.135.144.141,8022,South Korea,KR,Seocho-gu,elite,true,22.75,AS4766,Korea Telecom,13081.68,1780260202.2930026
+http,183.110.216.159,8091,South Korea,KR,Seongnam-si,anonymous,false,53.29,AS4766,Korea Telecom,4117.32,1780260190.6352596
+http,219.249.37.107,8197,South Korea,KR,Buk-gu,elite,false,80.4,AS9318,SK Broadband Co Ltd,1197.56,1780260183.906583
+socks5,158.247.240.61,1080,South Korea,KR,Seoul,elite,true,68.02,AS20473,"The Constant Company, LLC",4886.57,1780260173.491179
+http,220.81.123.23,48678,South Korea,KR,Suseong-gu,transparent,false,8.3,AS4766,Korea Telecom,14930.9,1780260171.811942
+socks5,158.247.193.221,1080,South Korea,KR,Seoul,elite,true,33.16,AS20473,"The Constant Company, LLC",5890.35,1780260156.7227118
+socks5,8.213.156.191,8444,South Korea,KR,Seoul,elite,true,1.89,AS45102,"Alibaba (US) Technology Co., Ltd.",6493.12,1780260151.354813
+socks5,8.213.156.191,8081,South Korea,KR,Seoul,elite,true,1.86,AS45102,"Alibaba (US) Technology Co., Ltd.",6684.18,1780260149.791801
+socks5,8.213.156.191,13,South Korea,KR,Seoul,elite,true,1.56,AS45102,"Alibaba (US) Technology Co., Ltd.",6484.82,1780260147.007427
+socks5,158.247.212.189,1080,South Korea,KR,Seoul,elite,true,26.53,AS20473,"The Constant Company, LLC",6357.69,1780260144.9216416
+http,8.220.204.92,8091,South Korea,KR,Seoul,elite,false,0.63,AS45102,"Alibaba (US) Technology Co., Ltd.",2445.54,1780260140.162455
+http,8.220.204.92,9999,South Korea,KR,Seoul,elite,false,1.06,AS45102,"Alibaba (US) Technology Co., Ltd.",2459.26,1780260138.6148148
+http,43.128.145.26,1080,South Korea,KR,Seoul,elite,true,96.89,AS132203,Shenzhen Tencent Computer Systems Company Limited,762.2,1780260259.1307478
+http,210.223.44.230,3128,South Korea,KR,Seoul,anonymous,true,78.01,AS4766,Korea Telecom,1611.68,1780260173.2705271
+socks4,58.235.170.51,5678,South Korea,KR,Chilgok-gun,elite,true,62.37,AS9318,SK Broadband Co Ltd,1147.6,1780260309.3212218
+socks4,59.11.209.162,1080,South Korea,KR,Suwon,elite,true,100.0,AS4766,Korea Telecom,1286.62,1780260287.401803
+socks5,59.11.209.162,1080,South Korea,KR,Suwon,elite,true,100.0,AS4766,Korea Telecom,2920.29,1780260268.6304474
+socks5,58.229.240.204,9050,South Korea,KR,Mapo-gu,elite,true,40.16,AS9318,SK Broadband Co Ltd,18001.95,1780260214.2629638
