@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "91.150.77.58",
-    "port": 56921,
+    "protocol": "http",
+    "ip": "195.178.56.35",
+    "port": 8080,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 8.86,
+    "city": "Bački Petrovac",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 1.53,
     "asn": "AS8400",
     "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 3177.06,
-    "last_checked": 1780257872.4515047
+    "latency_ms": 8341.86,
+    "last_checked": 1780258458.5591335
   },
   {
     "protocol": "http",
@@ -26,7 +26,22 @@
     "uptime_percent": 11.39,
     "asn": "AS28964",
     "isp": "ORIONTELEKOM",
-    "latency_ms": 4809.53,
-    "last_checked": 1780257769.2391899
+    "latency_ms": 4021.11,
+    "last_checked": 1780258227.1995325
+  },
+  {
+    "protocol": "socks4",
+    "ip": "91.150.77.58",
+    "port": 56921,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.86,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 142.65,
+    "last_checked": 1780258477.7075176
   }
 ]
