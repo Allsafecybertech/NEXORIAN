@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "ip": "45.139.91.62",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 81.43,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 10840.27,
-    "last_checked": 1780240730.6759531
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.18,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 3146.62,
+    "last_checked": 1780241351.1764073
   },
   {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.92,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 1106.54,
-    "last_checked": 1780240710.7238932
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.04,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 3113.39,
+    "last_checked": 1780241325.7936518
   },
   {
     "protocol": "http",
@@ -37,12 +37,42 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.24,
+    "ssl": false,
+    "uptime_percent": 38.26,
     "asn": "AS8251",
     "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 3337.43,
-    "last_checked": 1780240707.6598396
+    "latency_ms": 6283.34,
+    "last_checked": 1780241258.2396367
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.74,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 8215.57,
+    "last_checked": 1780241229.8757868
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Nejdek",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.62,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 5243.34,
+    "last_checked": 1780241211.2518666
   },
   {
     "protocol": "http",
@@ -56,7 +86,7 @@
     "uptime_percent": 64.62,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 1904.15,
-    "last_checked": 1780240745.318742
+    "latency_ms": 3376.67,
+    "last_checked": 1780241343.2518923
   }
 ]
