@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
+    "ip": "147.231.163.133",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Nejdek",
-    "anonymity": "transparent",
+    "city": "Prague",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 7.62,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1758.58,
-    "last_checked": 1780256031.859262
+    "uptime_percent": 81.43,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 11865.7,
+    "last_checked": 1780256601.659908
   },
   {
     "protocol": "http",
@@ -22,12 +22,27 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.52,
+    "ssl": false,
+    "uptime_percent": 38.59,
     "asn": "AS8251",
     "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 2473.05,
-    "last_checked": 1780255901.816969
+    "latency_ms": 2206.14,
+    "last_checked": 1780256587.4545455
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 10.93,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 8227.19,
+    "last_checked": 1780256580.9555464
   },
   {
     "protocol": "http",
@@ -37,12 +52,12 @@
     "country_code": "CZ",
     "city": "Šebetov",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 7.9,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 4514.97,
-    "last_checked": 1780255865.969222
+    "latency_ms": 3644.02,
+    "last_checked": 1780256556.3132064
   },
   {
     "protocol": "http",
@@ -53,10 +68,10 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 64.65,
+    "uptime_percent": 64.66,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 4016.48,
-    "last_checked": 1780255932.238965
+    "latency_ms": 309.78,
+    "last_checked": 1780256662.4271824
   }
 ]
