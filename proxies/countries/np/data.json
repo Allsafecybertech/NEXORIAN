@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.45,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 998.63,
+    "last_checked": 1780266551.2391021
+  },
+  {
+    "protocol": "socks4",
     "ip": "182.93.75.162",
-    "port": 8080,
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Mahottari",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.31,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.48,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 9589.5,
-    "last_checked": 1780266189.4346907
+    "latency_ms": 4554.76,
+    "last_checked": 1780266499.8831472
+  },
+  {
+    "protocol": "socks4",
+    "ip": "118.91.175.146",
+    "port": 5678,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.9,
+    "asn": "AS24550",
+    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+    "latency_ms": 1952.76,
+    "last_checked": 1780266467.704608
   },
   {
     "protocol": "http",
@@ -22,11 +52,26 @@
     "country_code": "NP",
     "city": "Patan",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 20.21,
     "asn": "AS45650",
     "isp": "Vianet",
-    "latency_ms": 1115.38,
-    "last_checked": 1780266208.6945922
+    "latency_ms": 2582.78,
+    "last_checked": 1780266465.0799565
+  },
+  {
+    "protocol": "http",
+    "ip": "103.232.228.138",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 3.53,
+    "asn": "AS55427",
+    "isp": "RO-228 BroadLink",
+    "latency_ms": 4762.57,
+    "last_checked": 1780266482.500479
   }
 ]
