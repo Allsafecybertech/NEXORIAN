@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "151.241.215.23",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.28,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 652.93,
+    "last_checked": 1780301969.7931306
+  },
+  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -11,23 +26,38 @@
     "uptime_percent": 86.38,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 194.03,
-    "last_checked": 1780301687.1216645
+    "latency_ms": 651.81,
+    "last_checked": 1780301969.4901223
   },
   {
     "protocol": "http",
-    "ip": "195.231.69.203",
-    "port": 80,
+    "ip": "93.147.55.25",
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Ponte San Pietro",
-    "anonymity": "elite",
+    "city": "Bisceglie",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.47,
+    "asn": "AS30722",
+    "isp": "VODAFONE",
+    "latency_ms": 10534.5,
+    "last_checked": 1780301960.5839024
+  },
+  {
+    "protocol": "http",
+    "ip": "93.42.151.100",
+    "port": 4443,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 69.97,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 12923.63,
-    "last_checked": 1780301660.2413886
+    "uptime_percent": 17.99,
+    "asn": "AS12874",
+    "isp": "Fastweb SpA",
+    "latency_ms": 6036.28,
+    "last_checked": 1780301924.7721436
   },
   {
     "protocol": "socks5",
@@ -41,22 +71,7 @@
     "uptime_percent": 81.2,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 429.49,
-    "last_checked": 1780301637.213716
-  },
-  {
-    "protocol": "socks5",
-    "ip": "151.241.215.23",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 82.27,
-    "asn": "AS57043",
-    "isp": "Hostkey B.V.",
-    "latency_ms": 128.09,
-    "last_checked": 1780301537.8138127
+    "latency_ms": 581.27,
+    "last_checked": 1780301923.1044421
   }
 ]
