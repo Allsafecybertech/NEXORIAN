@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "179.43.180.232",
+    "port": 1081,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.48,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 3627.55,
+    "last_checked": 1780318792.3294725
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -11,8 +26,23 @@
     "uptime_percent": 86.68,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 905.01,
-    "last_checked": 1780318174.2770746
+    "latency_ms": 2216.73,
+    "last_checked": 1780318792.0532603
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 77.37,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 4823.36,
+    "last_checked": 1780318707.4143329
   },
   {
     "protocol": "http",
@@ -23,40 +53,10 @@
     "city": "Wetzikon",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 86.19,
+    "uptime_percent": 86.17,
     "asn": "AS264617",
     "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 2686.24,
-    "last_checked": 1780318146.7250094
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 77.37,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3257.3,
-    "last_checked": 1780318072.2835317
-  },
-  {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.02,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 13221.24,
-    "last_checked": 1780318052.2828825
+    "latency_ms": 1665.22,
+    "last_checked": 1780318661.2628043
   }
 ]

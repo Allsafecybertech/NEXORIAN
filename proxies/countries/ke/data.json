@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "102.0.16.226",
+    "port": 8080,
+    "country": "Kenya",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.3,
+    "asn": "AS36926",
+    "isp": "Airtel KE Mobile & Fixed Internet",
+    "latency_ms": 1459.25,
+    "last_checked": 1780318726.9668076
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.0.14.42",
+    "port": 1080,
+    "country": "Kenya",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.11,
+    "asn": "AS36926",
+    "isp": "Airtel KE Mobile & Fixed Internet",
+    "latency_ms": 2095.17,
+    "last_checked": 1780318723.1786778
+  },
+  {
+    "protocol": "http",
     "ip": "102.0.21.148",
     "port": 8080,
     "country": "Kenya",
@@ -11,22 +41,7 @@
     "uptime_percent": 18.52,
     "asn": "AS36926",
     "isp": "Airtel KE Mobile & Fixed Internet",
-    "latency_ms": 8560.56,
-    "last_checked": 1780318136.3480384
-  },
-  {
-    "protocol": "http",
-    "ip": "41.139.167.17",
-    "port": 8080,
-    "country": "Kenya",
-    "country_code": "KE",
-    "city": "Nairobi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.83,
-    "asn": "AS37061",
-    "isp": "Converged services Eastern",
-    "latency_ms": 12501.49,
-    "last_checked": 1780318055.730806
+    "latency_ms": 2051.86,
+    "last_checked": 1780318712.1758242
   }
 ]
