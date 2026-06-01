@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.12,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 3111.81,
+    "last_checked": 1780356882.3932674
+  },
+  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -11,8 +26,23 @@
     "uptime_percent": 81.46,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 6239.72,
-    "last_checked": 1780356273.4299855
+    "latency_ms": 14308.37,
+    "last_checked": 1780356852.8370245
+  },
+  {
+    "protocol": "http",
+    "ip": "78.108.103.87",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.39,
+    "asn": "AS8251",
+    "isp": "Neutral Free eXchange members - FreeTel alternate",
+    "latency_ms": 1912.52,
+    "last_checked": 1780356753.5272815
   },
   {
     "protocol": "http",
@@ -26,37 +56,7 @@
     "uptime_percent": 64.88,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 6487.47,
-    "last_checked": 1780356234.526612
-  },
-  {
-    "protocol": "http",
-    "ip": "78.108.103.87",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 37.38,
-    "asn": "AS8251",
-    "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 9884.4,
-    "last_checked": 1780356145.7999933
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Dobříš",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.56,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 10479.13,
-    "last_checked": 1780356134.3257952
+    "latency_ms": 6839.19,
+    "last_checked": 1780356861.809518
   }
 ]
