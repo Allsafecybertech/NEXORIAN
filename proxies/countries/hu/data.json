@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "84.0.156.239",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "84.2.239.42",
+    "port": 4153,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Földes",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 50.19,
-    "asn": "AS5483",
-    "isp": "Magyar Telekom",
-    "latency_ms": 3738.31,
-    "last_checked": 1780277319.9158664
-  },
-  {
-    "protocol": "socks5",
-    "ip": "79.172.212.71",
-    "port": 1080,
-    "country": "Hungary",
-    "country_code": "HU",
-    "city": "Budapest",
+    "city": "Hajdúnánás",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.04,
-    "asn": "AS61998",
-    "isp": "Szerverplex Kft",
-    "latency_ms": 165.22,
-    "last_checked": 1780277304.6351333
+    "uptime_percent": 11.15,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 289.85,
+    "last_checked": 1780277927.7313945
   },
   {
     "protocol": "http",
@@ -37,11 +22,26 @@
     "country_code": "HU",
     "city": "Kecskemét",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 12.34,
     "asn": "AS209001",
     "isp": "Deltakon Kft.",
-    "latency_ms": 5008.85,
-    "last_checked": 1780277369.8625917
+    "latency_ms": 1379.32,
+    "last_checked": 1780277916.5818326
+  },
+  {
+    "protocol": "http",
+    "ip": "79.121.102.227",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Esztergom",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 6.02,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom plc.",
+    "latency_ms": 2044.87,
+    "last_checked": 1780277878.4398632
   }
 ]
