@@ -1260,7 +1260,7 @@
     "last_checked": 1780301796.9826143
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "209.38.214.48",
     "port": 1080,
     "country": "Germany",
@@ -1268,11 +1268,41 @@
     "city": "Frankfurt am Main",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.74,
+    "uptime_percent": 56.77,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 4660.65,
-    "last_checked": 1780301688.0630636
+    "latency_ms": 11712.45,
+    "last_checked": 1780302271.0542474
+  },
+  {
+    "protocol": "http",
+    "ip": "206.81.31.215",
+    "port": 80,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Frankfurt am Main",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.77,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 5549.01,
+    "last_checked": 1780302266.0300906
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.165.43.73",
+    "port": 46650,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Frankfurt am Main",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.28,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 9060.33,
+    "last_checked": 1780302258.4105713
   },
   {
     "protocol": "socks4",
@@ -1286,8 +1316,8 @@
     "uptime_percent": 38.73,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 3634.22,
-    "last_checked": 1780301678.9662752
+    "latency_ms": 8102.18,
+    "last_checked": 1780302255.9314582
   },
   {
     "protocol": "socks5",
@@ -1298,10 +1328,25 @@
     "city": "Nuremberg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.85,
+    "uptime_percent": 85.86,
     "asn": "AS206216",
     "isp": "Advin Services LLC",
-    "latency_ms": 9410.29,
-    "last_checked": 1780301669.5132003
+    "latency_ms": 8488.03,
+    "last_checked": 1780302202.536534
+  },
+  {
+    "protocol": "http",
+    "ip": "213.165.43.205",
+    "port": 3128,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Frankfurt am Main",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 49.36,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 5166.33,
+    "last_checked": 1780302156.885632
   }
 ]
