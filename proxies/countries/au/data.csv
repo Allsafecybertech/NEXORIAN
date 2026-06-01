@@ -1,6 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,40.59,AS31898,Oracle Corporation,10646.68,1780316348.9332938
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.6,AS14061,"DigitalOcean, LLC",520.7,1780316321.4470239
-http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.12,AS16276,OVH SAS,11809.28,1780316262.485364
-http,103.131.232.9,8080,Australia,AU,Goulburn,transparent,true,23.23,AS45447,YLess4U Pty Ltd,4452.6,1780316237.9119976
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,39.76,AS4764,Wideband Networks Pty Ltd,2528.8,1780316231.871838
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,32.17,AS31898,Oracle Corporation,2686.26,1780316989.3187242
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,40.59,AS31898,Oracle Corporation,10386.51,1780316964.8053923
+http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.12,AS16276,OVH SAS,514.47,1780316959.719363
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.5,AS14061,"DigitalOcean, LLC",2675.22,1780316946.497489
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.6,AS14061,"DigitalOcean, LLC",508.1,1780316931.2464786
+http,139.99.238.95,8080,Australia,AU,Sydney,elite,true,6.35,AS16276,OVH SAS,525.33,1780316837.4307485
