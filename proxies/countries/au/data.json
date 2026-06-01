@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
+    "city": "Melbourne",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.6,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 2616.38,
-    "last_checked": 1780314871.1369748
+    "ssl": true,
+    "uptime_percent": 32.16,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 12565.35,
+    "last_checked": 1780315125.1154807
   },
   {
     "protocol": "http",
@@ -26,23 +26,38 @@
     "uptime_percent": 49.11,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 12170.79,
-    "last_checked": 1780314854.1055868
+    "latency_ms": 12421.65,
+    "last_checked": 1780315111.8608835
   },
   {
     "protocol": "http",
-    "ip": "159.196.182.72",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.0,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 10365.49,
+    "last_checked": 1780315087.2986164
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
+    "city": "Sydney",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 29.27,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 8326.62,
-    "last_checked": 1780314841.9670405
+    "uptime_percent": 94.6,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1657.65,
+    "last_checked": 1780315080.9260437
   },
   {
     "protocol": "socks5",
@@ -56,37 +71,7 @@
     "uptime_percent": 91.5,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1926.37,
-    "last_checked": 1780314839.3723564
-  },
-  {
-    "protocol": "http",
-    "ip": "51.161.131.235",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "North Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 21.5,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 7749.32,
-    "last_checked": 1780314784.8321242
-  },
-  {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 39.78,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2983.82,
-    "last_checked": 1780314764.2568843
+    "latency_ms": 2457.8,
+    "last_checked": 1780315072.5937355
   }
 ]
