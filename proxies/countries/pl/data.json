@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.212.144.7",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "185.160.13.112",
+    "port": 1080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Sokółka",
+    "city": "Łaziska Górne",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 98.97,
-    "asn": "AS51436",
-    "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 51.56,
-    "last_checked": 1780306184.9308286
+    "ssl": true,
+    "uptime_percent": 62.54,
+    "asn": "AS197274",
+    "isp": "Slaska Siec Metropolitalna Sp. z o.o",
+    "latency_ms": 138.14,
+    "last_checked": 1780306759.012176
   },
   {
     "protocol": "socks5",
@@ -26,38 +26,8 @@
     "uptime_percent": 100.0,
     "asn": "AS212238",
     "isp": "Datacamp Limited",
-    "latency_ms": 252.94,
-    "last_checked": 1780306181.3671432
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.160.13.112",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łaziska Górne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 62.54,
-    "asn": "AS197274",
-    "isp": "Slaska Siec Metropolitalna Sp. z o.o",
-    "latency_ms": 146.49,
-    "last_checked": 1780306178.2620287
-  },
-  {
-    "protocol": "socks4",
-    "ip": "46.171.28.162",
-    "port": 59311,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Krzywa Góra",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.39,
-    "asn": "AS5617",
-    "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 3382.4,
-    "last_checked": 1780306166.7133687
+    "latency_ms": 446.53,
+    "last_checked": 1780306741.8930333
   },
   {
     "protocol": "socks5",
@@ -71,8 +41,38 @@
     "uptime_percent": 68.05,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 328.09,
-    "last_checked": 1780306154.4141755
+    "latency_ms": 268.5,
+    "last_checked": 1780306740.7260494
+  },
+  {
+    "protocol": "http",
+    "ip": "178.212.144.7",
+    "port": 80,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Sokółka",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 98.97,
+    "asn": "AS51436",
+    "isp": "IDEALAN Spolka Jawna - Piekarski",
+    "latency_ms": 57.99,
+    "last_checked": 1780306726.045966
+  },
+  {
+    "protocol": "http",
+    "ip": "217.113.235.181",
+    "port": 443,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lodz",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 8.13,
+    "asn": "AS16342",
+    "isp": "Toya sp. z o.o.",
+    "latency_ms": 7711.13,
+    "last_checked": 1780306712.2184792
   },
   {
     "protocol": "socks4",
@@ -86,7 +86,37 @@
     "uptime_percent": 7.53,
     "asn": "AS60645",
     "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 3126.5,
-    "last_checked": 1780306150.7925813
+    "latency_ms": 1100.24,
+    "last_checked": 1780306695.7280986
+  },
+  {
+    "protocol": "http",
+    "ip": "146.59.16.105",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.82,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13501.24,
+    "last_checked": 1780306692.6278443
+  },
+  {
+    "protocol": "http",
+    "ip": "188.147.171.16",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Jakubowice Murowane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.96,
+    "asn": "AS12912",
+    "isp": "T-Mobile Polska S.A.",
+    "latency_ms": 12041.05,
+    "last_checked": 1780306679.3639352
   }
 ]
