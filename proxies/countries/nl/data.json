@@ -930,7 +930,7 @@
     "last_checked": 1780292794.2698758
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "212.34.146.118",
     "port": 1080,
     "country": "Netherlands",
@@ -938,26 +938,56 @@
     "city": "Amsterdam",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 50.92,
+    "uptime_percent": 60.49,
     "asn": "AS216071",
     "isp": "Servers Tech Fzco",
-    "latency_ms": 1123.52,
-    "last_checked": 1780292699.7243614
+    "latency_ms": 345.86,
+    "last_checked": 1780293276.8383625
   },
   {
-    "protocol": "socks5",
-    "ip": "64.188.77.26",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "213.165.39.88",
+    "port": 3128,
+    "country": "Netherlands",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 41.18,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 14456.54,
+    "last_checked": 1780293257.5666368
+  },
+  {
+    "protocol": "http",
+    "ip": "212.34.146.118",
+    "port": 3128,
     "country": "Netherlands",
     "country_code": "NL",
     "city": "Amsterdam",
     "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 43.84,
+    "asn": "AS216071",
+    "isp": "Servers Tech Fzco",
+    "latency_ms": 7076.4,
+    "last_checked": 1780293239.7120755
+  },
+  {
+    "protocol": "http",
+    "ip": "212.34.138.89",
+    "port": 8080,
+    "country": "Netherlands",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 46.34,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 89.88,
-    "last_checked": 1780292632.615538
+    "uptime_percent": 35.41,
+    "asn": "AS216071",
+    "isp": "Servers Tech Fzco",
+    "latency_ms": 2324.01,
+    "last_checked": 1780293179.4239988
   },
   {
     "protocol": "http",
@@ -967,11 +997,11 @@
     "country_code": "NL",
     "city": "Amsterdam",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 38.27,
+    "ssl": true,
+    "uptime_percent": 38.29,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 3590.81,
-    "last_checked": 1780292631.639492
+    "latency_ms": 4617.4,
+    "last_checked": 1780293175.4079695
   }
 ]
