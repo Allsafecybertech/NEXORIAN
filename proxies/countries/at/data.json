@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "193.233.128.128",
+    "ip": "193.233.128.134",
     "port": 3128,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 44.09,
+    "uptime_percent": 44.18,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 27.74,
-    "last_checked": 1780350559.4180398
+    "latency_ms": 5556.43,
+    "last_checked": 1780350820.3136253
   },
   {
-    "protocol": "socks4",
-    "ip": "193.233.129.235",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Vienna",
+    "city": "Unterweitersdorf",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.78,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 11676.2,
-    "last_checked": 1780350538.8370926
+    "ssl": false,
+    "uptime_percent": 69.09,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 8169.33,
+    "last_checked": 1780350792.8781314
   },
   {
     "protocol": "socks5",
@@ -38,10 +38,40 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.3,
+    "uptime_percent": 85.31,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 14706.05,
-    "last_checked": 1780350412.3610282
+    "latency_ms": 14398.65,
+    "last_checked": 1780350782.5233638
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.113.106.198",
+    "port": 987,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.11,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 1056.44,
+    "last_checked": 1780350894.4677982
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.113.106.198",
+    "port": 987,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.83,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 115.08,
+    "last_checked": 1780350816.5089447
   }
 ]
