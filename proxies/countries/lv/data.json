@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "169.40.6.114",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 38.58,
+    "ssl": true,
+    "uptime_percent": 61.34,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 1145.57,
+    "last_checked": 1780319369.7771502
+  },
+  {
+    "protocol": "socks4",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.91,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 459.51,
-    "last_checked": 1780318723.8105614
+    "latency_ms": 236.17,
+    "last_checked": 1780319358.9901822
   },
   {
     "protocol": "socks5",
@@ -26,7 +41,22 @@
     "uptime_percent": 57.54,
     "asn": "AS50979",
     "isp": "Green Floid LLC",
-    "latency_ms": 4267.24,
-    "last_checked": 1780318673.2926967
+    "latency_ms": 2999.46,
+    "last_checked": 1780319285.5236325
+  },
+  {
+    "protocol": "socks5",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.71,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 989.12,
+    "last_checked": 1780319282.0801952
   }
 ]
