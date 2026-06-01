@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks5",
+    "ip": "112.105.12.58",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.03,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 8254.7,
+    "last_checked": 1780307984.0113788
+  },
+  {
+    "protocol": "socks5",
     "ip": "165.154.243.94",
     "port": 1080,
     "country": "Taiwan",
@@ -8,26 +23,11 @@
     "city": "Taipei City",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.58,
+    "uptime_percent": 62.83,
     "asn": "AS142002",
     "isp": "Scloud Pte Ltd",
-    "latency_ms": 3199.59,
-    "last_checked": 1780307341.3265254
-  },
-  {
-    "protocol": "http",
-    "ip": "122.117.203.252",
-    "port": 3128,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Kaohsiung",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.13,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 13546.95,
-    "last_checked": 1780307255.2577977
+    "latency_ms": 1523.36,
+    "last_checked": 1780307952.9070716
   },
   {
     "protocol": "http",
@@ -37,11 +37,41 @@
     "country_code": "TW",
     "city": "Taipei",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 3.99,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 2578.7,
-    "last_checked": 1780307202.8186464
+    "latency_ms": 5749.48,
+    "last_checked": 1780307909.8596318
+  },
+  {
+    "protocol": "http",
+    "ip": "118.163.120.181",
+    "port": 58837,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.43,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 6106.76,
+    "last_checked": 1780307872.916033
+  },
+  {
+    "protocol": "http",
+    "ip": "210.201.86.72",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 5.39,
+    "asn": "AS7482",
+    "isp": "Asia Pacific On-line Service Inc.",
+    "latency_ms": 7060.82,
+    "last_checked": 1780307894.457333
   }
 ]
