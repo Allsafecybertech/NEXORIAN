@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "109.135.16.145",
-    "port": 49879,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Anderlecht",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.21,
-    "asn": "AS5432",
-    "isp": "Proximus NV",
-    "latency_ms": 535.64,
-    "last_checked": 1780281867.6813118
-  },
-  {
-    "protocol": "http",
-    "ip": "109.135.16.145",
-    "port": 8789,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Anderlecht",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 35.44,
-    "asn": "AS5432",
-    "isp": "Proximus NV",
-    "latency_ms": 212.9,
-    "last_checked": 1780281845.4900784
-  },
-  {
     "protocol": "http",
     "ip": "194.71.227.149",
     "port": 80,
@@ -38,10 +8,25 @@
     "city": "Brussels",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 95.29,
+    "uptime_percent": 95.3,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 78.73,
-    "last_checked": 1780281776.7445037
+    "latency_ms": 96.39,
+    "last_checked": 1780282452.4312108
+  },
+  {
+    "protocol": "socks5",
+    "ip": "109.135.16.145",
+    "port": 49879,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Anderlecht",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.22,
+    "asn": "AS5432",
+    "isp": "Proximus NV",
+    "latency_ms": 748.02,
+    "last_checked": 1780282400.0372036
   }
 ]

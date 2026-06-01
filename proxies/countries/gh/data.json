@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "41.189.171.186",
-    "port": 8080,
-    "country": "Ghana",
-    "country_code": "GH",
-    "city": "Jirapa",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 9.98,
-    "asn": "AS30986",
-    "isp": "Scancom Ltd.",
-    "latency_ms": 9174.96,
-    "last_checked": 1780281834.241594
-  },
-  {
     "protocol": "socks4",
     "ip": "102.68.83.9",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 87.71,
     "asn": "AS327813",
     "isp": "Host Africa (Pty) Ltd",
-    "latency_ms": 820.94,
-    "last_checked": 1780281830.920828
+    "latency_ms": 743.5,
+    "last_checked": 1780282486.686042
   },
   {
     "protocol": "socks5",
@@ -38,10 +23,25 @@
     "city": "Accra",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.35,
+    "uptime_percent": 90.34,
     "asn": "AS327813",
     "isp": "Host Africa (Pty) Ltd",
-    "latency_ms": 1080.07,
-    "last_checked": 1780281779.0667777
+    "latency_ms": 1599.44,
+    "last_checked": 1780282439.8362536
+  },
+  {
+    "protocol": "http",
+    "ip": "41.189.171.186",
+    "port": 8080,
+    "country": "Ghana",
+    "country_code": "GH",
+    "city": "Jirapa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.98,
+    "asn": "AS30986",
+    "isp": "Scancom Ltd.",
+    "latency_ms": 4264.41,
+    "last_checked": 1780282419.3654404
   }
 ]
