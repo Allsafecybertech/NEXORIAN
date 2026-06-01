@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "185.106.183.85",
-    "port": 8080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Värmdö Municipality",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.37,
-    "asn": "AS60662",
-    "isp": "Data Communication & Software i Grondal Aktiebolag",
-    "latency_ms": 130.78,
-    "last_checked": 1780327753.4838383
-  },
-  {
-    "protocol": "http",
     "ip": "147.45.75.124",
     "port": 8080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 90.37,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 2192.44,
-    "last_checked": 1780327729.4623094
+    "latency_ms": 162.33,
+    "last_checked": 1780328347.4791038
+  },
+  {
+    "protocol": "http",
+    "ip": "138.124.26.172",
+    "port": 8118,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 40.17,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 14494.65,
+    "last_checked": 1780328342.6046932
   },
   {
     "protocol": "http",
@@ -38,11 +38,11 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 71.25,
+    "uptime_percent": 71.27,
     "asn": "AS210644",
     "isp": "xorek.cloud International LTD",
-    "latency_ms": 163.51,
-    "last_checked": 1780327717.5348117
+    "latency_ms": 2020.97,
+    "last_checked": 1780328335.4205015
   },
   {
     "protocol": "http",
@@ -53,10 +53,25 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.59,
+    "uptime_percent": 96.61,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 6174.06,
-    "last_checked": 1780327682.4920094
+    "latency_ms": 3538.97,
+    "last_checked": 1780328314.286242
+  },
+  {
+    "protocol": "http",
+    "ip": "185.106.183.85",
+    "port": 8080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Värmdö Municipality",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.37,
+    "asn": "AS60662",
+    "isp": "Data Communication & Software i Grondal Aktiebolag",
+    "latency_ms": 140.94,
+    "last_checked": 1780328300.8001173
   }
 ]
