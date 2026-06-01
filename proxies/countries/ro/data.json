@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.08,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 3224.33,
+    "last_checked": 1780323577.3172429
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cluj-Napoca",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 24.4,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 6667.61,
-    "last_checked": 1780322903.5845573
+    "uptime_percent": 11.44,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 10264.28,
+    "last_checked": 1780323554.2879362
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.247.224.99",
+    "port": 39997,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.81,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 3454.39,
+    "last_checked": 1780323503.777019
   }
 ]
