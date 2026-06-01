@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
+    "ip": "147.231.163.133",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
+    "city": "Prague",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 10.95,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 4698.06,
-    "last_checked": 1780330172.6915753
+    "uptime_percent": 81.45,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 11678.88,
+    "last_checked": 1780330726.135893
+  },
+  {
+    "protocol": "http",
+    "ip": "78.108.103.87",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.61,
+    "asn": "AS8251",
+    "isp": "Neutral Free eXchange members - FreeTel alternate",
+    "latency_ms": 8084.19,
+    "last_checked": 1780330713.5329487
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "CZ",
     "city": "Dobříš",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 30.51,
     "asn": "AS42189",
     "isp": "DOBRISNET",
-    "latency_ms": 7593.77,
-    "last_checked": 1780330133.3838463
-  },
-  {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 16.03,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 17036.79,
-    "last_checked": 1780330116.3723862
+    "latency_ms": 3475.7,
+    "last_checked": 1780330660.8441565
   }
 ]
