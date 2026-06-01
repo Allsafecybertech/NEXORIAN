@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.13.164.73",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.19,
-    "asn": "AS12578",
-    "isp": "SIA Tet",
-    "latency_ms": 3446.48,
-    "last_checked": 1780322294.1079319
+    "uptime_percent": 61.33,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 1170.92,
+    "last_checked": 1780322983.6092157
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.237.219.119",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.61,
+    "asn": "AS50979",
+    "isp": "Green Floid LLC",
+    "latency_ms": 2240.22,
+    "last_checked": 1780322974.2455769
   }
 ]
