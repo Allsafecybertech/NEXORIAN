@@ -1,37 +1,48 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,158.178.198.31,1080,France,FR,Paris,elite,true,98.91,AS31898,Oracle Corporation,54.82,1780291498.3196635
-socks4,62.84.176.36,1080,France,FR,Lauterbourg,elite,true,100.0,AS51167,Contabo GmbH,195.53,1780291497.6844552
-socks5,158.178.198.31,1080,France,FR,Paris,elite,true,97.59,AS31898,Oracle Corporation,289.05,1780291489.4236429
-socks4,185.234.64.66,1082,France,FR,Paris,elite,true,49.86,AS209847,WorkTitans B.V.,5324.95,1780291488.7135615
-http,173.212.245.136,8888,France,FR,Lauterbourg,elite,true,84.51,AS51167,Contabo GmbH,686.15,1780291486.8879023
-http,202.133.88.173,80,France,FR,Paris,elite,false,70.2,AS212552,BitCommand LLC,265.16,1780291485.6209624
-socks4,185.234.64.66,1081,France,FR,Paris,elite,true,48.99,AS209847,WorkTitans B.V.,11612.27,1780291483.6854405
-socks5,161.97.79.227,9050,France,FR,Lauterbourg,elite,true,31.74,AS51167,Contabo GmbH,9347.45,1780291481.23872
-http,45.92.108.112,80,France,FR,Marseille,elite,false,67.19,AS204818,Hosteur SAS,4277.97,1780291478.8084557
-socks4,173.212.239.43,1080,France,FR,Lauterbourg,elite,true,98.68,AS51167,Contabo GmbH,388.49,1780291477.5282164
-socks4,161.97.79.227,9050,France,FR,Lauterbourg,elite,true,37.48,AS51167,Contabo GmbH,15745.02,1780291474.1290286
-http,40.89.145.14,80,France,FR,Paris,elite,false,97.59,AS8075,Microsoft Corporation,89.63,1780291473.770843
-http,31.220.78.244,80,France,FR,Lauterbourg,elite,false,26.16,AS51167,Contabo GmbH,15193.15,1780291471.1499996
-socks4,185.234.64.62,1081,France,FR,Paris,elite,true,46.57,AS209847,WorkTitans B.V.,11656.45,1780291470.3651793
-socks5,169.155.50.87,1080,France,FR,Paris,elite,true,25.76,AS40509,"Fly.io, Inc.",2151.85,1780291468.9736884
-http,5.189.161.47,3128,France,FR,Lauterbourg,transparent,false,12.38,AS51167,Contabo GmbH,14957.38,1780291463.3839142
-http,185.234.64.63,1081,France,FR,Paris,elite,false,21.76,AS209847,WorkTitans B.V.,1444.83,1780291458.6490693
-http,163.172.53.142,80,France,FR,Paris,elite,false,89.27,AS12876,Scaleway SAS,13827.15,1780291457.7420216
-socks5,185.234.64.63,1081,France,FR,Paris,elite,true,43.59,AS209847,WorkTitans B.V.,2166.24,1780291455.7774465
-socks4,185.234.64.63,1081,France,FR,Paris,elite,true,48.06,AS209847,WorkTitans B.V.,775.36,1780291452.740853
-http,185.234.64.66,1082,France,FR,Paris,elite,true,25.66,AS209847,WorkTitans B.V.,1523.2,1780291451.7436032
-socks4,185.234.64.63,1082,France,FR,Paris,elite,true,48.49,AS209847,WorkTitans B.V.,177.39,1780291449.7594078
-http,185.234.64.63,1082,France,FR,Paris,elite,true,21.6,AS209847,WorkTitans B.V.,1765.4,1780291446.3240848
-http,93.127.163.52,80,France,FR,Paris,elite,false,28.67,AS47583,Hostinger International Limited,12227.6,1780291440.2918959
-http,62.171.162.183,3128,France,FR,Lauterbourg,transparent,false,21.05,AS51167,Contabo GmbH,12607.43,1780291434.7878928
-socks5,185.234.64.65,1081,France,FR,Paris,elite,true,42.66,AS209847,WorkTitans B.V.,4725.49,1780291429.3151183
-http,188.165.199.207,80,France,FR,Roubaix,elite,false,44.24,AS16276,OVH SAS,17812.59,1780291423.2961235
-socks5,185.234.64.63,1082,France,FR,Paris,elite,true,43.01,AS209847,WorkTitans B.V.,2980.54,1780291407.6652567
-socks5,173.212.239.43,1080,France,FR,Lauterbourg,elite,true,98.71,AS51167,Contabo GmbH,2648.75,1780291391.1955152
-socks5,158.220.127.135,9050,France,FR,Lauterbourg,elite,true,53.21,AS51167,Contabo GmbH,15928.89,1780291384.2555256
-http,173.212.246.157,3128,France,FR,Lauterbourg,transparent,true,37.19,AS51167,Contabo GmbH,2103.19,1780291374.241076
-socks5,62.84.176.36,1080,France,FR,Lauterbourg,elite,true,100.0,AS51167,Contabo GmbH,1214.75,1780291339.283808
-http,38.242.212.16,3128,France,FR,Lauterbourg,transparent,false,15.76,AS51167,Contabo GmbH,2737.38,1780291302.363887
-http,37.59.110.73,80,France,FR,Roubaix,elite,false,8.53,AS16276,OVH SAS,14751.92,1780291297.8239064
-http,212.47.232.28,80,France,FR,Paris,elite,false,69.21,AS12876,Scaleway SAS,5108.04,1780291447.38157
-socks5,212.83.144.46,1080,France,FR,Paris,elite,true,79.8,AS12876,Scaleway SAS,160.36,1780291436.1157002
+socks4,62.84.176.36,1080,France,FR,Lauterbourg,elite,true,100.0,AS51167,Contabo GmbH,94.87,1780292097.8157945
+socks4,173.212.239.43,1080,France,FR,Lauterbourg,elite,true,98.68,AS51167,Contabo GmbH,317.88,1780292097.4302964
+socks5,86.104.74.110,1081,France,FR,Paris,elite,true,43.97,AS209847,WorkTitans B.V.,3064.55,1780292097.2104607
+socks4,86.104.74.110,1081,France,FR,Paris,elite,true,52.52,AS209847,WorkTitans B.V.,4265.12,1780292096.932718
+socks4,37.44.238.2,60796,France,FR,Paris,elite,true,10.37,AS34534,FBW NETWORKS SAS,5171.21,1780292095.370034
+socks4,185.234.64.65,1082,France,FR,Paris,elite,true,50.75,AS209847,WorkTitans B.V.,3229.92,1780292094.2709255
+socks4,158.178.198.31,1080,France,FR,Paris,elite,true,98.91,AS31898,Oracle Corporation,51.8,1780292091.2268407
+socks4,185.234.64.65,1081,France,FR,Paris,elite,true,49.14,AS209847,WorkTitans B.V.,5236.87,1780292090.522679
+socks4,91.134.68.85,9050,France,FR,Wattrelos,elite,true,26.95,AS16276,OVH SAS,12955.25,1780292087.573412
+socks4,86.104.74.110,1082,France,FR,Paris,elite,true,52.27,AS209847,WorkTitans B.V.,6203.18,1780292083.2855785
+http,31.220.78.244,80,France,FR,Lauterbourg,elite,false,26.16,AS51167,Contabo GmbH,11728.21,1780292075.6879709
+socks5,86.104.74.110,1082,France,FR,Paris,elite,true,42.66,AS209847,WorkTitans B.V.,8821.27,1780292072.8960855
+socks4,185.234.64.63,1081,France,FR,Paris,elite,true,48.07,AS209847,WorkTitans B.V.,7478.67,1780292070.5013077
+http,40.89.145.14,80,France,FR,Paris,elite,false,97.59,AS8075,Microsoft Corporation,90.89,1780292069.7631278
+http,93.127.163.52,80,France,FR,Paris,elite,false,28.67,AS47583,Hostinger International Limited,14346.65,1780292068.0438938
+http,45.92.108.112,80,France,FR,Marseille,elite,false,67.2,AS204818,Hosteur SAS,15131.27,1780292064.2225509
+socks4,161.97.79.227,9050,France,FR,Lauterbourg,elite,true,37.49,AS51167,Contabo GmbH,10054.44,1780292048.9393506
+socks4,161.97.129.202,9060,France,FR,Lauterbourg,elite,true,10.01,AS51167,Contabo GmbH,2838.87,1780292046.3531396
+socks4,185.234.64.66,1082,France,FR,Paris,elite,true,49.87,AS209847,WorkTitans B.V.,5089.52,1780292046.0935867
+http,173.212.246.157,3128,France,FR,Lauterbourg,transparent,true,37.2,AS51167,Contabo GmbH,249.74,1780292045.0714374
+socks4,82.66.253.131,9050,France,FR,Saint-Jean-sur-Veyle,elite,true,23.06,AS12322,Proxad / Free SAS,11637.62,1780292041.3658838
+socks5,37.44.238.2,57167,France,FR,Paris,elite,true,29.99,AS34534,FBW NETWORKS SAS,3790.93,1780292041.3445632
+socks5,62.84.176.36,1080,France,FR,Lauterbourg,elite,true,100.0,AS51167,Contabo GmbH,2205.05,1780292033.870702
+socks5,185.234.64.62,1081,France,FR,Paris,elite,true,42.01,AS209847,WorkTitans B.V.,6485.96,1780292033.8164966
+http,185.234.64.62,1082,France,FR,Paris,elite,false,22.02,AS209847,WorkTitans B.V.,13677.77,1780292027.486436
+socks5,185.234.64.66,1082,France,FR,Paris,elite,true,44.76,AS209847,WorkTitans B.V.,13990.52,1780292026.0417798
+socks5,5.189.160.163,9100,France,FR,Lauterbourg,elite,true,37.71,AS51167,Contabo GmbH,7422.18,1780292015.0667772
+socks5,185.234.64.65,1081,France,FR,Paris,elite,true,42.68,AS209847,WorkTitans B.V.,367.81,1780292011.6646655
+http,173.212.222.244,8888,France,FR,Lauterbourg,transparent,true,10.41,AS51167,Contabo GmbH,16244.09,1780292008.799829
+http,173.212.245.136,8888,France,FR,Lauterbourg,elite,true,84.52,AS51167,Contabo GmbH,2943.09,1780292007.8555408
+socks5,185.234.64.65,1082,France,FR,Paris,elite,true,44.08,AS209847,WorkTitans B.V.,2426.39,1780292001.887758
+http,37.16.9.4,3128,France,FR,Paris,anonymous,true,49.05,AS40509,"Fly.io, Inc.",3324.59,1780291996.454808
+http,185.182.187.49,3128,France,FR,Lauterbourg,transparent,false,6.74,AS51167,Contabo GmbH,11586.99,1780291992.7226906
+http,163.172.53.142,80,France,FR,Paris,elite,false,89.27,AS12876,Scaleway SAS,3471.51,1780291988.4576077
+http,188.165.199.207,80,France,FR,Roubaix,elite,false,44.24,AS16276,OVH SAS,8659.91,1780291982.4499989
+socks5,37.44.238.2,53471,France,FR,Paris,elite,true,37.3,AS34534,FBW NETWORKS SAS,4549.37,1780291978.3286965
+socks5,173.212.239.43,1080,France,FR,Lauterbourg,elite,true,98.71,AS51167,Contabo GmbH,2385.63,1780291966.6479757
+http,45.13.116.188,21537,France,FR,Mathay,elite,false,23.07,AS47484,ABJP,13755.15,1780291965.6958475
+socks5,158.178.198.31,1080,France,FR,Paris,elite,true,97.59,AS31898,Oracle Corporation,67.54,1780291964.8895957
+socks5,151.80.33.14,9050,France,FR,Roubaix,elite,true,21.63,AS16276,OVH SAS,18755.06,1780291962.2363408
+http,109.199.125.231,3128,France,FR,Lauterbourg,transparent,false,40.65,AS51167,Contabo GmbH,13756.4,1780291961.6393225
+http,86.104.74.110,1081,France,FR,Paris,elite,true,39.4,AS209847,WorkTitans B.V.,149.07,1780291929.2484288
+socks5,144.91.83.39,9050,France,FR,Lauterbourg,elite,true,40.37,AS51167,Contabo GmbH,20866.79,1780291910.1532705
+socks5,77.221.152.210,36219,France,FR,Paris,elite,true,28.27,AS210644,Aeza International LTD,1973.05,1780291878.4452744
+socks5,212.83.144.46,1080,France,FR,Paris,elite,true,79.83,AS12876,Scaleway SAS,202.51,1780292087.5030084
+http,212.47.232.28,80,France,FR,Paris,elite,false,69.21,AS12876,Scaleway SAS,92.08,1780292051.781301
+http,202.133.88.173,80,France,FR,Paris,elite,false,70.2,AS212552,BitCommand LLC,836.67,1780292042.0849032

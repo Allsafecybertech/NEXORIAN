@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.182.21.165",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Azacualpa",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.44,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 6365.16,
-    "last_checked": 1780291469.8655567
-  },
-  {
-    "protocol": "http",
-    "ip": "181.115.65.196",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 4.04,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.07,
     "asn": "AS14754",
     "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-    "latency_ms": 2238.76,
-    "last_checked": 1780291376.9157887
+    "latency_ms": 849.15,
+    "last_checked": 1780292088.3619869
   },
   {
     "protocol": "http",
@@ -41,7 +26,37 @@
     "uptime_percent": 54.61,
     "asn": "AS52468",
     "isp": "Ufinet Honduras",
-    "latency_ms": 2884.83,
-    "last_checked": 1780291375.8729684
+    "latency_ms": 3130.64,
+    "last_checked": 1780292059.2990265
+  },
+  {
+    "protocol": "http",
+    "ip": "45.182.21.165",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Azacualpa",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.44,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 1573.76,
+    "last_checked": 1780292050.2204373
+  },
+  {
+    "protocol": "http",
+    "ip": "200.115.96.50",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.0,
+    "asn": "AS269919",
+    "isp": "Honduvision SRL",
+    "latency_ms": 3773.94,
+    "last_checked": 1780292030.5435116
   }
 ]
