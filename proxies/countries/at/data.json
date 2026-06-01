@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "89.58.17.90",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.0,
+    "asn": "AS197540",
+    "isp": "netcup GmbH",
+    "latency_ms": 1013.26,
+    "last_checked": 1780347246.8513749
+  },
+  {
     "protocol": "socks4",
     "ip": "89.58.17.90",
     "port": 9050,
@@ -8,26 +23,11 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.6,
+    "uptime_percent": 41.63,
     "asn": "AS197540",
     "isp": "netcup GmbH",
-    "latency_ms": 565.65,
-    "last_checked": 1780346987.97978
-  },
-  {
-    "protocol": "http",
-    "ip": "81.10.234.234",
-    "port": 80,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Unterweitersdorf",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.09,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 3930.78,
-    "last_checked": 1780346968.9110186
+    "latency_ms": 427.54,
+    "last_checked": 1780347233.192265
   },
   {
     "protocol": "socks4",
@@ -41,23 +41,23 @@
     "uptime_percent": 83.77,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 11256.78,
-    "last_checked": 1780346959.2811754
+    "latency_ms": 13434.97,
+    "last_checked": 1780347231.9153888
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "89.58.17.90",
-    "port": 9050,
+    "port": 9080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.96,
+    "uptime_percent": 9.33,
     "asn": "AS197540",
     "isp": "netcup GmbH",
-    "latency_ms": 11401.88,
-    "last_checked": 1780346938.716901
+    "latency_ms": 332.44,
+    "last_checked": 1780347222.4566293
   },
   {
     "protocol": "socks5",
@@ -68,10 +68,25 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.3,
+    "uptime_percent": 85.31,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 14654.67,
-    "last_checked": 1780346901.3050652
+    "latency_ms": 12029.6,
+    "last_checked": 1780347201.7829287
+  },
+  {
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.09,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 8618.72,
+    "last_checked": 1780347074.5420833
   }
 ]
