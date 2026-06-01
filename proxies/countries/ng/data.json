@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "155.93.96.210",
-    "port": 8080,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Ojota",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.34,
-    "asn": "AS16284",
-    "isp": "Vodacom Business Nigeria",
-    "latency_ms": 9057.33,
-    "last_checked": 1780292642.7262957
-  },
-  {
     "protocol": "socks4",
     "ip": "154.113.170.1",
     "port": 5678,
@@ -26,8 +11,23 @@
     "uptime_percent": 12.75,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 1600.47,
-    "last_checked": 1780292615.2407138
+    "latency_ms": 588.22,
+    "last_checked": 1780292975.8163767
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.113.202.17",
+    "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.07,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 3611.43,
+    "last_checked": 1780292972.962888
   },
   {
     "protocol": "http",
@@ -38,10 +38,25 @@
     "city": "Abuja",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 55.83,
+    "uptime_percent": 55.84,
     "asn": "AS29091",
     "isp": "ipNX Nigeria Limited",
-    "latency_ms": 682.9,
-    "last_checked": 1780292533.0399442
+    "latency_ms": 683.14,
+    "last_checked": 1780292967.988469
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.113.195.161",
+    "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Kosofe",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.86,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 7687.28,
+    "last_checked": 1780292938.2361794
   }
 ]
