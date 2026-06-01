@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,11 +8,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.33,
+    "uptime_percent": 81.05,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 272.17,
-    "last_checked": 1780286336.932819
+    "latency_ms": 787.28,
+    "last_checked": 1780287002.493057
+  },
+  {
+    "protocol": "http",
+    "ip": "92.42.96.84",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Gorgonzola",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.08,
+    "asn": "AS199785",
+    "isp": "NTT IS SRL",
+    "latency_ms": 1808.46,
+    "last_checked": 1780286977.8326647
   },
   {
     "protocol": "socks5",
@@ -23,26 +38,41 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.93,
+    "uptime_percent": 81.97,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 125.43,
-    "last_checked": 1780286320.0722165
+    "latency_ms": 121.54,
+    "last_checked": 1780286976.4281585
   },
   {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "85.235.150.219",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.03,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 380.09,
-    "last_checked": 1780286306.3789325
+    "city": "Arezzo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.06,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 16184.42,
+    "last_checked": 1780286921.7809644
+  },
+  {
+    "protocol": "http",
+    "ip": "194.146.164.66",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Corigliano Calabro",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.38,
+    "asn": "AS202347",
+    "isp": "Europsys S.r.l.",
+    "latency_ms": 14026.1,
+    "last_checked": 1780286913.9079416
   },
   {
     "protocol": "http",
@@ -56,7 +86,7 @@
     "uptime_percent": 69.96,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 3224.82,
-    "last_checked": 1780286229.2697957
+    "latency_ms": 11120.48,
+    "last_checked": 1780286834.5158954
   }
 ]
