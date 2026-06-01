@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "190.104.26.227",
-    "port": 33638,
-    "country": "Bolivia",
-    "country_code": "BO",
-    "city": "La Paz",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 14.05,
-    "asn": "AS27882",
-    "isp": "Telefónica Celular de Bolivia S.A.",
-    "latency_ms": 8218.91,
-    "last_checked": 1780315150.476002
-  },
-  {
-    "protocol": "socks4",
     "ip": "190.104.8.142",
     "port": 14888,
     "country": "Bolivia",
@@ -26,23 +11,38 @@
     "uptime_percent": 87.91,
     "asn": "AS27882",
     "isp": "Telefónica Celular de Bolivia S.A.",
-    "latency_ms": 4097.87,
-    "last_checked": 1780315145.3973413
+    "latency_ms": 2056.67,
+    "last_checked": 1780315795.3178718
   },
   {
     "protocol": "socks4",
-    "ip": "181.115.207.114",
-    "port": 1080,
+    "ip": "190.104.26.227",
+    "port": 33638,
+    "country": "Bolivia",
+    "country_code": "BO",
+    "city": "La Paz",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.05,
+    "asn": "AS27882",
+    "isp": "Telefónica Celular de Bolivia S.A.",
+    "latency_ms": 2080.77,
+    "last_checked": 1780315794.3892317
+  },
+  {
+    "protocol": "http",
+    "ip": "190.181.29.114",
+    "port": 999,
     "country": "Bolivia",
     "country_code": "BO",
     "city": "Santa Cruz de la Sierra",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.73,
-    "asn": "AS6568",
-    "isp": "Entel S.A. - EntelNet",
-    "latency_ms": 1474.54,
-    "last_checked": 1780315141.8425386
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.74,
+    "asn": "AS26210",
+    "isp": "AXS Bolivia S. A.",
+    "latency_ms": 6989.86,
+    "last_checked": 1780315755.4878778
   },
   {
     "protocol": "http",
@@ -52,11 +52,11 @@
     "country_code": "BO",
     "city": "Entre Ríos",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.58,
     "asn": "AS27882",
     "isp": "TIGO",
-    "latency_ms": 11439.48,
-    "last_checked": 1780315114.1839972
+    "latency_ms": 7652.33,
+    "last_checked": 1780315722.4801655
   }
 ]
