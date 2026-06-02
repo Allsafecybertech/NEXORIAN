@@ -1,48 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "31.135.214.17",
-    "port": 8026,
-    "country": "Uzbekistan",
-    "country_code": "UZ",
-    "city": "Tashkent",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.08,
-    "asn": "AS57016",
-    "isp": "Inform-Service TV Ltd",
-    "latency_ms": 12708.94,
-    "last_checked": 1780364962.4548125
-  },
-  {
-    "protocol": "http",
-    "ip": "83.222.7.205",
-    "port": 3128,
-    "country": "Uzbekistan",
-    "country_code": "UZ",
-    "city": "Samarkand",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 13.36,
-    "asn": "AS8193",
-    "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 498.61,
-    "last_checked": 1780364956.7888925
-  },
-  {
-    "protocol": "http",
     "ip": "195.158.8.123",
     "port": 3128,
     "country": "Uzbekistan",
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 79.77,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 5005.74,
-    "last_checked": 1780364877.332358
+    "latency_ms": 9141.14,
+    "last_checked": 1780365561.138661
   },
   {
     "protocol": "http",
@@ -52,11 +22,26 @@
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 40.94,
+    "ssl": false,
+    "uptime_percent": 40.95,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 7751.1,
-    "last_checked": 1780364829.4919517
+    "latency_ms": 7163.5,
+    "last_checked": 1780365482.991908
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.230.121.41",
+    "port": 1080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.39,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 558.04,
+    "last_checked": 1780365424.5937693
   }
 ]
