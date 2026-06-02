@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Furnari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.24,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 1666.36,
+    "last_checked": 1780406646.908737
+  },
+  {
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -11,8 +26,23 @@
     "uptime_percent": 86.69,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 1235.77,
-    "last_checked": 1780406385.2321086
+    "latency_ms": 3833.96,
+    "last_checked": 1780406642.3591628
+  },
+  {
+    "protocol": "socks5",
+    "ip": "151.241.215.23",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.48,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 129.78,
+    "last_checked": 1780406634.9848487
   },
   {
     "protocol": "http",
@@ -26,53 +56,8 @@
     "uptime_percent": 100.0,
     "asn": "AS21176",
     "isp": "Engineering D.HUB S.p.A.",
-    "latency_ms": 157.59,
-    "last_checked": 1780406374.286687
-  },
-  {
-    "protocol": "socks5",
-    "ip": "151.241.215.23",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 80.47,
-    "asn": "AS57043",
-    "isp": "Hostkey B.V.",
-    "latency_ms": 132.97,
-    "last_checked": 1780406368.362408
-  },
-  {
-    "protocol": "http",
-    "ip": "93.147.55.25",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Bisceglie",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 36.11,
-    "asn": "AS30722",
-    "isp": "VODAFONE",
-    "latency_ms": 9791.01,
-    "last_checked": 1780406353.6345477
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.85,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 826.16,
-    "last_checked": 1780406319.351483
+    "latency_ms": 176.88,
+    "last_checked": 1780406633.3033097
   },
   {
     "protocol": "http",
@@ -86,22 +71,37 @@
     "uptime_percent": 8.3,
     "asn": "AS44092",
     "isp": "HAL Service SpA",
-    "latency_ms": 5150.21,
-    "last_checked": 1780406310.4685547
+    "latency_ms": 2837.21,
+    "last_checked": 1780406625.7141893
   },
   {
     "protocol": "http",
-    "ip": "93.42.151.100",
-    "port": 4443,
+    "ip": "93.147.55.25",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Bisceglie",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.13,
+    "asn": "AS30722",
+    "isp": "VODAFONE",
+    "latency_ms": 5470.49,
+    "last_checked": 1780406603.2072425
+  },
+  {
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.1,
-    "asn": "AS12874",
-    "isp": "Fastweb SpA",
-    "latency_ms": 12115.55,
-    "last_checked": 1780406260.671962
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.85,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 2965.95,
+    "last_checked": 1780406428.2353199
   }
 ]
