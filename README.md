@@ -197,9 +197,36 @@ const fast = proxies.filter(p => p.latency_ms && p.latency_ms < 500);
 console.log(`Found ${fast.length} sub-500ms proxies`);
 ```
 
+### Node.js / TypeScript — official SDK
+
+Prefer a typed client over hand-rolling fetches? The official [`@proxyscrape_org/sdk`](https://www.npmjs.com/package/@proxyscrape_org/sdk) wraps the live API — filters, pagination and retries — behind one call:
+
+```bash
+npm install @proxyscrape_org/sdk
+```
+
+```ts
+import { ProxyScrape } from '@proxyscrape_org/sdk';
+
+const ps = new ProxyScrape();
+
+// One working US elite proxy
+const p = await ps.proxy({ country: 'us', anonymity: 'elite' });
+console.log(p?.url); // → "socks5://1.2.3.4:1080"
+
+// Or a filtered, auto-paginating stream — stop whenever you want
+for await (const proxy of ps.free.stream({ protocol: 'socks5', country: 'de' })) {
+  console.log(proxy.url);
+}
+```
+
+The SDK talks to the live API (updated every minute) rather than this 5-minute mirror, and adds query-time filters and TypeScript types. Full surface on [npm](https://www.npmjs.com/package/@proxyscrape_org/sdk).
+
 ## Want the live API instead?
 
 The HTTP API behind this repo is documented at [docs.proxyscrape.com](https://docs.proxyscrape.com/api-reference/public-api/get-proxy-list?utm_source=github&utm_medium=repo&utm_campaign=free-proxy-list-mirror&utm_content=api-docs). It updates **every minute** (this mirror updates every 5 minutes) and supports query-time filters (protocol, country, anonymity, timeout, ports, ASN) that this static mirror doesn't.
+
+From JavaScript / TypeScript, the official [`@proxyscrape_org/sdk`](https://www.npmjs.com/package/@proxyscrape_org/sdk) wraps this API in a typed client (see the [SDK example](#nodejs--typescript--official-sdk) above).
 
 ```bash
 curl 'https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=protocolipport&format=text&country=us&anonymity=elite'
