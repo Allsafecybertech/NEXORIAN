@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "190.14.5.164",
+    "port": 5678,
+    "country": "Guatemala",
+    "country_code": "GT",
+    "city": "El Chol",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.14,
+    "asn": "AS26617",
+    "isp": "Navega.com S.A.",
+    "latency_ms": 1850.54,
+    "last_checked": 1780431585.9210148
+  },
+  {
+    "protocol": "http",
+    "ip": "138.117.231.133",
+    "port": 999,
+    "country": "Guatemala",
+    "country_code": "GT",
+    "city": "Huehuetenango",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.09,
+    "asn": "AS269989",
+    "isp": "Fibernet S.A",
+    "latency_ms": 2894.09,
+    "last_checked": 1780431551.2986233
+  },
+  {
     "protocol": "http",
     "ip": "148.230.27.77",
     "port": 999,
@@ -7,26 +37,11 @@
     "country_code": "GT",
     "city": "Guatemala City",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 19.41,
     "asn": "AS23243",
     "isp": "Comcel Guatemala S.A.",
-    "latency_ms": 6004.27,
-    "last_checked": 1780430948.637888
-  },
-  {
-    "protocol": "http",
-    "ip": "181.119.105.155",
-    "port": 999,
-    "country": "Guatemala",
-    "country_code": "GT",
-    "city": "Guatemala City",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.55,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 11120.81,
-    "last_checked": 1780430943.42005
+    "latency_ms": 12893.08,
+    "last_checked": 1780431412.7838402
   }
 ]
