@@ -11,8 +11,8 @@
     "uptime_percent": 94.58,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 507.83,
-    "last_checked": 1780397979.8220057
+    "latency_ms": 513.69,
+    "last_checked": 1780398568.939674
   },
   {
     "protocol": "socks5",
@@ -26,23 +26,23 @@
     "uptime_percent": 91.52,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1516.17,
-    "last_checked": 1780397956.8072271
+    "latency_ms": 1646.23,
+    "last_checked": 1780398567.0831432
   },
   {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Albury",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 9.01,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 11050.68,
-    "last_checked": 1780397949.7849703
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.84,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 9469.12,
+    "last_checked": 1780398525.769421
   },
   {
     "protocol": "http",
@@ -56,22 +56,37 @@
     "uptime_percent": 49.25,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 585.8,
-    "last_checked": 1780397929.6079478
+    "latency_ms": 568.6,
+    "last_checked": 1780398505.7960083
   },
   {
-    "protocol": "socks5",
-    "ip": "168.138.9.147",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.38,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 12718.37,
-    "last_checked": 1780397907.3643563
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.85,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 11229.92,
+    "last_checked": 1780398397.795924
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.01,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 11783.24,
+    "last_checked": 1780398348.5557787
   }
 ]
