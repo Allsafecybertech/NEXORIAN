@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "194.71.227.149",
+    "port": 80,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 95.48,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 90.19,
+    "last_checked": 1780385047.5421402
+  },
+  {
+    "protocol": "http",
     "ip": "109.135.16.145",
     "port": 8789,
     "country": "Belgium",
     "country_code": "BE",
     "city": "Anderlecht",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 35.47,
     "asn": "AS5432",
     "isp": "Proximus NV",
-    "latency_ms": 1244.46,
-    "last_checked": 1780384467.7678883
+    "latency_ms": 3761.56,
+    "last_checked": 1780384983.5805254
   },
   {
     "protocol": "http",
@@ -26,52 +41,7 @@
     "uptime_percent": 54.03,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 4843.16,
-    "last_checked": 1780384457.2906535
-  },
-  {
-    "protocol": "http",
-    "ip": "91.176.4.2",
-    "port": 8888,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Ghent",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 28.72,
-    "asn": "AS5432",
-    "isp": "Proximus",
-    "latency_ms": 10304.32,
-    "last_checked": 1780384431.1184359
-  },
-  {
-    "protocol": "http",
-    "ip": "194.71.227.149",
-    "port": 80,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 95.48,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 79.64,
-    "last_checked": 1780384394.8679934
-  },
-  {
-    "protocol": "socks5",
-    "ip": "109.135.16.145",
-    "port": 49879,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Anderlecht",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.75,
-    "asn": "AS5432",
-    "isp": "Proximus NV",
-    "latency_ms": 3826.6,
-    "last_checked": 1780384276.5752807
+    "latency_ms": 7650.76,
+    "last_checked": 1780384915.7679524
   }
 ]
