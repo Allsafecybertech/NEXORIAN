@@ -1,18 +1,48 @@
 [
   {
     "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.16,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 13449.41,
+    "last_checked": 1780391351.4897513
+  },
+  {
+    "protocol": "http",
+    "ip": "178.115.230.100",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Salzburg",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.61,
+    "asn": "AS25255",
+    "isp": "customers with static IP",
+    "latency_ms": 9174.09,
+    "last_checked": 1780391305.9018662
+  },
+  {
+    "protocol": "socks5",
     "ip": "152.53.0.213",
     "port": 60000,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 16.11,
+    "ssl": true,
+    "uptime_percent": 15.94,
     "asn": "AS197540",
     "isp": "netcup GmbH",
-    "latency_ms": 9448.84,
-    "last_checked": 1780390773.474972
+    "latency_ms": 6602.76,
+    "last_checked": 1780391225.3769019
   },
   {
     "protocol": "socks5",
@@ -28,20 +58,5 @@
     "isp": "netcup GmbH",
     "latency_ms": 900.8,
     "last_checked": 1780390765.2328691
-  },
-  {
-    "protocol": "http",
-    "ip": "178.115.230.100",
-    "port": 8080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Salzburg",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.58,
-    "asn": "AS25255",
-    "isp": "customers with static IP",
-    "latency_ms": 3600.99,
-    "last_checked": 1780390746.4797795
   }
 ]
