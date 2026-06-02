@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.217.192.39",
-    "port": 1414,
+    "protocol": "socks4",
+    "ip": "93.123.121.3",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Sistov",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 6.18,
-    "asn": "AS34368",
-    "isp": "ZONATA - INVEST sLLC",
-    "latency_ms": 8514.33,
-    "last_checked": 1780376005.3158743
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.79,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 8289.97,
+    "last_checked": 1780376390.3345523
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.16,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 11423.43,
+    "last_checked": 1780376386.9006872
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 4.76,
     "asn": "AS48747",
     "isp": "Lukovitnet Ltd.",
-    "latency_ms": 2985.9,
-    "last_checked": 1780375985.3660846
-  },
-  {
-    "protocol": "http",
-    "ip": "46.10.209.230",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.05,
-    "asn": "AS8866",
-    "isp": "BTC-BROADBAND",
-    "latency_ms": 4867.31,
-    "last_checked": 1780375943.702118
-  },
-  {
-    "protocol": "http",
-    "ip": "5.104.183.41",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Svoge",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.06,
-    "asn": "AS205331",
-    "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 8198.12,
-    "last_checked": 1780375894.8158777
+    "latency_ms": 3987.74,
+    "last_checked": 1780376345.568879
   }
 ]
