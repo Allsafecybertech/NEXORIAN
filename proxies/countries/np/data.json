@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "202.166.196.105",
-    "port": 48293,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 62.99,
-    "asn": "AS17501",
-    "isp": "WorldLink Communications",
-    "latency_ms": 873.0,
-    "last_checked": 1780361682.921296
-  },
-  {
     "protocol": "http",
     "ip": "43.245.85.46",
     "port": 808,
@@ -22,12 +7,27 @@
     "country_code": "NP",
     "city": "Patan",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.41,
+    "ssl": true,
+    "uptime_percent": 20.42,
     "asn": "AS45650",
     "isp": "Vianet",
-    "latency_ms": 12538.32,
-    "last_checked": 1780361628.1749172
+    "latency_ms": 1302.88,
+    "last_checked": 1780361817.2291605
+  },
+  {
+    "protocol": "http",
+    "ip": "110.34.1.178",
+    "port": 7777,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.95,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 5362.38,
+    "last_checked": 1780361794.6730254
   },
   {
     "protocol": "socks4",
