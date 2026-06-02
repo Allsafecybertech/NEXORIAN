@@ -1,3 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.58,AS14061,"DigitalOcean, LLC",515.63,1780368763.9175615
-http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.2,AS16276,OVH SAS,11955.98,1780368752.236837
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.5,AS14061,"DigitalOcean, LLC",1464.35,1780369436.5546954
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.58,AS14061,"DigitalOcean, LLC",502.17,1780369422.525371
+http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.2,AS16276,OVH SAS,4023.26,1780369405.1788125
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,39.76,AS4764,Wideband Networks Pty Ltd,4189.75,1780369327.241878
+http,203.23.238.21,80,Australia,AU,Canberra,anonymous,false,39.87,AS18390,Spintel Pty Ltd,4238.57,1780369363.3752482
