@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "81.10.234.234",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "89.58.17.90",
+    "port": 9050,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Unterweitersdorf",
+    "city": "Vienna",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.14,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 5007.05,
-    "last_checked": 1780379679.6838238
+    "ssl": true,
+    "uptime_percent": 41.24,
+    "asn": "AS197540",
+    "isp": "netcup GmbH",
+    "latency_ms": 366.65,
+    "last_checked": 1780380276.776588
   },
   {
     "protocol": "socks4",
@@ -26,23 +26,38 @@
     "uptime_percent": 83.87,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 14052.41,
-    "last_checked": 1780379659.1722753
+    "latency_ms": 13583.9,
+    "last_checked": 1780380276.4837928
   },
   {
     "protocol": "http",
-    "ip": "193.233.128.128",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.14,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 14218.52,
+    "last_checked": 1780380235.9220061
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.134",
     "port": 3128,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 44.37,
+    "ssl": false,
+    "uptime_percent": 44.36,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 8003.13,
-    "last_checked": 1780379643.71986
+    "latency_ms": 15669.3,
+    "last_checked": 1780380202.3592176
   },
   {
     "protocol": "socks5",
@@ -53,10 +68,10 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.2,
+    "uptime_percent": 85.19,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 12037.83,
-    "last_checked": 1780379419.7430294
+    "latency_ms": 11850.81,
+    "last_checked": 1780380071.6206758
   }
 ]
