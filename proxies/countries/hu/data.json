@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "84.2.239.42",
+    "port": 4153,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Hajdúnánás",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.27,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 1824.21,
+    "last_checked": 1780358918.8734045
+  },
+  {
     "protocol": "http",
     "ip": "38.180.109.24",
     "port": 3128,
@@ -7,11 +22,26 @@
     "country_code": "HU",
     "city": "Budapest",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 40.06,
     "asn": "AS9009",
     "isp": "M247 Europe SRL",
-    "latency_ms": 14556.16,
-    "last_checked": 1780358244.9028416
+    "latency_ms": 16521.89,
+    "last_checked": 1780358896.4297955
+  },
+  {
+    "protocol": "http",
+    "ip": "82.131.187.203",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Érd",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.75,
+    "asn": "AS20845",
+    "isp": "INVITEL Zrt.",
+    "latency_ms": 12322.07,
+    "last_checked": 1780358859.9264107
   }
 ]
