@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.84,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 6198.55,
+    "last_checked": 1780407249.0775583
+  },
+  {
+    "protocol": "http",
+    "ip": "85.217.192.39",
+    "port": 1414,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sistov",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.18,
+    "asn": "AS34368",
+    "isp": "ZONATA - INVEST sLLC",
+    "latency_ms": 1714.06,
+    "last_checked": 1780407247.4119833
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.160.97.49",
     "port": 4145,
     "country": "Bulgaria",
@@ -11,8 +41,8 @@
     "uptime_percent": 10.46,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 281.38,
-    "last_checked": 1780406624.6692228
+    "latency_ms": 715.66,
+    "last_checked": 1780407238.0937207
   },
   {
     "protocol": "http",
@@ -26,7 +56,37 @@
     "uptime_percent": 5.05,
     "asn": "AS8866",
     "isp": "BTC-BROADBAND",
-    "latency_ms": 7250.24,
-    "last_checked": 1780406527.743332
+    "latency_ms": 5821.9,
+    "last_checked": 1780407236.6669319
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.65,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 3752.62,
+    "last_checked": 1780407121.6357222
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.36,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 12060.24,
+    "last_checked": 1780407091.659925
   }
 ]
