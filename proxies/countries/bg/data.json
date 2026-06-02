@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Rousse",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.42,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 284.62,
-    "last_checked": 1780392574.5241747
-  },
-  {
-    "protocol": "http",
-    "ip": "5.104.183.41",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Svoge",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.14,
-    "asn": "AS205331",
-    "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 3087.77,
-    "last_checked": 1780392544.4721968
-  },
-  {
     "protocol": "http",
     "ip": "87.126.65.14",
     "port": 8088,
@@ -37,12 +7,27 @@
     "country_code": "BG",
     "city": "Stara Zagora",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 39.26,
+    "ssl": true,
+    "uptime_percent": 39.27,
     "asn": "AS8866",
     "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 8593.22,
-    "last_checked": 1780392521.6630344
+    "latency_ms": 8820.98,
+    "last_checked": 1780393172.7029405
+  },
+  {
+    "protocol": "http",
+    "ip": "193.68.115.14",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Ablanitsa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.22,
+    "asn": "AS48584",
+    "isp": "Sarnica-Net LTD",
+    "latency_ms": 3711.37,
+    "last_checked": 1780393148.243905
   },
   {
     "protocol": "http",
@@ -56,23 +41,8 @@
     "uptime_percent": 4.76,
     "asn": "AS48747",
     "isp": "Lukovitnet Ltd.",
-    "latency_ms": 9189.69,
-    "last_checked": 1780392472.273798
-  },
-  {
-    "protocol": "http",
-    "ip": "46.10.209.230",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.05,
-    "asn": "AS8866",
-    "isp": "BTC-BROADBAND",
-    "latency_ms": 5469.9,
-    "last_checked": 1780392449.0639312
+    "latency_ms": 7024.16,
+    "last_checked": 1780393060.975891
   },
   {
     "protocol": "http",
@@ -82,11 +52,26 @@
     "country_code": "BG",
     "city": "Plovdiv",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 6.83,
     "asn": "AS9070",
     "isp": "\"Cooolbox\" AD",
-    "latency_ms": 10200.24,
-    "last_checked": 1780392387.0131273
+    "latency_ms": 6976.76,
+    "last_checked": 1780393024.5799794
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.36,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 132.04,
+    "last_checked": 1780393209.347247
   }
 ]
