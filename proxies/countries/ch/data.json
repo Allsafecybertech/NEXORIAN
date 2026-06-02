@@ -1,5 +1,50 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.35,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 7876.64,
+    "last_checked": 1780415066.6872654
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.19,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1816.86,
+    "last_checked": 1780415026.767665
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 76.18,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3076.58,
+    "last_checked": 1780415016.7681613
+  },
+  {
     "protocol": "http",
     "ip": "185.191.239.248",
     "port": 3128,
@@ -11,37 +56,7 @@
     "uptime_percent": 86.7,
     "asn": "AS264617",
     "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 289.77,
-    "last_checked": 1780414732.8711643
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 76.18,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 10968.44,
-    "last_checked": 1780414700.0760055
-  },
-  {
-    "protocol": "http",
-    "ip": "179.43.180.232",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Rümlang",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.07,
-    "asn": "AS51852",
-    "isp": "Private Layer INC",
-    "latency_ms": 9946.32,
-    "last_checked": 1780414698.3550622
+    "latency_ms": 1900.53,
+    "last_checked": 1780414994.9720054
   }
 ]
