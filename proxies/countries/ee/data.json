@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "144.31.170.253",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.95,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 1840.47,
+    "last_checked": 1780385952.7391038
+  },
+  {
+    "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
@@ -11,23 +26,8 @@
     "uptime_percent": 68.45,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 4259.43,
-    "last_checked": 1780385654.3944182
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.45.125.201",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 70.18,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 9493.41,
-    "last_checked": 1780385582.3147078
+    "latency_ms": 4256.76,
+    "last_checked": 1780385951.8015072
   },
   {
     "protocol": "socks5",
@@ -41,7 +41,37 @@
     "uptime_percent": 100.0,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 221.34,
-    "last_checked": 1780385491.2572749
+    "latency_ms": 251.38,
+    "last_checked": 1780385915.2885766
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.1,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 18570.51,
+    "last_checked": 1780385886.8182592
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.155.99.106",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Narva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.78,
+    "asn": "AS202759",
+    "isp": "RJ Network OU",
+    "latency_ms": 2133.8,
+    "last_checked": 1780385859.1229
   }
 ]
