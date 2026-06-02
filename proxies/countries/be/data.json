@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "109.135.16.145",
-    "port": 8789,
+    "port": 49879,
     "country": "Belgium",
     "country_code": "BE",
     "city": "Anderlecht",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.5,
+    "uptime_percent": 49.48,
     "asn": "AS5432",
     "isp": "Proximus NV",
-    "latency_ms": 1124.76,
-    "last_checked": 1780438170.3364716
+    "latency_ms": 158.9,
+    "last_checked": 1780438701.3471012
+  },
+  {
+    "protocol": "http",
+    "ip": "104.199.9.22",
+    "port": 3128,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.45,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 7137.98,
+    "last_checked": 1780438681.5245411
   }
 ]
