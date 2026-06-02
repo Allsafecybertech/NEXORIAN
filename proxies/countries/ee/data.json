@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "144.31.170.253",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.93,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 9430.03,
+    "last_checked": 1780405194.0605125
+  },
+  {
+    "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
@@ -8,41 +23,26 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 68.23,
+    "uptime_percent": 68.22,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 2220.16,
-    "last_checked": 1780404565.7052562
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.101.179.147",
-    "port": 2080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 1360.74,
-    "last_checked": 1780404510.7930796
+    "latency_ms": 7261.02,
+    "last_checked": 1780405188.6274672
   },
   {
     "protocol": "http",
-    "ip": "217.78.239.5",
-    "port": 4555,
+    "ip": "5.45.126.165",
+    "port": 13215,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.03,
-    "asn": "AS211211",
-    "isp": "IT-Develop DOO",
-    "latency_ms": 4887.18,
-    "last_checked": 1780404510.6405172
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 35.99,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 15441.01,
+    "last_checked": 1780405141.3304167
   },
   {
     "protocol": "socks5",
@@ -56,23 +56,8 @@
     "uptime_percent": 100.0,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 678.23,
-    "last_checked": 1780404484.7813153
-  },
-  {
-    "protocol": "socks5",
-    "ip": "144.31.170.253",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.51,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 1382.46,
-    "last_checked": 1780404290.6641219
+    "latency_ms": 441.72,
+    "last_checked": 1780405113.720785
   },
   {
     "protocol": "socks5",
@@ -86,7 +71,22 @@
     "uptime_percent": 69.96,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1281.11,
-    "last_checked": 1780404260.6707518
+    "latency_ms": 213.1,
+    "last_checked": 1780405109.5764031
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.101.179.147",
+    "port": 2080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 932.22,
+    "last_checked": 1780404891.161888
   }
 ]
