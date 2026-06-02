@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.08,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 4225.99,
+    "last_checked": 1780420131.9426732
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.27,
+    "uptime_percent": 86.26,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4305.61,
-    "last_checked": 1780419590.32967
-  },
-  {
-    "protocol": "http",
-    "ip": "185.191.239.248",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wetzikon",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 86.77,
-    "asn": "AS264617",
-    "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 1334.58,
-    "last_checked": 1780419558.8894951
+    "latency_ms": 2010.72,
+    "last_checked": 1780420119.5968764
   },
   {
     "protocol": "http",
@@ -38,11 +38,11 @@
     "city": "Bern",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.6,
+    "uptime_percent": 66.61,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 75.54,
-    "last_checked": 1780419544.4942896
+    "latency_ms": 109.89,
+    "last_checked": 1780420111.9181895
   },
   {
     "protocol": "http",
@@ -56,22 +56,52 @@
     "uptime_percent": 76.16,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4056.17,
-    "last_checked": 1780419532.2598922
+    "latency_ms": 3137.95,
+    "last_checked": 1780420082.306688
+  },
+  {
+    "protocol": "http",
+    "ip": "179.43.180.232",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.2,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 7132.9,
+    "last_checked": 1780420071.7646925
   },
   {
     "protocol": "socks5",
-    "ip": "45.95.232.35",
-    "port": 1080,
+    "ip": "179.43.180.232",
+    "port": 1081,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Rümlang",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.09,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3810.78,
-    "last_checked": 1780419499.3005512
+    "uptime_percent": 36.91,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 5731.87,
+    "last_checked": 1780419622.6228788
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.239.248",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wetzikon",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 86.78,
+    "asn": "AS264617",
+    "isp": "Geronimo Ramirez Computer Network",
+    "latency_ms": 1034.73,
+    "last_checked": 1780420076.0411768
   }
 ]
