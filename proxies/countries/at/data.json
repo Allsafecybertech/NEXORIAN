@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.25,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 7566.22,
+    "last_checked": 1780426451.276575
+  },
+  {
+    "protocol": "socks5",
     "ip": "83.215.25.66",
     "port": 9050,
     "country": "Austria",
@@ -8,55 +23,10 @@
     "city": "Zell am See",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.71,
+    "uptime_percent": 25.93,
     "asn": "AS8445",
     "isp": "SALZBURG-AG",
-    "latency_ms": 10713.02,
-    "last_checked": 1780425857.2517586
-  },
-  {
-    "protocol": "socks4",
-    "ip": "193.233.129.235",
-    "port": 1080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.19,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 15401.5,
-    "last_checked": 1780425852.5972908
-  },
-  {
-    "protocol": "http",
-    "ip": "158.255.209.237",
-    "port": 80,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.54,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 489.01,
-    "last_checked": 1780425817.2785757
-  },
-  {
-    "protocol": "socks5",
-    "ip": "193.233.129.235",
-    "port": 1080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 84.31,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 14527.41,
-    "last_checked": 1780425805.7851388
+    "latency_ms": 9198.33,
+    "last_checked": 1780426105.4594846
   }
 ]
