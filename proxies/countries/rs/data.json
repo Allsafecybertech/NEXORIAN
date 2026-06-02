@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "176.106.121.227",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "91.150.77.58",
+    "port": 56921,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Novi Sad",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 43.01,
-    "asn": "AS31042",
-    "isp": "TEAM",
-    "latency_ms": 4735.52,
-    "last_checked": 1780430314.8217368
-  },
-  {
-    "protocol": "http",
-    "ip": "77.46.138.233",
-    "port": 8080,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Preševo",
-    "anonymity": "transparent",
+    "city": "Belgrade",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 2.21,
+    "uptime_percent": 9.21,
     "asn": "AS8400",
-    "isp": "TELEKOM-SRBIJA",
-    "latency_ms": 15356.65,
-    "last_checked": 1780430309.16395
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 135.37,
+    "last_checked": 1780430990.8075228
   },
   {
     "protocol": "http",
@@ -41,7 +26,22 @@
     "uptime_percent": 11.71,
     "asn": "AS28964",
     "isp": "ORIONTELEKOM",
-    "latency_ms": 3158.22,
-    "last_checked": 1780430191.1918795
+    "latency_ms": 2831.28,
+    "last_checked": 1780430892.0123098
+  },
+  {
+    "protocol": "http",
+    "ip": "176.106.121.227",
+    "port": 8085,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Sad",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 43.04,
+    "asn": "AS31042",
+    "isp": "TEAM",
+    "latency_ms": 5018.41,
+    "last_checked": 1780430878.9656954
   }
 ]
