@@ -1,4 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,185.191.239.248,3128,Switzerland,CH,Wetzikon,transparent,true,86.39,AS264617,Geronimo Ramirez Computer Network,269.59,1780401597.895435
-http,45.59.122.132,80,Switzerland,CH,Bern,elite,true,66.61,AS14956,RouterHosting LLC,110.3,1780401597.608873
-http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,false,76.31,AS215540,Global Connectivity Solutions LLP,3743.33,1780401564.5456028
+socks4,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,86.47,AS215540,Global Connectivity Solutions LLP,8411.51,1780402189.7961335
+http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,false,76.31,AS215540,Global Connectivity Solutions LLP,2760.66,1780402174.8522265
+http,45.59.122.132,80,Switzerland,CH,Bern,elite,true,66.62,AS14956,RouterHosting LLC,932.16,1780402166.391968
+http,185.191.239.248,3128,Switzerland,CH,Wetzikon,transparent,true,86.4,AS264617,Geronimo Ramirez Computer Network,1549.04,1780402159.6735077
+socks5,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,83.42,AS215540,Global Connectivity Solutions LLP,1608.16,1780402138.2608335
