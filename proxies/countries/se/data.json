@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "147.45.75.124",
+    "port": 8080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 90.71,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 145.59,
+    "last_checked": 1780358345.7771294
+  },
+  {
+    "protocol": "socks4",
+    "ip": "89.22.225.204",
+    "port": 8080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 78.01,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 132.54,
+    "last_checked": 1780358335.8058143
+  },
+  {
     "protocol": "socks4",
     "ip": "147.45.76.207",
     "port": 8080,
@@ -11,68 +41,8 @@
     "uptime_percent": 99.47,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 2503.44,
-    "last_checked": 1780358037.2018204
-  },
-  {
-    "protocol": "socks4",
-    "ip": "138.124.102.114",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.71,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 9128.5,
-    "last_checked": 1780358035.2384946
-  },
-  {
-    "protocol": "socks4",
-    "ip": "147.45.72.31",
-    "port": 45700,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.09,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 3853.72,
-    "last_checked": 1780358033.989299
-  },
-  {
-    "protocol": "socks5",
-    "ip": "62.60.149.161",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.92,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 566.39,
-    "last_checked": 1780358004.8617043
-  },
-  {
-    "protocol": "socks4",
-    "ip": "62.60.230.196",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.15,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 5314.86,
-    "last_checked": 1780358004.1932406
+    "latency_ms": 2222.85,
+    "last_checked": 1780358331.8798375
   },
   {
     "protocol": "http",
@@ -86,8 +56,8 @@
     "uptime_percent": 99.38,
     "asn": "AS60662",
     "isp": "Data Communication & Software i Grondal Aktiebolag",
-    "latency_ms": 140.58,
-    "last_checked": 1780357995.8327925
+    "latency_ms": 121.92,
+    "last_checked": 1780358306.9408443
   },
   {
     "protocol": "http",
@@ -97,27 +67,72 @@
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 95.75,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 9514.52,
-    "last_checked": 1780357991.1983414
+    "latency_ms": 10506.48,
+    "last_checked": 1780358301.930193
   },
   {
-    "protocol": "http",
-    "ip": "147.45.75.124",
+    "protocol": "socks5",
+    "ip": "89.22.225.204",
     "port": 8080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.71,
+    "uptime_percent": 73.22,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 800.08,
+    "last_checked": 1780358239.9244044
+  },
+  {
+    "protocol": "http",
+    "ip": "89.22.225.204",
+    "port": 8080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 71.16,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 209.62,
+    "last_checked": 1780358226.0427995
+  },
+  {
+    "protocol": "socks5",
+    "ip": "62.60.149.161",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.92,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 155.77,
-    "last_checked": 1780357984.4351292
+    "latency_ms": 1964.57,
+    "last_checked": 1780358171.5164077
+  },
+  {
+    "protocol": "socks5",
+    "ip": "176.126.70.111",
+    "port": 16379,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.88,
+    "asn": "AS63473",
+    "isp": "HostHatch",
+    "latency_ms": 6729.66,
+    "last_checked": 1780358156.7264285
   },
   {
     "protocol": "socks5",
@@ -131,8 +146,8 @@
     "uptime_percent": 98.35,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 835.94,
-    "last_checked": 1780357978.8452091
+    "latency_ms": 1441.28,
+    "last_checked": 1780358130.833147
   },
   {
     "protocol": "socks5",
@@ -150,36 +165,6 @@
     "last_checked": 1780357970.776296
   },
   {
-    "protocol": "socks5",
-    "ip": "147.45.72.212",
-    "port": 44816,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 28.89,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 1652.54,
-    "last_checked": 1780357893.3710437
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.126.70.111",
-    "port": 16379,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 79.88,
-    "asn": "AS63473",
-    "isp": "HostHatch",
-    "latency_ms": 8242.21,
-    "last_checked": 1780357658.9635823
-  },
-  {
     "protocol": "socks4",
     "ip": "62.60.149.161",
     "port": 1080,
@@ -191,22 +176,7 @@
     "uptime_percent": 92.31,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1831.9,
-    "last_checked": 1780358097.2155578
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.113.103.27",
-    "port": 38730,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.13,
-    "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 1929.9,
-    "last_checked": 1780358062.2266855
+    "latency_ms": 3961.35,
+    "last_checked": 1780358398.5699039
   }
 ]
