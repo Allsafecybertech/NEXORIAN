@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "38.180.109.24",
+    "port": 3128,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.29,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 7721.78,
+    "last_checked": 1780370927.6386447
+  },
+  {
+    "protocol": "socks4",
+    "ip": "84.2.239.42",
+    "port": 4153,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Hajdúnánás",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.3,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 9160.1,
+    "last_checked": 1780370915.79943
+  },
+  {
+    "protocol": "http",
     "ip": "45.130.240.238",
     "port": 8080,
     "country": "Hungary",
@@ -8,10 +38,25 @@
     "city": "Siófok",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 63.93,
+    "uptime_percent": 65.15,
     "asn": "AS47169",
     "isp": "Pro-M Zrt.",
-    "latency_ms": 9186.21,
-    "last_checked": 1780370381.216032
+    "latency_ms": 2490.92,
+    "last_checked": 1780370874.3310735
+  },
+  {
+    "protocol": "http",
+    "ip": "145.236.112.38",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Győr",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 66.67,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 2980.93,
+    "last_checked": 1780370794.3877988
   }
 ]
