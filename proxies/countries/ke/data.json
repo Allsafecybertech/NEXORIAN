@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "102.209.76.106",
+    "port": 8080,
+    "country": "Kenya",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.32,
+    "asn": "AS329422",
+    "isp": "Safhome Fibre Limited",
+    "latency_ms": 6863.04,
+    "last_checked": 1780407844.383921
+  },
+  {
+    "protocol": "http",
     "ip": "197.248.75.221",
     "port": 8080,
     "country": "Kenya",
@@ -8,11 +23,11 @@
     "city": "Nairobi",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 4.2,
+    "uptime_percent": 4.22,
     "asn": "AS37061",
     "isp": "Safaricom Limited",
-    "latency_ms": 7165.76,
-    "last_checked": 1780407231.9223015
+    "latency_ms": 7379.28,
+    "last_checked": 1780407837.1119814
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 5.48,
     "asn": "AS329422",
     "isp": "Safhome Fibre Limited",
-    "latency_ms": 6716.53,
-    "last_checked": 1780407209.7980335
+    "latency_ms": 14577.53,
+    "last_checked": 1780407831.7959723
   },
   {
-    "protocol": "http",
-    "ip": "154.159.247.119",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "102.0.14.42",
+    "port": 1080,
     "country": "Kenya",
     "country_code": "KE",
     "city": "Nairobi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.47,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.32,
     "asn": "AS36926",
     "isp": "Airtel KE Mobile & Fixed Internet",
-    "latency_ms": 15138.43,
-    "last_checked": 1780407082.562709
+    "latency_ms": 1119.79,
+    "last_checked": 1780407799.5321712
+  },
+  {
+    "protocol": "http",
+    "ip": "197.248.86.237",
+    "port": 32650,
+    "country": "Kenya",
+    "country_code": "KE",
+    "city": "Nairobi",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.39,
+    "asn": "AS37061",
+    "isp": "Safaricom Limited",
+    "latency_ms": 8953.42,
+    "last_checked": 1780407789.4558206
   }
 ]
