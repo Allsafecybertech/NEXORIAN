@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "109.232.34.40",
-    "port": 80,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Vicenza",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS21176",
-    "isp": "Engineering D.HUB S.p.A.",
-    "latency_ms": 137.6,
-    "last_checked": 1780405746.9302826
-  },
-  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -26,23 +11,53 @@
     "uptime_percent": 86.69,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2257.07,
-    "last_checked": 1780405744.5723207
+    "latency_ms": 1235.77,
+    "last_checked": 1780406385.2321086
   },
   {
     "protocol": "http",
-    "ip": "93.42.151.100",
-    "port": 4443,
+    "ip": "109.232.34.40",
+    "port": 80,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Vicenza",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS21176",
+    "isp": "Engineering D.HUB S.p.A.",
+    "latency_ms": 157.59,
+    "last_checked": 1780406374.286687
+  },
+  {
+    "protocol": "socks5",
+    "ip": "151.241.215.23",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.47,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 132.97,
+    "last_checked": 1780406368.362408
+  },
+  {
+    "protocol": "http",
+    "ip": "93.147.55.25",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Bisceglie",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.09,
-    "asn": "AS12874",
-    "isp": "Fastweb SpA",
-    "latency_ms": 9434.29,
-    "last_checked": 1780405713.638004
+    "ssl": true,
+    "uptime_percent": 36.11,
+    "asn": "AS30722",
+    "isp": "VODAFONE",
+    "latency_ms": 9791.01,
+    "last_checked": 1780406353.6345477
   },
   {
     "protocol": "socks5",
@@ -53,10 +68,40 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.86,
+    "uptime_percent": 81.85,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 3003.58,
-    "last_checked": 1780405549.0800848
+    "latency_ms": 826.16,
+    "last_checked": 1780406319.351483
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.3,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 5150.21,
+    "last_checked": 1780406310.4685547
+  },
+  {
+    "protocol": "http",
+    "ip": "93.42.151.100",
+    "port": 4443,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.1,
+    "asn": "AS12874",
+    "isp": "Fastweb SpA",
+    "latency_ms": 12115.55,
+    "last_checked": 1780406260.671962
   }
 ]

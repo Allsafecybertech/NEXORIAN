@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "190.54.100.74",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "45.225.204.53",
+    "port": 999,
     "country": "Chile",
     "country_code": "CL",
-    "city": "Santiago",
-    "anonymity": "elite",
+    "city": "Las Cabras",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 14.82,
-    "asn": "AS6429",
-    "isp": "Telmex Chile Internet S.A.",
-    "latency_ms": 1083.07,
-    "last_checked": 1780405752.402553
+    "uptime_percent": 18.76,
+    "asn": "AS265858",
+    "isp": "Netdelsur Telecomunicaciones SPA",
+    "latency_ms": 11051.26,
+    "last_checked": 1780406370.2456725
+  },
+  {
+    "protocol": "http",
+    "ip": "45.225.205.1",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Las Cabras",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.87,
+    "asn": "AS265858",
+    "isp": "Netdelsur Telecomunicaciones SPA",
+    "latency_ms": 12947.35,
+    "last_checked": 1780406368.9906347
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,8 @@
     "uptime_percent": 56.07,
     "asn": "AS14117",
     "isp": "Telefonica del Sur S.A",
-    "latency_ms": 2256.54,
-    "last_checked": 1780405745.9524524
-  },
-  {
-    "protocol": "http",
-    "ip": "170.233.193.129",
-    "port": 999,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "Santiago",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 3.82,
-    "asn": "AS52510",
-    "isp": "MI INTERNET SPA",
-    "latency_ms": 8352.22,
-    "last_checked": 1780405706.6605258
-  },
-  {
-    "protocol": "http",
-    "ip": "45.4.2.24",
-    "port": 999,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "Santiago",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.71,
-    "asn": "AS265662",
-    "isp": "Tlink SPA",
-    "latency_ms": 7890.66,
-    "last_checked": 1780405706.4993865
+    "latency_ms": 8390.81,
+    "last_checked": 1780406368.528783
   },
   {
     "protocol": "http",
@@ -71,8 +56,23 @@
     "uptime_percent": 31.86,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 8444.21,
-    "last_checked": 1780405675.3478997
+    "latency_ms": 7997.57,
+    "last_checked": 1780406361.7454157
+  },
+  {
+    "protocol": "http",
+    "ip": "200.39.137.137",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Valparaíso",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.16,
+    "asn": "AS270024",
+    "isp": "Iconex SPA",
+    "latency_ms": 17328.97,
+    "last_checked": 1780406344.6407285
   },
   {
     "protocol": "http",
@@ -86,8 +86,8 @@
     "uptime_percent": 25.25,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 15170.1,
-    "last_checked": 1780405671.336145
+    "latency_ms": 6783.54,
+    "last_checked": 1780406327.2904515
   },
   {
     "protocol": "http",
@@ -101,22 +101,37 @@
     "uptime_percent": 25.28,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 10699.13,
-    "last_checked": 1780405595.4238815
+    "latency_ms": 10059.31,
+    "last_checked": 1780406319.5127575
   },
   {
     "protocol": "http",
-    "ip": "190.121.4.157",
+    "ip": "167.249.30.64",
     "port": 999,
     "country": "Chile",
     "country_code": "CL",
-    "city": "Temuco",
+    "city": "Pucón",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 6.44,
-    "asn": "AS14117",
-    "isp": "Telefonica del Sur S.A.",
-    "latency_ms": 11726.33,
-    "last_checked": 1780405592.7648194
+    "uptime_percent": 2.97,
+    "asn": "AS64131",
+    "isp": "Globalconnect SPA",
+    "latency_ms": 9197.14,
+    "last_checked": 1780406300.5041084
+  },
+  {
+    "protocol": "http",
+    "ip": "186.148.47.253",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.83,
+    "asn": "AS7004",
+    "isp": "TELEFÓNICA CHILE S.A.",
+    "latency_ms": 4831.57,
+    "last_checked": 1780406272.4425964
   }
 ]
