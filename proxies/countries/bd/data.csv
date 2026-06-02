@@ -1,72 +1,86 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,103.13.192.209,1080,Bangladesh,BD,Tongi,elite,true,28.45,AS136141,Md Al Amin,802.88,1780420154.6731825
-socks4,103.146.42.180,8086,Bangladesh,BD,Kurigram,elite,true,1.12,AS139870,Internet All,953.5,1780420151.0163448
-socks4,123.200.6.58,5678,Bangladesh,BD,Dhaka,elite,true,15.6,AS23688,Link3 Technologies Limited,3855.69,1780420144.952604
-socks5,119.148.20.109,22122,Bangladesh,BD,Dhaka,elite,true,52.88,AS23923,Agni Systems Ltd. SUB,2869.53,1780420143.495759
-http,103.161.69.17,2698,Bangladesh,BD,Chittagong,transparent,false,13.84,AS137967,MiME,1840.54,1780420136.251854
-http,103.111.225.20,8080,Bangladesh,BD,Chittagong,transparent,false,28.39,AS137526,Plusnet inc.,4765.5,1780420128.8039155
-http,103.150.166.160,8090,Bangladesh,BD,Comilla,transparent,false,11.48,AS140585,Kazi Md Mukid,10523.74,1780420117.5141385
-http,103.138.145.130,8090,Bangladesh,BD,Kishorganj,transparent,true,11.99,AS139008,Neef IT Limited,559.49,1780420112.2162902
-http,103.120.220.57,8090,Bangladesh,BD,Paltan,transparent,false,7.45,AS134601,Touhidul Islam Polash,7123.96,1780420109.4896789
-http,27.147.177.74,55,Bangladesh,BD,Dhaka,transparent,false,42.17,AS23688,Link3 Technologies Limited,1366.85,1780420109.3373806
-http,103.158.62.129,8088,Bangladesh,BD,Maulavi Bāzār,transparent,false,25.28,AS141398,SEARCH IT,3558.44,1780420106.499267
-http,27.147.245.189,7735,Bangladesh,BD,Dhaka,transparent,false,21.8,AS23688,Link3 Technologies Limited,4090.06,1780420100.7975142
-http,103.147.230.17,8090,Bangladesh,BD,Joypur Hāt,transparent,false,17.21,AS140054,Friends BroadBand Network,873.33,1780420091.1191208
-http,103.158.11.209,32650,Bangladesh,BD,Shariatpur,transparent,false,27.17,AS141386,Ka Kha Computer,10957.5,1780420085.5399518
-http,103.124.251.12,8081,Bangladesh,BD,Jessore,transparent,false,8.17,AS63969,Earth Telecommunication,4001.02,1780420085.287057
-http,103.141.174.54,11411,Bangladesh,BD,Dhaka,transparent,false,12.37,AS58689,ICC Communication Ltd,3211.14,1780420084.443905
-http,123.200.26.38,5555,Bangladesh,BD,Dhaka,transparent,true,48.7,AS23688,Link3 Technologies Limited,3580.46,1780420082.2009647
-http,103.113.152.73,14158,Bangladesh,BD,Dhaka,elite,true,40.31,AS45766,Md Ziaul Huque,4717.69,1780420081.4157553
-http,114.130.92.61,8090,Bangladesh,BD,Dohār,transparent,false,31.12,AS132608,Mango Teleservices Limited,15434.5,1780420053.8525035
-http,103.16.72.157,9108,Bangladesh,BD,Dhaka,transparent,false,26.86,AS24122,BDCOM Online Limited,10911.31,1780420053.367864
-http,103.148.216.121,8080,Bangladesh,BD,Narayanganj,anonymous,false,5.28,AS140226,Little Boys,7482.32,1780420050.6447067
-http,182.160.125.53,12331,Bangladesh,BD,Dhaka,transparent,false,34.42,AS24323,Aamra Networks Limited,3284.28,1780420046.3762112
-http,103.134.242.161,8080,Bangladesh,BD,Chittagong,elite,false,20.52,AS138623,Winer Communication,4825.12,1780420044.308201
-http,103.170.185.162,46,Bangladesh,BD,Tongi,transparent,false,33.61,AS137385,Milon Hawladar,9166.01,1780420040.5389428
-http,182.160.106.146,12331,Bangladesh,BD,Dhaka,transparent,false,51.49,AS24323,Aamra Networks Limited,2550.24,1780420036.963492
-http,103.119.101.59,8080,Bangladesh,BD,Dhaka,transparent,false,8.52,AS134732,Dot Internet,6247.67,1780420029.0648484
-http,182.160.99.217,12331,Bangladesh,BD,Dhaka,transparent,true,16.6,AS24323,Aamra Networks Limited,6494.52,1780420028.207125
-http,182.160.111.250,12331,Bangladesh,BD,Dhaka,transparent,false,11.3,AS24323,Aamra Networks Limited,13003.44,1780420027.1359074
-http,103.150.255.104,46902,Bangladesh,BD,Dhaka,transparent,false,59.39,AS140611,RED ONLINE,14635.79,1780420019.8525898
-http,103.155.71.91,8080,Bangladesh,BD,Mawna,transparent,false,10.04,AS137453,Orange Communication,3576.09,1780420012.226391
-http,119.148.38.137,5871,Bangladesh,BD,Dhaka,transparent,false,44.06,AS23923,Agni Systems Limited,7872.47,1780420005.1358008
-http,103.138.123.196,8090,Bangladesh,BD,Narayanganj,transparent,false,10.42,AS134204,CAFE,4528.25,1780419998.4815786
-socks5,119.148.7.10,22122,Bangladesh,BD,Dhaka,elite,true,66.93,AS23923,Agni Systems Limited,1234.47,1780419995.7091835
+socks4,103.115.255.225,36331,Bangladesh,BD,Char Bhadrāsan,elite,true,15.09,AS137868,Star Internet Service,1034.48,1780420793.85735
+http,27.147.221.23,4545,Bangladesh,BD,Paltan,transparent,true,35.78,AS23688,Link3 Technologies Limited,2377.29,1780420789.6718256
+socks4,103.146.42.181,8086,Bangladesh,BD,Kurigram,elite,true,5.84,AS139870,Internet All,960.99,1780420784.6295078
+http,115.127.105.163,6699,Bangladesh,BD,Dhaka,elite,false,12.3,AS24342,BRACNet Limited,2587.26,1780420783.4637985
+socks4,123.200.6.58,5678,Bangladesh,BD,Dhaka,elite,true,15.6,AS23688,Link3 Technologies Limited,7888.27,1780420781.3334134
+http,103.104.142.161,8080,Bangladesh,BD,Chittagong,anonymous,false,13.82,AS150335,Brosis Communication,5414.83,1780420778.5119526
+http,103.147.230.130,8090,Bangladesh,BD,Joypur Hāt,transparent,true,18.87,AS140054,Friends BroadBand Network,6153.99,1780420777.347752
+http,103.161.153.177,1080,Bangladesh,BD,Hāthazāri,transparent,false,10.39,AS138452,Click Earth Online,7523.56,1780420775.6516438
+http,27.147.177.74,55,Bangladesh,BD,Dhaka,transparent,true,42.18,AS23688,Link3 Technologies Limited,4870.42,1780420774.515006
+socks4,103.13.192.209,1080,Bangladesh,BD,Tongi,elite,true,28.46,AS136141,Md Al Amin,3847.81,1780420773.8935308
+http,103.129.200.2,8124,Bangladesh,BD,Tongi,elite,false,22.32,AS138191,Weblink Communications Ltd,14727.63,1780420773.4630256
+http,103.120.222.153,8090,Bangladesh,BD,Motijheel,transparent,false,17.94,AS134601,Touhidul Islam Polash,7261.88,1780420762.9361823
+socks5,119.148.11.141,22122,Bangladesh,BD,Dhaka,elite,true,61.64,AS23923,Agni Systems Limited,2539.02,1780420761.0509176
+http,182.160.106.146,12331,Bangladesh,BD,Dhaka,transparent,false,51.5,AS24323,Aamra Networks Limited,4033.18,1780420758.143856
+http,103.102.138.218,1450,Bangladesh,BD,Sātkania,transparent,false,30.47,AS137029,Chittagong multi channel limited,5007.29,1780420756.4118373
+http,103.113.152.73,14158,Bangladesh,BD,Dhaka,elite,false,40.32,AS45766,Md Ziaul Huque,3441.51,1780420746.903862
+http,114.130.153.122,58080,Bangladesh,BD,Dhaka,transparent,false,7.93,AS45588,Bangladesh Telegraph & Telephone Board,9783.38,1780420742.548298
+socks5,27.147.255.146,1080,Bangladesh,BD,Dhaka,elite,true,53.82,AS23688,Link3 Technologies Limited,1406.52,1780420740.304973
+http,118.179.151.57,5020,Bangladesh,BD,Dhaka,transparent,false,7.34,AS23956,Amber IT Limited,11321.54,1780420731.5423405
+http,103.140.235.38,8080,Bangladesh,BD,Narayanganj,transparent,false,12.18,AS139294,Subrota Biswas taltola bazar,13590.96,1780420726.5264323
+http,103.161.69.233,2698,Bangladesh,BD,Chittagong,transparent,true,25.36,AS137967,MiME,557.69,1780420724.9839506
+http,103.158.62.161,8088,Bangladesh,BD,Maulavi Bāzār,transparent,false,20.88,AS141398,SEARCH IT,2854.97,1780420722.1559224
+http,182.160.120.107,12331,Bangladesh,BD,Dhaka,transparent,false,18.57,AS24323,Aamra Networks Limited,6341.25,1780420720.8798273
+http,103.134.242.161,8080,Bangladesh,BD,Chittagong,elite,false,20.53,AS138623,Winer Communication,10454.95,1780420720.4326432
+http,138.252.89.65,8890,Bangladesh,BD,Meherpur,transparent,false,14.59,AS137453,Orange Communication,9497.87,1780420715.3303936
+http,113.11.126.238,30226,Bangladesh,BD,Jessore,elite,false,14.55,AS7565,BDCOM Online Limited,558.65,1780420711.6238627
+http,103.145.132.184,8080,Bangladesh,BD,Sonargaon,transparent,false,12.47,AS139809,Md Raisul Islam,2196.85,1780420711.5738425
+http,119.148.38.137,5871,Bangladesh,BD,Dhaka,transparent,false,44.08,AS23923,Agni Systems Limited,1093.33,1780420706.7279036
+http,103.109.96.180,6321,Bangladesh,BD,Kafrul,elite,false,26.19,AS131464,Digi Jadoo Broadband Ltd,7123.53,1780420701.2600002
+http,123.200.26.38,5555,Bangladesh,BD,Dhaka,transparent,true,48.7,AS23688,Link3 Technologies Limited,7842.78,1780420700.9239242
+http,103.13.192.77,8080,Bangladesh,BD,Sherpur,transparent,true,17.04,AS136141,Md Al Amin,9207.74,1780420695.323942
+http,103.129.200.129,8070,Bangladesh,BD,Tongi,transparent,true,21.95,AS138191,Weblink Communications Ltd,558.71,1780420692.9798808
+socks5,115.127.112.178,1080,Bangladesh,BD,Dhaka,elite,true,45.77,AS24342,BRACNet Limited,1541.86,1780420684.605208
+http,175.29.125.242,8080,Bangladesh,BD,Dhaka,transparent,false,17.52,AS17469,Access Telecom (BD) Ltd,3279.85,1780420680.9763277
+http,182.160.106.11,12331,Bangladesh,BD,Dhaka,elite,false,22.6,AS24323,Aamra Networks Limited,1877.08,1780420677.759903
+http,103.112.131.14,8080,Bangladesh,BD,Dukuria,transparent,false,5.69,AS137542,Sayem Online Communication,4433.42,1780420676.887805
+socks5,123.136.24.161,1080,Bangladesh,BD,Dhaka,elite,true,51.4,AS38493,Royal Green Limited,8202.24,1780420674.9596143
+socks5,103.138.145.102,1999,Bangladesh,BD,Kishorganj,elite,true,22.62,AS139008,Neef IT Limited,5032.45,1780420674.80066
+http,182.160.100.142,12331,Bangladesh,BD,Dhaka,transparent,false,29.24,AS24323,Aamra Networks Limited,5661.76,1780420673.2668066
+http,182.160.124.174,9669,Bangladesh,BD,Dhaka,transparent,false,21.2,AS24323,Aamra Networks Limited,4405.24,1780420671.5798492
+http,118.67.219.130,8080,Bangladesh,BD,Dhaka,transparent,false,25.12,AS58923,InterCloud Limited,5602.71,1780420668.430516
+socks5,119.148.51.30,22122,Bangladesh,BD,Dhaka,elite,true,48.27,AS23923,Agni Systems Limited,1267.65,1780420662.06992
+socks5,182.48.89.163,8008,Bangladesh,BD,Chittagong,elite,true,50.97,AS63969,Corporate Office,8591.78,1780420658.8917046
+http,27.147.245.189,7735,Bangladesh,BD,Dhaka,transparent,true,21.8,AS23688,Link3 Technologies Limited,8400.7,1780420652.5711713
+http,103.150.255.104,46902,Bangladesh,BD,Dhaka,transparent,true,59.4,AS140611,RED ONLINE,4909.79,1780420652.2498388
+http,103.150.166.160,8090,Bangladesh,BD,Comilla,transparent,false,11.48,AS140585,Kazi Md Mukid,9574.57,1780420648.7799475
+http,182.160.112.218,12331,Bangladesh,BD,Dhaka,transparent,true,13.72,AS24323,Aamra Networks Limited,9013.74,1780420620.2639112
+http,119.18.147.139,10001,Bangladesh,BD,Chittagong,transparent,false,32.75,AS45326,BBTS Network,3939.28,1780420619.391908
+http,113.11.120.105,30226,Bangladesh,BD,Jessore,elite,false,13.14,AS7565,BDCOM Online Limited,3620.4,1780420594.8856876
+http,113.11.75.153,9107,Bangladesh,BD,Rajshahi,transparent,true,19.6,AS7565,BDCOM Online Limited,7810.85,1780420575.251013
+socks5,119.148.20.109,22122,Bangladesh,BD,Dhaka,elite,true,52.88,AS23923,Agni Systems Ltd. SUB,11900.15,1780420569.955236
+socks5,103.151.74.5,2025,Bangladesh,BD,Dhaka,elite,true,25.86,AS135341,Md Kamrul Islam,4190.39,1780420438.303545
+socks5,27.131.14.9,1088,Bangladesh,BD,Noākhāli,elite,true,67.76,AS55492,Dhaka Fiber Net Limited,4131.71,1780420355.7808638
+socks5,119.148.7.10,22122,Bangladesh,BD,Dhaka,elite,true,66.93,AS23923,Agni Systems Limited,1412.02,1780420238.23113
 socks5,103.138.145.228,1999,Bangladesh,BD,Kishorganj,elite,true,60.22,AS139008,Neef IT Limited,4311.91,1780419991.9766326
-socks5,43.246.201.253,1080,Bangladesh,BD,Hājīganj,elite,true,53.43,AS138640,Asiatel Network Limited,2249.24,1780419980.2528222
-socks5,119.148.47.166,22122,Bangladesh,BD,Dhaka,elite,true,48.82,AS23923,Agni Systems Limited,1213.22,1780419970.0291975
-http,118.179.151.57,5020,Bangladesh,BD,Dhaka,transparent,false,7.34,AS23956,Amber IT Limited,10737.35,1780419959.2333977
 socks5,103.138.144.202,1999,Bangladesh,BD,Kishorganj,elite,true,66.17,AS139008,NEEFIT,2228.16,1780419939.6351988
-socks5,182.48.89.163,8008,Bangladesh,BD,Chittagong,elite,true,50.97,AS63969,Corporate Office,1249.94,1780419938.5525784
-socks5,103.151.74.5,2025,Bangladesh,BD,Dhaka,elite,true,25.85,AS135341,Md Kamrul Islam,8415.54,1780419843.2983587
-socks5,103.151.75.21,2025,Bangladesh,BD,Dhaka,elite,true,15.35,AS135341,Md Kamrul Islam,8299.91,1780419832.9065843
-socks5,114.130.175.146,1088,Bangladesh,BD,Dhaka,elite,true,58.93,AS45588,Bangladesh Telegraph & Telephone Board,2305.56,1780419800.4190712
-socks5,119.148.11.141,22122,Bangladesh,BD,Dhaka,elite,true,61.63,AS23923,Agni Systems Limited,1307.71,1780419768.536408
-socks4,103.42.228.19,1080,Bangladesh,BD,Bibir Hat,elite,true,51.26,AS137449,Skynet Chowmuhani,989.17,1780420195.3788981
-http,103.219.160.145,6565,Bangladesh,BD,Dhaka,transparent,false,11.08,AS38203,ADN Telecom Ltd.,3621.72,1780420181.8145316
-http,103.252.120.18,8090,Bangladesh,BD,Gazipur,transparent,false,34.21,AS151984,NR Link,3217.86,1780420170.2559154
-http,103.30.31.209,32323,Bangladesh,BD,Paltan,transparent,false,23.54,AS45326,Broad Band Telecom Services Ltd,2528.2,1780420162.5804524
-http,103.181.181.70,8090,Bangladesh,BD,Shāhzādpur,transparent,false,7.05,AS137453,MD ISMAL HUSSAIN,5630.15,1780420154.978029
-socks5,103.219.163.246,1080,Bangladesh,BD,Dhaka,elite,true,64.93,AS38203,ADN Telecom Ltd.,1271.78,1780420153.3374252
+socks4,103.42.228.19,1080,Bangladesh,BD,Bibir Hat,elite,true,51.27,AS137449,Skynet Chowmuhani,2028.32,1780420796.2078526
+http,103.187.136.21,3838,Bangladesh,BD,Hājīganj,transparent,true,7.95,AS149832,Times Communication,4360.96,1780420792.5065055
+socks5,43.246.201.253,1080,Bangladesh,BD,Hājīganj,elite,true,53.44,AS138640,Asiatel Network Limited,2158.84,1780420786.3867884
+http,103.204.209.248,8090,Bangladesh,BD,Dhaka,transparent,true,35.92,AS137491,Level3 Carrier Limited,1538.84,1780420781.4422593
+http,103.92.218.121,9514,Bangladesh,BD,Rāmganj,elite,false,20.43,AS59362,Md Rezaul Karim,5447.28,1780420779.6023932
+http,103.158.62.186,8088,Bangladesh,BD,Maulavi Bāzār,transparent,true,11.18,AS141398,SEARCH IT,1494.49,1780420775.9518583
+http,103.252.120.18,8090,Bangladesh,BD,Gazipur,transparent,true,34.26,AS151984,NR Link,2944.93,1780420752.9321365
+http,103.204.211.48,32255,Bangladesh,BD,Dhaka,elite,false,13.79,AS137491,Level3 Carrier Limited,2768.69,1780420741.9437683
+http,103.168.207.40,8080,Bangladesh,BD,Dhaka,transparent,false,8.12,AS137967,DigiCon Telecommunication Ltd,3733.34,1780420735.2759085
+http,103.17.150.25,8080,Bangladesh,BD,Dhaka,transparent,false,3.23,AS150351,SYSSOLUTION,11739.57,1780420730.446183
+http,203.76.98.21,45958,Bangladesh,BD,Tangail,elite,false,8.9,AS23688,Link3 Technologies Limited,6519.72,1780420729.229256
+http,103.81.175.218,22311,Bangladesh,BD,Tongi,elite,false,46.62,AS38203,ADN Telecom Ltd.,3078.54,1780420727.322939
+http,202.84.39.103,8674,Bangladesh,BD,Dhaka,transparent,false,22.79,AS9230,Bangladesh Online Ltd.,4013.84,1780420726.096393
+http,103.171.232.96,8080,Bangladesh,BD,Chittagong,transparent,false,21.37,AS146946,TS Network,2380.45,1780420720.8380191
+http,103.42.203.60,8090,Bangladesh,BD,Lakshmīpur,transparent,false,12.55,AS138640,HelloTech Limited,7576.78,1780420709.4276102
+http,103.239.253.66,8080,Bangladesh,BD,Dhaka,transparent,false,8.38,AS63526,Carnival Internet,13147.27,1780420707.8559284
+http,103.204.82.34,3212,Bangladesh,BD,Dhaka,transparent,false,7.83,AS63984,Nexdecade Technology Pvt. LTD,4353.81,1780420665.7400594
+http,103.187.136.9,3838,Bangladesh,BD,Hājīganj,transparent,true,15.0,AS149832,Times Communication,4322.31,1780420650.551911
+http,203.96.224.194,8080,Bangladesh,BD,Dhaka,transparent,false,29.62,AS147314,IP Communications Limited,10267.63,1780420635.5366435
+socks5,163.47.37.190,1080,Bangladesh,BD,Rajshahi,elite,true,56.93,AS63961,Bangladesh Research and Education Network (BdREN),1036.69,1780420611.3111491
+http,43.246.201.53,23654,Bangladesh,BD,Feni,transparent,false,9.15,AS138640,Asiatel Network Limited,1332.9,1780420609.9119027
+http,163.227.144.240,8080,Bangladesh,BD,Nowlamary,transparent,true,9.58,AS133605,Bright Technologies Limited,3448.98,1780420590.9675672
+socks5,103.243.238.241,11011,Bangladesh,BD,Kafrul,elite,true,62.47,AS134371,Circle Network,2713.46,1780420578.0630355
+http,165.101.222.18,8080,Bangladesh,BD,Nawābganj,anonymous,false,11.54,AS135045,S.S.R.B Internet Service,12075.72,1780420563.175969
+socks5,103.219.163.246,1080,Bangladesh,BD,Dhaka,elite,true,64.93,AS38203,ADN Telecom Ltd.,1277.15,1780420554.444086
+socks5,203.188.254.194,1080,Bangladesh,BD,Dhaka,elite,true,72.71,AS9832,Information Services Network Ltd,4578.73,1780420528.4931293
+socks5,202.72.232.121,1080,Bangladesh,BD,Dhaka,elite,true,69.51,AS38210,Ranks Telecom Ltd.,1058.59,1780420380.3633032
+socks5,203.202.252.61,1077,Bangladesh,BD,Dhaka,elite,true,10.57,AS24323,Aamra Networks Limited,8564.31,1780420315.8147757
 socks5,202.40.190.74,1080,Bangladesh,BD,Dhaka,elite,true,52.05,AS23991,Ranks ITT,2894.97,1780420151.9876146
-http,103.81.175.222,22311,Bangladesh,BD,Tongi,transparent,false,35.07,AS38203,ADN Telecom Ltd.,4703.98,1780420147.7238455
-http,165.101.222.18,8080,Bangladesh,BD,Nawābganj,anonymous,false,11.54,AS135045,S.S.R.B Internet Service,4005.34,1780420147.2422361
-socks5,103.243.82.38,8008,Bangladesh,BD,Cox's Bazar,elite,true,67.79,AS24323,Aamra Outsourcing Ltd.,9006.91,1780420139.1695266
-http,103.251.232.40,8090,Bangladesh,BD,Dhaka,transparent,false,11.52,AS133034,Virtual American Companies (BD) Limited,13905.45,1780420137.618085
-http,103.178.243.214,8082,Bangladesh,BD,Khulna,transparent,true,33.08,AS137403,SaltSync Internet,10852.15,1780420135.7959416
-http,103.81.175.137,22311,Bangladesh,BD,Tongi,transparent,false,35.89,AS38203,ADN Telecom Ltd.,4187.39,1780420131.8185081
-http,103.245.96.161,3214,Bangladesh,BD,Dhaka,elite,false,9.42,AS141731,OptiMax Communication Ltd,6915.3,1780420125.5278685
-socks5,202.72.232.121,1080,Bangladesh,BD,Dhaka,elite,true,69.51,AS38210,Ranks Telecom Ltd.,1023.03,1780420119.254754
-http,103.30.31.217,32323,Bangladesh,BD,Paltan,transparent,false,25.43,AS45326,Broad Band Telecom Services Ltd,2537.48,1780420117.8519082
-socks5,203.188.254.194,1080,Bangladesh,BD,Dhaka,elite,true,72.7,AS9832,Information Services Network Ltd,1610.0,1780420117.591163
-http,202.84.39.100,8674,Bangladesh,BD,Dhaka,transparent,false,22.21,AS9230,Bangladesh Online Ltd.,3337.29,1780420111.6267512
-http,103.40.226.126,26100,Bangladesh,BD,Dhaka,elite,false,26.63,AS45766,Triangle Services,5591.48,1780420095.0278327
-http,103.252.127.128,8090,Bangladesh,BD,Gazipur,transparent,true,34.73,AS133605,Bright Technologies Limited,1610.25,1780420088.0680778
-http,103.245.110.198,1452,Bangladesh,BD,Dhaka,elite,false,10.34,AS58800,ACE IT Networks Limited,3881.7,1780420080.5365732
-http,103.243.238.241,11911,Bangladesh,BD,Kafrul,transparent,false,44.33,AS134371,Circle Network,3265.47,1780420057.1399636
-http,103.187.136.20,3838,Bangladesh,BD,Hājīganj,transparent,true,7.48,AS149832,Times Communication,620.18,1780420051.5304697
-http,103.40.156.44,3128,Bangladesh,BD,Bhatara,transparent,false,5.39,AS150434,A S M MAHBUB ULLAH,11671.89,1780420044.3398778
-http,203.76.98.21,45958,Bangladesh,BD,Tangail,elite,false,8.89,AS23688,Link3 Technologies Limited,10177.07,1780420040.5177839
-http,43.231.78.203,8080,Bangladesh,BD,Dhaka,transparent,true,7.82,AS63963,Gateway Online Access Limited,3766.29,1780420012.1614394
-socks5,103.243.238.241,11011,Bangladesh,BD,Kafrul,elite,true,62.48,AS134371,Circle Network,2179.11,1780419921.6158442
-socks5,202.4.117.136,12321,Bangladesh,BD,Dhaka,elite,true,56.71,AS23956,Amber IT Limited,2193.5,1780419626.1688354

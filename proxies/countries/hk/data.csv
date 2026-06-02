@@ -1,67 +1,129 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,154.220.66.87,40243,Hong Kong,HK,Chai Wan,elite,false,1.26,AS135097,CloudFly Net Inc Pending,951.56,1780420149.7568605
-http,193.239.86.180,80,Hong Kong,HK,Hong Kong,elite,false,89.14,AS9009,M247 Europe SRL,806.15,1780420148.7147646
-http,43.155.20.204,3128,Hong Kong,HK,Hong Kong,elite,true,84.24,AS132203,Shenzhen Tencent Computer Systems Company Limited,1834.47,1780420148.3808966
-socks5,47.83.168.191,5000,Hong Kong,HK,Hong Kong,elite,true,78.36,AS45102,Alibaba.com LLC,2025.62,1780420145.1871145
-socks5,118.107.29.237,12856,Hong Kong,HK,Sheung Wan,elite,true,99.62,AS152194,CTG Server Ltd.,1413.87,1780420144.4109528
-socks4,154.21.201.50,7890,Hong Kong,HK,Hong Kong,elite,true,47.04,AS979,Cogent Communications,12978.45,1780420139.8367252
-socks4,43.129.80.138,18999,Hong Kong,HK,Hong Kong,elite,true,74.32,AS132203,Shenzhen Tencent Computer Systems Company Limited,4229.81,1780420132.8938274
-http,47.238.203.170,50001,Hong Kong,HK,Hong Kong,elite,false,49.54,AS45102,Alibaba Cloud LLC,915.86,1780420130.1639757
-http,39.109.113.97,4090,Hong Kong,HK,Kwai Chung,elite,false,69.22,AS142403,Yisu Cloud LTD,1247.26,1780420129.7786522
-socks4,47.243.197.73,9050,Hong Kong,HK,Hong Kong,elite,true,34.27,AS45102,Alibaba Cloud LLC,6389.52,1780420128.2923322
-http,47.238.203.170,50000,Hong Kong,HK,Hong Kong,elite,false,28.26,AS45102,Alibaba Cloud LLC,1792.74,1780420124.1885278
-http,103.1.50.215,3125,Hong Kong,HK,Kwun Tong,transparent,false,3.21,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,9394.99,1780420118.3421059
-http,154.219.96.175,1080,Hong Kong,HK,Hong Kong,elite,true,44.88,AS401701,cognetcloud INC,7911.19,1780420115.4998388
-socks5,8.210.54.203,1080,Hong Kong,HK,Hong Kong,elite,true,86.48,AS45102,Alibaba.com LLC,2338.03,1780420114.1542637
-http,8.217.90.53,8888,Hong Kong,HK,Hong Kong,elite,false,79.8,AS45102,"Alibaba (US) Technology Co., Ltd.",510.3,1780420113.4311833
-http,154.223.188.202,1194,Hong Kong,HK,Hong Kong,elite,false,67.59,AS137443,"ChangLian Network Technology Co., Limited",6072.14,1780420111.0719018
-http,154.220.66.152,40009,Hong Kong,HK,Chai Wan,elite,false,5.94,AS135097,CloudFly Net Inc Pending,15132.34,1780420109.7799065
-socks4,154.21.201.50,24901,Hong Kong,HK,Hong Kong,elite,true,54.71,AS979,Cogent Communications,10961.48,1780420106.3688946
-http,103.1.50.239,3125,Hong Kong,HK,Kwun Tong,transparent,false,12.92,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,19547.27,1780420105.2055655
-socks4,43.161.221.94,8888,Hong Kong,HK,Hong Kong,elite,true,61.39,AS132203,Aceville Pte.ltd,2062.84,1780420104.9943032
-socks5,47.57.242.244,5080,Hong Kong,HK,Hong Kong,elite,true,51.44,AS45102,"Alibaba (US) Technology Co., Ltd.",17169.84,1780420104.843151
-socks5,118.107.29.238,12856,Hong Kong,HK,Sheung Wan,elite,true,99.83,AS152194,CTG Server Ltd.,913.04,1780420101.769815
-socks5,47.76.102.90,1011,Hong Kong,HK,Hong Kong,elite,true,30.24,AS45102,Alibaba Cloud LLC,1873.46,1780420101.7286031
-http,47.83.168.191,4000,Hong Kong,HK,Hong Kong,elite,false,73.24,AS45102,Alibaba.com LLC,1168.85,1780420098.826218
-http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,true,82.74,AS45102,Alibaba Cloud LLC,563.23,1780420092.6592588
-http,45.126.125.60,3128,Hong Kong,HK,Hong Kong,transparent,true,29.42,AS64022,Kamatera,17060.59,1780420090.2856438
-http,193.93.54.50,8080,Hong Kong,HK,Hong Kong,transparent,true,44.32,AS397423,Tier.Net Technologies LLC,2462.36,1780420089.8465848
-http,103.1.50.42,3125,Hong Kong,HK,Kwun Tong,transparent,false,3.9,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,20589.99,1780420086.9353607
-http,47.52.223.161,5872,Hong Kong,HK,Hong Kong,transparent,true,91.65,AS45102,Alibaba Cloud LLC,500.6,1780420086.2694113
-socks5,47.83.168.191,4000,Hong Kong,HK,Hong Kong,elite,true,83.04,AS45102,Alibaba.com LLC,2931.86,1780420085.5110097
-http,154.220.66.87,40061,Hong Kong,HK,Chai Wan,elite,false,5.4,AS135097,CloudFly Net Inc Pending,9345.1,1780420085.492501
-http,154.220.66.193,40031,Hong Kong,HK,Chai Wan,elite,false,4.96,AS135097,CloudFly Net Inc Pending,11889.71,1780420083.669813
+socks4,47.243.197.73,9050,Hong Kong,HK,Hong Kong,elite,true,34.28,AS45102,Alibaba Cloud LLC,1386.49,1780420795.9401855
+http,47.83.168.191,5000,Hong Kong,HK,Hong Kong,elite,false,54.43,AS45102,Alibaba.com LLC,1103.29,1780420790.6889818
+socks5,38.76.190.38,1080,Hong Kong,HK,Kwai Chung,elite,true,80.47,AS401701,Cogent Communications,8884.85,1780420789.7129564
+socks4,47.57.242.244,5080,Hong Kong,HK,Hong Kong,elite,true,59.33,AS45102,"Alibaba (US) Technology Co., Ltd.",4556.63,1780420787.4164367
+socks4,45.95.226.101,7777,Hong Kong,HK,Hong Kong,elite,true,66.34,AS139293,UFO Network Limited,16411.89,1780420785.13045
+socks4,154.220.66.247,50205,Hong Kong,HK,Chai Wan,elite,true,5.13,AS135097,CloudFly Net Inc Pending,2987.48,1780420784.7780142
+socks4,8.217.72.249,1080,Hong Kong,HK,Hong Kong,elite,true,35.14,AS45102,"Alibaba (US) Technology Co., Ltd.",4549.71,1780420782.645662
+http,154.220.66.143,40228,Hong Kong,HK,Chai Wan,elite,false,4.29,AS135097,CloudFly Net Inc Pending,7682.23,1780420777.043916
+socks4,154.220.66.168,50126,Hong Kong,HK,Chai Wan,elite,true,4.37,AS135097,CloudFly Net Inc Pending,2181.69,1780420774.591911
+http,154.220.66.146,7000,Hong Kong,HK,Chai Wan,elite,false,6.54,AS135097,CloudFly Net Inc Pending,2242.82,1780420773.4639041
+socks4,154.21.201.50,24901,Hong Kong,HK,Hong Kong,elite,true,54.7,AS979,Cogent Communications,10154.93,1780420771.5504727
+http,154.220.66.247,40119,Hong Kong,HK,Chai Wan,elite,false,1.43,AS135097,CloudFly Net Inc Pending,5208.7,1780420771.444673
+http,154.220.66.36,40244,Hong Kong,HK,Chai Wan,elite,false,6.46,AS135097,CloudFly Net Inc Pending,2856.07,1780420771.3407166
+http,47.238.203.170,50002,Hong Kong,HK,Hong Kong,elite,true,71.7,AS45102,Alibaba Cloud LLC,1859.29,1780420769.5909114
+socks4,154.220.66.133,50217,Hong Kong,HK,Chai Wan,elite,true,7.36,AS135097,CloudFly Net Inc Pending,5032.84,1780420768.2659872
+http,154.220.66.196,40042,Hong Kong,HK,Chai Wan,elite,false,2.6,AS135097,CloudFly Net Inc Pending,10604.12,1780420765.3220253
+http,154.220.66.193,40031,Hong Kong,HK,Chai Wan,elite,false,4.98,AS135097,CloudFly Net Inc Pending,7547.82,1780420762.4838436
+http,154.220.66.232,40025,Hong Kong,HK,Chai Wan,elite,true,4.16,AS135097,CloudFly Net Inc Pending,12973.55,1780420762.1223378
+http,154.220.66.253,40126,Hong Kong,HK,Chai Wan,elite,false,3.23,AS135097,CloudFly Net Inc Pending,15372.4,1780420761.2607892
+http,154.220.66.24,40024,Hong Kong,HK,Chai Wan,elite,true,6.96,AS135097,CloudFly Net Inc Pending,7704.99,1780420761.2409065
+socks4,154.220.66.214,50002,Hong Kong,HK,Chai Wan,elite,true,4.05,AS135097,CloudFly Net Inc Pending,14297.85,1780420760.669196
+http,154.220.66.80,40007,Hong Kong,HK,Chai Wan,elite,false,5.38,AS135097,CloudFly Net Inc Pending,2618.43,1780420759.687998
+http,154.220.66.142,40181,Hong Kong,HK,Chai Wan,elite,false,2.08,AS135097,CloudFly Net Inc Pending,11871.62,1780420759.6318989
+http,154.220.66.164,40124,Hong Kong,HK,Chai Wan,elite,false,3.85,AS135097,CloudFly Net Inc Pending,9898.81,1780420759.5639513
+http,154.220.66.134,40079,Hong Kong,HK,Chai Wan,elite,true,3.23,AS135097,CloudFly Net Inc Pending,1031.7,1780420758.9479823
+http,154.220.66.191,40104,Hong Kong,HK,Chai Wan,elite,true,3.73,AS135097,CloudFly Net Inc Pending,945.51,1780420758.898488
+http,154.220.66.146,40093,Hong Kong,HK,Chai Wan,elite,true,4.54,AS135097,CloudFly Net Inc Pending,1043.48,1780420758.8516738
+http,154.220.66.121,40158,Hong Kong,HK,Chai Wan,elite,true,4.28,AS135097,CloudFly Net Inc Pending,2682.63,1780420758.2263017
+http,154.220.66.41,7000,Hong Kong,HK,Chai Wan,elite,false,6.57,AS135097,CloudFly Net Inc Pending,4629.05,1780420756.775865
+http,154.220.66.193,40184,Hong Kong,HK,Chai Wan,elite,false,4.25,AS135097,CloudFly Net Inc Pending,5860.75,1780420756.171926
+http,154.220.66.214,40135,Hong Kong,HK,Chai Wan,elite,true,3.97,AS135097,CloudFly Net Inc Pending,2568.46,1780420756.0162096
+http,154.220.66.190,40214,Hong Kong,HK,Chai Wan,elite,true,5.24,AS135097,CloudFly Net Inc Pending,5555.39,1780420755.6451116
+http,154.220.66.33,40206,Hong Kong,HK,Chai Wan,elite,true,4.76,AS135097,CloudFly Net Inc Pending,3866.02,1780420755.1837473
+socks5,118.107.29.235,12856,Hong Kong,HK,Sheung Wan,elite,true,99.59,AS152194,CTG Server Ltd.,919.18,1780420754.1137853
+http,154.220.66.164,40180,Hong Kong,HK,Chai Wan,elite,false,6.57,AS135097,CloudFly Net Inc Pending,9186.31,1780420751.9933057
+http,154.220.66.33,40104,Hong Kong,HK,Chai Wan,elite,true,3.01,AS135097,CloudFly Net Inc Pending,7906.52,1780420750.7618108
+http,154.220.66.213,40201,Hong Kong,HK,Chai Wan,elite,false,2.97,AS135097,CloudFly Net Inc Pending,8524.39,1780420749.911988
+http,154.21.201.50,7890,Hong Kong,HK,Hong Kong,elite,false,38.45,AS979,Cogent Communications,7427.93,1780420748.8050358
+http,39.109.113.97,4090,Hong Kong,HK,Kwai Chung,elite,false,69.22,AS142403,Yisu Cloud LTD,545.24,1780420743.0248432
+socks5,47.243.59.250,1011,Hong Kong,HK,Hong Kong,elite,true,54.02,AS45102,Alibaba Cloud LLC,8254.32,1780420742.673602
+http,34.96.238.40,8080,Hong Kong,HK,Hong Kong,elite,false,19.0,AS396982,Google LLC,1237.91,1780420740.8718805
+http,193.93.54.50,8080,Hong Kong,HK,Hong Kong,transparent,false,44.47,AS397423,Tier.Net Technologies LLC,5200.51,1780420740.3452778
+http,38.76.190.38,1080,Hong Kong,HK,Kwai Chung,elite,true,75.45,AS401701,Cogent Communications,10664.51,1780420737.9494498
+socks5,47.76.144.139,6588,Hong Kong,HK,Hong Kong,elite,true,2.11,AS45102,Alibaba Cloud LLC,6366.03,1780420737.1593056
+socks5,47.76.144.139,4006,Hong Kong,HK,Hong Kong,elite,true,2.35,AS45102,Alibaba Cloud LLC,6367.62,1780420736.8778274
+socks5,47.243.197.73,9050,Hong Kong,HK,Hong Kong,elite,true,29.27,AS45102,Alibaba Cloud LLC,10741.61,1780420735.4147193
+http,47.83.168.191,4000,Hong Kong,HK,Hong Kong,elite,true,73.25,AS45102,Alibaba.com LLC,1544.94,1780420733.2533808
+http,154.21.201.50,24901,Hong Kong,HK,Hong Kong,elite,false,48.21,AS979,Cogent Communications,8055.67,1780420730.5746627
+http,154.220.66.186,40041,Hong Kong,HK,Chai Wan,elite,false,5.6,AS135097,CloudFly Net Inc Pending,4504.15,1780420726.4116192
+http,42.200.76.16,3888,Hong Kong,HK,Cullinan West,anonymous,true,36.63,AS4760,PCCW IMSBiz,11472.44,1780420724.268911
+http,154.220.66.162,7000,Hong Kong,HK,Chai Wan,elite,false,6.21,AS135097,CloudFly Net Inc Pending,5755.87,1780420719.9998
+http,154.220.66.121,40063,Hong Kong,HK,Chai Wan,elite,false,4.36,AS135097,CloudFly Net Inc Pending,4928.37,1780420719.2031977
+http,47.238.136.177,3128,Hong Kong,HK,Hong Kong,transparent,true,53.0,AS45102,Alibaba Cloud LLC,11157.49,1780420718.3168776
+http,47.242.243.198,2233,Hong Kong,HK,Hong Kong,elite,true,99.2,AS45102,Alibaba.com LLC,686.86,1780420717.7667634
+http,47.243.92.199,3128,Hong Kong,HK,Hong Kong,elite,true,82.74,AS45102,Alibaba Cloud LLC,545.65,1780420717.2924583
+http,154.220.66.191,40223,Hong Kong,HK,Chai Wan,elite,false,3.2,AS135097,CloudFly Net Inc Pending,16831.12,1780420714.0476384
+http,139.198.113.42,10023,Hong Kong,HK,Hong Kong,anonymous,true,40.58,AS134366,Yunify Technologies Inc,5530.45,1780420712.637492
+http,154.220.66.111,40047,Hong Kong,HK,Chai Wan,elite,false,3.97,AS135097,CloudFly Net Inc Pending,5064.16,1780420712.5506458
+socks5,47.76.144.139,1080,Hong Kong,HK,Hong Kong,elite,true,2.1,AS45102,Alibaba Cloud LLC,6370.64,1780420709.794847
+http,154.220.66.218,40108,Hong Kong,HK,Chai Wan,elite,false,1.86,AS135097,CloudFly Net Inc Pending,4244.08,1780420707.3771348
+socks5,47.83.168.191,4000,Hong Kong,HK,Hong Kong,elite,true,83.05,AS45102,Alibaba.com LLC,3605.7,1780420703.8829625
+socks5,8.210.54.203,1080,Hong Kong,HK,Hong Kong,elite,true,86.49,AS45102,Alibaba.com LLC,1083.63,1780420696.274909
+http,82.158.224.121,443,Hong Kong,HK,Mong Kok,elite,false,67.83,AS401701,cognetcloud INC,4013.51,1780420694.7070048
+http,103.1.50.75,3125,Hong Kong,HK,Kwun Tong,transparent,false,5.4,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,11374.07,1780420692.6565983
+socks5,47.83.168.191,5000,Hong Kong,HK,Hong Kong,elite,true,78.38,AS45102,Alibaba.com LLC,3179.19,1780420692.5685797
+socks5,8.210.8.187,6003,Hong Kong,HK,Hong Kong,elite,true,36.93,AS45102,Alibaba.com LLC,11848.95,1780420692.2888045
+socks5,47.57.242.244,5080,Hong Kong,HK,Hong Kong,elite,true,51.44,AS45102,"Alibaba (US) Technology Co., Ltd.",7726.49,1780420691.1816125
+socks5,47.79.79.35,10808,Hong Kong,HK,Hong Kong,elite,true,89.08,AS45102,"Alibaba (US) Technology Co., Ltd.",1112.98,1780420689.2676437
+http,154.220.66.33,40157,Hong Kong,HK,Chai Wan,elite,false,6.73,AS135097,CloudFly Net Inc Pending,5754.67,1780420689.0839002
+http,154.220.66.120,40092,Hong Kong,HK,Chai Wan,elite,false,3.74,AS135097,CloudFly Net Inc Pending,7403.43,1780420686.5633566
+socks5,47.238.203.170,50002,Hong Kong,HK,Hong Kong,elite,true,73.42,AS45102,Alibaba Cloud LLC,1783.64,1780420685.3771641
+socks5,47.86.42.224,1011,Hong Kong,HK,Hong Kong,elite,true,79.18,AS45102,Alibaba Cloud LLC,13808.27,1780420682.8920386
+http,154.220.66.234,40021,Hong Kong,HK,Chai Wan,elite,false,3.13,AS135097,CloudFly Net Inc Pending,12688.89,1780420680.7795646
+http,192.238.143.177,1080,Hong Kong,HK,Central,elite,false,51.4,AS138995,Antbox Networks Limited,12048.84,1780420680.028153
+http,154.220.66.139,7000,Hong Kong,HK,Chai Wan,elite,false,6.77,AS135097,CloudFly Net Inc Pending,6218.69,1780420679.835989
+http,154.223.188.202,1194,Hong Kong,HK,Hong Kong,elite,true,67.58,AS137443,"ChangLian Network Technology Co., Limited",14623.71,1780420671.903965
+http,154.220.66.120,40138,Hong Kong,HK,Chai Wan,elite,false,6.3,AS135097,CloudFly Net Inc Pending,7408.69,1780420666.2838776
+socks5,118.107.29.238,12856,Hong Kong,HK,Sheung Wan,elite,true,99.83,AS152194,CTG Server Ltd.,1197.98,1780420663.3156137
+http,154.220.66.28,7000,Hong Kong,HK,Chai Wan,elite,false,6.36,AS135097,CloudFly Net Inc Pending,11727.2,1780420657.7650857
+http,154.220.66.218,40127,Hong Kong,HK,Chai Wan,elite,true,1.99,AS135097,CloudFly Net Inc Pending,4223.77,1780420657.3918686
+socks5,47.83.134.196,1011,Hong Kong,HK,Hong Kong,elite,true,50.29,AS45102,Alibaba.com LLC,12703.53,1780420652.9509737
+http,154.220.66.59,40237,Hong Kong,HK,Chai Wan,elite,true,6.57,AS135097,CloudFly Net Inc Pending,3078.0,1780420649.8923914
+http,154.220.66.219,40165,Hong Kong,HK,Chai Wan,elite,true,3.45,AS135097,CloudFly Net Inc Pending,6167.19,1780420648.919727
+http,154.220.66.68,40092,Hong Kong,HK,Chai Wan,elite,false,2.37,AS135097,CloudFly Net Inc Pending,16427.59,1780420642.1119268
+http,154.220.66.213,40107,Hong Kong,HK,Chai Wan,elite,true,2.88,AS135097,CloudFly Net Inc Pending,1030.52,1780420634.7518857
+http,154.220.66.60,40010,Hong Kong,HK,Chai Wan,elite,true,3.41,AS135097,CloudFly Net Inc Pending,5287.53,1780420630.5816174
+http,154.220.66.80,40160,Hong Kong,HK,Chai Wan,elite,true,4.03,AS135097,CloudFly Net Inc Pending,5886.79,1780420629.3959022
+http,154.220.66.76,40082,Hong Kong,HK,Chai Wan,elite,true,6.87,AS135097,CloudFly Net Inc Pending,9931.5,1780420623.6946898
+http,103.1.50.52,3125,Hong Kong,HK,Kwun Tong,transparent,true,18.22,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,13749.88,1780420588.378618
+socks5,47.76.153.11,1011,Hong Kong,HK,Hong Kong,elite,true,83.25,AS45102,Alibaba Cloud LLC,10680.02,1780420581.0328732
+http,47.52.223.161,5872,Hong Kong,HK,Hong Kong,transparent,true,91.66,AS45102,Alibaba Cloud LLC,530.43,1780420580.5358937
+http,103.1.50.40,3125,Hong Kong,HK,Kwun Tong,transparent,false,1.33,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,11267.69,1780420576.2384694
+http,154.220.66.198,40174,Hong Kong,HK,Chai Wan,elite,false,6.68,AS135097,CloudFly Net Inc Pending,19684.09,1780420576.1383119
+socks5,68.64.179.186,1080,Hong Kong,HK,Tai Kok Tsui,elite,true,25.74,AS139659,LucidaCloud Limited,9042.98,1780420575.113247
+socks5,154.219.96.175,1080,Hong Kong,HK,Hong Kong,elite,true,55.27,AS401701,cognetcloud INC,2126.53,1780420572.3682344
+http,154.220.66.10,40140,Hong Kong,HK,Chai Wan,elite,false,1.65,AS135097,CloudFly Net Inc Pending,7282.41,1780420543.97301
+http,154.220.66.24,40028,Hong Kong,HK,Chai Wan,elite,false,5.79,AS135097,CloudFly Net Inc Pending,15131.74,1780420537.0799396
+socks5,47.238.197.190,1011,Hong Kong,HK,Hong Kong,elite,true,57.39,AS45102,Alibaba Cloud LLC,1493.53,1780420532.2723508
+socks5,47.83.14.133,1011,Hong Kong,HK,Hong Kong,elite,true,74.99,AS45102,"Alibaba (US) Technology Co., Ltd.",4565.75,1780420526.8826046
+socks5,47.238.203.170,50001,Hong Kong,HK,Hong Kong,elite,true,42.12,AS45102,Alibaba Cloud LLC,944.86,1780420526.0859582
+http,154.220.66.248,40025,Hong Kong,HK,Chai Wan,elite,false,3.95,AS135097,CloudFly Net Inc Pending,16545.89,1780420522.6367667
+socks5,47.238.134.126,8118,Hong Kong,HK,Hong Kong,elite,true,2.41,AS45102,Alibaba Cloud LLC,6365.0,1780420461.3795888
+socks5,47.238.134.126,8004,Hong Kong,HK,Hong Kong,elite,true,2.28,AS45102,Alibaba Cloud LLC,13592.95,1780420450.2860117
+socks5,47.243.208.183,1011,Hong Kong,HK,Hong Kong,elite,true,46.69,AS45102,Alibaba Cloud LLC,7358.81,1780420435.1016505
+socks5,45.95.226.101,7777,Hong Kong,HK,Hong Kong,elite,true,46.22,AS139293,UFO Network Limited,25001.03,1780420311.551899
+socks5,154.21.201.50,24901,Hong Kong,HK,Hong Kong,elite,true,53.05,AS979,Cogent Communications,8296.96,1780420284.7364726
+socks5,47.82.113.251,1011,Hong Kong,HK,Hong Kong,elite,true,88.99,AS45102,"Alibaba (US) Technology Co., Ltd.",15155.79,1780420252.7347722
+socks5,118.107.29.237,12856,Hong Kong,HK,Sheung Wan,elite,true,99.62,AS152194,CTG Server Ltd.,913.08,1780420248.003144
 socks5,8.210.8.187,6007,Hong Kong,HK,Hong Kong,elite,true,42.22,AS45102,Alibaba.com LLC,10507.84,1780420081.2991378
-http,47.242.243.198,2233,Hong Kong,HK,Hong Kong,elite,true,99.2,AS45102,Alibaba.com LLC,673.66,1780420078.2345657
-http,154.82.84.208,3128,Hong Kong,HK,Hong Kong,transparent,true,35.29,AS399077,Tcloudnet,9812.9,1780420072.535902
-socks5,47.76.153.11,1011,Hong Kong,HK,Hong Kong,elite,true,83.24,AS45102,Alibaba Cloud LLC,10871.11,1780420071.422592
-http,154.220.66.87,40219,Hong Kong,HK,Chai Wan,elite,false,6.53,AS135097,CloudFly Net Inc Pending,13143.75,1780420061.7511153
-http,154.21.201.50,24901,Hong Kong,HK,Hong Kong,elite,false,48.15,AS979,Cogent Communications,4586.77,1780420050.1097305
-http,154.220.66.248,40025,Hong Kong,HK,Chai Wan,elite,false,3.91,AS135097,CloudFly Net Inc Pending,10240.84,1780420046.5095677
-http,154.220.66.6,40139,Hong Kong,HK,Chai Wan,elite,false,6.12,AS135097,CloudFly Net Inc Pending,14707.52,1780420046.4479482
-http,38.76.190.38,1080,Hong Kong,HK,Kwai Chung,elite,false,75.46,AS401701,Cogent Communications,4750.38,1780420044.9885654
-http,47.238.136.177,3128,Hong Kong,HK,Hong Kong,transparent,false,52.73,AS45102,Alibaba Cloud LLC,19561.3,1780420030.348486
-http,154.220.66.162,7000,Hong Kong,HK,Chai Wan,elite,false,6.2,AS135097,CloudFly Net Inc Pending,868.2,1780420028.3721027
-http,154.220.66.123,40085,Hong Kong,HK,Chai Wan,elite,false,4.28,AS135097,CloudFly Net Inc Pending,7576.55,1780420027.7248156
-socks5,154.219.96.175,1080,Hong Kong,HK,Hong Kong,elite,true,55.25,AS401701,cognetcloud INC,1875.76,1780420024.360886
-http,154.220.66.134,40079,Hong Kong,HK,Chai Wan,elite,false,3.19,AS135097,CloudFly Net Inc Pending,8409.7,1780420020.7601178
-http,103.1.50.220,3125,Hong Kong,HK,Kwun Tong,transparent,true,3.85,AS142352,CPCNet Hong Kong Ltd. - IP Administrator,17731.3,1780420014.2660441
-socks5,47.79.79.35,10808,Hong Kong,HK,Hong Kong,elite,true,89.08,AS45102,"Alibaba (US) Technology Co., Ltd.",1090.03,1780419995.8390613
-socks5,47.243.197.73,9050,Hong Kong,HK,Hong Kong,elite,true,29.26,AS45102,Alibaba Cloud LLC,18171.07,1780419991.8273003
-socks5,38.76.190.38,1080,Hong Kong,HK,Kwai Chung,elite,true,80.48,AS401701,Cogent Communications,9564.69,1780419939.851888
-socks5,154.209.4.204,38080,Hong Kong,HK,Chai Wan,elite,true,6.72,AS142403,Yisu Cloud LTD,1202.29,1780419870.683675
-socks5,47.238.203.170,50000,Hong Kong,HK,Hong Kong,elite,true,48.94,AS45102,Alibaba Cloud LLC,1701.41,1780419864.9000285
-socks5,154.12.94.120,1080,Hong Kong,HK,Mong Kok,elite,true,55.5,AS8796,Cogent Communications,24142.52,1780419851.3589895
-socks5,47.243.255.167,1011,Hong Kong,HK,Hong Kong,elite,true,65.9,AS45102,Alibaba Cloud LLC,2093.49,1780419851.2350762
-socks5,156.226.173.115,10808,Hong Kong,HK,Hong Kong,elite,true,34.81,AS61112,Akile LTD,28726.65,1780419838.38657
-socks5,47.83.14.133,1011,Hong Kong,HK,Hong Kong,elite,true,74.97,AS45102,"Alibaba (US) Technology Co., Ltd.",5249.32,1780419812.3626103
-socks5,118.107.29.235,12856,Hong Kong,HK,Sheung Wan,elite,true,99.59,AS152194,CTG Server Ltd.,939.2,1780419758.2257068
-socks5,154.21.201.50,24901,Hong Kong,HK,Hong Kong,elite,true,53.04,AS979,Cogent Communications,19654.23,1780419563.5964327
-socks5,8.210.8.187,6003,Hong Kong,HK,Hong Kong,elite,true,36.9,AS45102,Alibaba.com LLC,1816.17,1780419535.3194818
-socks5,8.210.17.35,8004,Hong Kong,HK,Hong Kong,elite,true,1.73,AS45102,Alibaba.com LLC,10142.17,1780419518.0357943
-http,103.210.22.17,3128,Hong Kong,HK,Hong Kong,transparent,false,44.02,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,934.04,1780420179.7941804
-http,20.205.16.149,3128,Hong Kong,HK,Hong Kong,transparent,true,10.87,AS8075,Microsoft Corporation,3967.26,1780420161.2183902
-http,43.161.239.147,8888,Hong Kong,HK,Hong Kong,elite,true,99.76,AS132203,Aceville Pte.ltd,520.3,1780420147.4709306
-socks5,45.194.33.12,30001,Hong Kong,HK,Hong Kong,elite,true,99.83,AS138995,Antbox Network Limited,1169.48,1780420125.1291087
-socks5,103.231.12.249,1080,Hong Kong,HK,San Po Kong,elite,true,96.82,AS55933,Converged Communications Limited,2245.94,1780420061.6080246
-socks5,43.161.217.219,1080,Hong Kong,HK,Hong Kong,elite,true,99.97,AS132203,Aceville Pte.ltd,1095.46,1780419772.7405536
+http,45.126.125.60,3128,Hong Kong,HK,Hong Kong,transparent,false,29.52,AS64022,Kamatera,14352.48,1780420766.7947047
+http,193.239.86.180,80,Hong Kong,HK,Hong Kong,elite,false,89.14,AS9009,M247 Europe SRL,770.29,1780420766.335849
+http,43.161.239.147,8888,Hong Kong,HK,Hong Kong,elite,true,99.76,AS132203,Aceville Pte.ltd,570.63,1780420764.297833
+http,91.208.104.147,8888,Hong Kong,HK,Chai Wan,elite,false,15.69,AS6134,Xnnet LLC,627.96,1780420762.527928
+http,154.220.66.196,40090,Hong Kong,HK,Chai Wan,elite,false,5.85,AS135097,CloudFly Net Inc Pending,11944.15,1780420759.8878882
+http,154.220.66.33,40054,Hong Kong,HK,Chai Wan,elite,false,2.67,AS135097,CloudFly Net Inc Pending,2134.15,1780420757.7678564
+http,154.220.66.36,40245,Hong Kong,HK,Chai Wan,elite,false,4.57,AS135097,CloudFly Net Inc Pending,6900.81,1780420755.0597932
+http,103.210.22.17,3128,Hong Kong,HK,Hong Kong,transparent,false,44.03,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1156.67,1780420743.378832
+http,203.19.38.114,1080,Hong Kong,HK,Hong Kong,elite,false,73.97,AS23764,China Telecom Global networks,532.12,1780420729.5911622
+http,154.220.66.7,40164,Hong Kong,HK,Chai Wan,elite,false,4.54,AS135097,CloudFly Net Inc Pending,6268.79,1780420723.1035073
+http,154.220.66.86,40004,Hong Kong,HK,Chai Wan,elite,true,2.29,AS135097,CloudFly Net Inc Pending,5397.92,1780420701.1159825
+socks5,103.231.12.249,1080,Hong Kong,HK,San Po Kong,elite,true,96.83,AS55933,Converged Communications Limited,4415.52,1780420685.4029734
+http,20.2.221.52,3456,Hong Kong,HK,Hong Kong,transparent,true,30.53,AS8075,Microsoft Corporation,8762.76,1780420679.6079447
+http,154.220.66.60,7000,Hong Kong,HK,Chai Wan,elite,false,6.49,AS135097,CloudFly Net Inc Pending,13621.75,1780420668.6106257
+http,154.220.66.59,40107,Hong Kong,HK,Chai Wan,elite,true,3.63,AS135097,CloudFly Net Inc Pending,4795.07,1780420629.8481402
+socks5,43.161.217.219,1080,Hong Kong,HK,Hong Kong,elite,true,99.97,AS132203,Aceville Pte.ltd,1086.62,1780420597.7561257
+socks5,156.226.173.115,10808,Hong Kong,HK,Hong Kong,elite,true,34.82,AS61112,Akile LTD,20068.46,1780420590.4522367
+socks5,45.194.33.12,30001,Hong Kong,HK,Hong Kong,elite,true,99.83,AS138995,Antbox Network Limited,1199.06,1780420564.5185091
+socks5,43.161.221.94,8888,Hong Kong,HK,Hong Kong,elite,true,62.47,AS132203,Aceville Pte.ltd,14205.73,1780420340.8307514
