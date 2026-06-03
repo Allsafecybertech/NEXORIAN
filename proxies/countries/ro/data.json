@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "185.141.26.131",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Cârţişoara",
-    "anonymity": "elite",
+    "city": "Bucharest",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 61.82,
+    "uptime_percent": 31.83,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 8902.69,
+    "last_checked": 1780516158.0151796
+  },
+  {
+    "protocol": "http",
+    "ip": "89.136.79.157",
+    "port": 8085,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Brăila",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.98,
     "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 3251.65,
-    "last_checked": 1780515542.7633078
+    "isp": "UPC Romania",
+    "latency_ms": 3491.62,
+    "last_checked": 1780516105.248714
   },
   {
     "protocol": "http",
@@ -26,22 +41,22 @@
     "uptime_percent": 16.91,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 528.18,
-    "last_checked": 1780515481.3572268
+    "latency_ms": 5467.48,
+    "last_checked": 1780516092.3065562
   },
   {
-    "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "45.142.140.63",
+    "port": 1080,
     "country": "Romania",
     "country_code": "RO",
     "city": "Bucharest",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.82,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 11708.33,
-    "last_checked": 1780515435.329524
+    "uptime_percent": 41.99,
+    "asn": "AS39287",
+    "isp": "ab stract",
+    "latency_ms": 171.5,
+    "last_checked": 1780515859.471611
   }
 ]
