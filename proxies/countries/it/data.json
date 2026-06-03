@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Furnari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.5,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 895.86,
+    "last_checked": 1780464600.6696005
+  },
+  {
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -11,23 +26,8 @@
     "uptime_percent": 86.61,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 164.0,
-    "last_checked": 1780464002.6951644
-  },
-  {
-    "protocol": "socks4",
-    "ip": "2.115.212.62",
-    "port": 48293,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Furnari",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.49,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A",
-    "latency_ms": 1457.25,
-    "last_checked": 1780463995.756111
+    "latency_ms": 117.45,
+    "last_checked": 1780464599.2592182
   },
   {
     "protocol": "socks4",
@@ -41,8 +41,53 @@
     "uptime_percent": 99.9,
     "asn": "AS136258",
     "isp": "BrainStorm Network, Inc",
-    "latency_ms": 137.04,
-    "last_checked": 1780463987.9005601
+    "latency_ms": 128.43,
+    "last_checked": 1780464598.4672947
+  },
+  {
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.8,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 120.7,
+    "last_checked": 1780464582.6536622
+  },
+  {
+    "protocol": "http",
+    "ip": "176.126.83.165",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Florence",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network, Inc",
+    "latency_ms": 218.59,
+    "last_checked": 1780464565.9919872
+  },
+  {
+    "protocol": "http",
+    "ip": "195.231.69.203",
+    "port": 80,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Ponte San Pietro",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.9,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 54.24,
+    "last_checked": 1780464556.7778268
   },
   {
     "protocol": "http",
@@ -56,11 +101,11 @@
     "uptime_percent": 100.0,
     "asn": "AS21176",
     "isp": "Engineering D.HUB S.p.A.",
-    "latency_ms": 170.26,
-    "last_checked": 1780463987.421266
+    "latency_ms": 180.14,
+    "last_checked": 1780464547.52594
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "176.126.83.165",
     "port": 1080,
     "country": "Italy",
@@ -71,53 +116,8 @@
     "uptime_percent": 100.0,
     "asn": "AS136258",
     "isp": "BrainStorm Network, Inc",
-    "latency_ms": 157.29,
-    "last_checked": 1780463977.0582392
-  },
-  {
-    "protocol": "http",
-    "ip": "92.42.96.84",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Gorgonzola",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.1,
-    "asn": "AS199785",
-    "isp": "NTT IS SRL",
-    "latency_ms": 7417.47,
-    "last_checked": 1780463975.5753338
-  },
-  {
-    "protocol": "http",
-    "ip": "149.86.206.27",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Lioni",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.34,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 6161.77,
-    "last_checked": 1780463968.437782
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.79,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 143.95,
-    "last_checked": 1780463960.9716804
+    "latency_ms": 226.76,
+    "last_checked": 1780464521.4715912
   },
   {
     "protocol": "socks5",
@@ -128,40 +128,10 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.0,
+    "uptime_percent": 79.98,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 152.02,
-    "last_checked": 1780463955.3828773
-  },
-  {
-    "protocol": "http",
-    "ip": "185.191.106.41",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.29,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 4801.77,
-    "last_checked": 1780463950.2239652
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.126.83.165",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Florence",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS136258",
-    "isp": "BrainStorm Network, Inc",
-    "latency_ms": 1597.1,
-    "last_checked": 1780463874.1744611
+    "latency_ms": 125.0,
+    "last_checked": 1780464515.2101233
   }
 ]
