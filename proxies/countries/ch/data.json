@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.58,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 65.09,
+    "last_checked": 1780479592.6216938
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -11,8 +26,23 @@
     "uptime_percent": 85.46,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4460.07,
-    "last_checked": 1780478986.9577303
+    "latency_ms": 4563.0,
+    "last_checked": 1780479582.3277912
+  },
+  {
+    "protocol": "socks4",
+    "ip": "179.43.180.232",
+    "port": 1081,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.87,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 3572.84,
+    "last_checked": 1780479580.293464
   },
   {
     "protocol": "http",
@@ -23,25 +53,40 @@
     "city": "Wetzikon",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 87.72,
+    "uptime_percent": 87.73,
     "asn": "AS264617",
     "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 1474.83,
-    "last_checked": 1780478983.7086427
+    "latency_ms": 5336.6,
+    "last_checked": 1780479556.4763722
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.94,
+    "uptime_percent": 81.96,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3928.36,
-    "last_checked": 1780478977.8519084
+    "latency_ms": 2141.26,
+    "last_checked": 1780479470.172489
+  },
+  {
+    "protocol": "socks5",
+    "ip": "179.43.180.232",
+    "port": 1081,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.0,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 2254.65,
+    "last_checked": 1780479334.1766362
   }
 ]
