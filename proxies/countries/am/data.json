@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.24,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 635.71,
+    "last_checked": 1780503540.5856016
+  },
+  {
+    "protocol": "socks4",
     "ip": "130.193.123.34",
     "port": 5678,
     "country": "Armenia",
@@ -11,38 +26,53 @@
     "uptime_percent": 17.3,
     "asn": "AS49800",
     "isp": "GNC",
-    "latency_ms": 3332.2,
-    "last_checked": 1780502982.8076046
+    "latency_ms": 1300.98,
+    "last_checked": 1780503532.4253757
   },
   {
-    "protocol": "socks4",
-    "ip": "185.215.53.193",
-    "port": 3629,
+    "protocol": "http",
+    "ip": "91.204.190.140",
+    "port": 81,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.5,
+    "asn": "AS42991",
+    "isp": "BioNet LLC",
+    "latency_ms": 11851.24,
+    "last_checked": 1780503477.882977
+  },
+  {
+    "protocol": "http",
+    "ip": "5.77.252.202",
+    "port": 8080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.61,
+    "asn": "AS44395",
+    "isp": "Ucom Mobile Network",
+    "latency_ms": 1820.26,
+    "last_checked": 1780503453.3318968
+  },
+  {
+    "protocol": "http",
+    "ip": "46.130.117.84",
+    "port": 8080,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 3.25,
-    "asn": "AS205368",
-    "isp": "Fnet LLC",
-    "latency_ms": 7633.84,
-    "last_checked": 1780502978.9133694
-  },
-  {
-    "protocol": "socks4",
-    "ip": "45.142.195.110",
-    "port": 995,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 64.95,
-    "asn": "AS215929",
-    "isp": "Data Campus Limited",
-    "latency_ms": 897.93,
-    "last_checked": 1780503002.3690352
+    "ssl": false,
+    "uptime_percent": 13.44,
+    "asn": "AS43733",
+    "isp": "K-Telecom GPRS/3G",
+    "latency_ms": 3416.64,
+    "last_checked": 1780503419.3850162
   },
   {
     "protocol": "socks5",
@@ -53,10 +83,10 @@
     "city": "Yerevan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.47,
+    "uptime_percent": 63.04,
     "asn": "AS215929",
     "isp": "Data Campus Limited",
-    "latency_ms": 7648.13,
-    "last_checked": 1780502866.594007
+    "latency_ms": 411.2,
+    "last_checked": 1780503276.641825
   }
 ]
