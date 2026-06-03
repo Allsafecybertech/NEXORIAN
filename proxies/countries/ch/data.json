@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.75,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3554.66,
+    "last_checked": 1780449295.6864173
+  },
+  {
+    "protocol": "socks4",
     "ip": "179.43.180.232",
     "port": 1081,
     "country": "Switzerland",
@@ -8,26 +23,41 @@
     "city": "Rümlang",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.31,
+    "uptime_percent": 39.33,
     "asn": "AS51852",
     "isp": "Private Layer INC",
-    "latency_ms": 7158.16,
-    "last_checked": 1780448984.1290588
+    "latency_ms": 3354.39,
+    "last_checked": 1780449281.437279
   },
   {
     "protocol": "http",
-    "ip": "45.95.232.35",
+    "ip": "179.43.180.232",
     "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.51,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 12690.38,
+    "last_checked": 1780449237.3078456
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 75.99,
+    "ssl": true,
+    "uptime_percent": 82.38,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 6140.85,
-    "last_checked": 1780448897.8566928
+    "latency_ms": 4639.12,
+    "last_checked": 1780449102.1828334
   },
   {
     "protocol": "http",
@@ -38,10 +68,10 @@
     "city": "Wetzikon",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 87.17,
+    "uptime_percent": 87.18,
     "asn": "AS264617",
     "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 294.39,
-    "last_checked": 1780449001.1754808
+    "latency_ms": 595.77,
+    "last_checked": 1780449277.578276
   }
 ]
