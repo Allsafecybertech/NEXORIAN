@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.98,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 1141.03,
+    "last_checked": 1780504789.6411765
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cluj-Napoca",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 24.91,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 6571.8,
-    "last_checked": 1780504163.5321755
+    "uptime_percent": 11.51,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 1596.7,
+    "last_checked": 1780504611.768012
   },
   {
     "protocol": "http",
@@ -26,22 +41,7 @@
     "uptime_percent": 16.9,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 1170.66,
-    "last_checked": 1780504129.3160937
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.142.140.63",
-    "port": 1080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.71,
-    "asn": "AS39287",
-    "isp": "ab stract",
-    "latency_ms": 161.13,
-    "last_checked": 1780503979.6414979
+    "latency_ms": 367.47,
+    "last_checked": 1780504802.4479668
   }
 ]
