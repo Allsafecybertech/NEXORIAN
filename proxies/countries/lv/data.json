@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.13.164.73",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.236.22.192",
+    "port": 9050,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.06,
-    "asn": "AS12578",
-    "isp": "SIA Tet",
-    "latency_ms": 2226.86,
-    "last_checked": 1780502328.778969
-  },
-  {
-    "protocol": "http",
-    "ip": "31.57.29.58",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.91,
-    "asn": "AS56971",
-    "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 3675.95,
-    "last_checked": 1780502288.433815
+    "uptime_percent": 70.8,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 1802.21,
+    "last_checked": 1780502997.527474
   },
   {
     "protocol": "socks5",
@@ -38,10 +23,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.36,
+    "uptime_percent": 63.83,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 8098.12,
-    "last_checked": 1780502087.4179285
+    "latency_ms": 1314.05,
+    "last_checked": 1780502860.8122551
+  },
+  {
+    "protocol": "socks4",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.66,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 518.2,
+    "last_checked": 1780503000.1297479
   }
 ]
