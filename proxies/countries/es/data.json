@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.121.15.190",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 16.43,
-    "asn": "AS400992",
-    "isp": "ZhouyiSat Communications",
-    "latency_ms": 6866.66,
-    "last_checked": 1780453742.2730227
-  },
-  {
     "protocol": "socks4",
     "ip": "65.20.105.241",
     "port": 10001,
@@ -26,23 +11,38 @@
     "uptime_percent": 41.41,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 1159.73,
-    "last_checked": 1780453739.6371613
+    "latency_ms": 4153.07,
+    "last_checked": 1780454382.865187
   },
   {
-    "protocol": "socks5",
-    "ip": "85.117.248.36",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 20500,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Olot",
+    "city": "Valencia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.95,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 4725.63,
+    "last_checked": 1780454367.3663325
+  },
+  {
+    "protocol": "http",
+    "ip": "88.1.150.79",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alovera",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.61,
-    "asn": "AS210086",
-    "isp": "Connecta 1876 SLU",
-    "latency_ms": 351.64,
-    "last_checked": 1780453723.8522158
+    "ssl": false,
+    "uptime_percent": 23.96,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 4275.33,
+    "last_checked": 1780454332.7783313
   },
   {
     "protocol": "http",
@@ -56,7 +56,22 @@
     "uptime_percent": 7.32,
     "asn": "AS206276",
     "isp": "Citelia s.a.",
-    "latency_ms": 7348.55,
-    "last_checked": 1780453700.003944
+    "latency_ms": 5263.93,
+    "last_checked": 1780454255.689398
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.245.197.146",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ocaña",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 2.18,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 335.45,
+    "last_checked": 1780454132.1615899
   }
 ]
