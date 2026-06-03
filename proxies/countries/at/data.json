@@ -7,12 +7,12 @@
     "country_code": "AT",
     "city": "Salzburg",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 7.61,
+    "ssl": false,
+    "uptime_percent": 7.66,
     "asn": "AS25255",
     "isp": "customers with static IP",
-    "latency_ms": 3761.09,
-    "last_checked": 1780466981.070262
+    "latency_ms": 11875.99,
+    "last_checked": 1780467531.4879854
   },
   {
     "protocol": "http",
@@ -26,7 +26,37 @@
     "uptime_percent": 69.35,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 5519.72,
-    "last_checked": 1780466956.3367226
+    "latency_ms": 3009.73,
+    "last_checked": 1780467529.167184
+  },
+  {
+    "protocol": "http",
+    "ip": "80.245.197.246",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 20.73,
+    "asn": "AS21360",
+    "isp": "Empirion Telekommunikations Services GmbH",
+    "latency_ms": 9662.47,
+    "last_checked": 1780467520.8159602
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.113.106.198",
+    "port": 987,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.85,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 1054.51,
+    "last_checked": 1780467584.6120412
   }
 ]
