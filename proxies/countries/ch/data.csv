@@ -1,4 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,185.191.239.248,3128,Switzerland,CH,Wetzikon,transparent,true,87.23,AS264617,Geronimo Ramirez Computer Network,5487.54,1780453165.257315
-http,45.59.122.132,80,Switzerland,CH,Bern,elite,true,66.47,AS14956,RouterHosting LLC,57.49,1780453112.341391
-http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,true,76.0,AS215540,Global Connectivity Solutions LLP,3934.05,1780453097.252269
+socks4,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,85.66,AS215540,Global Connectivity Solutions LLP,2610.99,1780453780.0205753
+http,185.191.239.248,3128,Switzerland,CH,Wetzikon,transparent,true,87.24,AS264617,Geronimo Ramirez Computer Network,1574.05,1780453743.5571444
+http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,false,76.0,AS215540,Global Connectivity Solutions LLP,2663.89,1780453732.85345
+http,45.59.122.132,80,Switzerland,CH,Bern,elite,true,66.47,AS14956,RouterHosting LLC,52.16,1780453722.5561519
+socks5,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,82.24,AS215540,Global Connectivity Solutions LLP,2176.29,1780453703.5744512
+socks5,179.43.180.232,1081,Switzerland,CH,Rümlang,elite,true,36.94,AS51852,Private Layer INC,12657.85,1780453695.3433683
