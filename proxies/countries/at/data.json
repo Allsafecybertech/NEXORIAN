@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "80.64.140.251",
-    "port": 8080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 86.57,
-    "asn": "AS24953",
-    "isp": "NETPLANET GmbH",
-    "latency_ms": 213.56,
-    "last_checked": 1780457334.56491
-  },
-  {
-    "protocol": "http",
     "ip": "81.10.234.234",
     "port": 80,
     "country": "Austria",
@@ -23,11 +8,26 @@
     "city": "Unterweitersdorf",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 69.3,
+    "uptime_percent": 69.31,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 7601.36,
-    "last_checked": 1780457310.9378202
+    "latency_ms": 86.72,
+    "last_checked": 1780457990.5080118
+  },
+  {
+    "protocol": "http",
+    "ip": "80.64.140.251",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 84.62,
+    "asn": "AS24953",
+    "isp": "NETPLANET GmbH",
+    "latency_ms": 20406.55,
+    "last_checked": 1780457980.7952952
   },
   {
     "protocol": "socks5",
@@ -38,10 +38,25 @@
     "city": "Zell am See",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.34,
+    "uptime_percent": 26.38,
     "asn": "AS8445",
     "isp": "SALZBURG-AG",
-    "latency_ms": 11242.93,
-    "last_checked": 1780457251.741687
+    "latency_ms": 11492.04,
+    "last_checked": 1780457728.639495
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.113.106.198",
+    "port": 987,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.87,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 36.33,
+    "last_checked": 1780457988.1668012
   }
 ]
