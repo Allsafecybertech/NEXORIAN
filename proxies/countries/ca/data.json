@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "173.181.143.245",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Surrey",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 30.59,
-    "asn": "AS852",
-    "isp": "TELUS Communications Inc.",
-    "latency_ms": 4907.32,
-    "last_checked": 1780487679.527853
-  },
-  {
     "protocol": "socks4",
     "ip": "24.37.245.42",
     "port": 51056,
@@ -26,8 +11,53 @@
     "uptime_percent": 9.8,
     "asn": "AS5769",
     "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 7822.22,
-    "last_checked": 1780487677.501834
+    "latency_ms": 3556.82,
+    "last_checked": 1780487996.0936885
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.73.0.118",
+    "port": 5678,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.34,
+    "asn": "AS5769",
+    "isp": "Videotron Ltee",
+    "latency_ms": 3561.93,
+    "last_checked": 1780487986.5137632
+  },
+  {
+    "protocol": "http",
+    "ip": "4.204.10.60",
+    "port": 9944,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 92.14,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 6925.32,
+    "last_checked": 1780487961.7604055
+  },
+  {
+    "protocol": "http",
+    "ip": "173.181.143.245",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Surrey",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.6,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 12566.64,
+    "last_checked": 1780487961.382878
   },
   {
     "protocol": "http",
@@ -41,38 +71,8 @@
     "uptime_percent": 98.49,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 479.72,
-    "last_checked": 1780487656.6165242
-  },
-  {
-    "protocol": "http",
-    "ip": "4.204.10.60",
-    "port": 9944,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Toronto",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 92.12,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 3195.71,
-    "last_checked": 1780487646.3696887
-  },
-  {
-    "protocol": "socks5",
-    "ip": "68.233.127.229",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.63,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 23762.02,
-    "last_checked": 1780487623.2531574
+    "latency_ms": 6835.42,
+    "last_checked": 1780487940.1419742
   },
   {
     "protocol": "http",
@@ -86,7 +86,52 @@
     "uptime_percent": 56.36,
     "asn": "AS5769",
     "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 12280.85,
-    "last_checked": 1780487538.2815406
+    "latency_ms": 12116.49,
+    "last_checked": 1780487936.337384
+  },
+  {
+    "protocol": "socks5",
+    "ip": "89.251.9.135",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.71,
+    "asn": "AS212552",
+    "isp": "BitCommand LLC",
+    "latency_ms": 1659.29,
+    "last_checked": 1780487850.7943194
+  },
+  {
+    "protocol": "socks5",
+    "ip": "68.233.127.229",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.65,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 20922.01,
+    "last_checked": 1780487803.2937167
+  },
+  {
+    "protocol": "socks5",
+    "ip": "184.95.235.194",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.88,
+    "asn": "AS22652",
+    "isp": "Videotron Telecom Ltee",
+    "latency_ms": 561.58,
+    "last_checked": 1780487737.3445373
   }
 ]
