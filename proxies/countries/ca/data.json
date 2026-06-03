@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "4.204.10.60",
-    "port": 9944,
+    "protocol": "socks4",
+    "ip": "86.107.168.166",
+    "port": 22,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Toronto",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.59,
+    "asn": "AS26832",
+    "isp": "Rica Web Services",
+    "latency_ms": 14837.65,
+    "last_checked": 1780454987.3076148
+  },
+  {
+    "protocol": "http",
+    "ip": "173.181.143.245",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Surrey",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 91.43,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 2487.64,
-    "last_checked": 1780454384.3253202
+    "uptime_percent": 30.26,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 6035.75,
+    "last_checked": 1780454935.3798249
   },
   {
     "protocol": "http",
@@ -26,37 +41,37 @@
     "uptime_percent": 98.62,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 246.71,
-    "last_checked": 1780454363.5265005
+    "latency_ms": 224.67,
+    "last_checked": 1780454934.3743625
   },
   {
     "protocol": "http",
-    "ip": "173.181.143.245",
+    "ip": "4.204.10.60",
+    "port": 9944,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 91.47,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 5254.04,
+    "last_checked": 1780454926.3236032
+  },
+  {
+    "protocol": "http",
+    "ip": "96.1.101.113",
     "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Surrey",
+    "city": "Ottawa",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 30.25,
+    "uptime_percent": 22.15,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 9076.23,
-    "last_checked": 1780454292.0679016
-  },
-  {
-    "protocol": "socks5",
-    "ip": "209.35.33.208",
-    "port": 9050,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "St. Catharines",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.38,
-    "asn": "AS53486",
-    "isp": "Niagara Regional Broadband Networks Limited",
-    "latency_ms": 15344.94,
-    "last_checked": 1780454315.5466104
+    "latency_ms": 9821.91,
+    "last_checked": 1780454915.200038
   }
 ]
