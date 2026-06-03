@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "93.42.151.100",
-    "port": 4443,
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.55,
-    "asn": "AS12874",
-    "isp": "Fastweb SpA",
-    "latency_ms": 8951.23,
-    "last_checked": 1780528186.4974196
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.0,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 3554.67,
+    "last_checked": 1780528504.022078
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,23 @@
     "uptime_percent": 86.78,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 4349.96,
-    "last_checked": 1780528182.8874016
+    "latency_ms": 4954.96,
+    "last_checked": 1780528495.2372396
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.41",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 20.39,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 4027.29,
+    "last_checked": 1780528494.783342
   },
   {
     "protocol": "http",
@@ -41,38 +56,38 @@
     "uptime_percent": 69.74,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 687.52,
-    "last_checked": 1780528164.6214018
+    "latency_ms": 5188.54,
+    "last_checked": 1780528471.2019665
   },
   {
     "protocol": "http",
-    "ip": "93.43.251.159",
-    "port": 80,
+    "ip": "185.191.106.0",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Turin",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 3.99,
-    "asn": "AS12874",
-    "isp": "Fastweb Networks",
-    "latency_ms": 14772.76,
-    "last_checked": 1780528164.5908973
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.35,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 2224.99,
+    "last_checked": 1780528458.4869666
   },
   {
     "protocol": "http",
-    "ip": "93.147.55.25",
+    "ip": "194.146.164.66",
     "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Bisceglie",
+    "city": "Corigliano Calabro",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.32,
-    "asn": "AS30722",
-    "isp": "VODAFONE",
-    "latency_ms": 10589.38,
-    "last_checked": 1780528160.5919013
+    "ssl": false,
+    "uptime_percent": 29.7,
+    "asn": "AS202347",
+    "isp": "Europsys S.r.l.",
+    "latency_ms": 4417.47,
+    "last_checked": 1780528451.6729758
   },
   {
     "protocol": "http",
@@ -86,52 +101,7 @@
     "uptime_percent": 11.21,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 13255.91,
-    "last_checked": 1780528145.2478426
-  },
-  {
-    "protocol": "http",
-    "ip": "149.62.191.202",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Turin",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 18.83,
-    "asn": "AS47242",
-    "isp": "HOST-VDC",
-    "latency_ms": 13543.21,
-    "last_checked": 1780528126.5336213
-  },
-  {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 18.15,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 8970.22,
-    "last_checked": 1780528090.127657
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 82.0,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 4869.99,
-    "last_checked": 1780528001.3464081
+    "latency_ms": 10452.28,
+    "last_checked": 1780528370.9686549
   }
 ]
