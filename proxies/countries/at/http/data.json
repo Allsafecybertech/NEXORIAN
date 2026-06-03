@@ -1,18 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "81.10.234.234",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 41.94,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 11242.3,
+    "last_checked": 1780488551.7880368
+  },
+  {
+    "protocol": "http",
+    "ip": "80.64.140.251",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 48.8,
+    "asn": "AS24953",
+    "isp": "NETPLANET GmbH",
+    "latency_ms": 3064.94,
+    "last_checked": 1780488536.1248877
+  },
+  {
+    "protocol": "http",
+    "ip": "80.245.197.246",
     "port": 80,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Unterweitersdorf",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.43,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 8157.57,
-    "last_checked": 1780487927.2959087
+    "city": "Vienna",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 17.57,
+    "asn": "AS21360",
+    "isp": "Empirion Telekommunikations Services GmbH",
+    "latency_ms": 9593.38,
+    "last_checked": 1780488501.5699224
   },
   {
     "protocol": "http",
@@ -23,10 +53,25 @@
     "city": "Vienna",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 41.71,
+    "uptime_percent": 41.76,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 11809.79,
-    "last_checked": 1780487888.0923176
+    "latency_ms": 5664.49,
+    "last_checked": 1780488500.0526721
+  },
+  {
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.43,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 6034.28,
+    "last_checked": 1780488492.00279
   }
 ]
