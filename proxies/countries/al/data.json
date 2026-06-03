@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.196.182.22",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "46.183.124.162",
+    "port": 53551,
     "country": "Albania",
     "country_code": "AL",
-    "city": "Krumë",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.66,
-    "asn": "AS206088",
-    "isp": "shqiponjaisp.al LLC",
-    "latency_ms": 7576.12,
-    "last_checked": 1780519763.1459477
+    "city": "Tirana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.57,
+    "asn": "AS56468",
+    "isp": "MC Networking",
+    "latency_ms": 217.06,
+    "last_checked": 1780520400.44678
   },
   {
     "protocol": "socks4",
@@ -26,7 +26,22 @@
     "uptime_percent": 48.6,
     "asn": "AS21183",
     "isp": "Vodafone Albania Sh.A.",
-    "latency_ms": 3269.46,
-    "last_checked": 1780519762.8646398
+    "latency_ms": 3238.03,
+    "last_checked": 1780520389.882322
+  },
+  {
+    "protocol": "http",
+    "ip": "188.164.218.209",
+    "port": 8080,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Tirana",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.63,
+    "asn": "AS21183",
+    "isp": "Vodafone Albania Sh.A.",
+    "latency_ms": 9640.44,
+    "last_checked": 1780520316.9958684
   }
 ]
