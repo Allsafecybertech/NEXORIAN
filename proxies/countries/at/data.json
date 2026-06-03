@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.32,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 574.77,
+    "last_checked": 1780460985.5221653
+  },
+  {
+    "protocol": "http",
     "ip": "80.64.140.251",
     "port": 8080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 82.24,
+    "ssl": false,
+    "uptime_percent": 80.34,
     "asn": "AS24953",
     "isp": "NETPLANET GmbH",
-    "latency_ms": 11477.43,
-    "last_checked": 1780460332.316604
+    "latency_ms": 1174.77,
+    "last_checked": 1780460957.90802
   },
   {
     "protocol": "socks5",
@@ -26,7 +41,7 @@
     "uptime_percent": 26.37,
     "asn": "AS8445",
     "isp": "SALZBURG-AG",
-    "latency_ms": 15140.72,
-    "last_checked": 1780460285.8335571
+    "latency_ms": 13412.32,
+    "last_checked": 1780460698.6835082
   }
 ]
