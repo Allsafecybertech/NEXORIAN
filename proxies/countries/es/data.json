@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.47,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 142.09,
-    "last_checked": 1780469996.323461
-  },
-  {
-    "protocol": "socks4",
     "ip": "109.167.83.167",
     "port": 5678,
     "country": "Spain",
@@ -23,11 +8,11 @@
     "city": "Huéneja",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 43.75,
+    "uptime_percent": 43.77,
     "asn": "AS29119",
     "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-    "latency_ms": 3369.91,
-    "last_checked": 1780469994.2364674
+    "latency_ms": 7644.01,
+    "last_checked": 1780470595.8011851
   },
   {
     "protocol": "socks4",
@@ -41,11 +26,11 @@
     "uptime_percent": 22.38,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 1318.6,
-    "last_checked": 1780469991.6468854
+    "latency_ms": 7477.55,
+    "last_checked": 1780470589.76458
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "65.20.105.241",
     "port": 10001,
     "country": "Spain",
@@ -53,14 +38,29 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.81,
+    "uptime_percent": 41.48,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 7418.29,
-    "last_checked": 1780469912.2866309
+    "latency_ms": 3178.22,
+    "last_checked": 1780470586.8514724
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 20500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Valencia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.87,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 5706.09,
+    "last_checked": 1780470574.319944
+  },
+  {
+    "protocol": "http",
     "ip": "83.97.79.114",
     "port": 8443,
     "country": "Spain",
@@ -68,10 +68,25 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.75,
+    "uptime_percent": 23.58,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 234.48,
-    "last_checked": 1780469533.1003728
+    "latency_ms": 1188.01,
+    "last_checked": 1780470562.4018073
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Olot",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.53,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 328.67,
+    "last_checked": 1780470514.7394586
   }
 ]
