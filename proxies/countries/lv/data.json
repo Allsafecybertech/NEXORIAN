@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "155.212.226.251",
-    "port": 8888,
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.79,
+    "uptime_percent": 28.17,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 4291.76,
-    "last_checked": 1780448010.8903933
+    "latency_ms": 1391.47,
+    "last_checked": 1780448359.042107
   },
   {
     "protocol": "http",
@@ -23,26 +23,26 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 35.8,
+    "uptime_percent": 35.86,
     "asn": "AS12578",
     "isp": "SIA Tet",
-    "latency_ms": 10293.27,
-    "last_checked": 1780447867.4502559
+    "latency_ms": 10186.08,
+    "last_checked": 1780448284.3718438
   },
   {
-    "protocol": "socks5",
-    "ip": "45.130.212.97",
-    "port": 8119,
+    "protocol": "http",
+    "ip": "155.212.226.251",
+    "port": 8888,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 16.57,
+    "uptime_percent": 36.84,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 2802.86,
-    "last_checked": 1780447982.185556
+    "latency_ms": 11941.26,
+    "last_checked": 1780448234.6215932
   },
   {
     "protocol": "http",
@@ -53,10 +53,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 39.78,
+    "uptime_percent": 39.79,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 148.17,
-    "last_checked": 1780447961.7251146
+    "latency_ms": 253.06,
+    "last_checked": 1780448310.3586817
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.130.212.97",
+    "port": 8119,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.58,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 6677.41,
+    "last_checked": 1780448273.7214887
   }
 ]
