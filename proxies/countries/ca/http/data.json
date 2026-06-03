@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "69.70.244.34",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 56.35,
+    "asn": "AS5769",
+    "isp": "Le Groupe Videotron Ltee",
+    "latency_ms": 11106.08,
+    "last_checked": 1780487049.7603498
+  },
+  {
+    "protocol": "http",
     "ip": "192.99.8.15",
     "port": 8850,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 98.49,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 268.63,
-    "last_checked": 1780486449.688789
+    "latency_ms": 3339.8,
+    "last_checked": 1780487028.9851186
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 92.09,
+    "uptime_percent": 92.1,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 2737.74,
-    "last_checked": 1780486440.274621
+    "latency_ms": 3822.32,
+    "last_checked": 1780487020.1368327
+  },
+  {
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Ottawa",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 22.22,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 13905.94,
+    "last_checked": 1780486997.7536745
   }
 ]
