@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "24.37.245.42",
-    "port": 51056,
+    "protocol": "http",
+    "ip": "4.204.10.60",
+    "port": 9944,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Laval",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 91.57,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 3569.7,
+    "last_checked": 1780456784.9607248
+  },
+  {
+    "protocol": "socks5",
+    "ip": "184.95.220.42",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 9.66,
-    "asn": "AS5769",
-    "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 7944.7,
-    "last_checked": 1780456136.036989
+    "uptime_percent": 34.83,
+    "asn": "AS22652",
+    "isp": "Videotron Telecom Ltee",
+    "latency_ms": 3596.01,
+    "last_checked": 1780456762.8472197
   },
   {
     "protocol": "socks4",
@@ -26,53 +41,23 @@
     "uptime_percent": 57.59,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 5828.1,
-    "last_checked": 1780456113.522268
+    "latency_ms": 1723.61,
+    "last_checked": 1780456759.2851481
   },
   {
     "protocol": "http",
-    "ip": "4.204.10.60",
-    "port": 9944,
+    "ip": "96.1.101.113",
+    "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Toronto",
+    "city": "Ottawa",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 91.53,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 5254.92,
-    "last_checked": 1780456106.5993793
-  },
-  {
-    "protocol": "http",
-    "ip": "149.56.24.51",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.71,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 9273.69,
-    "last_checked": 1780456093.972381
-  },
-  {
-    "protocol": "socks5",
-    "ip": "68.233.127.229",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.63,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 11176.25,
-    "last_checked": 1780456075.234893
+    "uptime_percent": 22.16,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 5896.56,
+    "last_checked": 1780456757.3400335
   },
   {
     "protocol": "socks5",
@@ -86,23 +71,8 @@
     "uptime_percent": 34.84,
     "asn": "AS22652",
     "isp": "Videotron Telecom Ltee",
-    "latency_ms": 996.85,
-    "last_checked": 1780455852.3626018
-  },
-  {
-    "protocol": "socks5",
-    "ip": "184.95.220.42",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.81,
-    "asn": "AS22652",
-    "isp": "Videotron Telecom Ltee",
-    "latency_ms": 1118.34,
-    "last_checked": 1780455849.2725992
+    "latency_ms": 3592.84,
+    "last_checked": 1780456327.0764163
   },
   {
     "protocol": "socks5",
@@ -113,10 +83,10 @@
     "city": "St. Catharines",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.45,
+    "uptime_percent": 24.49,
     "asn": "AS53486",
     "isp": "Niagara Regional Broadband Networks Limited",
-    "latency_ms": 697.7,
-    "last_checked": 1780456088.3912024
+    "latency_ms": 999.06,
+    "last_checked": 1780456393.4520967
   }
 ]

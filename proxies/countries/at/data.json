@@ -1,33 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "83.215.25.66",
+    "ip": "77.110.110.95",
     "port": 9050,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Zell am See",
+    "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.83,
-    "asn": "AS8445",
-    "isp": "SALZBURG-AG",
-    "latency_ms": 10922.15,
-    "last_checked": 1780456136.3394856
-  },
-  {
-    "protocol": "http",
-    "ip": "80.64.140.251",
-    "port": 8080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 87.23,
-    "asn": "AS24953",
-    "isp": "NETPLANET GmbH",
-    "latency_ms": 1895.43,
-    "last_checked": 1780456096.780351
+    "uptime_percent": 8.92,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 2722.07,
+    "last_checked": 1780456774.5485053
   },
   {
     "protocol": "http",
@@ -41,22 +26,37 @@
     "uptime_percent": 69.3,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 1509.96,
-    "last_checked": 1780456096.6350439
+    "latency_ms": 4725.53,
+    "last_checked": 1780456740.74479
   },
   {
-    "protocol": "socks4",
-    "ip": "212.113.106.198",
-    "port": 987,
+    "protocol": "http",
+    "ip": "80.64.140.251",
+    "port": 8080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 87.72,
+    "asn": "AS24953",
+    "isp": "NETPLANET GmbH",
+    "latency_ms": 3039.82,
+    "last_checked": 1780456736.0340238
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Zell am See",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.87,
-    "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 1053.68,
-    "last_checked": 1780456202.7874177
+    "uptime_percent": 26.33,
+    "asn": "AS8445",
+    "isp": "SALZBURG-AG",
+    "latency_ms": 18305.07,
+    "last_checked": 1780456668.4560559
   }
 ]
