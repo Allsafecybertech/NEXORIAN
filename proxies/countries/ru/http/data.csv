@@ -1,36 +1,43 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,46.161.4.153,3333,Russia,RU,St Petersburg,elite,false,10.02,AS212128,"LLC ""HORIZON""",3909.5,1780498483.3180542
-http,82.114.228.67,1080,Russia,RU,Saratov,elite,true,55.14,AS48763,SCTS,935.36,1780498480.2294638
-http,95.71.101.124,8080,Russia,RU,Belgorod,transparent,false,39.62,AS12389,OJSC Rostelecom,5442.6,1780498479.3312438
-http,5.42.122.214,1080,Russia,RU,Moscow,elite,true,47.16,AS9123,"JSC ""TIMEWEB""",8622.91,1780498477.8574061
-http,83.219.145.106,3128,Russia,RU,Kaliningrad,transparent,false,10.74,AS31214,TIS-DIALOG,2003.57,1780498477.1040797
-http,85.30.219.207,8080,Russia,RU,Shchyolkovo,transparent,false,8.66,AS42610,National Cable Networks,199.78,1780498476.2917998
-http,72.56.246.250,1080,Russia,RU,Moscow,elite,true,76.67,AS9123,"JSC ""TIMEWEB""",2361.35,1780498472.4361925
-http,45.133.107.64,81,Russia,RU,Tul'skiy,transparent,false,10.99,AS216086,Art-net LLC,17404.64,1780498469.722337
-http,95.165.97.185,8080,Russia,RU,Moscow,transparent,false,32.72,AS25513,Moscow Local Telephone Network (OAO MGTS),3311.93,1780498468.9719365
-http,82.148.13.136,80,Russia,RU,Moscow,elite,false,49.73,AS50340,JSC Selectel,13243.31,1780498466.9998846
-http,83.219.145.108,3128,Russia,RU,Kaliningrad,transparent,false,10.65,AS31214,TIS-DIALOG,1948.65,1780498465.8338325
-http,85.198.96.76,1080,Russia,RU,Moscow,elite,false,28.48,AS198610,Beget LLC,324.35,1780498459.8670444
-http,87.225.97.217,8080,Russia,RU,Khabarovsk,transparent,false,37.99,AS12389,PJSC Rostelecom,10911.7,1780498458.8519382
-http,188.127.224.164,2080,Russia,RU,Moscow,elite,false,38.75,AS56694,LLC Smart Ape,3292.65,1780498456.187796
-http,188.64.136.151,2080,Russia,RU,Severnyy,elite,false,62.51,AS204297,"LLC "" Belgorod Networking Telecommunication Company""",13828.56,1780498454.7919736
-http,31.28.4.192,80,Russia,RU,Moscow,elite,false,30.15,AS29076,Citytelecom LLC,4285.04,1780498452.211891
-http,193.187.193.31,8080,Russia,RU,Vladikavkaz,transparent,true,30.6,AS43598,Export Telecom LLC,17723.74,1780498452.104864
-http,45.133.107.234,81,Russia,RU,Tul'skiy,transparent,false,7.83,AS216086,Art-net LLC,2884.68,1780498447.1236038
-http,45.89.65.42,1081,Russia,RU,Moscow,elite,true,32.79,AS205090,First Server Limited,7028.74,1780498442.6512945
-http,45.133.107.10,81,Russia,RU,Tul'skiy,transparent,false,8.33,AS216086,Art-net LLC,19701.56,1780498433.9324136
-http,185.125.19.32,3128,Russia,RU,Moscow,transparent,false,44.16,AS62222,QuickSoft LLC,11384.97,1780498431.8820267
-http,94.253.88.43,8080,Russia,RU,Ivanteyevka,transparent,false,32.11,AS48149,Itkm ISP,4174.97,1780498430.6038442
-http,217.114.43.142,8080,Russia,RU,Moscow,elite,true,97.84,AS210546,Miglovets Egor Andreevich,4880.14,1780498427.3689544
-http,95.37.206.120,8088,Russia,RU,Nizhniy Novgorod,elite,true,23.68,AS12389,Rostelecom networks,13747.15,1780498424.675607
-http,46.47.197.210,3128,Russia,RU,St Petersburg,elite,false,57.03,AS20632,PJSC Megafon SZF,5337.04,1780498422.449726
-http,195.190.107.62,3389,Russia,RU,Moscow,transparent,false,12.35,AS3216,"PJSC ""Vimpelcom""",6672.75,1780498419.6997368
-http,31.131.248.51,3129,Russia,RU,St Petersburg,elite,false,13.65,AS49505,JSC Selectel,183.84,1780498419.3825371
-http,130.49.218.108,1080,Russia,RU,Moscow,elite,true,69.41,AS215540,LLC Vpsville,4395.14,1780498401.9106448
-http,85.239.56.138,10808,Russia,RU,Moscow,elite,true,72.73,AS9123,"JSC ""TIMEWEB""",2330.69,1780498394.5537198
-http,176.100.216.164,8282,Russia,RU,Orekhovo-Zuyevo,transparent,false,8.07,AS57489,Telecom-Uslugi,4629.77,1780498386.8120148
-http,178.34.190.6,8080,Russia,RU,Moscow,transparent,false,7.56,AS201776,Miranda-Media Ltd,12527.72,1780498366.2318404
-http,109.202.24.22,8080,Russia,RU,Novosibirsk,transparent,false,30.25,AS25549,JSC Avantel. Novosibirsk network,5138.23,1780498356.33913
-http,45.90.46.109,3128,Russia,RU,Bryansk,elite,false,14.5,AS57271,BitWeb LLC,3123.6,1780498295.8857198
-http,185.248.128.216,18777,Russia,RU,Moscow,transparent,false,18.46,AS31531,TOV Point,13782.48,1780498274.984945
-http,212.67.31.235,8080,Russia,RU,Irkutsk,transparent,false,6.47,AS50187,BaikalWestCom,11936.0,1780498443.8188465
+http,188.127.224.164,2080,Russia,RU,Moscow,elite,false,38.77,AS56694,LLC Smart Ape,3272.19,1780499037.5185802
+http,46.47.197.210,3128,Russia,RU,St Petersburg,elite,false,57.03,AS20632,PJSC Megafon SZF,7861.14,1780499034.2798705
+http,85.239.56.138,10808,Russia,RU,Moscow,elite,true,75.47,AS9123,"JSC ""TIMEWEB""",639.14,1780499029.8372495
+http,91.203.242.66,222,Russia,RU,Moscow,transparent,false,8.58,AS47335,JSC Advanced Business Network,11928.93,1780499025.2654653
+http,80.90.184.243,3128,Russia,RU,St Petersburg,anonymous,true,24.62,AS9123,Mamaev,6875.61,1780499023.32992
+http,37.128.243.145,8080,Russia,RU,Tambov,transparent,false,34.17,AS61436,INTEX ltd.,10564.34,1780499020.8474357
+http,80.254.99.16,88,Russia,RU,Shakhty,elite,false,24.71,AS21479,PJSC Rostelecom,2356.46,1780499018.9558418
+http,85.175.97.33,8080,Russia,RU,Krasnodar,transparent,false,20.53,AS25490,Southen Telecommunication Maintainer,2653.98,1780499018.4215882
+http,94.253.88.43,8080,Russia,RU,Ivanteyevka,transparent,true,32.12,AS48149,Itkm ISP,1729.44,1780499014.627912
+http,79.111.13.155,50625,Russia,RU,Moscow,elite,false,9.51,AS12714,PJSC MegaFon,1616.69,1780499010.8947709
+http,141.0.179.48,3389,Russia,RU,Samara,transparent,false,16.84,AS197235,SEVEREN-VOLGA,10712.39,1780499010.6928945
+http,85.30.219.207,80,Russia,RU,Shchyolkovo,transparent,false,8.91,AS42610,National Cable Networks,7430.03,1780499008.6257632
+http,95.165.97.185,8080,Russia,RU,Moscow,transparent,true,32.74,AS25513,Moscow Local Telephone Network (OAO MGTS),10823.21,1780498991.1694884
+http,37.204.248.33,8443,Russia,RU,Moscow,transparent,false,45.27,AS42610,NCNET,4118.35,1780498988.5963538
+http,109.195.238.36,8080,Russia,RU,Rostov-on-Don,elite,true,29.74,AS57378,"CJSC ""ER-Telecom Holding"" Rostov-na-Donu branch",1097.56,1780498984.0782738
+http,193.187.193.31,8080,Russia,RU,Vladikavkaz,transparent,true,30.6,AS43598,Export Telecom LLC,6196.49,1780498983.3529463
+http,85.30.219.207,8080,Russia,RU,Shchyolkovo,transparent,false,8.66,AS42610,National Cable Networks,1190.17,1780498981.9838703
+http,185.182.65.64,1080,Russia,RU,Moscow,elite,true,75.76,AS33842,Citytelecom LLC,7308.0,1780498976.0706074
+http,82.148.13.136,80,Russia,RU,Moscow,elite,false,49.73,AS50340,JSC Selectel,11541.71,1780498971.842403
+http,79.174.12.190,80,Russia,RU,Moscow,elite,false,27.13,AS29182,JSC IOT,10361.28,1780498970.5476444
+http,193.233.137.130,1081,Russia,RU,Moscow,elite,true,88.45,AS210644,OOO FREEnet Group,1830.52,1780498967.2783525
+http,5.42.122.214,1080,Russia,RU,Moscow,elite,false,47.25,AS9123,"JSC ""TIMEWEB""",12520.45,1780498963.8260503
+http,194.87.235.167,7890,Russia,RU,Korolyov,elite,false,33.67,AS48347,JSC Mediasoft ekspert,3214.25,1780498963.3520176
+http,84.47.150.125,1080,Russia,RU,Moscow,elite,true,88.95,AS8641,"LLC ""Nauka-Svyaz""",175.61,1780498961.6048684
+http,217.114.43.142,8080,Russia,RU,Moscow,elite,true,97.84,AS210546,Miglovets Egor Andreevich,955.2,1780498960.7979262
+http,85.198.100.232,3128,Russia,RU,Moscow,anonymous,false,59.4,AS198610,Beget LLC,6321.56,1780498954.5595336
+http,82.114.228.67,1080,Russia,RU,Saratov,elite,true,55.14,AS48763,SCTS,267.23,1780498950.435893
+http,93.182.23.94,6060,Russia,RU,Moscow,transparent,true,12.39,AS41802,Kvidex-Telecom,4105.43,1780498949.2205043
+http,188.64.136.151,2080,Russia,RU,Severnyy,elite,false,62.6,AS204297,"LLC "" Belgorod Networking Telecommunication Company""",12274.76,1780498948.85419
+http,89.237.32.161,37647,Russia,RU,Novotroitsk,elite,false,2.83,AS20485,multi-origin SUTTK,12508.53,1780498948.539967
+http,176.213.141.107,8080,Russia,RU,Rostov-on-Don,transparent,false,8.25,AS57378,"CJSC ""ER-Telecom Holding"" Rostov-na-Donu branch",4890.22,1780498947.2539878
+http,130.49.218.108,1080,Russia,RU,Moscow,elite,true,69.44,AS215540,LLC Vpsville,6145.06,1780498941.705535
+http,178.173.76.50,8080,Russia,RU,Shchyolkovo,transparent,false,31.98,AS47759,POIG Ltd.,5619.18,1780498938.5078487
+http,185.103.134.36,8080,Russia,RU,Moscow,elite,false,5.37,AS215116,Address AS 57191,9742.25,1780498937.0567222
+http,89.237.32.65,37647,Russia,RU,Novotroitsk,elite,false,1.68,AS20485,multi-origin SUTTK,7374.31,1780498936.811083
+http,79.174.63.25,8081,Russia,RU,Odintsovo,transparent,false,14.35,AS47119,"JSC ""Ufanet""",2615.86,1780498927.9035385
+http,83.219.145.108,3128,Russia,RU,Kaliningrad,transparent,false,10.65,AS31214,TIS-DIALOG,2060.68,1780498908.5025413
+http,45.133.107.238,81,Russia,RU,Tul'skiy,transparent,false,13.02,AS216086,Art-net LLC,3922.12,1780499070.2855525
+http,45.153.231.229,8080,Russia,RU,Moscow,elite,true,67.0,AS33993,UFO Hosting LLC,292.1,1780499066.807123
+http,95.71.101.124,8080,Russia,RU,Belgorod,transparent,false,39.95,AS12389,OJSC Rostelecom,10676.59,1780499032.9040434
+http,95.78.161.82,7777,Russia,RU,Kazantsevo,transparent,false,26.43,AS41661,"CJSC ""ER-Telecom Holding"" Chelyabinsk branch",10842.23,1780499014.647876
+http,213.226.126.100,3128,Russia,RU,St Petersburg,elite,false,9.48,AS9123,"JSC ""TIMEWEB""",1057.78,1780499064.930381
