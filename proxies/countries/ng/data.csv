@@ -1,4 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,41.203.76.166,8080,Nigeria,NG,Lagos,transparent,false,9.54,AS37148,GLO,9950.93,1780580942.5778701
-http,102.88.13.62,8080,Nigeria,NG,Port Harcourt,transparent,false,16.87,AS29465,MTN NIGERIA Communication limited,12271.32,1780580933.507979
-http,41.184.92.219,80,Nigeria,NG,Abuja,anonymous,false,56.58,AS29091,ipNX Nigeria Limited,735.26,1780580912.9933355
+socks4,154.113.167.70,5678,Nigeria,NG,Lagos,elite,true,13.36,AS37282,Main one Cable Company Nigeria Limited,3622.73,1780581529.3862407
+http,102.88.13.62,8080,Nigeria,NG,Port Harcourt,transparent,false,16.87,AS29465,MTN NIGERIA Communication limited,7390.57,1780581520.5849276
+socks4,154.113.170.1,5678,Nigeria,NG,Benin City,elite,true,12.69,AS37282,Main one Cable Company Nigeria Limited,7661.96,1780581508.9012573
+http,154.113.209.162,8082,Nigeria,NG,Abuja,transparent,false,19.27,AS37282,Main one Cable Company Nigeria Limited,4856.27,1780581506.3799393
+http,41.184.92.219,80,Nigeria,NG,Abuja,anonymous,false,56.59,AS29091,ipNX Nigeria Limited,3855.53,1780581433.3620636
