@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "192.99.8.15",
+    "port": 8850,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 98.49,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 486.22,
+    "last_checked": 1780591785.142686
+  },
+  {
+    "protocol": "http",
+    "ip": "149.56.24.51",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.69,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 6062.25,
+    "last_checked": 1780591772.4660175
+  },
+  {
+    "protocol": "http",
     "ip": "4.204.10.60",
     "port": 9944,
     "country": "Canada",
@@ -8,40 +38,10 @@
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 93.66,
+    "uptime_percent": 93.67,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 3745.55,
-    "last_checked": 1780591182.4473627
-  },
-  {
-    "protocol": "http",
-    "ip": "192.99.8.15",
-    "port": 8850,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 98.49,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 267.13,
-    "last_checked": 1780591119.5242515
-  },
-  {
-    "protocol": "http",
-    "ip": "69.70.244.34",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 56.07,
-    "asn": "AS5769",
-    "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 10356.01,
-    "last_checked": 1780591117.4559724
+    "latency_ms": 6714.0,
+    "last_checked": 1780591733.2961657
   }
 ]
