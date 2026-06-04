@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Kryry",
+    "city": "Brno",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.2,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 142.57,
-    "last_checked": 1780538981.5883932
+    "ssl": false,
+    "uptime_percent": 65.27,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 545.87,
+    "last_checked": 1780539559.861908
   },
   {
     "protocol": "http",
@@ -23,11 +23,11 @@
     "city": "Prague",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 81.59,
+    "uptime_percent": 81.6,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 40.33,
-    "last_checked": 1780538968.6023571
+    "latency_ms": 41.03,
+    "last_checked": 1780539496.689384
   },
   {
     "protocol": "http",
@@ -41,7 +41,22 @@
     "uptime_percent": 11.04,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 1890.59,
-    "last_checked": 1780538952.741198
+    "latency_ms": 2124.22,
+    "last_checked": 1780539444.6381872
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.05,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 3351.46,
+    "last_checked": 1780539577.3594525
   }
 ]
