@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "45.15.178.39",
     "port": 1080,
     "country": "Bosnia and Herzegovina",
@@ -8,11 +8,11 @@
     "city": "Sarajevo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.95,
+    "uptime_percent": 68.52,
     "asn": "AS209847",
     "isp": "WorkTitans B.V.",
-    "latency_ms": 145.31,
-    "last_checked": 1780576776.1216507
+    "latency_ms": 114.68,
+    "last_checked": 1780577388.8387926
   },
   {
     "protocol": "http",
@@ -26,7 +26,22 @@
     "uptime_percent": 38.54,
     "asn": "AS209847",
     "isp": "WorkTitans B.V.",
-    "latency_ms": 659.46,
-    "last_checked": 1780576748.9057794
+    "latency_ms": 860.12,
+    "last_checked": 1780577314.32586
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.39.114.139",
+    "port": 5678,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Mostar",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.76,
+    "asn": "AS20875",
+    "isp": "JP HT d.d. Mostar",
+    "latency_ms": 1153.99,
+    "last_checked": 1780577385.4112651
   }
 ]
