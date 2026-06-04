@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "80.245.197.246",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 66.35,
+    "asn": "AS21360",
+    "isp": "Empirion Telekommunikations Services GmbH",
+    "latency_ms": 10888.89,
+    "last_checked": 1780588451.6043456
+  },
+  {
+    "protocol": "http",
     "ip": "81.10.234.234",
     "port": 80,
     "country": "Austria",
@@ -11,8 +26,23 @@
     "uptime_percent": 69.68,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 3538.21,
-    "last_checked": 1780587839.2088256
+    "latency_ms": 6836.18,
+    "last_checked": 1780588446.3458579
+  },
+  {
+    "protocol": "socks5",
+    "ip": "89.58.17.90",
+    "port": 9050,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.57,
+    "asn": "AS197540",
+    "isp": "netcup GmbH",
+    "latency_ms": 7615.98,
+    "last_checked": 1780588412.82528
   },
   {
     "protocol": "socks5",
@@ -26,37 +56,7 @@
     "uptime_percent": 82.43,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 11042.71,
-    "last_checked": 1780587833.3567257
-  },
-  {
-    "protocol": "http",
-    "ip": "80.245.197.246",
-    "port": 80,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 66.43,
-    "asn": "AS21360",
-    "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 7445.08,
-    "last_checked": 1780587825.0924375
-  },
-  {
-    "protocol": "socks5",
-    "ip": "89.58.17.90",
-    "port": 9050,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.56,
-    "asn": "AS197540",
-    "isp": "netcup GmbH",
-    "latency_ms": 469.01,
-    "last_checked": 1780587404.788446
+    "latency_ms": 12410.72,
+    "last_checked": 1780588219.152601
   }
 ]
