@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "122.117.203.252",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "112.105.12.58",
+    "port": 1111,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Kaohsiung",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.23,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 16062.15,
+    "last_checked": 1780600394.2830827
+  },
+  {
+    "protocol": "http",
+    "ip": "220.134.5.4",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "New Taipei City",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 15.34,
+    "uptime_percent": 9.96,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 13704.38,
-    "last_checked": 1780600050.7538378
+    "latency_ms": 4972.46,
+    "last_checked": 1780600387.4998505
+  },
+  {
+    "protocol": "http",
+    "ip": "27.147.28.73",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Xindian District",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.78,
+    "asn": "AS18429",
+    "isp": "Extra-Lan Technologies Co., LTD",
+    "latency_ms": 17930.9,
+    "last_checked": 1780600277.3799598
   }
 ]
