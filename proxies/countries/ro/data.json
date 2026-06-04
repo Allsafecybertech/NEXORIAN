@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Brăila",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.27,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 7429.76,
-    "last_checked": 1780584851.0558414
-  },
-  {
-    "protocol": "http",
-    "ip": "92.86.207.198",
-    "port": 8080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Cluj-Napoca",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 11.55,
-    "asn": "AS9050",
-    "isp": "Romtelecom",
-    "latency_ms": 3177.57,
-    "last_checked": 1780584849.1704097
-  },
-  {
-    "protocol": "http",
     "ip": "185.141.26.131",
     "port": 3128,
     "country": "Romania",
@@ -38,10 +8,25 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 34.57,
+    "uptime_percent": 34.84,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 1417.56,
-    "last_checked": 1780584846.3311505
+    "latency_ms": 1585.34,
+    "last_checked": 1780585359.9398358
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.140.63",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.47,
+    "asn": "AS39287",
+    "isp": "ab stract",
+    "latency_ms": 199.35,
+    "last_checked": 1780585342.1669595
   }
 ]
