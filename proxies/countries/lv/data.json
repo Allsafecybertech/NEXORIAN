@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "155.212.226.251",
-    "port": 8888,
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.24,
+    "uptime_percent": 36.03,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 3231.17,
-    "last_checked": 1780610314.3857367
+    "latency_ms": 3666.65,
+    "last_checked": 1780610948.6653898
   },
   {
     "protocol": "socks4",
@@ -23,10 +23,70 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.3,
+    "uptime_percent": 40.34,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 9720.09,
-    "last_checked": 1780610284.8462925
+    "latency_ms": 11250.06,
+    "last_checked": 1780610942.895053
+  },
+  {
+    "protocol": "socks5",
+    "ip": "155.212.226.251",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.18,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 425.73,
+    "last_checked": 1780610815.8389025
+  },
+  {
+    "protocol": "http",
+    "ip": "31.57.29.58",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 33.75,
+    "asn": "AS56971",
+    "isp": "CGI GLOBAL LIMITED",
+    "latency_ms": 10079.99,
+    "last_checked": 1780610807.5429153
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.130.212.97",
+    "port": 8119,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.42,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 8982.07,
+    "last_checked": 1780610800.1679811
+  },
+  {
+    "protocol": "http",
+    "ip": "195.13.164.73",
+    "port": 8080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 35.34,
+    "asn": "AS12578",
+    "isp": "SIA Tet",
+    "latency_ms": 3478.67,
+    "last_checked": 1780610766.38255
   }
 ]
