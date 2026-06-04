@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.68.115.14",
+    "protocol": "socks4",
+    "ip": "93.123.121.3",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Ablanitsa",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.25,
-    "asn": "AS48584",
-    "isp": "Sarnica-Net LTD",
-    "latency_ms": 1216.26,
-    "last_checked": 1780558109.431927
-  },
-  {
-    "protocol": "http",
-    "ip": "185.78.37.238",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Burgas",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 81.43,
-    "asn": "AS29084",
-    "isp": "Comnet Bulgaria Holding Ltd.",
-    "latency_ms": 4365.43,
-    "last_checked": 1780558082.247919
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.46,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 2274.19,
+    "last_checked": 1780558780.250325
   },
   {
     "protocol": "http",
@@ -38,11 +23,11 @@
     "city": "Sofia",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 35.47,
+    "uptime_percent": 35.49,
     "asn": "AS31083",
     "isp": "Telepoint Ltd",
-    "latency_ms": 2308.8,
-    "last_checked": 1780558076.348891
+    "latency_ms": 141.08,
+    "last_checked": 1780558756.3440576
   },
   {
     "protocol": "http",
@@ -56,8 +41,23 @@
     "uptime_percent": 6.13,
     "asn": "AS34368",
     "isp": "ZONATA - INVEST sLLC",
-    "latency_ms": 5660.91,
-    "last_checked": 1780558072.0238876
+    "latency_ms": 2151.44,
+    "last_checked": 1780558755.638076
+  },
+  {
+    "protocol": "http",
+    "ip": "82.137.90.192",
+    "port": 80,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Haskovo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 45.66,
+    "asn": "AS8866",
+    "isp": "Bulgarian Telecommunications Company Plc.",
+    "latency_ms": 9728.4,
+    "last_checked": 1780558749.9126756
   },
   {
     "protocol": "http",
@@ -71,7 +71,37 @@
     "uptime_percent": 6.85,
     "asn": "AS9070",
     "isp": "\"Cooolbox\" AD",
-    "latency_ms": 12882.73,
-    "last_checked": 1780557947.254587
+    "latency_ms": 10891.28,
+    "last_checked": 1780558742.5960958
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.183.25",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.77,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 7632.56,
+    "last_checked": 1780558720.3853986
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.52,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 3329.68,
+    "last_checked": 1780558535.298155
   }
 ]
