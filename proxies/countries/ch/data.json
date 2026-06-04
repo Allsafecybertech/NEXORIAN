@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.191.239.248",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wetzikon",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 88.54,
-    "asn": "AS264617",
-    "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 6008.93,
-    "last_checked": 1780541364.32393
-  },
-  {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 76.11,
+    "uptime_percent": 85.58,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5972.37,
-    "last_checked": 1780541358.1866217
+    "latency_ms": 1545.22,
+    "last_checked": 1780541999.2792459
   },
   {
     "protocol": "http",
@@ -38,11 +23,41 @@
     "city": "Bern",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.09,
+    "uptime_percent": 67.1,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 266.8,
-    "last_checked": 1780541354.8882513
+    "latency_ms": 6037.57,
+    "last_checked": 1780541990.5011108
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 76.11,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2225.17,
+    "last_checked": 1780541977.759871
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.239.248",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wetzikon",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 13.65,
+    "asn": "AS264617",
+    "isp": "Geronimo Ramirez Computer Network",
+    "latency_ms": 138.36,
+    "last_checked": 1780541969.972567
   },
   {
     "protocol": "socks5",
@@ -53,29 +68,14 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.88,
+    "uptime_percent": 81.89,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8727.16,
-    "last_checked": 1780541172.1500878
+    "latency_ms": 1992.85,
+    "last_checked": 1780541946.9865396
   },
   {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.17,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 18950.17,
-    "last_checked": 1780541136.1519387
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "167.17.183.150",
     "port": 9050,
     "country": "Switzerland",
@@ -83,10 +83,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.36,
+    "uptime_percent": 37.95,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 12745.79,
-    "last_checked": 1780541374.4693599
+    "latency_ms": 17861.99,
+    "last_checked": 1780541888.4130569
   }
 ]
