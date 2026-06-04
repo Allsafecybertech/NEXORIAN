@@ -1230,21 +1230,6 @@
     "last_checked": 1780548235.2987566
   },
   {
-    "protocol": "http",
-    "ip": "212.118.38.225",
-    "port": 3128,
-    "country": "The Netherlands",
-    "country_code": "NL",
-    "city": "Amsterdam",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 42.69,
-    "asn": "AS216071",
-    "isp": "Servers Tech Fzco",
-    "latency_ms": 4636.52,
-    "last_checked": 1780548580.2642407
-  },
-  {
     "protocol": "socks5",
     "ip": "213.108.21.202",
     "port": 1080,
@@ -1253,11 +1238,11 @@
     "city": "Amsterdam",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 95.98,
+    "uptime_percent": 96.02,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 99.75,
-    "last_checked": 1780548544.7764318
+    "latency_ms": 96.11,
+    "last_checked": 1780549200.8382652
   },
   {
     "protocol": "http",
@@ -1268,25 +1253,70 @@
     "city": "Amsterdam",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 40.84,
+    "uptime_percent": 40.9,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 12207.64,
-    "last_checked": 1780548483.2058003
+    "latency_ms": 13451.41,
+    "last_checked": 1780549183.5839806
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "209.250.253.81",
     "port": 443,
     "country": "Netherlands",
     "country_code": "NL",
     "city": "Amsterdam",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.44,
+    "ssl": false,
+    "uptime_percent": 38.86,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 10361.79,
-    "last_checked": 1780548446.6832075
+    "latency_ms": 2131.51,
+    "last_checked": 1780549167.5833597
+  },
+  {
+    "protocol": "socks4",
+    "ip": "206.166.251.136",
+    "port": 9100,
+    "country": "Netherlands",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.38,
+    "asn": "AS399629",
+    "isp": "BL Networks",
+    "latency_ms": 7138.77,
+    "last_checked": 1780549163.4667127
+  },
+  {
+    "protocol": "socks5",
+    "ip": "206.166.251.136",
+    "port": 9100,
+    "country": "Netherlands",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.61,
+    "asn": "AS399629",
+    "isp": "BL Networks",
+    "latency_ms": 4666.49,
+    "last_checked": 1780548922.0283892
+  },
+  {
+    "protocol": "socks5",
+    "ip": "206.188.196.40",
+    "port": 9100,
+    "country": "Netherlands",
+    "country_code": "NL",
+    "city": "Amsterdam",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.19,
+    "asn": "AS399629",
+    "isp": "BL Networks",
+    "latency_ms": 353.51,
+    "last_checked": 1780548646.2578404
   }
 ]
