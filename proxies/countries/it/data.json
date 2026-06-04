@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Furnari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.92,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 1616.41,
+    "last_checked": 1780608597.9252625
+  },
+  {
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -11,8 +26,23 @@
     "uptime_percent": 86.98,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 825.03,
-    "last_checked": 1780607989.9440675
+    "latency_ms": 650.49,
+    "last_checked": 1780608594.309082
+  },
+  {
+    "protocol": "http",
+    "ip": "188.11.179.26",
+    "port": 8443,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Crispi Cavour",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.3,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+    "latency_ms": 3401.78,
+    "last_checked": 1780608578.906731
   },
   {
     "protocol": "http",
@@ -26,68 +56,8 @@
     "uptime_percent": 7.21,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 11714.01,
-    "last_checked": 1780607979.4070408
-  },
-  {
-    "protocol": "socks4",
-    "ip": "77.81.230.90",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.96,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 13545.82,
-    "last_checked": 1780607965.2726054
-  },
-  {
-    "protocol": "http",
-    "ip": "93.42.151.100",
-    "port": 4443,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.74,
-    "asn": "AS12874",
-    "isp": "Fastweb SpA",
-    "latency_ms": 8364.1,
-    "last_checked": 1780607915.752811
-  },
-  {
-    "protocol": "http",
-    "ip": "149.86.206.27",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Lioni",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.36,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 3750.68,
-    "last_checked": 1780607900.551777
-  },
-  {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 18.42,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 12101.72,
-    "last_checked": 1780607899.497278
+    "latency_ms": 4924.47,
+    "last_checked": 1780608566.6288264
   },
   {
     "protocol": "http",
@@ -98,11 +68,41 @@
     "city": "Turin",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 18.96,
+    "uptime_percent": 18.97,
     "asn": "AS47242",
     "isp": "HOST-VDC",
-    "latency_ms": 5750.73,
-    "last_checked": 1780607878.5718546
+    "latency_ms": 3417.7,
+    "last_checked": 1780608560.6997678
+  },
+  {
+    "protocol": "http",
+    "ip": "195.231.69.203",
+    "port": 80,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Ponte San Pietro",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.71,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 50.8,
+    "last_checked": 1780608492.7412565
+  },
+  {
+    "protocol": "http",
+    "ip": "93.42.151.100",
+    "port": 4443,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.75,
+    "asn": "AS12874",
+    "isp": "Fastweb SpA",
+    "latency_ms": 4051.68,
+    "last_checked": 1780608484.271264
   },
   {
     "protocol": "socks5",
@@ -113,11 +113,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 76.11,
+    "uptime_percent": 76.13,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 197.8,
-    "last_checked": 1780607876.3528268
+    "latency_ms": 243.11,
+    "last_checked": 1780608364.5059803
   },
   {
     "protocol": "socks5",
@@ -128,25 +128,10 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 82.21,
+    "uptime_percent": 82.22,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 323.86,
-    "last_checked": 1780607844.254707
-  },
-  {
-    "protocol": "http",
-    "ip": "194.146.164.66",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Corigliano Calabro",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.04,
-    "asn": "AS202347",
-    "isp": "Europsys S.r.l.",
-    "latency_ms": 7918.43,
-    "last_checked": 1780607843.9365728
+    "latency_ms": 858.51,
+    "last_checked": 1780608290.112552
   }
 ]
