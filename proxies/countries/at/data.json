@@ -11,8 +11,8 @@
     "uptime_percent": 82.25,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 10029.51,
-    "last_checked": 1780609786.3470266
+    "latency_ms": 10822.4,
+    "last_checked": 1780610015.9211686
   },
   {
     "protocol": "http",
@@ -23,11 +23,26 @@
     "city": "Vienna",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 67.86,
+    "uptime_percent": 67.92,
     "asn": "AS21360",
     "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 77.61,
-    "last_checked": 1780609753.3296359
+    "latency_ms": 89.67,
+    "last_checked": 1780610009.181417
+  },
+  {
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.75,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 2487.39,
+    "last_checked": 1780609971.2822082
   },
   {
     "protocol": "socks5",
@@ -45,36 +60,6 @@
     "last_checked": 1780609728.5514586
   },
   {
-    "protocol": "http",
-    "ip": "80.64.140.251",
-    "port": 8080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 38.33,
-    "asn": "AS24953",
-    "isp": "NETPLANET GmbH",
-    "latency_ms": 5482.85,
-    "last_checked": 1780609727.63561
-  },
-  {
-    "protocol": "http",
-    "ip": "81.10.234.234",
-    "port": 80,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Unterweitersdorf",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.75,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 124.79,
-    "last_checked": 1780609706.6396081
-  },
-  {
     "protocol": "socks5",
     "ip": "77.110.110.95",
     "port": 9050,
@@ -88,35 +73,5 @@
     "isp": "Aeza International LTD",
     "latency_ms": 25028.44,
     "last_checked": 1780609632.5018413
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.113.106.198",
-    "port": 987,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.62,
-    "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 3064.98,
-    "last_checked": 1780609798.3470118
-  },
-  {
-    "protocol": "socks5",
-    "ip": "212.113.106.198",
-    "port": 987,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.77,
-    "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 100.09,
-    "last_checked": 1780609737.82064
   }
 ]

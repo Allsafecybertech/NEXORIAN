@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "141.227.128.55",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.92,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 8671.56,
-    "last_checked": 1780609773.40087
-  },
-  {
     "protocol": "socks4",
     "ip": "109.167.83.167",
     "port": 5678,
@@ -26,8 +11,23 @@
     "uptime_percent": 44.41,
     "asn": "AS29119",
     "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-    "latency_ms": 3316.72,
-    "last_checked": 1780609772.1466224
+    "latency_ms": 268.31,
+    "last_checked": 1780610016.6253188
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "San Fernando de Henares",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.82,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 7487.48,
+    "last_checked": 1780610007.3612416
   },
   {
     "protocol": "http",
@@ -38,11 +38,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 23.66,
+    "uptime_percent": 23.67,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 5707.99,
-    "last_checked": 1780609644.3475358
+    "latency_ms": 3401.12,
+    "last_checked": 1780609957.911984
   },
   {
     "protocol": "socks5",
@@ -53,11 +53,56 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.85,
+    "uptime_percent": 33.87,
     "asn": "AS57269",
     "isp": "Digi Spain Telecom S.L.U.",
-    "latency_ms": 1702.76,
-    "last_checked": 1780609552.8359656
+    "latency_ms": 3074.34,
+    "last_checked": 1780609927.1652825
+  },
+  {
+    "protocol": "http",
+    "ip": "88.1.150.79",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alovera",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 24.13,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 9287.43,
+    "last_checked": 1780609898.4863522
+  },
+  {
+    "protocol": "http",
+    "ip": "80.78.128.94",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "la Nucia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.61,
+    "asn": "AS202913",
+    "isp": "CLOUDWIFI, SL",
+    "latency_ms": 2769.43,
+    "last_checked": 1780609880.2437873
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Olot",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.76,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 2104.83,
+    "last_checked": 1780609840.651114
   },
   {
     "protocol": "socks5",
@@ -71,7 +116,7 @@
     "uptime_percent": 31.04,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 7303.3,
-    "last_checked": 1780609519.49155
+    "latency_ms": 3736.24,
+    "last_checked": 1780609811.3613374
   }
 ]
