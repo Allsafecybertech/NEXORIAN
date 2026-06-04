@@ -32,6 +32,7 @@ This is the official, machine-readable mirror of the [ProxyScrape free proxy lis
 - 🔀 **HTTP, HTTPS, SOCKS4 & SOCKS5**, each in its own shard, plus one combined `all` shard.
 - 📄 **Three formats — `.txt`, `.json`, `.csv`** — served over the jsDelivr CDN, plus a typed [npm SDK](#nodejs--typescript--official-sdk).
 - 🧹 **Deduplicated and self-cleaning** — unique on `(protocol, ip, port)`; empty shards `404` instead of serving stale data.
+- 📲 **Also on Telegram** — join [@ps_free_proxy_list](https://t.me/ps_free_proxy_list) for a daily list that auto-refreshes with the freshest proxies all day long.
 
 > **Each proxy ships with:** `protocol`, `ip`, `port`, `country`, `country_code`, `city`, `anonymity`, `ssl`, `uptime_percent`, `asn`, `isp`, `latency_ms` and `last_checked` — see [File formats](#file-formats).
 
@@ -63,6 +64,12 @@ Click a format to grab the latest list — counts update every 5 minutes:
 
 [Browse all 90 countries &rarr;](https://github.com/proxyscrape/free-proxy-list/tree/main/proxies/countries)
 <!-- DOWNLOADS:END -->
+
+## 📲 Get proxies on Telegram
+
+Join **[📢 @ps_free_proxy_list](https://t.me/ps_free_proxy_list)** — one daily post that silently refreshes itself with the freshest, fastest proxies all day long. No setup, no polling: just open Telegram and copy the latest list.
+
+Inside the channel you can also reach our on-demand bot for protocol- and country-specific lists (e.g. fastest US SOCKS5 or German HTTP).
 
 ## Quick start
 
