@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.25,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 4116.38,
-    "last_checked": 1780594142.6492455
+    "uptime_percent": 85.81,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1436.73,
+    "last_checked": 1780594786.1584857
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.16,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3164.25,
+    "last_checked": 1780594538.6004941
+  },
+  {
+    "protocol": "socks4",
+    "ip": "167.17.183.150",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.68,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 7931.15,
+    "last_checked": 1780594794.8041127
   }
 ]
