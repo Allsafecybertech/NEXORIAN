@@ -1,33 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "54.39.154.107",
-    "port": 8082,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 20.91,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 2457.97,
-    "last_checked": 1780582156.436203
-  },
-  {
-    "protocol": "http",
     "ip": "192.99.8.15",
     "port": 8850,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 98.48,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 729.74,
-    "last_checked": 1780582141.4793346
+    "latency_ms": 229.19,
+    "last_checked": 1780582786.499327
   },
   {
     "protocol": "http",
@@ -38,10 +23,40 @@
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 93.66,
+    "uptime_percent": 93.67,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 3358.81,
-    "last_checked": 1780582131.1930509
+    "latency_ms": 5419.32,
+    "last_checked": 1780582724.2633674
+  },
+  {
+    "protocol": "http",
+    "ip": "54.39.154.107",
+    "port": 8082,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 20.92,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 11693.18,
+    "last_checked": 1780582724.240021
+  },
+  {
+    "protocol": "http",
+    "ip": "83.147.242.144",
+    "port": 8080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 49.74,
+    "asn": "AS199685",
+    "isp": "",
+    "latency_ms": 7138.17,
+    "last_checked": 1780582717.1518915
   }
 ]
