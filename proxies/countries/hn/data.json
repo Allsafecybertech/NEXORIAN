@@ -1,33 +1,63 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "45.182.21.165",
+    "port": 999,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "San Pedro Sula",
-    "anonymity": "elite",
+    "city": "Azacualpa",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 11.54,
-    "asn": "AS14754",
-    "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-    "latency_ms": 765.08,
-    "last_checked": 1780533553.40859
+    "uptime_percent": 13.05,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 3925.26,
+    "last_checked": 1780534162.6456902
   },
   {
     "protocol": "http",
-    "ip": "179.49.113.230",
+    "ip": "45.89.82.210",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "El Níspero",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.68,
+    "asn": "AS273189",
+    "isp": "CA NETWORKS S.A. DE C.V.",
+    "latency_ms": 9269.08,
+    "last_checked": 1780534157.0799148
+  },
+  {
+    "protocol": "http",
+    "ip": "179.49.113.225",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "Comayagua",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 14.54,
+    "ssl": true,
+    "uptime_percent": 16.09,
     "asn": "AS262234",
     "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 6463.46,
-    "last_checked": 1780533513.1679628
+    "latency_ms": 2599.21,
+    "last_checked": 1780534090.2486904
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.24.161",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.49,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 3907.42,
+    "last_checked": 1780534033.6679902
   },
   {
     "protocol": "http",
@@ -41,7 +71,7 @@
     "uptime_percent": 54.78,
     "asn": "AS52468",
     "isp": "Ufinet Honduras",
-    "latency_ms": 9537.87,
-    "last_checked": 1780533480.627916
+    "latency_ms": 5458.91,
+    "last_checked": 1780534022.3167744
   }
 ]
