@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "84.244.119.36",
+    "port": 23500,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
+    "city": "Votice",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 5.24,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 7278.76,
-    "last_checked": 1780547326.854866
+    "uptime_percent": 14.35,
+    "asn": "AS25248",
+    "isp": "BlueTone-CRa",
+    "latency_ms": 4021.99,
+    "last_checked": 1780547933.3840067
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 11.05,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 1268.96,
+    "last_checked": 1780547859.7728472
   },
   {
     "protocol": "http",
@@ -23,40 +38,10 @@
     "city": "Prague",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 81.6,
+    "uptime_percent": 81.61,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3967.9,
-    "last_checked": 1780547264.0026493
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 65.29,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 8930.62,
-    "last_checked": 1780547362.5109472
-  },
-  {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 16.16,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 9279.59,
-    "last_checked": 1780547280.6942492
+    "latency_ms": 2934.77,
+    "last_checked": 1780547844.495852
   }
 ]
