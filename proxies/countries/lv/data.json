@@ -1,32 +1,47 @@
 [
   {
     "protocol": "socks4",
-    "ip": "169.40.6.114",
+    "ip": "155.212.226.251",
     "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 59.33,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 8053.74,
-    "last_checked": 1780571893.2653043
+    "uptime_percent": 30.62,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 1512.24,
+    "last_checked": 1780572582.9245238
   },
   {
-    "protocol": "http",
-    "ip": "31.57.29.58",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "155.212.226.251",
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.97,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 2816.63,
+    "last_checked": 1780572535.0146973
+  },
+  {
+    "protocol": "http",
+    "ip": "155.212.226.251",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 32.17,
-    "asn": "AS56971",
-    "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 13243.52,
-    "last_checked": 1780571836.1760974
+    "uptime_percent": 11.41,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 8386.9,
+    "last_checked": 1780572484.9440417
   }
 ]
