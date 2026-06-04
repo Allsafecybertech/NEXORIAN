@@ -11,8 +11,8 @@
     "uptime_percent": 85.82,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8181.61,
-    "last_checked": 1780598683.3975449
+    "latency_ms": 1865.09,
+    "last_checked": 1780599249.5542705
   },
   {
     "protocol": "http",
@@ -22,11 +22,71 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 13.26,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 6404.81,
-    "last_checked": 1780598577.490277
+    "latency_ms": 8888.69,
+    "last_checked": 1780599204.7039292
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.17,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3331.09,
+    "last_checked": 1780599151.9982727
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 76.01,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 13819.23,
+    "last_checked": 1780599141.4279103
+  },
+  {
+    "protocol": "socks4",
+    "ip": "167.17.183.150",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.28,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 5500.2,
+    "last_checked": 1780599291.3450274
+  },
+  {
+    "protocol": "socks5",
+    "ip": "167.17.183.150",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.79,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 14183.85,
+    "last_checked": 1780599249.9115188
   }
 ]

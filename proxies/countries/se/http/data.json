@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "147.45.75.124",
+    "ip": "138.124.18.198",
     "port": 8080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 92.86,
+    "ssl": false,
+    "uptime_percent": 22.3,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 153.42,
-    "last_checked": 1780598695.6448543
+    "latency_ms": 812.2,
+    "last_checked": 1780599240.2414038
+  },
+  {
+    "protocol": "http",
+    "ip": "217.209.35.22",
+    "port": 443,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Gothenburg",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 28.52,
+    "asn": "AS3301",
+    "isp": "Telia Company AB",
+    "latency_ms": 14017.79,
+    "last_checked": 1780599223.1430311
   },
   {
     "protocol": "http",
@@ -26,23 +41,38 @@
     "uptime_percent": 99.38,
     "asn": "AS60662",
     "isp": "Data Communication & Software i Grondal Aktiebolag",
-    "latency_ms": 123.94,
-    "last_checked": 1780598689.2228923
+    "latency_ms": 141.88,
+    "last_checked": 1780599218.2253432
   },
   {
     "protocol": "http",
-    "ip": "150.241.75.235",
-    "port": 3128,
+    "ip": "147.45.75.124",
+    "port": 8080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.8,
+    "uptime_percent": 92.86,
     "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 2833.5,
-    "last_checked": 1780598666.2905533
+    "isp": "Aeza International LTD",
+    "latency_ms": 3328.08,
+    "last_checked": 1780599217.9490788
+  },
+  {
+    "protocol": "http",
+    "ip": "193.148.58.181",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 15.77,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 8697.19,
+    "last_checked": 1780599206.7418435
   },
   {
     "protocol": "http",
@@ -53,10 +83,25 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 82.36,
+    "uptime_percent": 82.37,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 6262.09,
-    "last_checked": 1780598594.7121778
+    "latency_ms": 7687.33,
+    "last_checked": 1780599180.3037174
+  },
+  {
+    "protocol": "http",
+    "ip": "193.148.58.165",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.19,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 963.01,
+    "last_checked": 1780599176.598227
   }
 ]
