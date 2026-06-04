@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "179.43.180.232",
+    "port": 1081,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.31,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 5540.22,
+    "last_checked": 1780549751.5825026
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -11,23 +26,23 @@
     "uptime_percent": 85.59,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 9290.13,
-    "last_checked": 1780549425.235687
+    "latency_ms": 8713.2,
+    "last_checked": 1780549746.3804336
   },
   {
     "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
+    "ip": "45.59.122.132",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Bern",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 76.12,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 10555.68,
-    "last_checked": 1780549420.7577443
+    "ssl": true,
+    "uptime_percent": 67.17,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 101.58,
+    "last_checked": 1780549735.987227
   },
   {
     "protocol": "socks5",
@@ -43,20 +58,5 @@
     "isp": "Global Connectivity Solutions LLP",
     "latency_ms": 2096.88,
     "last_checked": 1780549331.013119
-  },
-  {
-    "protocol": "socks5",
-    "ip": "167.17.183.150",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 35.4,
-    "asn": "AS26383",
-    "isp": "Baxet Group Inc.",
-    "latency_ms": 9474.87,
-    "last_checked": 1780549279.896777
   }
 ]
