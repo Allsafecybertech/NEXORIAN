@@ -1,32 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "199.203.152.99",
-    "port": 8111,
-    "country": "Israel",
-    "country_code": "IL",
-    "city": "Tel Aviv",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 2.98,
-    "asn": "AS1680",
-    "isp": "Cellcom Fixed Line Communication L.P",
-    "latency_ms": 3372.1,
-    "last_checked": 1780595929.927004
-  },
-  {
-    "protocol": "http",
     "ip": "83.229.73.113",
     "port": 13554,
     "country": "Israel",
     "country_code": "IL",
     "city": "Haifa",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 25.83,
     "asn": "AS44709",
     "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "latency_ms": 6476.36,
-    "last_checked": 1780595918.9822733
+    "latency_ms": 4560.65,
+    "last_checked": 1780596520.0796182
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.184.4.37",
+    "port": 1080,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Giv'on HaHadasha",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.06,
+    "asn": "AS47253",
+    "isp": "BCI Telecommunication & Advanced Technology Company",
+    "latency_ms": 747.08,
+    "last_checked": 1780596043.2092032
   }
 ]
