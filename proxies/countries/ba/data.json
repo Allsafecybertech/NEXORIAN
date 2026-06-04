@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "77.77.210.90",
+    "port": 21056,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Sarajevo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 7.34,
+    "asn": "AS42560",
+    "isp": "TELEMACH BH",
+    "latency_ms": 7807.17,
+    "last_checked": 1780573056.2679536
+  },
+  {
+    "protocol": "socks5",
     "ip": "185.99.3.100",
     "port": 995,
     "country": "Bosnia and Herzegovina",
@@ -8,25 +23,10 @@
     "city": "Novi Travnik",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.23,
+    "uptime_percent": 49.69,
     "asn": "AS200698",
     "isp": "Globalhost d.o.o. - Web Hosting Solutions",
-    "latency_ms": 2355.45,
-    "last_checked": 1780572585.9447212
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.15.178.39",
-    "port": 1080,
-    "country": "Bosnia and Herzegovina",
-    "country_code": "BA",
-    "city": "Sarajevo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 65.97,
-    "asn": "AS209847",
-    "isp": "WorkTitans B.V.",
-    "latency_ms": 3639.93,
-    "last_checked": 1780572581.4855568
+    "latency_ms": 3858.42,
+    "last_checked": 1780572925.7340066
   }
 ]
