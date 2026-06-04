@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.200.236.130",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "80.90.183.221",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.8,
-    "asn": "AS9198",
-    "isp": "Kazakhtelecom Data Network Administration",
-    "latency_ms": 658.62,
-    "last_checked": 1780569510.632776
+    "uptime_percent": 79.97,
+    "asn": "AS9123",
+    "isp": "Mamaev",
+    "latency_ms": 1411.38,
+    "last_checked": 1780570151.783681
+  },
+  {
+    "protocol": "http",
+    "ip": "194.58.42.190",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.86,
+    "asn": "AS41798",
+    "isp": "JSC Transtelecom",
+    "latency_ms": 6084.92,
+    "last_checked": 1780570150.9351268
   },
   {
     "protocol": "http",
@@ -22,12 +37,12 @@
     "country_code": "KZ",
     "city": "Atyrau",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 44.34,
+    "ssl": false,
+    "uptime_percent": 44.48,
     "asn": "AS35104",
     "isp": "JSC \"KazTransCom\"",
-    "latency_ms": 1365.8,
-    "last_checked": 1780569474.6406615
+    "latency_ms": 1538.04,
+    "last_checked": 1780570150.284852
   },
   {
     "protocol": "http",
@@ -41,37 +56,52 @@
     "uptime_percent": 98.57,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 1489.63,
-    "last_checked": 1780569459.2854242
+    "latency_ms": 974.78,
+    "last_checked": 1780570109.3585095
   },
   {
     "protocol": "http",
-    "ip": "80.90.183.221",
+    "ip": "82.200.236.130",
     "port": 3128,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 63.39,
-    "asn": "AS9123",
-    "isp": "Mamaev",
-    "latency_ms": 496.25,
-    "last_checked": 1780569454.6132593
+    "uptime_percent": 18.3,
+    "asn": "AS9198",
+    "isp": "Kazakhtelecom Data Network Administration",
+    "latency_ms": 434.89,
+    "last_checked": 1780570079.057374
   },
   {
-    "protocol": "socks5",
-    "ip": "45.8.98.142",
-    "port": 30010,
+    "protocol": "http",
+    "ip": "194.110.55.211",
+    "port": 3130,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.08,
+    "asn": "AS48716",
+    "isp": "PS Internet Company LLP",
+    "latency_ms": 4226.39,
+    "last_checked": 1780570032.189557
+  },
+  {
+    "protocol": "socks4",
+    "ip": "91.244.106.26",
+    "port": 1090,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.43,
-    "asn": "AS9123",
-    "isp": "JSC \"TIMEWEB\"",
-    "latency_ms": 1422.02,
-    "last_checked": 1780569417.9901657
+    "uptime_percent": 17.41,
+    "asn": "AS21299",
+    "isp": "Kar-Tel LLC",
+    "latency_ms": 535.25,
+    "last_checked": 1780570160.210879
   }
 ]
