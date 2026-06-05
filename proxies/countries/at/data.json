@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "80.64.140.251",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.3,
+    "asn": "AS24953",
+    "isp": "NETPLANET GmbH",
+    "latency_ms": 12591.66,
+    "last_checked": 1780646616.3710508
+  },
+  {
+    "protocol": "http",
     "ip": "80.245.197.246",
     "port": 80,
     "country": "Austria",
@@ -8,26 +23,11 @@
     "city": "Vienna",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 74.77,
+    "uptime_percent": 74.85,
     "asn": "AS21360",
     "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 921.39,
-    "last_checked": 1780646041.309738
-  },
-  {
-    "protocol": "socks4",
-    "ip": "193.233.129.235",
-    "port": 1080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 82.42,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 13708.01,
-    "last_checked": 1780646028.0958204
+    "latency_ms": 5703.97,
+    "last_checked": 1780646613.7881372
   },
   {
     "protocol": "http",
@@ -41,8 +41,8 @@
     "uptime_percent": 69.89,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 181.28,
-    "last_checked": 1780646027.7289047
+    "latency_ms": 532.03,
+    "last_checked": 1780646572.549273
   },
   {
     "protocol": "socks5",
@@ -58,5 +58,20 @@
     "isp": "OOO FREEnet Group",
     "latency_ms": 12547.74,
     "last_checked": 1780645984.0506377
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.113.106.198",
+    "port": 987,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.58,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 36.83,
+    "last_checked": 1780646711.6554646
   }
 ]
