@@ -1,3 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,80.245.197.246,80,Austria,AT,Vienna,anonymous,false,79.12,AS21360,Empirion Telekommunikations Services GmbH,69.57,1780700373.9087164
-http,81.10.234.234,80,Austria,AT,Unterweitersdorf,elite,false,70.06,AS12605,LIWEST Kabelmedien GmbH,78.06,1780700263.5701017
+socks4,83.215.25.66,9050,Austria,AT,Zell am See,elite,true,31.05,AS8445,SALZBURG-AG,10718.93,1780700967.8622105
+http,80.64.140.251,8080,Austria,AT,Vienna,transparent,false,38.29,AS24953,NETPLANET GmbH,3390.1,1780700958.3657746
+http,193.233.128.128,3128,Austria,AT,Vienna,transparent,true,41.64,AS210644,OOO FREEnet Group,879.69,1780700914.1593406
+http,81.10.234.234,80,Austria,AT,Unterweitersdorf,elite,false,70.06,AS12605,LIWEST Kabelmedien GmbH,1201.27,1780700897.799792
+socks5,89.58.17.90,9050,Austria,AT,Vienna,elite,true,34.03,AS197540,netcup GmbH,12219.37,1780700831.9420457
+socks4,212.113.106.198,987,Austria,AT,Vienna,elite,true,31.41,AS210644,xorek.cloud International LTD,1041.27,1780701001.1372335
