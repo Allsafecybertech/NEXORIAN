@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "156.38.112.11",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "102.68.83.9",
+    "port": 1080,
     "country": "Ghana",
     "country_code": "GH",
-    "city": "Cape Coast",
+    "city": "Accra",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 54.38,
-    "asn": "AS328212",
-    "isp": "THE UNIVERSITY OF CAPE COAST",
-    "latency_ms": 10593.34,
-    "last_checked": 1780699689.3847835
+    "ssl": true,
+    "uptime_percent": 85.44,
+    "asn": "AS327813",
+    "isp": "Host Africa (Pty) Ltd",
+    "latency_ms": 6075.18,
+    "last_checked": 1780700369.210593
   },
   {
     "protocol": "socks5",
@@ -26,7 +26,22 @@
     "uptime_percent": 85.18,
     "asn": "AS327813",
     "isp": "Host Africa (Pty) Ltd",
-    "latency_ms": 13991.97,
-    "last_checked": 1780699676.2996562
+    "latency_ms": 6515.69,
+    "last_checked": 1780700361.7259393
+  },
+  {
+    "protocol": "http",
+    "ip": "156.38.112.11",
+    "port": 80,
+    "country": "Ghana",
+    "country_code": "GH",
+    "city": "Cape Coast",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 54.38,
+    "asn": "AS328212",
+    "isp": "THE UNIVERSITY OF CAPE COAST",
+    "latency_ms": 1304.87,
+    "last_checked": 1780700328.833361
   }
 ]
