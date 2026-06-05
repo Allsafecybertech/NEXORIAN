@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "195.158.8.123",
-    "port": 3128,
+    "ip": "195.158.10.99",
+    "port": 8080,
     "country": "Uzbekistan",
     "country_code": "UZ",
     "city": "Tashkent",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 79.61,
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 41.53,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 2526.68,
-    "last_checked": 1780642088.3566997
+    "latency_ms": 7627.27,
+    "last_checked": 1780642794.5639286
   },
   {
     "protocol": "http",
@@ -26,11 +26,26 @@
     "uptime_percent": 37.48,
     "asn": "AS57016",
     "isp": "Inform-Service TV Ltd",
-    "latency_ms": 4920.96,
-    "last_checked": 1780642083.567284
+    "latency_ms": 8096.91,
+    "last_checked": 1780642761.2899227
   },
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "195.158.8.123",
+    "port": 3128,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 79.61,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 10666.98,
+    "last_checked": 1780642733.4741473
+  },
+  {
+    "protocol": "socks5",
     "ip": "212.20.151.70",
     "port": 1080,
     "country": "Uzbekistan",
@@ -38,25 +53,10 @@
     "city": "Tashkent",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.91,
+    "uptime_percent": 62.03,
     "asn": "AS213951",
     "isp": "Created Cogent Communications Customer - Globe Cloud LLC",
-    "latency_ms": 5127.73,
-    "last_checked": 1780642497.0214233
-  },
-  {
-    "protocol": "socks5",
-    "ip": "213.230.121.41",
-    "port": 1080,
-    "country": "Uzbekistan",
-    "country_code": "UZ",
-    "city": "Tashkent",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 57.12,
-    "asn": "AS8193",
-    "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 533.0,
-    "last_checked": 1780642125.1674407
+    "latency_ms": 9363.71,
+    "last_checked": 1780642518.7733443
   }
 ]
