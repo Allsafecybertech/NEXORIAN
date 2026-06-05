@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "179.43.180.232",
-    "port": 1081,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Rümlang",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 35.87,
-    "asn": "AS51852",
-    "isp": "Private Layer INC",
-    "latency_ms": 2140.39,
-    "last_checked": 1780619393.7647405
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 85.94,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 50.79,
-    "last_checked": 1780619374.9142225
+    "latency_ms": 50.14,
+    "last_checked": 1780619968.3298595
   },
   {
     "protocol": "http",
@@ -37,12 +22,27 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 13.32,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 2982.35,
-    "last_checked": 1780619336.516032
+    "latency_ms": 10255.57,
+    "last_checked": 1780619967.7399256
+  },
+  {
+    "protocol": "socks4",
+    "ip": "179.43.180.232",
+    "port": 1081,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.71,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 4894.41,
+    "last_checked": 1780619964.5171525
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,7 @@
     "uptime_percent": 82.25,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 667.4,
-    "last_checked": 1780618795.659849
+    "latency_ms": 1083.06,
+    "last_checked": 1780619948.545751
   }
 ]
