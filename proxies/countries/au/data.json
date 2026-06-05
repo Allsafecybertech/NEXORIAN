@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "170.64.170.204",
-    "port": 1080,
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 91.67,
+    "ssl": false,
+    "uptime_percent": 94.62,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1540.78,
-    "last_checked": 1780637062.3598917
+    "latency_ms": 533.43,
+    "last_checked": 1780637648.1202853
   },
   {
     "protocol": "http",
@@ -26,52 +26,22 @@
     "uptime_percent": 49.7,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 499.55,
-    "last_checked": 1780637032.8238387
+    "latency_ms": 506.7,
+    "last_checked": 1780637605.8255148
   },
   {
-    "protocol": "http",
-    "ip": "159.196.182.72",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.9,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2956.52,
-    "last_checked": 1780637031.6344416
-  },
-  {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "170.64.170.204",
-    "port": 8080,
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.61,
+    "ssl": true,
+    "uptime_percent": 91.67,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 3250.21,
-    "last_checked": 1780637022.6434517
-  },
-  {
-    "protocol": "socks5",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 33.33,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 8001.61,
-    "last_checked": 1780636885.52523
+    "latency_ms": 1573.01,
+    "last_checked": 1780637597.053394
   }
 ]
