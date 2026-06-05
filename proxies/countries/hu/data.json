@@ -1,63 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "31.46.33.59",
-    "port": 53281,
-    "country": "Hungary",
-    "country_code": "HU",
-    "city": "Tiszafüred",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.64,
-    "asn": "AS5483",
-    "isp": "htc",
-    "latency_ms": 17941.85,
-    "last_checked": 1780692543.8958592
-  },
-  {
-    "protocol": "socks5",
-    "ip": "79.172.212.71",
-    "port": 1080,
-    "country": "Hungary",
-    "country_code": "HU",
-    "city": "Budapest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 15.92,
-    "asn": "AS61998",
-    "isp": "Szerverplex Kft",
-    "latency_ms": 1091.64,
-    "last_checked": 1780692443.9854808
-  },
-  {
-    "protocol": "http",
     "ip": "95.214.123.155",
     "port": 8080,
     "country": "Hungary",
     "country_code": "HU",
     "city": "Kecskemét",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 40.54,
     "asn": "AS209001",
     "isp": "Deltakon Kft.",
-    "latency_ms": 9119.16,
-    "last_checked": 1780692573.3352346
-  },
-  {
-    "protocol": "http",
-    "ip": "95.214.123.76",
-    "port": 8080,
-    "country": "Hungary",
-    "country_code": "HU",
-    "city": "Kecskemét",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 14.05,
-    "asn": "AS209001",
-    "isp": "Deltakon Kft.",
-    "latency_ms": 3696.48,
-    "last_checked": 1780692542.2664557
+    "latency_ms": 166.43,
+    "last_checked": 1780693188.7798464
   },
   {
     "protocol": "http",
@@ -68,10 +23,25 @@
     "city": "Siófok",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 34.57,
+    "uptime_percent": 34.66,
     "asn": "AS47169",
     "isp": "Pro-M Zrt.",
-    "latency_ms": 4186.43,
-    "last_checked": 1780692491.42351
+    "latency_ms": 117.04,
+    "last_checked": 1780693137.1347184
+  },
+  {
+    "protocol": "http",
+    "ip": "95.214.123.76",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Kecskemét",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.06,
+    "asn": "AS209001",
+    "isp": "Deltakon Kft.",
+    "latency_ms": 3187.16,
+    "last_checked": 1780693125.7118082
   }
 ]
