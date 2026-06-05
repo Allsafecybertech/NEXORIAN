@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "31.170.17.141",
-    "port": 4153,
+    "ip": "185.236.22.192",
+    "port": 9050,
     "country": "Latvia",
     "country_code": "LV",
-    "city": "Sātiņi",
+    "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 4.57,
-    "asn": "AS42099",
-    "isp": "DNET ITRisinajumi Ltd.",
-    "latency_ms": 1169.5,
-    "last_checked": 1780691392.353475
+    "uptime_percent": 43.13,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 522.18,
+    "last_checked": 1780691963.2648284
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.48,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 10394.72,
+    "last_checked": 1780691934.8709385
   },
   {
     "protocol": "socks5",
@@ -26,23 +41,8 @@
     "uptime_percent": 31.7,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 7409.75,
-    "last_checked": 1780691298.4104898
-  },
-  {
-    "protocol": "http",
-    "ip": "195.13.164.73",
-    "port": 8080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 35.11,
-    "asn": "AS12578",
-    "isp": "SIA Tet",
-    "latency_ms": 5128.85,
-    "last_checked": 1780691381.7258568
+    "latency_ms": 5095.03,
+    "last_checked": 1780691814.4257696
   },
   {
     "protocol": "socks5",
@@ -56,8 +56,8 @@
     "uptime_percent": 56.51,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 3220.04,
-    "last_checked": 1780691247.429939
+    "latency_ms": 8796.8,
+    "last_checked": 1780691951.1283424
   },
   {
     "protocol": "http",
@@ -68,10 +68,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.53,
+    "uptime_percent": 40.55,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 161.5,
-    "last_checked": 1780691191.6805468
+    "latency_ms": 148.17,
+    "last_checked": 1780691908.6920056
+  },
+  {
+    "protocol": "http",
+    "ip": "195.13.164.73",
+    "port": 8080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.11,
+    "asn": "AS12578",
+    "isp": "SIA Tet",
+    "latency_ms": 6123.27,
+    "last_checked": 1780691841.519445
   }
 ]
