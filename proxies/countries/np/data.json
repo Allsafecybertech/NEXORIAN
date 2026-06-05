@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.96,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 835.08,
+    "last_checked": 1780622397.8904154
+  },
+  {
+    "protocol": "socks4",
     "ip": "182.93.75.162",
     "port": 1080,
     "country": "Nepal",
@@ -8,11 +23,26 @@
     "city": "Mahottari",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 50.37,
+    "uptime_percent": 50.38,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 1086.19,
-    "last_checked": 1780621772.96278
+    "latency_ms": 1038.49,
+    "last_checked": 1780622388.301505
+  },
+  {
+    "protocol": "http",
+    "ip": "103.1.93.184",
+    "port": 55443,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 6.41,
+    "asn": "AS55915",
+    "isp": "Classic Tech Pvt. Ltd",
+    "latency_ms": 4520.93,
+    "last_checked": 1780622331.7680602
   },
   {
     "protocol": "http",
@@ -22,41 +52,11 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.95,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 4846.55,
-    "last_checked": 1780621757.3520699
-  },
-  {
-    "protocol": "socks4",
-    "ip": "202.166.219.80",
-    "port": 4153,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.95,
-    "asn": "AS17501",
-    "isp": "WorldLink Communications",
-    "latency_ms": 837.27,
-    "last_checked": 1780621752.1658063
-  },
-  {
-    "protocol": "http",
-    "ip": "202.166.217.188",
-    "port": 2121,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.64,
-    "asn": "AS17501",
-    "isp": "WorldLink Communications",
-    "latency_ms": 9205.15,
-    "last_checked": 1780621652.8158615
+    "latency_ms": 1654.06,
+    "last_checked": 1780622304.233197
   }
 ]
