@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.61,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3498.59,
+    "last_checked": 1780683564.9790642
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.24,
+    "uptime_percent": 86.23,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2777.87,
-    "last_checked": 1780682957.857573
-  },
-  {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 41.89,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 3443.44,
-    "last_checked": 1780682954.8038192
+    "latency_ms": 2641.08,
+    "last_checked": 1780683557.1377552
   },
   {
     "protocol": "http",
@@ -37,42 +37,42 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 66.97,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 11912.33,
-    "last_checked": 1780682883.7503326
+    "latency_ms": 5672.57,
+    "last_checked": 1780683543.2880168
   },
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "179.43.180.232",
-    "port": 3128,
+    "port": 1081,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Rümlang",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.1,
+    "uptime_percent": 39.11,
     "asn": "AS51852",
     "isp": "Private Layer INC",
-    "latency_ms": 3954.84,
-    "last_checked": 1780682833.6758606
+    "latency_ms": 2125.98,
+    "last_checked": 1780683538.0933146
   },
   {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "179.43.180.232",
+    "port": 1081,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Rümlang",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.62,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8613.6,
-    "last_checked": 1780682810.456075
+    "uptime_percent": 35.26,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 5310.33,
+    "last_checked": 1780683504.9206898
   },
   {
     "protocol": "http",
@@ -86,8 +86,23 @@
     "uptime_percent": 13.4,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 12665.37,
-    "last_checked": 1780682740.68562
+    "latency_ms": 14891.03,
+    "last_checked": 1780683491.177318
+  },
+  {
+    "protocol": "http",
+    "ip": "179.43.180.232",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.11,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 4266.29,
+    "last_checked": 1780683485.4312198
   },
   {
     "protocol": "socks5",
@@ -101,11 +116,11 @@
     "uptime_percent": 82.53,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 6182.63,
-    "last_checked": 1780682686.1806016
+    "latency_ms": 5432.58,
+    "last_checked": 1780683387.660064
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "167.17.183.150",
     "port": 9050,
     "country": "Switzerland",
@@ -113,10 +128,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.99,
+    "uptime_percent": 37.44,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 13694.07,
-    "last_checked": 1780682875.4896736
+    "latency_ms": 1856.74,
+    "last_checked": 1780683582.9364054
   }
 ]
