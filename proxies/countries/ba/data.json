@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "77.77.210.90",
+    "port": 21056,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Sarajevo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 7.35,
+    "asn": "AS42560",
+    "isp": "TELEMACH BH",
+    "latency_ms": 8094.65,
+    "last_checked": 1780673853.9765005
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.15.178.39",
     "port": 1080,
     "country": "Bosnia and Herzegovina",
@@ -8,10 +23,25 @@
     "city": "Sarajevo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.31,
+    "uptime_percent": 68.68,
     "asn": "AS209847",
     "isp": "WorkTitans B.V.",
-    "latency_ms": 143.59,
-    "last_checked": 1780673260.8242698
+    "latency_ms": 1121.32,
+    "last_checked": 1780673996.2657652
+  },
+  {
+    "protocol": "http",
+    "ip": "45.15.178.39",
+    "port": 3128,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Sarajevo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.68,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 115.62,
+    "last_checked": 1780673956.6302419
   }
 ]
