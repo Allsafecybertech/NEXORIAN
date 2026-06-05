@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "93.123.121.3",
+    "protocol": "http",
+    "ip": "5.104.183.41",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pirdop",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.79,
-    "asn": "AS44851",
-    "isp": "Retel JSC",
-    "latency_ms": 1886.52,
-    "last_checked": 1780636483.9436414
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.49,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 1865.9,
+    "last_checked": 1780637047.0798907
   },
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "82.137.90.192",
+    "port": 80,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Rousse",
+    "city": "Haskovo",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.9,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 248.84,
-    "last_checked": 1780636483.6538043
+    "ssl": false,
+    "uptime_percent": 46.02,
+    "asn": "AS8866",
+    "isp": "Bulgarian Telecommunications Company Plc.",
+    "latency_ms": 13353.59,
+    "last_checked": 1780637025.5853357
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.183.25",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.51,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 2734.28,
+    "last_checked": 1780637000.3965826
   },
   {
     "protocol": "socks5",
@@ -38,11 +53,26 @@
     "city": "Pirdop",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 19.05,
+    "uptime_percent": 19.06,
     "asn": "AS44851",
     "isp": "Retel JSC",
-    "latency_ms": 3078.21,
-    "last_checked": 1780636150.8857346
+    "latency_ms": 8192.67,
+    "last_checked": 1780636625.9769707
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.42,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 407.46,
+    "last_checked": 1780636591.0632074
   },
   {
     "protocol": "socks4",
@@ -56,8 +86,8 @@
     "uptime_percent": 9.8,
     "asn": "AS8717",
     "isp": "Spectrum NET",
-    "latency_ms": 126.19,
-    "last_checked": 1780636497.742826
+    "latency_ms": 174.5,
+    "last_checked": 1780637102.1015072
   },
   {
     "protocol": "http",
@@ -67,11 +97,26 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 10.26,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 5844.9,
-    "last_checked": 1780636406.4598022
+    "latency_ms": 4244.01,
+    "last_checked": 1780637081.5579505
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.44,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 4251.97,
+    "last_checked": 1780637058.4359066
   }
 ]
