@@ -1,21 +1,21 @@
 [
   {
     "protocol": "http",
-    "ip": "151.237.84.9",
+    "ip": "85.196.179.34",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Kardzhali",
-    "anonymity": "transparent",
+    "city": "Sofia",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 21.08,
-    "asn": "AS48233",
-    "isp": "Netroniks EOOD",
-    "latency_ms": 5554.2,
-    "last_checked": 1780624751.7136781
+    "uptime_percent": 8.45,
+    "asn": "AS29580",
+    "isp": "Mobiltel BNG",
+    "latency_ms": 14365.42,
+    "last_checked": 1780625306.6800787
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "93.123.121.3",
     "port": 8080,
     "country": "Bulgaria",
@@ -23,11 +23,11 @@
     "city": "Pirdop",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.73,
+    "uptime_percent": 19.02,
     "asn": "AS44851",
     "isp": "Retel JSC",
-    "latency_ms": 4959.33,
-    "last_checked": 1780624719.7773645
+    "latency_ms": 2510.54,
+    "last_checked": 1780624889.099355
   },
   {
     "protocol": "socks5",
@@ -45,7 +45,7 @@
     "last_checked": 1780624617.86667
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "93.123.121.3",
     "port": 8080,
     "country": "Bulgaria",
@@ -53,10 +53,25 @@
     "city": "Pirdop",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 19.02,
+    "uptime_percent": 24.73,
     "asn": "AS44851",
     "isp": "Retel JSC",
-    "latency_ms": 5368.36,
-    "last_checked": 1780624555.0205195
+    "latency_ms": 8640.3,
+    "last_checked": 1780625373.4348278
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.52.101",
+    "port": 8185,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Shumen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 60.0,
+    "asn": "AS42086",
+    "isp": "RONI",
+    "latency_ms": 3566.98,
+    "last_checked": 1780625359.4923062
   }
 ]
