@@ -1,5 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,39.47,AS4764,Wideband Networks Pty Ltd,3678.18,1780656557.6149297
-http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.74,AS16276,OVH SAS,4380.89,1780656524.7893276
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.62,AS14061,"DigitalOcean, LLC",2507.26,1780656495.3694367
-http,51.161.131.235,8080,Australia,AU,North Sydney,elite,false,21.81,AS16276,OVH SAS,9828.86,1780656576.833768
+http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.74,AS16276,OVH SAS,11920.5,1780657179.2726827
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.69,AS14061,"DigitalOcean, LLC",3699.61,1780657148.6033044
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.62,AS14061,"DigitalOcean, LLC",1523.16,1780657084.135855
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,true,39.5,AS4764,Wideband Networks Pty Ltd,3769.87,1780657057.3098145
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,42.04,AS31898,Oracle Corporation,10372.32,1780657146.5217133
+http,61.29.96.146,80,Australia,AU,Albury,anonymous,false,7.85,AS2764,AAPT Limited,10460.46,1780657071.1066606
