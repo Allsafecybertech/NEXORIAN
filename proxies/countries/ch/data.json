@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.51,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3144.86,
+    "last_checked": 1780680568.9037268
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -11,23 +26,8 @@
     "uptime_percent": 86.23,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8772.59,
-    "last_checked": 1780679963.3309197
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 82.5,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 22127.42,
-    "last_checked": 1780679931.7118409
+    "latency_ms": 2577.76,
+    "last_checked": 1780680558.6513581
   },
   {
     "protocol": "http",
@@ -37,12 +37,12 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 66.96,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 13380.98,
-    "last_checked": 1780679931.5651174
+    "latency_ms": 3840.04,
+    "last_checked": 1780680542.807932
   },
   {
     "protocol": "http",
@@ -53,10 +53,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.6,
+    "uptime_percent": 75.61,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2286.19,
-    "last_checked": 1780679835.436203
+    "latency_ms": 5929.86,
+    "last_checked": 1780680525.971974
+  },
+  {
+    "protocol": "socks5",
+    "ip": "179.43.180.232",
+    "port": 1081,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.29,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 1286.46,
+    "last_checked": 1780680237.8242562
   }
 ]
