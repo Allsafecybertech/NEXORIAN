@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "103.114.25.21",
-    "port": 8088,
+    "protocol": "socks4",
+    "ip": "182.93.75.162",
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
-    "city": "Narayan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.42,
-    "asn": "AS137580",
-    "isp": "Everest Wireless Network pvt. ltd",
-    "latency_ms": 10341.16,
-    "last_checked": 1780678696.1179428
+    "city": "Mahottari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.47,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 4567.45,
+    "last_checked": 1780679360.6853693
   },
   {
     "protocol": "http",
-    "ip": "182.93.75.162",
+    "ip": "182.93.85.225",
     "port": 8080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Mahottari",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 12.56,
+    "uptime_percent": 5.97,
     "asn": "AS4007",
-    "isp": "Subisu Cablenet",
-    "latency_ms": 15432.24,
-    "last_checked": 1780678659.3242621
+    "isp": "Subisu D85",
+    "latency_ms": 2719.35,
+    "last_checked": 1780679349.775915
+  },
+  {
+    "protocol": "socks4",
+    "ip": "202.166.196.105",
+    "port": 48293,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.11,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1907.98,
+    "last_checked": 1780679324.5492551
   },
   {
     "protocol": "http",
@@ -41,7 +56,22 @@
     "uptime_percent": 10.92,
     "asn": "AS138388",
     "isp": "Pokhara Internet Pvt. Ltd",
-    "latency_ms": 2693.64,
-    "last_checked": 1780678610.31983
+    "latency_ms": 11032.86,
+    "last_checked": 1780679269.5802214
+  },
+  {
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 7.09,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 878.54,
+    "last_checked": 1780679389.4390223
   }
 ]
