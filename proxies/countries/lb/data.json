@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "185.82.99.190",
+    "ip": "185.82.99.210",
     "port": 8724,
     "country": "Lebanon",
     "country_code": "LB",
     "city": "Baalbek",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.24,
+    "ssl": true,
+    "uptime_percent": 9.8,
     "asn": "AS42183",
     "isp": "NET 360 S.A.R.L",
-    "latency_ms": 6662.0,
-    "last_checked": 1780685926.8638864
+    "latency_ms": 7477.61,
+    "last_checked": 1780686534.2459671
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.99.204",
+    "port": 92,
+    "country": "Lebanon",
+    "country_code": "LB",
+    "city": "Baalbek",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.66,
+    "asn": "AS42183",
+    "isp": "NET 360 S.A.R.L",
+    "latency_ms": 13015.1,
+    "last_checked": 1780686509.338826
   },
   {
     "protocol": "http",
@@ -23,40 +38,10 @@
     "city": "Baalbek",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 17.45,
+    "uptime_percent": 17.46,
     "asn": "AS42183",
     "isp": "NET 360 S.A.R.L",
-    "latency_ms": 11410.14,
-    "last_checked": 1780685813.519826
-  },
-  {
-    "protocol": "http",
-    "ip": "185.82.99.101",
-    "port": 92,
-    "country": "Lebanon",
-    "country_code": "LB",
-    "city": "Baalbek",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 13.4,
-    "asn": "AS42183",
-    "isp": "NET 360 S.A.R.L",
-    "latency_ms": 7090.84,
-    "last_checked": 1780685812.4921565
-  },
-  {
-    "protocol": "http",
-    "ip": "160.238.122.200",
-    "port": 8080,
-    "country": "Lebanon",
-    "country_code": "LB",
-    "city": "Beirut",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 12.37,
-    "asn": "AS210292",
-    "isp": "Data Plus SARL",
-    "latency_ms": 9287.87,
-    "last_checked": 1780685972.4984705
+    "latency_ms": 9789.86,
+    "last_checked": 1780686459.6919942
   }
 ]
