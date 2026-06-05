@@ -645,7 +645,7 @@
     "last_checked": 1780641684.0947907
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "161.97.129.202",
     "port": 9060,
     "country": "France",
@@ -653,10 +653,25 @@
     "city": "Lauterbourg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.57,
+    "uptime_percent": 10.67,
     "asn": "AS51167",
     "isp": "Contabo GmbH",
-    "latency_ms": 793.71,
-    "last_checked": 1780641717.911298
+    "latency_ms": 1873.76,
+    "last_checked": 1780642486.7532282
+  },
+  {
+    "protocol": "http",
+    "ip": "163.172.53.142",
+    "port": 80,
+    "country": "France",
+    "country_code": "FR",
+    "city": "Paris",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 89.26,
+    "asn": "AS12876",
+    "isp": "Scaleway SAS",
+    "latency_ms": 3955.27,
+    "last_checked": 1780642412.9533353
   }
 ]
