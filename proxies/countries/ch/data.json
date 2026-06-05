@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "179.43.180.232",
-    "port": 1081,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Rümlang",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.72,
-    "asn": "AS51852",
-    "isp": "Private Layer INC",
-    "latency_ms": 6379.61,
-    "last_checked": 1780617551.4145336
-  },
-  {
-    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -23,11 +8,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.92,
+    "uptime_percent": 85.93,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1490.67,
-    "last_checked": 1780617536.3790936
+    "latency_ms": 56.43,
+    "last_checked": 1780618193.5638583
   },
   {
     "protocol": "http",
@@ -37,12 +22,27 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 13.31,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 3265.16,
-    "last_checked": 1780617491.7600126
+    "latency_ms": 3658.35,
+    "last_checked": 1780618163.9846478
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.85,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 5337.19,
+    "last_checked": 1780618161.4678624
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 82.23,
+    "uptime_percent": 82.24,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 140.69,
-    "last_checked": 1780617192.2830443
+    "latency_ms": 1460.92,
+    "last_checked": 1780618105.1035018
   }
 ]
