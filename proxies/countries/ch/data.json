@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "179.43.180.232",
+    "port": 1081,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Rümlang",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.08,
+    "asn": "AS51852",
+    "isp": "Private Layer INC",
+    "latency_ms": 9000.71,
+    "last_checked": 1780778964.3371644
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -11,8 +26,8 @@
     "uptime_percent": 86.36,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2133.1,
-    "last_checked": 1780778379.6622646
+    "latency_ms": 1487.31,
+    "last_checked": 1780778957.8033562
   },
   {
     "protocol": "socks5",
@@ -23,11 +38,26 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 82.5,
+    "uptime_percent": 82.52,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5516.56,
-    "last_checked": 1780778374.7675192
+    "latency_ms": 2185.48,
+    "last_checked": 1780778952.6856964
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.239.248",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wetzikon",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 13.57,
+    "asn": "AS264617",
+    "isp": "Geronimo Ramirez Computer Network",
+    "latency_ms": 9506.89,
+    "last_checked": 1780778889.8971882
   },
   {
     "protocol": "http",
@@ -41,37 +71,7 @@
     "uptime_percent": 75.26,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4132.22,
-    "last_checked": 1780778364.6678576
-  },
-  {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.49,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 10757.51,
-    "last_checked": 1780778338.5362637
-  },
-  {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 66.89,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 4937.81,
-    "last_checked": 1780778309.4501963
+    "latency_ms": 3513.94,
+    "last_checked": 1780778868.2816064
   }
 ]
