@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.22,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 3491.7,
-    "last_checked": 1780739687.6726127
-  },
-  {
     "protocol": "http",
     "ip": "93.42.151.100",
     "port": 4443,
@@ -26,8 +11,53 @@
     "uptime_percent": 19.29,
     "asn": "AS12874",
     "isp": "Fastweb SpA",
-    "latency_ms": 1289.29,
-    "last_checked": 1780739581.8097842
+    "latency_ms": 3580.59,
+    "last_checked": 1780739964.8118498
+  },
+  {
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.22,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 1112.65,
+    "last_checked": 1780739953.2651303
+  },
+  {
+    "protocol": "http",
+    "ip": "93.43.251.159",
+    "port": 80,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Turin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.04,
+    "asn": "AS12874",
+    "isp": "Fastweb Networks",
+    "latency_ms": 11512.01,
+    "last_checked": 1780739951.7228549
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.62.48.141",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Isernia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.22,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 3226.47,
+    "last_checked": 1780739944.6404178
   },
   {
     "protocol": "socks5",
@@ -41,22 +71,37 @@
     "uptime_percent": 82.66,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2277.62,
-    "last_checked": 1780739575.1857023
+    "latency_ms": 803.7,
+    "last_checked": 1780739898.8523612
   },
   {
-    "protocol": "socks5",
-    "ip": "151.241.215.23",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "93.147.55.25",
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 76.48,
-    "asn": "AS57043",
-    "isp": "Hostkey B.V.",
-    "latency_ms": 192.44,
-    "last_checked": 1780739556.7535963
+    "city": "Bisceglie",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.56,
+    "asn": "AS30722",
+    "isp": "VODAFONE",
+    "latency_ms": 7953.41,
+    "last_checked": 1780739875.8118799
+  },
+  {
+    "protocol": "http",
+    "ip": "85.235.150.219",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.32,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 16585.19,
+    "last_checked": 1780739832.563313
   }
 ]
