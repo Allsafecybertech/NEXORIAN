@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "169.40.6.114",
+    "protocol": "socks4",
+    "ip": "155.212.226.251",
     "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.25,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 636.69,
-    "last_checked": 1780734222.8835502
+    "uptime_percent": 40.61,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 8465.02,
+    "last_checked": 1780734849.2374098
   },
   {
     "protocol": "http",
@@ -22,30 +22,15 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.4,
+    "ssl": true,
+    "uptime_percent": 35.39,
     "asn": "AS12578",
     "isp": "SIA Tet",
-    "latency_ms": 3616.4,
-    "last_checked": 1780734164.9437861
+    "latency_ms": 457.93,
+    "last_checked": 1780734846.107947
   },
   {
     "protocol": "socks5",
-    "ip": "155.212.226.251",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.77,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 1800.85,
-    "last_checked": 1780733953.8033001
-  },
-  {
-    "protocol": "socks4",
     "ip": "169.40.6.114",
     "port": 1080,
     "country": "Latvia",
@@ -53,10 +38,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.57,
+    "uptime_percent": 55.23,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 6000.13,
-    "last_checked": 1780734294.9883502
+    "latency_ms": 1576.77,
+    "last_checked": 1780734845.9229004
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.98,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 16898.33,
+    "last_checked": 1780734802.3224037
   }
 ]
