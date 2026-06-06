@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.04,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 7443.38,
+    "last_checked": 1780739371.6721845
+  },
+  {
     "protocol": "http",
     "ip": "185.141.26.131",
     "port": 3128,
@@ -8,11 +23,26 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 68.24,
+    "uptime_percent": 68.35,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 191.39,
-    "last_checked": 1780738766.7513015
+    "latency_ms": 398.47,
+    "last_checked": 1780739360.393222
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.94,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 7421.89,
+    "last_checked": 1780739343.5614655
   },
   {
     "protocol": "socks5",
@@ -23,25 +53,40 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.68,
+    "uptime_percent": 54.73,
     "asn": "AS39287",
     "isp": "ab stract",
-    "latency_ms": 113.77,
-    "last_checked": 1780738735.081668
+    "latency_ms": 952.82,
+    "last_checked": 1780739319.7748768
   },
   {
-    "protocol": "socks5",
-    "ip": "85.121.51.40",
-    "port": 9091,
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.15,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 136.72,
+    "last_checked": 1780739292.629527
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cluj-Napoca",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 22.94,
-    "asn": "AS9009",
-    "isp": "M247 Europe SRL",
-    "latency_ms": 8114.47,
-    "last_checked": 1780738622.8615153
+    "uptime_percent": 11.63,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 3977.17,
+    "last_checked": 1780739275.4199228
   }
 ]
