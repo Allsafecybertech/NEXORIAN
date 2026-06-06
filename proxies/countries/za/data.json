@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "41.162.162.142",
-    "port": 4153,
+    "protocol": "socks5",
+    "ip": "102.217.190.157",
+    "port": 7080,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Bloemfontein",
+    "city": "Cape Town",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.95,
-    "asn": "AS36937",
-    "isp": "Neotel GAU",
-    "latency_ms": 2054.0,
-    "last_checked": 1780739361.4997542
-  },
-  {
-    "protocol": "http",
-    "ip": "20.33.10.132",
-    "port": 80,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Johannesburg",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 5.37,
-    "asn": "AS8069",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 2479.3,
-    "last_checked": 1780739350.27297
+    "uptime_percent": 54.62,
+    "asn": "AS328970",
+    "isp": "CloudGistics",
+    "latency_ms": 1978.65,
+    "last_checked": 1780739682.2462604
   },
   {
     "protocol": "http",
@@ -41,8 +26,8 @@
     "uptime_percent": 98.76,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 2506.24,
-    "last_checked": 1780739337.7399876
+    "latency_ms": 9094.31,
+    "last_checked": 1780739674.2434828
   },
   {
     "protocol": "http",
@@ -56,8 +41,38 @@
     "uptime_percent": 98.84,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 17479.69,
-    "last_checked": 1780739302.9621363
+    "latency_ms": 6231.69,
+    "last_checked": 1780739669.1710398
+  },
+  {
+    "protocol": "http",
+    "ip": "20.33.10.132",
+    "port": 80,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.72,
+    "asn": "AS8069",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 1657.25,
+    "last_checked": 1780739660.4711814
+  },
+  {
+    "protocol": "socks4",
+    "ip": "41.162.162.142",
+    "port": 4153,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Bloemfontein",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.95,
+    "asn": "AS36937",
+    "isp": "Neotel GAU",
+    "latency_ms": 1973.92,
+    "last_checked": 1780739658.3731742
   },
   {
     "protocol": "http",
@@ -67,11 +82,41 @@
     "country_code": "ZA",
     "city": "Potchefstroom",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 24.29,
     "asn": "AS328471",
     "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 12830.74,
-    "last_checked": 1780739294.550722
+    "latency_ms": 9802.3,
+    "last_checked": 1780739643.588167
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.36.127.231",
+    "port": 1080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Nelspruit",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.4,
+    "asn": "AS327794",
+    "isp": "Clear Access (Pty) Ltd",
+    "latency_ms": 9739.14,
+    "last_checked": 1780739629.2692416
+  },
+  {
+    "protocol": "http",
+    "ip": "169.239.208.70",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Cape Town",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.01,
+    "asn": "AS327983",
+    "isp": "Interworks Wireless Solutions",
+    "latency_ms": 5704.94,
+    "last_checked": 1780739626.724379
   }
 ]
