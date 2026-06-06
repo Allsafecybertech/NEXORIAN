@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kryry",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.27,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1078.43,
-    "last_checked": 1780731597.1327698
-  },
-  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -26,8 +11,8 @@
     "uptime_percent": 81.8,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4214.04,
-    "last_checked": 1780731514.9974105
+    "latency_ms": 2473.34,
+    "last_checked": 1780732052.203578
   },
   {
     "protocol": "http",
@@ -37,26 +22,41 @@
     "country_code": "CZ",
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 34.94,
+    "ssl": true,
+    "uptime_percent": 35.05,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 6544.12,
-    "last_checked": 1780731455.4080474
+    "latency_ms": 13937.07,
+    "last_checked": 1780732039.5283084
   },
   {
     "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
+    "ip": "77.240.97.77",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Nejdek",
+    "city": "Dobříš",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 7.65,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 7518.52,
-    "last_checked": 1780731417.8479004
+    "uptime_percent": 30.27,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 950.68,
+    "last_checked": 1780732011.8087437
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 11.14,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 6592.68,
+    "last_checked": 1780732002.5598688
   }
 ]
