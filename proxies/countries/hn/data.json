@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.94,
+    "asn": "AS14754",
+    "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "latency_ms": 763.55,
+    "last_checked": 1780783150.42475
+  },
+  {
     "protocol": "http",
     "ip": "45.89.82.210",
     "port": 8080,
@@ -7,42 +22,27 @@
     "country_code": "HN",
     "city": "El Níspero",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.89,
+    "ssl": false,
+    "uptime_percent": 30.0,
     "asn": "AS273189",
     "isp": "CA NETWORKS S.A. DE C.V.",
-    "latency_ms": 3211.11,
-    "last_checked": 1780782558.8499303
+    "latency_ms": 1936.22,
+    "last_checked": 1780783109.8862066
   },
   {
     "protocol": "http",
-    "ip": "190.185.112.58",
-    "port": 999,
+    "ip": "190.130.6.11",
+    "port": 8080,
     "country": "Honduras",
     "country_code": "HN",
     "city": "Tegucigalpa",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 8.58,
-    "asn": "AS27932",
-    "isp": "Redes y Telecomunicaciones",
-    "latency_ms": 8846.99,
-    "last_checked": 1780782529.9341846
-  },
-  {
-    "protocol": "http",
-    "ip": "181.78.45.74",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Santiago de Puringla",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 3.14,
-    "asn": "AS52468",
-    "isp": "Ufinet Honduras",
-    "latency_ms": 4293.09,
-    "last_checked": 1780782512.5839114
+    "uptime_percent": 14.28,
+    "asn": "AS7727",
+    "isp": "Hondutel",
+    "latency_ms": 4381.68,
+    "last_checked": 1780783033.3441927
   },
   {
     "protocol": "http",
@@ -53,25 +53,10 @@
     "city": "La Unión",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 55.18,
+    "uptime_percent": 55.19,
     "asn": "AS52468",
     "isp": "Ufinet Honduras",
-    "latency_ms": 4352.79,
-    "last_checked": 1780782498.5435123
-  },
-  {
-    "protocol": "http",
-    "ip": "200.106.236.142",
-    "port": 8080,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Tegucigalpa",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.55,
-    "asn": "AS23383",
-    "isp": "Metrored S.a. De C.V.",
-    "latency_ms": 9125.67,
-    "last_checked": 1780782491.877855
+    "latency_ms": 2467.14,
+    "last_checked": 1780783079.460903
   }
 ]
