@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "80.64.208.147",
     "port": 9050,
     "country": "Malta",
@@ -8,10 +8,40 @@
     "city": "Valletta",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.87,
+    "uptime_percent": 44.0,
     "asn": "AS200295",
     "isp": "Skoed Limited",
-    "latency_ms": 9680.44,
-    "last_checked": 1780746240.3635535
+    "latency_ms": 11425.54,
+    "last_checked": 1780746887.0406115
+  },
+  {
+    "protocol": "http",
+    "ip": "84.255.40.228",
+    "port": 8998,
+    "country": "Malta",
+    "country_code": "MT",
+    "city": "Sliema",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.33,
+    "asn": "AS12709",
+    "isp": "Melita plc",
+    "latency_ms": 6765.31,
+    "last_checked": 1780746763.9966881
+  },
+  {
+    "protocol": "socks4",
+    "ip": "213.165.185.211",
+    "port": 4153,
+    "country": "Malta",
+    "country_code": "MT",
+    "city": "Sliema",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.9,
+    "asn": "AS12709",
+    "isp": "Melita Cable plc",
+    "latency_ms": 3390.53,
+    "last_checked": 1780746888.033695
   }
 ]
