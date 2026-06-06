@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "80.90.183.221",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "89.169.37.254",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Almaty",
+    "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.33,
-    "asn": "AS9123",
-    "isp": "Mamaev",
-    "latency_ms": 11237.02,
-    "last_checked": 1780768136.2446558
+    "uptime_percent": 55.39,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 784.56,
+    "last_checked": 1780768798.6331496
   },
   {
     "protocol": "http",
@@ -26,8 +26,23 @@
     "uptime_percent": 98.54,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 1761.85,
-    "last_checked": 1780768135.0548868
+    "latency_ms": 2472.44,
+    "last_checked": 1780768789.9227428
+  },
+  {
+    "protocol": "socks4",
+    "ip": "80.90.183.221",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.39,
+    "asn": "AS9123",
+    "isp": "Mamaev",
+    "latency_ms": 3479.82,
+    "last_checked": 1780768773.120862
   },
   {
     "protocol": "socks5",
@@ -41,22 +56,37 @@
     "uptime_percent": 29.58,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 2616.33,
-    "last_checked": 1780768098.5198553
+    "latency_ms": 7558.0,
+    "last_checked": 1780768733.213374
   },
   {
-    "protocol": "http",
-    "ip": "188.94.159.26",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "89.169.37.254",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.35,
-    "asn": "AS212189",
-    "isp": "It-grad TOO",
-    "latency_ms": 11773.71,
-    "last_checked": 1780768075.567466
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.38,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 2255.22,
+    "last_checked": 1780768633.3035815
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.133.8.226",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.68,
+    "asn": "AS41798",
+    "isp": "MTFINANCE",
+    "latency_ms": 1637.03,
+    "last_checked": 1780768610.4035525
   }
 ]
