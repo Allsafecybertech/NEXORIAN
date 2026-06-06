@@ -1,32 +1,47 @@
 [
   {
     "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 65.96,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 15120.56,
+    "last_checked": 1780742667.9161572
+  },
+  {
+    "protocol": "http",
+    "ip": "80.78.128.94",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "la Nucia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.83,
+    "asn": "AS202913",
+    "isp": "CLOUDWIFI, SL",
+    "latency_ms": 2979.8,
+    "last_checked": 1780742659.6882563
+  },
+  {
+    "protocol": "http",
     "ip": "193.38.224.169",
     "port": 8081,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 7.34,
     "asn": "AS206276",
     "isp": "Citelia s.a.",
-    "latency_ms": 15193.42,
-    "last_checked": 1780742299.1335819
-  },
-  {
-    "protocol": "http",
-    "ip": "188.227.140.181",
-    "port": 8080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Leganés",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.89,
-    "asn": "AS56882",
-    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-    "latency_ms": 9721.45,
-    "last_checked": 1780742239.7154636
+    "latency_ms": 9265.21,
+    "last_checked": 1780742613.4045596
   }
 ]
