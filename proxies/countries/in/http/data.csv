@@ -1,26 +1,45 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,219.65.73.81,80,India,IN,Kolkata,anonymous,false,78.6,AS4755,Tata Communications Limited,488.13,1780768784.2701263
-http,103.48.68.126,82,India,IN,Hyderabad,transparent,true,6.04,AS136290,Country Online Services PVT LTD,10509.82,1780768778.3536644
-http,4.213.167.178,80,India,IN,Pune,elite,false,97.39,AS8075,Microsoft Corporation,288.38,1780768777.895594
-http,13.201.56.14,3128,India,IN,Mumbai,transparent,true,100.0,AS16509,"Amazon.com, Inc.",462.61,1780768774.2515152
-http,45.89.106.12,8080,India,IN,New Delhi,transparent,true,99.97,AS153914,NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED,296.98,1780768769.7014089
-http,27.34.242.98,80,India,IN,Bengaluru,anonymous,false,97.19,AS45648,Bell Teleservices India Pvt Ltd,450.62,1780768758.96059
-http,103.48.71.6,84,India,IN,Malkajgiri,transparent,false,3.33,AS136290,Country Online Services PVT LTD,16664.85,1780768755.4462087
-http,103.80.118.33,8080,India,IN,Solapur,transparent,false,9.58,AS135834,Multicraft Digital Technologies Private Limited,17212.72,1780768751.9400966
-http,103.48.69.33,83,India,IN,Hyderabad,transparent,false,11.3,AS136290,Country Online Services PVT LTD,13152.95,1780768751.8185654
-http,68.183.93.236,3128,India,IN,Bengaluru,elite,true,24.33,AS14061,"DigitalOcean, LLC",6353.49,1780768750.305837
-http,14.143.222.113,10147,India,IN,Chennai,anonymous,true,45.83,AS4755,Tata Communications Limited,7502.43,1780768750.1380482
-http,52.140.40.92,80,India,IN,Chennai,transparent,false,19.89,AS8075,Microsoft Corporation,12583.1,1780768741.688937
-http,14.143.222.113,10158,India,IN,Chennai,anonymous,true,58.36,AS4755,Tata Communications Limited,1708.3,1780768741.4839253
-http,103.48.71.142,84,India,IN,Malkajgiri,transparent,false,7.21,AS136290,Country Online Services PVT LTD,12528.19,1780768740.8338401
-http,103.112.212.57,83,India,IN,Bengaluru,transparent,false,6.04,AS137172,ALL Connect Network Services Private Limited,13700.85,1780768737.2010887
-http,103.177.235.194,83,India,IN,Manipal,transparent,false,10.98,AS141329,Coastal Live Channel,8018.94,1780768732.9284794
-http,103.48.68.28,82,India,IN,Hyderabad,transparent,false,1.46,AS136290,Country Online Services PVT LTD,5411.14,1780768731.2575943
-http,103.74.146.1,82,India,IN,Dwarka,transparent,false,4.53,AS58965,Airmax Internet Private Limited,3241.42,1780768724.4519758
-http,103.174.131.230,3128,India,IN,Indore,transparent,true,32.04,AS147287,DATAPARADISE,510.8,1780768720.3929846
-http,103.26.110.125,82,India,IN,Mayiladuthurai,transparent,false,8.11,AS132774,Niss Networks,14815.76,1780768709.3491526
-http,103.74.144.5,80,India,IN,New Delhi,transparent,true,20.26,AS58965,Airmax Internet Private Limited,10600.36,1780768705.4611428
-http,103.174.131.200,3128,India,IN,Indore,transparent,true,36.93,AS147287,DATAPARADISE,582.78,1780768700.3448706
-http,103.41.32.182,58080,India,IN,Mumbai,transparent,false,18.67,AS138296,Juweriyah Networks Private Limited,19833.78,1780768686.4745686
-http,103.72.101.61,3128,India,IN,Mumbai,transparent,false,33.27,AS44259,"Ultahost, Inc.",6168.49,1780768682.2613547
-http,45.119.113.65,83,India,IN,Hyderabad,transparent,true,5.94,AS59185,Netrun Technologies PVT LTD,11828.26,1780768666.447395
+http,219.65.73.81,80,India,IN,Kolkata,anonymous,false,78.6,AS4755,Tata Communications Limited,1537.15,1780769386.4367034
+http,103.74.144.4,80,India,IN,New Delhi,transparent,true,11.91,AS58965,Airmax Internet Private Limited,580.29,1780769378.8559597
+http,4.213.167.178,80,India,IN,Pune,elite,false,97.39,AS8075,Microsoft Corporation,283.4,1780769375.5485168
+http,115.248.66.131,3129,India,IN,Jaipur,transparent,true,5.66,AS18101,Reliance Communications Limited,661.43,1780769375.2320197
+http,13.71.98.2,3128,India,IN,Chennai,transparent,true,49.06,AS8075,Microsoft Corporation,355.04,1780769374.5615757
+http,115.247.115.38,8080,India,IN,Indore,transparent,true,8.7,AS55836,Reliance Jio Infocomm Limited,589.68,1780769374.5402498
+http,68.183.93.236,3128,India,IN,Bengaluru,elite,true,24.34,AS14061,"DigitalOcean, LLC",5414.42,1780769370.6494195
+http,103.174.145.46,84,India,IN,Gandhinagar,transparent,true,3.17,AS147195,Vaidik Netsol OPC PVT LTD,382.52,1780769368.9094462
+http,111.92.88.27,3128,India,IN,Kochi,transparent,true,63.62,AS17465,Asianet Satellite Communications Pvt Ltd,9443.5,1780769367.9146643
+http,103.151.17.201,8080,India,IN,Aurangabad,elite,false,5.51,AS140113,Riyaz Internet Service Private Limited,7682.48,1780769365.528299
+http,103.130.70.253,82,India,IN,Siliguri,transparent,false,14.76,AS134250,Siliguri Meghrekha Net Services Pvt. Ltd,5834.47,1780769364.3395956
+http,103.24.127.129,8080,India,IN,Hyderabad,transparent,false,13.62,AS141303,Pioneer Elabs Ltd.,7497.05,1780769361.6203609
+http,14.143.222.113,10158,India,IN,Chennai,anonymous,true,58.37,AS4755,Tata Communications Limited,378.7,1780769359.6827056
+http,103.48.68.28,83,India,IN,Hyderabad,transparent,false,4.6,AS136290,Country Online Services PVT LTD,7633.65,1780769355.7695205
+http,103.26.110.186,9256,India,IN,Mayiladuthurai,transparent,true,11.03,AS132774,Niss Networks,4732.66,1780769355.4534245
+http,103.74.144.34,82,India,IN,New Delhi,transparent,true,4.7,AS58965,Airmax Internet Private Limited,781.68,1780769354.8301787
+http,103.137.218.113,84,India,IN,Bhagalpur,transparent,true,4.97,AS132972,Nandbalaji Connecting Zone Pvt. Ltd,512.84,1780769354.5247295
+http,27.34.242.98,80,India,IN,Bengaluru,anonymous,false,97.19,AS45648,Bell Teleservices India Pvt Ltd,1521.73,1780769348.1922889
+http,103.163.244.17,83,India,IN,Panipat,transparent,false,3.14,AS132746,Infolink System,3122.38,1780769346.730772
+http,103.137.85.29,83,India,IN,Jaipur,transparent,false,4.87,AS138734,Bakliwal Telecom Services Pvt Ltd,13657.11,1780769345.9528944
+http,103.48.71.6,82,India,IN,Malkajgiri,transparent,false,2.97,AS136290,Country Online Services PVT LTD,925.01,1780769345.614701
+http,175.101.26.73,82,India,IN,Hyderabad,transparent,true,4.89,AS17754,ExcellMedia Pvt Ltd,579.0,1780769343.3791316
+http,103.48.71.166,83,India,IN,Malkajgiri,transparent,false,7.6,AS136290,Country Online Services PVT LTD,16112.08,1780769340.5996041
+http,103.48.68.171,84,India,IN,Hyderabad,transparent,false,1.02,AS136290,Country Online Services PVT LTD,7491.73,1780769337.2399168
+http,103.74.144.4,82,India,IN,New Delhi,transparent,true,21.25,AS58965,Airmax Internet Private Limited,507.67,1780769331.9737904
+http,144.24.146.160,3128,India,IN,Hyderabad,transparent,false,32.58,AS31898,Oracle Corporation,12620.8,1780769327.3118412
+http,45.89.106.12,8080,India,IN,New Delhi,transparent,true,99.97,AS153914,NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED,292.64,1780769321.275047
+http,103.174.131.165,3128,India,IN,Indore,transparent,true,32.54,AS147287,DATAPARADISE,7034.2,1780769315.2994323
+http,163.223.130.80,83,India,IN,Panipat,transparent,false,7.8,AS132746,Infolink System,3493.05,1780769315.2245784
+http,124.108.19.6,9292,India,IN,Mān,elite,false,5.66,AS58678,Advantus Corporate Infoserv Private Ltd,9819.44,1780769308.2481275
+http,103.49.166.193,82,India,IN,Pune,transparent,true,24.7,AS150572,Nettvox Private Limited,5115.64,1780769307.4998584
+http,103.163.244.108,82,India,IN,Panipat,transparent,true,6.72,AS132746,Infolink System,722.06,1780769307.3020742
+http,103.74.144.34,80,India,IN,New Delhi,transparent,true,14.69,AS58965,Airmax Internet Private Limited,3479.67,1780769304.6941638
+http,106.51.185.233,8080,India,IN,Bengaluru,transparent,false,8.92,AS24309,ACT Fibernet,1369.08,1780769296.9898152
+http,103.48.68.142,82,India,IN,Hyderabad,transparent,false,1.9,AS136290,Country Online Services PVT LTD,6434.5,1780769295.70809
+http,13.201.56.14,3128,India,IN,Mumbai,transparent,true,100.0,AS16509,"Amazon.com, Inc.",1047.29,1780769279.697784
+http,103.174.131.200,3128,India,IN,Indore,transparent,true,36.99,AS147287,DATAPARADISE,903.83,1780769277.3285313
+http,103.48.71.30,82,India,IN,Malkajgiri,transparent,false,2.09,AS136290,Country Online Services PVT LTD,10570.03,1780769270.3138437
+http,103.48.69.33,83,India,IN,Hyderabad,transparent,false,11.3,AS136290,Country Online Services PVT LTD,1414.45,1780769257.5968108
+http,103.48.68.126,82,India,IN,Hyderabad,transparent,true,6.04,AS136290,Country Online Services PVT LTD,3669.02,1780769236.431821
+http,103.70.44.6,8080,India,IN,Lowāda,transparent,false,16.48,AS45804,Meghbela Cable & Broadband Services (P) Ltd,7666.96,1780769233.3602939
+http,4.247.152.147,3128,India,IN,Pune,transparent,false,25.48,AS8075,Microsoft Corporation,13745.56,1780769231.9660666
+http,134.209.153.66,3128,India,IN,Bengaluru,transparent,true,12.94,AS14061,"DigitalOcean, LLC",17984.63,1780769219.2078824
+http,161.248.176.2,8080,India,IN,Firozpur,transparent,false,40.16,AS153302,SNA INTERNET PRIVATE LIMITED,10401.91,1780769218.5579624
