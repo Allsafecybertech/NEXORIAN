@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "185.128.240.77",
+    "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Cârţişoara",
-    "anonymity": "elite",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 61.95,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 3242.93,
-    "last_checked": 1780734858.8468807
+    "uptime_percent": 7.81,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 9951.43,
+    "last_checked": 1780735132.853465
   },
   {
-    "protocol": "socks5",
-    "ip": "45.142.140.63",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.2,
-    "asn": "AS39287",
-    "isp": "ab stract",
-    "latency_ms": 353.24,
-    "last_checked": 1780734849.7766132
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.15,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 10114.12,
+    "last_checked": 1780735097.565793
   },
   {
     "protocol": "http",
@@ -38,11 +38,11 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 67.75,
+    "uptime_percent": 67.81,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 48.98,
-    "last_checked": 1780734846.2804346
+    "latency_ms": 33.18,
+    "last_checked": 1780735097.2729526
   },
   {
     "protocol": "http",
@@ -56,7 +56,22 @@
     "uptime_percent": 26.13,
     "asn": "AS12302",
     "isp": "UPC Romania",
-    "latency_ms": 9292.08,
-    "last_checked": 1780734831.4429321
+    "latency_ms": 11959.42,
+    "last_checked": 1780735094.371548
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.140.63",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.19,
+    "asn": "AS39287",
+    "isp": "ab stract",
+    "latency_ms": 116.62,
+    "last_checked": 1780734967.7577388
   }
 ]
