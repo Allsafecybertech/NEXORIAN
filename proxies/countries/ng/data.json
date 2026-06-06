@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "143.105.102.145",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "154.113.167.70",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.38,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 595.07,
+    "last_checked": 1780781934.8459597
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.113.17.107",
+    "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.87,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 1627.85,
+    "last_checked": 1780781929.3348057
+  },
+  {
+    "protocol": "http",
+    "ip": "102.36.133.62",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Ilupeju",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 36.21,
-    "asn": "AS14593",
-    "isp": "Space Exploration Technologies Corporation",
-    "latency_ms": 7403.89,
-    "last_checked": 1780781335.2680402
+    "uptime_percent": 18.95,
+    "asn": "AS328556",
+    "isp": "Syscodes Communications",
+    "latency_ms": 3218.88,
+    "last_checked": 1780781904.0119376
   },
   {
     "protocol": "http",
@@ -23,10 +53,25 @@
     "city": "Abuja",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 57.85,
+    "uptime_percent": 57.86,
     "asn": "AS29091",
     "isp": "ipNX Nigeria Limited",
-    "latency_ms": 705.8,
-    "last_checked": 1780781299.9381235
+    "latency_ms": 750.93,
+    "last_checked": 1780781839.7647622
+  },
+  {
+    "protocol": "http",
+    "ip": "154.113.209.162",
+    "port": 8082,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Abuja",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 19.99,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 5435.95,
+    "last_checked": 1780781801.8519764
   }
 ]
