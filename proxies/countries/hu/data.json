@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "45.130.240.238",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Siófok",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.61,
+    "asn": "AS47169",
+    "isp": "Pro-M Zrt.",
+    "latency_ms": 4611.41,
+    "last_checked": 1780724326.5604396
+  },
+  {
+    "protocol": "socks5",
+    "ip": "79.172.212.71",
+    "port": 1080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.99,
+    "asn": "AS61998",
+    "isp": "Szerverplex Kft",
+    "latency_ms": 107.47,
+    "last_checked": 1780724234.7618663
+  },
+  {
+    "protocol": "http",
     "ip": "176.241.20.70",
     "port": 8080,
     "country": "Hungary",
@@ -8,25 +38,10 @@
     "city": "Érd",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 39.53,
+    "uptime_percent": 39.51,
     "asn": "AS20845",
     "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
-    "latency_ms": 1102.41,
-    "last_checked": 1780723675.4079266
-  },
-  {
-    "protocol": "http",
-    "ip": "95.214.123.76",
-    "port": 8080,
-    "country": "Hungary",
-    "country_code": "HU",
-    "city": "Kecskemét",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 14.21,
-    "asn": "AS209001",
-    "isp": "Deltakon Kft.",
-    "latency_ms": 3979.66,
-    "last_checked": 1780723664.7478807
+    "latency_ms": 572.41,
+    "last_checked": 1780724208.2123444
   }
 ]
