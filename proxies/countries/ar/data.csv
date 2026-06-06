@@ -1,14 +1,22 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,138.121.114.54,8080,Argentina,AR,Formosa,transparent,true,36.69,AS263791,Refsa Telecomunicaciones,3065.68,1780754369.9990058
-http,138.117.13.65,999,Argentina,AR,28 de Noviembre,transparent,true,32.19,AS272964,Tamayo Magda Judith,1948.77,1780754363.3888233
-http,190.221.139.22,3128,Argentina,AR,Buenos Aires,elite,true,5.49,AS11664,Techtel LMDS Comunicaciones Interactivas S.A.,5033.81,1780754360.201992
-http,181.10.138.226,8083,Argentina,AR,Rosario,transparent,false,11.41,AS7303,Telecom Argentina S.A.,2588.64,1780754354.2838192
-http,190.103.16.93,999,Argentina,AR,Tapalqué,transparent,false,10.5,AS28318,CYBERTAP,10763.35,1780754351.5692167
-http,38.156.71.1,999,Argentina,AR,Río Turbio,transparent,false,30.48,AS272739,Cogent Communications,4827.91,1780754341.596237
-http,138.121.113.179,999,Argentina,AR,Formosa,transparent,false,9.68,AS263791,Refsa Telecomunicaciones,4656.91,1780754330.415858
-http,198.12.37.29,8080,Argentina,AR,Resistencia,transparent,false,19.12,AS27988,Servicios y Telecomunicaciones S.A,5853.13,1780754318.4387085
-http,191.102.254.70,8085,Argentina,AR,General Lagos,transparent,true,23.65,AS262934,IP·RED,7321.49,1780754293.4131155
-http,45.65.227.91,999,Argentina,AR,Morón,transparent,false,33.91,AS266725,Solution LAN S.A,6927.14,1780754286.9490929
-http,181.111.164.211,999,Argentina,AR,Dudignac,transparent,false,7.02,AS7303,Telecom Argentina S.A,4136.43,1780754278.5056767
-http,186.38.100.130,999,Argentina,AR,Nueve de Julio,transparent,false,31.21,AS22927,Telefonica de Argentina,4918.47,1780754257.6733885
-http,152.169.106.145,8080,Argentina,AR,Neuquén,transparent,false,6.13,AS7303,Telecom Argentina S.A,4970.23,1780754209.4232168
+socks4,181.15.154.154,52033,Argentina,AR,Posadas,elite,true,8.42,AS7303,Telecom Argentina S.A,4256.15,1780754947.9731674
+socks4,200.43.231.17,4145,Argentina,AR,Oberá,elite,true,22.75,AS7303,Telecom Argentina S.A.,1226.91,1780754945.886178
+socks4,190.228.33.42,1085,Argentina,AR,San Salvador de Jujuy,elite,true,27.56,AS7303,Telecom Argentina S.A.,2265.93,1780754942.6501145
+socks4,181.209.59.59,1080,Argentina,AR,Benavídez,elite,true,33.78,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,8525.49,1780754936.389223
+http,181.10.138.226,8083,Argentina,AR,Rosario,transparent,false,11.41,AS7303,Telecom Argentina S.A.,6669.86,1780754932.4970338
+socks4,190.122.88.121,1080,Argentina,AR,Buenos Aires,elite,true,26.1,AS27988,Servicios y Telecomunicaciones S.A,1072.54,1780754926.6379802
+http,198.12.37.6,8080,Argentina,AR,Resistencia,transparent,true,9.07,AS27988,Servicios y Telecomunicaciones S.A,2103.28,1780754925.6200917
+http,181.209.118.252,999,Argentina,AR,General Güemes,transparent,false,7.04,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,7359.4,1780754913.5746212
+http,190.111.218.142,999,Argentina,AR,San Juan Bautista,transparent,false,10.37,AS11014,CPS,8706.55,1780754886.727987
+http,181.209.115.98,999,Argentina,AR,Benavídez,transparent,true,30.55,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,913.2,1780754875.6502194
+http,186.123.26.22,8080,Argentina,AR,Ciudad del Libertador General San Martín,transparent,false,33.16,AS11664,Techtel LMDS Comunicaciones Interactivas S.A.,2738.4,1780754875.5266297
+http,138.117.13.65,999,Argentina,AR,28 de Noviembre,transparent,true,32.2,AS272964,Tamayo Magda Judith,3697.03,1780754874.9278886
+http,181.209.59.182,999,Argentina,AR,Benavídez,transparent,true,9.03,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,862.58,1780754869.2404435
+http,181.209.110.27,999,Argentina,AR,Quimilí,transparent,true,9.93,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,3871.69,1780754866.7104983
+http,181.10.135.77,8080,Argentina,AR,Santa Fe,transparent,false,34.36,AS7303,Telecom Argentina S.A.,2578.34,1780754849.9320889
+http,181.209.125.236,999,Argentina,AR,Yuto,transparent,false,7.11,AS52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,8036.95,1780754815.2341492
+http,45.232.152.2,8080,Argentina,AR,Pampa del Infierno,transparent,false,17.01,AS266761,Vicente Claudio Orlando,11367.88,1780754793.0196707
+http,45.65.227.91,999,Argentina,AR,Morón,transparent,false,33.91,AS266725,Solution LAN S.A,6077.52,1780754789.6736515
+http,201.190.178.191,8080,Argentina,AR,Mendoza,transparent,false,35.77,AS28075,Arlink S.A.,13767.75,1780754772.9905484
+http,186.38.100.130,999,Argentina,AR,Nueve de Julio,transparent,false,31.29,AS22927,Telefonica de Argentina,6192.11,1780754753.1359105
+http,200.70.35.2,8080,Argentina,AR,Lomas de Zamora,transparent,false,30.68,AS10834,Telefonica de Argentina,11168.84,1780754918.5363588
