@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.6,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 515.87,
-    "last_checked": 1780787386.5967393
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -23,11 +8,26 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.75,
+    "uptime_percent": 91.74,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1726.45,
-    "last_checked": 1780787378.5834346
+    "latency_ms": 1495.3,
+    "last_checked": 1780787998.5131354
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.106.231.75",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.28,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 3787.24,
+    "last_checked": 1780787977.1145644
   },
   {
     "protocol": "http",
@@ -37,12 +37,12 @@
     "country_code": "AU",
     "city": "Goulburn",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.91,
+    "ssl": true,
+    "uptime_percent": 23.93,
     "asn": "AS45447",
     "isp": "YLess4U Pty Ltd",
-    "latency_ms": 2600.91,
-    "last_checked": 1780787371.1666005
+    "latency_ms": 5936.46,
+    "last_checked": 1780787942.0358853
   },
   {
     "protocol": "http",
@@ -56,53 +56,23 @@
     "uptime_percent": 49.98,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 504.18,
-    "last_checked": 1780787367.9025023
+    "latency_ms": 12137.83,
+    "last_checked": 1780787884.3038032
   },
   {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 40.61,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2620.41,
-    "last_checked": 1780787361.7866492
-  },
-  {
-    "protocol": "http",
-    "ip": "51.161.131.235",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "North Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 22.03,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 824.67,
-    "last_checked": 1780787337.832882
-  },
-  {
-    "protocol": "http",
-    "ip": "203.30.9.8",
-    "port": 8443,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
+    "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 82.04,
-    "asn": "AS136994",
-    "isp": "Southern Phone Company Ltd",
-    "latency_ms": 638.85,
-    "last_checked": 1780787399.6980858
+    "uptime_percent": 33.77,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 15183.97,
+    "last_checked": 1780787955.3090258
   },
   {
     "protocol": "http",
@@ -116,37 +86,22 @@
     "uptime_percent": 21.05,
     "asn": "AS202422",
     "isp": "G-Core Labs S.A.",
-    "latency_ms": 3544.8,
-    "last_checked": 1780787356.993789
+    "latency_ms": 494.74,
+    "last_checked": 1780787925.9863925
   },
   {
     "protocol": "http",
-    "ip": "159.196.182.72",
-    "port": 8080,
+    "ip": "203.30.9.8",
+    "port": 8443,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
+    "city": "Brisbane",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.76,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2805.56,
-    "last_checked": 1780787310.2358909
-  },
-  {
-    "protocol": "http",
-    "ip": "203.23.238.21",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Canberra",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 38.49,
-    "asn": "AS18390",
-    "isp": "Spintel Pty Ltd",
-    "latency_ms": 724.24,
-    "last_checked": 1780787274.6049478
+    "uptime_percent": 81.99,
+    "asn": "AS136994",
+    "isp": "Southern Phone Company Ltd",
+    "latency_ms": 3648.79,
+    "last_checked": 1780787893.5447333
   }
 ]

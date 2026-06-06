@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.96,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 179.52,
+    "last_checked": 1780787999.8684254
+  },
+  {
     "protocol": "socks5",
     "ip": "178.130.46.234",
     "port": 10801,
@@ -8,11 +23,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.03,
+    "uptime_percent": 93.99,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1089.51,
-    "last_checked": 1780787376.5606627
+    "latency_ms": 4737.83,
+    "last_checked": 1780787985.1074624
   },
   {
     "protocol": "http",
@@ -22,12 +37,12 @@
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 37.69,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 3987.45,
-    "last_checked": 1780787359.3238456
+    "latency_ms": 6468.44,
+    "last_checked": 1780787971.0011356
   },
   {
     "protocol": "socks5",
@@ -41,22 +56,22 @@
     "uptime_percent": 98.22,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 2287.92,
-    "last_checked": 1780787309.1567683
+    "latency_ms": 250.65,
+    "last_checked": 1780787905.475802
   },
   {
-    "protocol": "socks5",
-    "ip": "185.155.99.106",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Narva",
+    "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.1,
-    "asn": "AS202759",
-    "isp": "RJ Network OU",
-    "latency_ms": 614.31,
-    "last_checked": 1780787273.623434
+    "ssl": false,
+    "uptime_percent": 17.64,
+    "asn": "AS211211",
+    "isp": "IT-Develop DOO",
+    "latency_ms": 5547.78,
+    "last_checked": 1780787821.346568
   }
 ]
