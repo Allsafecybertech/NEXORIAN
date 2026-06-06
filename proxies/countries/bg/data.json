@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "149.62.230.50",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 36.13,
-    "asn": "AS29244",
-    "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 7314.85,
-    "last_checked": 1780741749.636044
-  },
-  {
-    "protocol": "http",
     "ip": "82.137.90.192",
     "port": 80,
     "country": "Bulgaria",
@@ -23,26 +8,26 @@
     "city": "Haskovo",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 47.21,
+    "uptime_percent": 47.23,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 9546.93,
-    "last_checked": 1780741701.1879003
+    "latency_ms": 5626.89,
+    "last_checked": 1780742363.0048606
   },
   {
-    "protocol": "http",
-    "ip": "213.169.33.10",
-    "port": 8001,
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.48,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.03,
     "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 4045.19,
-    "last_checked": 1780741748.2439167
+    "isp": "Spectrum NET",
+    "latency_ms": 128.58,
+    "last_checked": 1780742385.6043682
   },
   {
     "protocol": "http",
@@ -52,11 +37,26 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 13.71,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 10363.35,
-    "last_checked": 1780741741.8657823
+    "latency_ms": 4318.75,
+    "last_checked": 1780742368.4159687
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.52.101",
+    "port": 8185,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Shumen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 50.47,
+    "asn": "AS42086",
+    "isp": "RONI",
+    "latency_ms": 2290.51,
+    "last_checked": 1780742321.5605187
   }
 ]
