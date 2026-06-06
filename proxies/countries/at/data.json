@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "80.64.140.251",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "193.233.129.235",
+    "port": 1080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 40.8,
-    "asn": "AS24953",
-    "isp": "NETPLANET GmbH",
-    "latency_ms": 273.81,
-    "last_checked": 1780774165.2605925
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.98,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 11652.65,
+    "last_checked": 1780774763.294813
   },
   {
     "protocol": "http",
@@ -26,8 +26,8 @@
     "uptime_percent": 70.34,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 3158.16,
-    "last_checked": 1780774146.6941593
+    "latency_ms": 3971.94,
+    "last_checked": 1780774719.170842
   },
   {
     "protocol": "http",
@@ -38,25 +38,40 @@
     "city": "Vienna",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 83.09,
+    "uptime_percent": 83.12,
     "asn": "AS21360",
     "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 68.78,
-    "last_checked": 1780774136.3827403
+    "latency_ms": 77.04,
+    "last_checked": 1780774704.2788389
   },
   {
-    "protocol": "socks4",
-    "ip": "212.113.106.198",
-    "port": 987,
+    "protocol": "socks5",
+    "ip": "193.233.129.235",
+    "port": 1080,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.16,
+    "uptime_percent": 79.06,
     "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 7345.01,
-    "last_checked": 1780774194.2380393
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 10825.42,
+    "last_checked": 1780774700.9270067
+  },
+  {
+    "protocol": "http",
+    "ip": "80.64.140.251",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 40.86,
+    "asn": "AS24953",
+    "isp": "NETPLANET GmbH",
+    "latency_ms": 3415.07,
+    "last_checked": 1780774680.7060192
   }
 ]
