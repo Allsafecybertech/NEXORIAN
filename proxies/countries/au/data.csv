@@ -1,5 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,true,30.68,AS4764,Wideband Networks Pty Ltd,8209.21,1780766069.893724
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.61,AS14061,"DigitalOcean, LLC",572.43,1780766068.3069715
-http,203.30.9.8,8443,Australia,AU,Brisbane,elite,false,81.49,AS136994,Southern Phone Company Ltd,7714.15,1780766049.4595757
-http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.94,AS16276,OVH SAS,4512.5,1780766019.5579152
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,42.03,AS31898,Oracle Corporation,6577.74,1780766681.312233
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.71,AS14061,"DigitalOcean, LLC",1501.57,1780766671.7295642
+http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,false,30.7,AS4764,Wideband Networks Pty Ltd,8184.86,1780766651.5225317
+http,139.99.237.62,80,Australia,AU,Sydney,elite,false,49.94,AS16276,OVH SAS,505.91,1780766644.792728
+http,203.30.9.8,8443,Australia,AU,Brisbane,elite,false,81.31,AS136994,Southern Phone Company Ltd,3685.84,1780766625.5224264
