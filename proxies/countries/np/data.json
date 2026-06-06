@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "202.166.196.105",
-    "port": 48293,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.79,
-    "asn": "AS17501",
-    "isp": "WorldLink Communications",
-    "latency_ms": 1851.61,
-    "last_checked": 1780749255.4243462
-  },
-  {
     "protocol": "http",
     "ip": "139.5.75.83",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "NP",
     "city": "Patan",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 19.23,
+    "ssl": true,
+    "uptime_percent": 21.88,
     "asn": "AS17501",
     "isp": "WLINK",
-    "latency_ms": 8595.02,
-    "last_checked": 1780749193.6600537
+    "latency_ms": 550.49,
+    "last_checked": 1780749840.5848784
+  },
+  {
+    "protocol": "http",
+    "ip": "49.236.212.134",
+    "port": 8888,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 10.2,
+    "asn": "AS55915",
+    "isp": "Classic Tech Pvt. Ltd",
+    "latency_ms": 7141.34,
+    "last_checked": 1780749801.508057
   }
 ]
