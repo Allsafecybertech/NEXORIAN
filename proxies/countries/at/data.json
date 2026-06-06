@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "80.245.197.246",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 81.86,
+    "asn": "AS21360",
+    "isp": "Empirion Telekommunikations Services GmbH",
+    "latency_ms": 846.3,
+    "last_checked": 1780741171.1261306
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 40.82,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 402.43,
+    "last_checked": 1780741149.4050949
+  },
+  {
+    "protocol": "http",
     "ip": "81.10.234.234",
     "port": 80,
     "country": "Austria",
@@ -11,23 +41,8 @@
     "uptime_percent": 70.2,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 8314.57,
-    "last_checked": 1780740528.4134843
-  },
-  {
-    "protocol": "http",
-    "ip": "80.245.197.246",
-    "port": 80,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 81.8,
-    "asn": "AS21360",
-    "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 1453.88,
-    "last_checked": 1780740515.3736467
+    "latency_ms": 8965.52,
+    "last_checked": 1780741134.2606003
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 41.07,
+    "ssl": true,
+    "uptime_percent": 41.13,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 1641.61,
-    "last_checked": 1780740491.3954847
+    "latency_ms": 3433.51,
+    "last_checked": 1780741120.3763459
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.94,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 20421.5,
+    "last_checked": 1780741079.4207516
   }
 ]

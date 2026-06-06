@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.139.91.62",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.21,
-    "asn": "AS197296",
-    "isp": "United Networks SE",
-    "latency_ms": 12185.14,
-    "last_checked": 1780740482.4639754
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
+    "city": "Kryry",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 65.71,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 9366.28,
-    "last_checked": 1780740478.2812276
+    "ssl": true,
+    "uptime_percent": 39.26,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 94.68,
+    "last_checked": 1780741199.540989
   },
   {
     "protocol": "http",
@@ -41,7 +26,37 @@
     "uptime_percent": 81.81,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 6136.4,
-    "last_checked": 1780740456.4241993
+    "latency_ms": 5420.57,
+    "last_checked": 1780741167.505822
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.24,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 2313.02,
+    "last_checked": 1780741108.5838377
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 65.72,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 7397.71,
+    "last_checked": 1780741095.9512515
   }
 ]
