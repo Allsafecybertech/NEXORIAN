@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "193.233.129.235",
-    "port": 1080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 79.8,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 12417.36,
-    "last_checked": 1780859922.969959
-  },
-  {
     "protocol": "socks4",
     "ip": "193.233.129.235",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 80.88,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 12526.94,
-    "last_checked": 1780859922.7334592
+    "latency_ms": 13954.06,
+    "last_checked": 1780860559.5022645
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.81,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 15045.47,
+    "last_checked": 1780860531.655571
   },
   {
     "protocol": "http",
@@ -38,10 +38,25 @@
     "city": "Vienna",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 83.58,
+    "uptime_percent": 83.62,
     "asn": "AS21360",
     "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 282.08,
-    "last_checked": 1780859863.549023
+    "latency_ms": 69.43,
+    "last_checked": 1780860517.8162742
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 43.28,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 7145.25,
+    "last_checked": 1780860477.920745
   }
 ]
