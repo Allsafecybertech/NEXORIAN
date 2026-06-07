@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "193.233.129.235",
-    "port": 1080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 79.84,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 12128.54,
-    "last_checked": 1780863282.1669397
-  },
-  {
     "protocol": "socks4",
     "ip": "193.233.129.235",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 80.89,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 12255.65,
-    "last_checked": 1780863274.238916
+    "latency_ms": 10255.24,
+    "last_checked": 1780863588.913764
   },
   {
     "protocol": "http",
@@ -38,11 +23,26 @@
     "city": "Vienna",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 83.75,
+    "uptime_percent": 83.77,
     "asn": "AS21360",
     "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 70.6,
-    "last_checked": 1780863267.2523277
+    "latency_ms": 1746.45,
+    "last_checked": 1780863566.7438111
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 43.27,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 14816.06,
+    "last_checked": 1780863524.2362826
   },
   {
     "protocol": "http",
@@ -53,10 +53,25 @@
     "city": "Vienna",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 43.31,
+    "uptime_percent": 43.33,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 7865.41,
-    "last_checked": 1780863240.341328
+    "latency_ms": 14976.91,
+    "last_checked": 1780863513.0954528
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.85,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 10875.76,
+    "last_checked": 1780863501.4841814
   }
 ]
