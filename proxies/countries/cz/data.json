@@ -1,50 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Klatovy",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 5.35,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 3100.09,
-    "last_checked": 1780837790.3298523
-  },
-  {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kryry",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.24,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 90.11,
-    "last_checked": 1780837783.215675
-  },
-  {
-    "protocol": "http",
-    "ip": "78.108.103.87",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 35.7,
-    "asn": "AS8251",
-    "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 3476.32,
-    "last_checked": 1780837779.5118458
-  },
-  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -56,7 +11,37 @@
     "uptime_percent": 81.77,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 11111.26,
-    "last_checked": 1780837744.5227609
+    "latency_ms": 8145.13,
+    "last_checked": 1780838346.4566443
+  },
+  {
+    "protocol": "http",
+    "ip": "185.53.46.240",
+    "port": 55555,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.9,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 13920.83,
+    "last_checked": 1780838339.345787
+  },
+  {
+    "protocol": "http",
+    "ip": "78.108.103.87",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 35.72,
+    "asn": "AS8251",
+    "isp": "Neutral Free eXchange members - FreeTel alternate",
+    "latency_ms": 3213.25,
+    "last_checked": 1780838291.7171257
   }
 ]
