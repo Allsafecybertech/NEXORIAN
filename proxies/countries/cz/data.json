@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 81.81,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 11780.47,
-    "last_checked": 1780789719.76154
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.25,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 80.34,
+    "last_checked": 1780790386.5132763
   },
   {
     "protocol": "http",
@@ -22,12 +22,42 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 35.58,
+    "ssl": true,
+    "uptime_percent": 35.6,
     "asn": "AS8251",
     "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 585.33,
-    "last_checked": 1780789693.3632257
+    "latency_ms": 3234.04,
+    "last_checked": 1780790365.164264
+  },
+  {
+    "protocol": "http",
+    "ip": "185.53.46.240",
+    "port": 55555,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.01,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 5625.96,
+    "last_checked": 1780790350.5858788
+  },
+  {
+    "protocol": "http",
+    "ip": "193.124.57.14",
+    "port": 443,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.31,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 279.89,
+    "last_checked": 1780790331.4296582
   },
   {
     "protocol": "http",
@@ -38,11 +68,11 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 65.93,
+    "uptime_percent": 65.94,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 11880.97,
-    "last_checked": 1780789737.0693588
+    "latency_ms": 8104.49,
+    "last_checked": 1780790234.512682
   },
   {
     "protocol": "http",
@@ -52,11 +82,11 @@
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 34.16,
+    "ssl": false,
+    "uptime_percent": 34.17,
     "asn": "AS197296",
     "isp": "United Networks SE",
-    "latency_ms": 11223.63,
-    "last_checked": 1780789637.5682173
+    "latency_ms": 6136.66,
+    "last_checked": 1780790337.6816173
   }
 ]
