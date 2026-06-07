@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "81.10.234.234",
-    "port": 80,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Unterweitersdorf",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 70.65,
-    "asn": "AS12605",
-    "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 3873.77,
-    "last_checked": 1780858736.2623596
-  },
-  {
     "protocol": "socks4",
     "ip": "193.233.129.235",
     "port": 1080,
@@ -23,26 +8,26 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.88,
+    "uptime_percent": 80.87,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 12064.07,
-    "last_checked": 1780858728.636808
+    "latency_ms": 10139.21,
+    "last_checked": 1780859354.9818206
   },
   {
     "protocol": "http",
-    "ip": "80.245.197.246",
-    "port": 80,
+    "ip": "193.233.128.128",
+    "port": 3128,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "anonymous",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 83.51,
-    "asn": "AS21360",
-    "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 12303.66,
-    "last_checked": 1780858688.584853
+    "uptime_percent": 43.3,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 10523.57,
+    "last_checked": 1780859316.9896617
   },
   {
     "protocol": "socks5",
@@ -56,23 +41,38 @@
     "uptime_percent": 79.78,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 13423.55,
-    "last_checked": 1780858622.4911504
+    "latency_ms": 12191.39,
+    "last_checked": 1780859316.3431814
   },
   {
-    "protocol": "socks5",
-    "ip": "212.113.106.198",
-    "port": 987,
+    "protocol": "http",
+    "ip": "80.245.197.246",
+    "port": 80,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.54,
+    "asn": "AS21360",
+    "isp": "Empirion Telekommunikations Services GmbH",
+    "latency_ms": 9117.44,
+    "last_checked": 1780859303.8881278
+  },
+  {
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Unterweitersdorf",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.21,
-    "asn": "AS210644",
-    "isp": "xorek.cloud International LTD",
-    "latency_ms": 116.1,
-    "last_checked": 1780858791.2813616
+    "ssl": false,
+    "uptime_percent": 70.65,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 12672.83,
+    "last_checked": 1780859275.4206276
   },
   {
     "protocol": "socks4",
@@ -86,7 +86,7 @@
     "uptime_percent": 30.95,
     "asn": "AS210644",
     "isp": "xorek.cloud International LTD",
-    "latency_ms": 1089.54,
-    "last_checked": 1780858764.7408845
+    "latency_ms": 1111.06,
+    "last_checked": 1780859392.0333683
   }
 ]
