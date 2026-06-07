@@ -211,32 +211,32 @@
   },
   {
     "protocol": "http",
-    "ip": "104.207.76.99",
-    "port": 3128,
-    "country": "Singapore",
-    "country_code": "SG",
-    "city": "Singapore",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 52.09,
-    "asn": "AS22612",
-    "isp": "Namecheap, Inc.",
-    "latency_ms": 11928.62,
-    "last_checked": 1780814638.932031
-  },
-  {
-    "protocol": "http",
     "ip": "104.248.149.186",
     "port": 3128,
     "country": "Singapore",
     "country_code": "SG",
     "city": "Singapore",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.73,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 12411.52,
-    "last_checked": 1780814558.5466058
+    "latency_ms": 13673.01,
+    "last_checked": 1780815281.7039204
+  },
+  {
+    "protocol": "http",
+    "ip": "104.207.76.99",
+    "port": 3128,
+    "country": "Singapore",
+    "country_code": "SG",
+    "city": "Singapore",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.15,
+    "asn": "AS22612",
+    "isp": "Namecheap, Inc.",
+    "latency_ms": 20567.48,
+    "last_checked": 1780815214.1353886
   }
 ]
