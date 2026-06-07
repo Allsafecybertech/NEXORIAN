@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.98,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 7336.12,
+    "last_checked": 1780836269.4653153
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cluj-Napoca",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.62,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 3247.08,
-    "last_checked": 1780835588.907862
+    "uptime_percent": 11.68,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 2394.71,
+    "last_checked": 1780836259.3977008
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.140.63",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.91,
+    "asn": "AS39287",
+    "isp": "ab stract",
+    "latency_ms": 93.12,
+    "last_checked": 1780836179.4002764
   }
 ]
