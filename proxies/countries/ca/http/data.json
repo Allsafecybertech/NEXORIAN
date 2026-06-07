@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "216.8.184.119",
-    "port": 80,
+    "ip": "192.99.44.178",
+    "port": 3128,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Windsor",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.92,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 4362.67,
+    "last_checked": 1780837774.084145
+  },
+  {
+    "protocol": "http",
+    "ip": "184.70.118.150",
+    "port": 9443,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 9.51,
-    "asn": "AS7057",
-    "isp": "Managed Network Systems Inc.",
-    "latency_ms": 13498.87,
-    "last_checked": 1780837146.900704
+    "ssl": true,
+    "uptime_percent": 4.13,
+    "asn": "AS6327",
+    "isp": "Shaw Communications",
+    "latency_ms": 10772.09,
+    "last_checked": 1780837771.6187913
   },
   {
     "protocol": "http",
@@ -26,38 +41,8 @@
     "uptime_percent": 23.19,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 15252.43,
-    "last_checked": 1780837136.8649082
-  },
-  {
-    "protocol": "http",
-    "ip": "149.56.24.51",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.98,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 13702.08,
-    "last_checked": 1780837131.5777004
-  },
-  {
-    "protocol": "http",
-    "ip": "192.99.44.178",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 15.91,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 6856.96,
-    "last_checked": 1780837113.421674
+    "latency_ms": 1129.3,
+    "last_checked": 1780837749.2766917
   },
   {
     "protocol": "http",
@@ -71,7 +56,22 @@
     "uptime_percent": 98.31,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 233.26,
-    "last_checked": 1780837073.4525275
+    "latency_ms": 250.82,
+    "last_checked": 1780837676.4499848
+  },
+  {
+    "protocol": "http",
+    "ip": "23.95.76.201",
+    "port": 8443,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.35,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network Inc.",
+    "latency_ms": 15725.26,
+    "last_checked": 1780837656.1813004
   }
 ]
