@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "38.54.61.150",
-    "port": 8885,
-    "country": "Saudi Arabia",
-    "country_code": "SA",
-    "city": "Riyadh",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS138915",
-    "isp": "Kaopu Cloud HK Limited",
-    "latency_ms": 1174.06,
-    "last_checked": 1780804168.5747068
-  },
-  {
     "protocol": "socks5",
     "ip": "38.54.61.150",
     "port": 8885,
@@ -26,8 +11,23 @@
     "uptime_percent": 100.0,
     "asn": "AS138915",
     "isp": "Kaopu Cloud HK Limited",
-    "latency_ms": 1405.82,
-    "last_checked": 1780804144.3231192
+    "latency_ms": 618.5,
+    "last_checked": 1780804454.4512987
+  },
+  {
+    "protocol": "socks4",
+    "ip": "38.54.61.150",
+    "port": 8885,
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "city": "Riyadh",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS138915",
+    "isp": "Kaopu Cloud HK Limited",
+    "latency_ms": 312.8,
+    "last_checked": 1780804444.3754067
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "SA",
     "city": "Riyadh",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.43,
+    "ssl": true,
+    "uptime_percent": 38.47,
     "asn": "AS138915",
     "isp": "Kaopu Cloud HK Limited",
-    "latency_ms": 5999.25,
-    "last_checked": 1780804111.219885
+    "latency_ms": 8676.51,
+    "last_checked": 1780804400.3046916
+  },
+  {
+    "protocol": "http",
+    "ip": "141.164.206.16",
+    "port": 8080,
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "city": "Jeddah",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.67,
+    "asn": "AS25019",
+    "isp": "Saudi Telecom Company JSC",
+    "latency_ms": 2738.47,
+    "last_checked": 1780804361.9903975
   }
 ]
