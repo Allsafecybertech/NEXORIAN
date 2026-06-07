@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "38.180.151.41",
-    "port": 1080,
-    "country": "Ireland",
-    "country_code": "IE",
-    "city": "Dublin",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 93.85,
-    "asn": "AS9009",
-    "isp": "M247 Europe SRL",
-    "latency_ms": 8220.86,
-    "last_checked": 1780794417.6679244
-  },
-  {
     "protocol": "http",
     "ip": "5.83.244.250",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "IE",
     "city": "Roscommon",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 3.54,
     "asn": "AS57791",
     "isp": "EURONA-BRISKNET",
-    "latency_ms": 7267.85,
-    "last_checked": 1780794388.681412
+    "latency_ms": 10721.95,
+    "last_checked": 1780795142.331219
+  },
+  {
+    "protocol": "http",
+    "ip": "5.83.244.1",
+    "port": 8080,
+    "country": "Ireland",
+    "country_code": "IE",
+    "city": "Roscommon",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 3.51,
+    "asn": "AS57791",
+    "isp": "EURONA-BRISKNET",
+    "latency_ms": 5947.23,
+    "last_checked": 1780795071.8520358
   }
 ]
