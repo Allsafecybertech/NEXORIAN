@@ -11,11 +11,11 @@
     "uptime_percent": 51.49,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A",
-    "latency_ms": 1733.33,
-    "last_checked": 1780862686.3651655
+    "latency_ms": 3368.01,
+    "last_checked": 1780863292.4532497
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -23,26 +23,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.41,
+    "uptime_percent": 83.41,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 346.0,
-    "last_checked": 1780862685.4164386
+    "latency_ms": 8515.52,
+    "last_checked": 1780863287.3038874
   },
   {
     "protocol": "socks4",
-    "ip": "185.62.48.141",
-    "port": 5678,
+    "ip": "77.81.230.90",
+    "port": 9050,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Isernia",
+    "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.53,
-    "asn": "AS201847",
-    "isp": "Elektronica Networks",
-    "latency_ms": 2732.53,
-    "last_checked": 1780862665.8239603
+    "uptime_percent": 28.83,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 12484.15,
+    "last_checked": 1780863276.2137308
   },
   {
     "protocol": "http",
@@ -56,26 +56,11 @@
     "uptime_percent": 69.14,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 3845.9,
-    "last_checked": 1780862642.0415554
+    "latency_ms": 2561.8,
+    "last_checked": 1780863275.9857247
   },
   {
-    "protocol": "http",
-    "ip": "185.211.82.34",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Ragusa",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.61,
-    "asn": "AS198380",
-    "isp": "NOVAQUADRI-PRT",
-    "latency_ms": 5435.81,
-    "last_checked": 1780862608.4759839
-  },
-  {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -83,11 +68,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.4,
+    "uptime_percent": 87.41,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 580.53,
-    "last_checked": 1780862585.5423973
+    "latency_ms": 3705.97,
+    "last_checked": 1780863273.545254
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.62.48.141",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Isernia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.54,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 3216.78,
+    "last_checked": 1780863258.0022833
   },
   {
     "protocol": "http",
@@ -97,11 +97,56 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 7.42,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 16320.25,
-    "last_checked": 1780862571.541498
+    "latency_ms": 15396.98,
+    "last_checked": 1780863250.4659412
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.14,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 15969.83,
+    "last_checked": 1780863246.3272123
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.0",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.16,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 8124.27,
+    "last_checked": 1780863244.9278457
+  },
+  {
+    "protocol": "http",
+    "ip": "93.43.251.159",
+    "port": 80,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Turin",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.11,
+    "asn": "AS12874",
+    "isp": "Fastweb Networks",
+    "latency_ms": 18511.99,
+    "last_checked": 1780863219.6815047
   }
 ]
