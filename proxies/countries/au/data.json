@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "51.161.131.235",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "North Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 22.05,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 613.11,
-    "last_checked": 1780853972.8505464
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 91.75,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1643.94,
-    "last_checked": 1780853971.7881315
+    "latency_ms": 1673.1,
+    "last_checked": 1780854568.6852279
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.106.231.75",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.83,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 2969.97,
+    "last_checked": 1780854556.6851447
   },
   {
     "protocol": "http",
@@ -41,8 +41,8 @@
     "uptime_percent": 94.59,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1489.64,
-    "last_checked": 1780853971.2423706
+    "latency_ms": 1619.99,
+    "last_checked": 1780854551.2817986
   },
   {
     "protocol": "http",
@@ -56,22 +56,22 @@
     "uptime_percent": 50.1,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 12451.57,
-    "last_checked": 1780853960.1407936
+    "latency_ms": 531.11,
+    "last_checked": 1780854546.8601594
   },
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.01,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 6916.21,
-    "last_checked": 1780853956.7253442
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 41.12,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 3376.66,
+    "last_checked": 1780854533.36553
   }
 ]
