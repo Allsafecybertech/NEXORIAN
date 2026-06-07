@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.125.169.24",
-    "port": 8118,
-    "country": "Norway",
-    "country_code": "NO",
-    "city": "Sandefjord",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 3.78,
-    "asn": "AS56655",
-    "isp": "TERRAHOST",
-    "latency_ms": 8504.13,
-    "last_checked": 1780802912.4664185
-  },
-  {
     "protocol": "socks5",
     "ip": "185.125.171.171",
     "port": 1080,
@@ -26,7 +11,22 @@
     "uptime_percent": 98.89,
     "asn": "AS56655",
     "isp": "TERRAHOST",
-    "latency_ms": 139.8,
-    "last_checked": 1780802866.1286147
+    "latency_ms": 2211.1,
+    "last_checked": 1780803547.7486365
+  },
+  {
+    "protocol": "http",
+    "ip": "185.125.169.24",
+    "port": 8118,
+    "country": "Norway",
+    "country_code": "NO",
+    "city": "Sandefjord",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.78,
+    "asn": "AS56655",
+    "isp": "TERRAHOST",
+    "latency_ms": 8350.51,
+    "last_checked": 1780803519.858142
   }
 ]
