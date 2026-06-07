@@ -1,32 +1,47 @@
 [
   {
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Ottawa",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.3,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 6871.82,
+    "last_checked": 1780851880.2252877
+  },
+  {
+    "protocol": "socks4",
+    "ip": "24.37.245.42",
+    "port": 51056,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Laval",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.61,
+    "asn": "AS5769",
+    "isp": "Le Groupe Videotron Ltee",
+    "latency_ms": 1524.85,
+    "last_checked": 1780851877.966325
+  },
+  {
     "protocol": "socks5",
-    "ip": "89.251.9.135",
+    "ip": "185.196.61.251",
     "port": 1080,
     "country": "Canada",
     "country_code": "CA",
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.08,
-    "asn": "AS212552",
-    "isp": "BitCommand LLC",
-    "latency_ms": 1746.24,
-    "last_checked": 1780851260.1308405
-  },
-  {
-    "protocol": "http",
-    "ip": "216.8.184.119",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Windsor",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.03,
-    "asn": "AS7057",
-    "isp": "Managed Network Systems Inc.",
-    "latency_ms": 8085.3,
-    "last_checked": 1780851253.6399264
+    "uptime_percent": 41.49,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network, Inc",
+    "latency_ms": 513.29,
+    "last_checked": 1780851874.569104
   }
 ]
