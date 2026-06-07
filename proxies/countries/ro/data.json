@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "89.136.79.157",
+    "port": 8085,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Cârţişoara",
+    "city": "Brăila",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.44,
+    "asn": "AS12302",
+    "isp": "UPC Romania",
+    "latency_ms": 8123.45,
+    "last_checked": 1780793969.8130035
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.51.40",
+    "port": 9091,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.76,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 1210.56,
-    "last_checked": 1780793355.641139
+    "uptime_percent": 26.05,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 8118.35,
+    "last_checked": 1780793944.2041342
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 17.22,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 162.28,
-    "last_checked": 1780793349.1864762
+    "latency_ms": 2715.03,
+    "last_checked": 1780793919.9671385
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.140.63",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.04,
+    "asn": "AS39287",
+    "isp": "ab stract",
+    "latency_ms": 100.74,
+    "last_checked": 1780793881.993423
   },
   {
     "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "ip": "92.86.207.198",
+    "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
+    "city": "Cluj-Napoca",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.43,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 3787.85,
-    "last_checked": 1780793182.597478
+    "uptime_percent": 11.65,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 8466.52,
+    "last_checked": 1780793818.2773771
   }
 ]
