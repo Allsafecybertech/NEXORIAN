@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.124.57.14",
-    "port": 443,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Veselí nad Lužnicí",
+    "city": "Kryry",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 38.52,
-    "asn": "AS62212",
-    "isp": "SmartApe OU",
-    "latency_ms": 9886.04,
-    "last_checked": 1780792753.3274748
+    "ssl": true,
+    "uptime_percent": 39.27,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 97.15,
+    "last_checked": 1780793354.2030046
   },
   {
     "protocol": "http",
@@ -23,11 +23,26 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.65,
+    "uptime_percent": 35.68,
     "asn": "AS8251",
     "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 1306.07,
-    "last_checked": 1780792717.7407591
+    "latency_ms": 10109.71,
+    "last_checked": 1780793339.532338
+  },
+  {
+    "protocol": "http",
+    "ip": "193.124.57.14",
+    "port": 443,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.62,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 9121.06,
+    "last_checked": 1780793320.3048072
   },
   {
     "protocol": "http",
@@ -41,22 +56,7 @@
     "uptime_percent": 81.81,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 10508.43,
-    "last_checked": 1780792716.5124574
-  },
-  {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 11.15,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 2633.57,
-    "last_checked": 1780792675.252022
+    "latency_ms": 10387.01,
+    "last_checked": 1780793301.8086486
   }
 ]
