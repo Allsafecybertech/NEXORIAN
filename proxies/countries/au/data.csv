@@ -1,4 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,139.99.237.62,80,Australia,AU,Sydney,elite,false,50.14,AS16276,OVH SAS,506.22,1780871642.974992
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,40.97,AS4764,Wideband Networks Pty Ltd,11959.19,1780871589.0562978
-http,61.29.96.146,8000,Australia,AU,Albury,anonymous,false,9.09,AS2764,AAPT Limited,12213.42,1780871559.823845
+http,139.99.237.62,80,Australia,AU,Sydney,elite,false,50.14,AS16276,OVH SAS,536.83,1780872287.05135
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,34.27,AS31898,Oracle Corporation,2539.26,1780872276.3481305
+socks5,103.106.231.75,1080,Australia,AU,Sydney,elite,true,80.31,AS136258,BrainStorm Network,2325.49,1780872274.9868276
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.74,AS14061,"DigitalOcean, LLC",1525.01,1780872273.6168008
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.58,AS14061,"DigitalOcean, LLC",1611.1,1780872246.3206317
+http,61.29.96.146,80,Australia,AU,Albury,anonymous,false,7.91,AS2764,AAPT Limited,4742.35,1780872203.4958675
