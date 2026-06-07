@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.05,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 3071.77,
+    "last_checked": 1780812851.5354447
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -8,14 +23,14 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.49,
+    "uptime_percent": 86.5,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2361.72,
-    "last_checked": 1780812252.596298
+    "latency_ms": 9174.84,
+    "last_checked": 1780812847.2142336
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "179.43.180.232",
     "port": 1081,
     "country": "Switzerland",
@@ -23,26 +38,11 @@
     "city": "Rümlang",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.52,
+    "uptime_percent": 38.66,
     "asn": "AS51852",
     "isp": "Private Layer INC",
-    "latency_ms": 5188.52,
-    "last_checked": 1780812239.908552
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 75.44,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5385.92,
-    "last_checked": 1780812208.3735979
+    "latency_ms": 13282.06,
+    "last_checked": 1780812834.9583032
   },
   {
     "protocol": "http",
@@ -56,8 +56,8 @@
     "uptime_percent": 13.5,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 13378.24,
-    "last_checked": 1780812112.6924093
+    "latency_ms": 9370.01,
+    "last_checked": 1780812733.9640145
   },
   {
     "protocol": "http",
@@ -71,7 +71,7 @@
     "uptime_percent": 67.11,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 929.12,
-    "last_checked": 1780812085.8521173
+    "latency_ms": 2346.82,
+    "last_checked": 1780812732.5304005
   }
 ]
