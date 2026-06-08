@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "80.249.81.179",
-    "port": 9050,
-    "country": "Belarus",
-    "country_code": "BY",
-    "city": "Minsk",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.07,
-    "asn": "AS12406",
-    "isp": "Business network jv",
-    "latency_ms": 19967.51,
-    "last_checked": 1780916363.6732728
-  },
-  {
     "protocol": "http",
     "ip": "93.125.3.22",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "BY",
     "city": "Minsk",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.12,
     "asn": "AS42772",
     "isp": "Unitary enterprise A1",
-    "latency_ms": 6553.86,
-    "last_checked": 1780916350.448066
+    "latency_ms": 11126.24,
+    "last_checked": 1780916800.9301097
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.249.81.179",
+    "port": 9050,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.16,
+    "asn": "AS12406",
+    "isp": "Business network jv",
+    "latency_ms": 16424.99,
+    "last_checked": 1780916776.5538414
   }
 ]
