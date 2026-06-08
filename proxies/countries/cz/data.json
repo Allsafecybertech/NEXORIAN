@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.34.237.124",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Varnsdorf",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 63.92,
-    "asn": "AS201116",
-    "isp": "Vybezek.NET s.r.o.",
-    "latency_ms": 1343.47,
-    "last_checked": 1780956281.3048148
-  },
-  {
     "protocol": "socks4",
     "ip": "78.111.112.118",
     "port": 4145,
@@ -23,11 +8,11 @@
     "city": "Kryry",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.02,
+    "uptime_percent": 39.03,
     "asn": "AS47232",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 1090.02,
-    "last_checked": 1780956242.4055393
+    "latency_ms": 71.11,
+    "last_checked": 1780956592.3238568
   },
   {
     "protocol": "http",
@@ -41,7 +26,37 @@
     "uptime_percent": 81.87,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 9447.22,
-    "last_checked": 1780956217.5679314
+    "latency_ms": 5134.96,
+    "last_checked": 1780956567.4736764
+  },
+  {
+    "protocol": "http",
+    "ip": "193.34.237.124",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Varnsdorf",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 64.07,
+    "asn": "AS201116",
+    "isp": "Vybezek.NET s.r.o.",
+    "latency_ms": 8363.84,
+    "last_checked": 1780956548.5482702
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.84,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 7232.41,
+    "last_checked": 1780956578.5758166
   }
 ]
