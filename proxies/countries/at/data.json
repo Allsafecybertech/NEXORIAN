@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "193.233.129.235",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "81.10.234.234",
+    "port": 80,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Vienna",
+    "city": "Unterweitersdorf",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.07,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 13711.8,
-    "last_checked": 1780892679.9817033
-  },
-  {
-    "protocol": "socks5",
-    "ip": "193.233.129.235",
-    "port": 1080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 80.52,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 9930.64,
-    "last_checked": 1780892665.2262938
+    "ssl": false,
+    "uptime_percent": 70.74,
+    "asn": "AS12605",
+    "isp": "LIWEST Kabelmedien GmbH",
+    "latency_ms": 2723.56,
+    "last_checked": 1780893276.5317578
   },
   {
     "protocol": "http",
@@ -38,10 +23,40 @@
     "city": "Vienna",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 84.85,
+    "uptime_percent": 84.84,
     "asn": "AS21360",
     "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 10803.78,
-    "last_checked": 1780892656.8298726
+    "latency_ms": 76.23,
+    "last_checked": 1780893256.7414718
+  },
+  {
+    "protocol": "socks4",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.08,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 11555.48,
+    "last_checked": 1780893246.3563187
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.113.106.198",
+    "port": 987,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.86,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 1054.37,
+    "last_checked": 1780893299.3014357
   }
 ]

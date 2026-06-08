@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.75,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1315.22,
+    "last_checked": 1780893284.2041705
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 84.44,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 5124.19,
+    "last_checked": 1780893275.327792
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -11,8 +41,8 @@
     "uptime_percent": 86.85,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4929.97,
-    "last_checked": 1780892693.5846362
+    "latency_ms": 3315.02,
+    "last_checked": 1780893258.7398202
   },
   {
     "protocol": "http",
@@ -23,40 +53,10 @@
     "city": "Bern",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.2,
+    "uptime_percent": 67.21,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 5546.19,
-    "last_checked": 1780892661.9275243
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 75.74,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 50.2,
-    "last_checked": 1780892657.31048
-  },
-  {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 13.52,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 3725.74,
-    "last_checked": 1780892548.2989566
+    "latency_ms": 53.37,
+    "last_checked": 1780893193.8775828
   }
 ]
