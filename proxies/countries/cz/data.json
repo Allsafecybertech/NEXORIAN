@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
+    "city": "Klatovy",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 11.19,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 8719.31,
-    "last_checked": 1780911861.6097946
+    "uptime_percent": 5.39,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 60.16,
+    "last_checked": 1780912475.1958768
   },
   {
     "protocol": "http",
@@ -23,10 +23,55 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.02,
+    "uptime_percent": 40.0,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 50.32,
-    "last_checked": 1780911795.7308521
+    "latency_ms": 44.6,
+    "last_checked": 1780912474.4595547
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.1,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 68.58,
+    "last_checked": 1780912469.9953692
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 19.59,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 5349.97,
+    "last_checked": 1780912432.908007
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 81.84,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 9407.28,
+    "last_checked": 1780912281.4378793
   }
 ]
