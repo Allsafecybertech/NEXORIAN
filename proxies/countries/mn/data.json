@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "119.40.98.29",
-    "port": 8069,
-    "country": "Mongolia",
-    "country_code": "MN",
-    "city": "Ulan Bator",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.63,
-    "asn": "AS10109",
-    "isp": "Topica Co., Ltd",
-    "latency_ms": 908.26,
-    "last_checked": 1780942797.599897
-  },
-  {
     "protocol": "http",
     "ip": "202.179.2.250",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "MN",
     "city": "Ulan Bator",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 20.29,
     "asn": "AS9934",
     "isp": "Mongolia Telecom",
-    "latency_ms": 5073.09,
-    "last_checked": 1780942518.2039263
+    "latency_ms": 3650.41,
+    "last_checked": 1780943223.540779
+  },
+  {
+    "protocol": "socks4",
+    "ip": "203.174.26.137",
+    "port": 4153,
+    "country": "Mongolia",
+    "country_code": "MN",
+    "city": "Ulan Bator",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.51,
+    "asn": "AS38818",
+    "isp": "YokozunaNET",
+    "latency_ms": 8035.42,
+    "last_checked": 1780943395.9049916
   }
 ]
