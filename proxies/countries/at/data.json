@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "193.233.129.235",
     "port": 1080,
     "country": "Austria",
@@ -8,40 +8,40 @@
     "city": "Vienna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.5,
+    "uptime_percent": 79.35,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 14448.98,
-    "last_checked": 1780935516.4079142
+    "latency_ms": 16527.21,
+    "last_checked": 1780936131.8986092
   },
   {
     "protocol": "http",
-    "ip": "193.233.128.128",
+    "ip": "178.115.230.100",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Salzburg",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 7.93,
+    "asn": "AS25255",
+    "isp": "customers with static IP",
+    "latency_ms": 2767.67,
+    "last_checked": 1780936091.7360103
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.134",
     "port": 3128,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 44.58,
+    "ssl": false,
+    "uptime_percent": 44.79,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 14150.66,
-    "last_checked": 1780935512.1624439
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.196.178.238",
-    "port": 60606,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Längenfeld",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 12.8,
-    "asn": "AS206091",
-    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
-    "latency_ms": 3092.15,
-    "last_checked": 1780935569.9862611
+    "latency_ms": 15133.66,
+    "last_checked": 1780936083.8278482
   }
 ]
