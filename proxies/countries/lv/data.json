@@ -1,33 +1,63 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.130.212.97",
-    "port": 8119,
+    "protocol": "socks5",
+    "ip": "185.236.22.192",
+    "port": 9050,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 15.99,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 4792.64,
-    "last_checked": 1780883085.2676868
+    "ssl": true,
+    "uptime_percent": 30.09,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 1815.55,
+    "last_checked": 1780883691.839862
   },
   {
     "protocol": "socks4",
-    "ip": "31.170.19.5",
+    "ip": "31.170.17.141",
     "port": 4153,
     "country": "Latvia",
     "country_code": "LV",
-    "city": "Saldus",
+    "city": "Sātiņi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 4.66,
+    "uptime_percent": 4.75,
     "asn": "AS42099",
     "isp": "DNET ITRisinajumi Ltd.",
-    "latency_ms": 3164.98,
-    "last_checked": 1780883081.6187804
+    "latency_ms": 7451.63,
+    "last_checked": 1780883681.3377202
+  },
+  {
+    "protocol": "socks4",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.04,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 1173.1,
+    "last_checked": 1780883698.4537227
+  },
+  {
+    "protocol": "http",
+    "ip": "169.40.6.114",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.06,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 140.34,
+    "last_checked": 1780883662.32017
   },
   {
     "protocol": "socks4",
@@ -41,7 +71,7 @@
     "uptime_percent": 61.54,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 3330.55,
-    "last_checked": 1780883086.011462
+    "latency_ms": 1161.19,
+    "last_checked": 1780883629.5652883
   }
 ]
