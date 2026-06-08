@@ -1,29 +1,41 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,74.176.195.135,80,Japan,JP,Tokyo,elite,false,97.06,AS8075,Microsoft Corporation,785.72,1780924202.1307871
-socks4,45.8.114.19,3334,Japan,JP,Tokyo,elite,true,100.0,AS3258,xTom Japan Corporation,1238.04,1780924199.638822
-socks4,134.122.197.203,1080,Japan,JP,Tokyo,elite,true,27.78,AS152194,Rackip Consultancy Pte. LTD,1346.54,1780924196.4066827
-socks4,139.180.196.38,10808,Japan,JP,Minamishinagawa,elite,true,30.85,AS20473,"The Constant Company, LLC",5306.99,1780924194.4097195
-http,20.210.76.178,8561,Japan,JP,Tokyo,anonymous,true,18.23,AS8075,Microsoft Corporation,748.0,1780924185.5019066
-socks5,34.84.162.206,38081,Japan,JP,Tokyo,elite,true,80.21,AS396982,Google LLC,9340.44,1780924175.3292377
-http,13.114.160.78,80,Japan,JP,Tokyo,elite,false,92.77,AS16509,Amazon Technologies Inc,698.75,1780924174.4631448
-http,157.101.165.36,80,Japan,JP,Chiyoda City,elite,false,18.0,AS2514,INTERLINK,6988.8,1780924171.3297184
-http,180.10.247.103,3128,Japan,JP,Minamishinagawa,transparent,true,34.37,AS4713,NTT Communications Corporation,9302.1,1780924158.1092808
-http,110.172.62.196,8080,Japan,JP,Atsugi,transparent,true,70.83,AS10010,TOKAI Communications Corporation,8971.24,1780924154.9121382
-http,20.210.39.153,8561,Japan,JP,Tokyo,anonymous,true,19.49,AS8075,Microsoft Corporation,717.43,1780924140.27636
-http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,76.37,AS45102,"Alibaba (US) Technology Co., Ltd.",5109.18,1780924130.4882097
-http,45.8.114.19,3334,Japan,JP,Tokyo,elite,true,100.0,AS3258,xTom Japan Corporation,767.28,1780924126.497385
-socks5,152.69.205.252,1011,Japan,JP,Osaka,elite,true,38.35,AS31898,Oracle Corporation,20385.06,1780924092.460867
-http,139.180.196.38,10808,Japan,JP,Minamishinagawa,elite,false,21.41,AS20473,"The Constant Company, LLC",738.3,1780924085.5152264
-socks5,168.138.210.69,1080,Japan,JP,Tokyo,elite,true,63.68,AS31898,Oracle Corporation,5551.82,1780924061.2707272
-http,43.167.167.94,8118,Japan,JP,Tokyo,elite,true,30.0,AS132203,Shenzhen Tencent Computer Systems Company Limited,1132.82,1780924039.9542367
-http,20.27.11.248,8561,Japan,JP,Tokyo,anonymous,true,19.04,AS8075,Microsoft Corporation,748.03,1780924189.5907784
-http,20.78.118.91,8561,Japan,JP,Tokyo,anonymous,true,19.45,AS8075,Microsoft Corporation,727.14,1780924187.6260915
-socks5,103.31.14.121,9050,Japan,JP,Minato-ku,elite,true,45.16,AS55902,"TS-NET of TOSET, Inc. in Japan",24608.65,1780924180.023434
-http,168.110.52.228,3128,Japan,JP,Tokyo,elite,true,76.55,AS31898,Oracle Corporation,9134.0,1780924167.5204887
-http,20.210.76.104,8561,Japan,JP,Tokyo,anonymous,true,18.38,AS8075,Microsoft Corporation,723.63,1780924164.3566449
-socks5,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,14.89,AS202422,G-Core Labs S.A.,15252.03,1780924161.146987
-http,20.210.76.175,8561,Japan,JP,Tokyo,anonymous,true,18.23,AS8075,Microsoft Corporation,750.35,1780924151.0060444
-http,20.78.26.206,8561,Japan,JP,Tokyo,anonymous,true,19.42,AS8075,Microsoft Corporation,743.21,1780924144.420487
-http,20.27.13.35,8561,Japan,JP,Tokyo,anonymous,true,28.85,AS8075,Microsoft Corporation,704.45,1780924142.5710797
-http,133.232.93.66,80,Japan,JP,Chiyoda City,elite,false,14.2,AS2514,"NTT PC Communications, Inc.",13963.12,1780924135.306564
-socks5,43.153.149.53,1080,Japan,JP,Tokyo,elite,true,32.88,AS132203,Shenzhen Tencent Computer Systems Company Limited,1556.39,1780924055.7017045
+socks4,45.8.114.19,3334,Japan,JP,Tokyo,elite,true,100.0,AS3258,xTom Japan Corporation,1223.16,1780924797.475461
+http,20.18.193.135,8561,Japan,JP,Tokyo,anonymous,true,48.47,AS8075,Microsoft Corporation,741.93,1780924795.9583142
+http,45.8.114.19,3334,Japan,JP,Tokyo,elite,true,100.0,AS3258,xTom Japan Corporation,765.82,1780924789.9969773
+http,8.221.138.111,31433,Japan,JP,Tokyo,elite,false,0.94,AS45102,"Alibaba (US) Technology Co., Ltd.",5483.03,1780924781.249557
+http,154.36.184.20,3128,Japan,JP,Tokyo,elite,true,54.17,AS979,NetLab Global,8174.64,1780924780.5307276
+http,8.221.138.111,8080,Japan,JP,Tokyo,elite,false,1.0,AS45102,"Alibaba (US) Technology Co., Ltd.",9539.03,1780924777.4505906
+socks4,134.122.197.203,1080,Japan,JP,Tokyo,elite,true,27.27,AS152194,Rackip Consultancy Pte. LTD,3361.86,1780924773.983945
+http,64.176.36.91,8888,Japan,JP,Osaka,elite,true,34.93,AS20473,The Constant Company,867.5,1780924772.7050045
+http,116.80.48.147,3172,Japan,JP,Wakabayashi,transparent,true,56.11,AS2514,InfoSphere,1793.11,1780924772.0619216
+socks5,139.180.196.38,10808,Japan,JP,Minamishinagawa,elite,true,27.9,AS20473,"The Constant Company, LLC",1970.03,1780924767.6671357
+http,13.114.160.78,80,Japan,JP,Tokyo,elite,false,92.77,AS16509,Amazon Technologies Inc,2097.62,1780924764.7911465
+http,139.180.196.38,10808,Japan,JP,Minamishinagawa,elite,false,21.42,AS20473,"The Constant Company, LLC",794.31,1780924751.8359025
+socks5,140.238.43.53,54322,Japan,JP,Tokyo,elite,true,22.4,AS31898,Oracle Corporation,7824.13,1780924747.4818907
+http,180.10.247.103,3128,Japan,JP,Minamishinagawa,transparent,false,34.42,AS4713,NTT Communications Corporation,8768.92,1780924744.7038682
+socks5,150.230.194.118,555,Japan,JP,Tokyo,elite,true,51.16,AS31898,Oracle Corporation,10368.82,1780924737.815995
+socks4,8.221.138.111,31433,Japan,JP,Tokyo,elite,true,1.44,AS45102,"Alibaba (US) Technology Co., Ltd.",3455.72,1780924732.724615
+http,20.27.14.220,8561,Japan,JP,Tokyo,anonymous,true,19.12,AS8075,Microsoft Corporation,703.41,1780924731.5242114
+http,74.176.195.135,80,Japan,JP,Tokyo,elite,false,97.06,AS8075,Microsoft Corporation,707.08,1780924728.5593352
+http,168.110.52.228,3128,Japan,JP,Tokyo,elite,true,76.55,AS31898,Oracle Corporation,20658.59,1780924686.6845396
+socks5,134.122.197.203,1080,Japan,JP,Tokyo,elite,true,26.92,AS152194,Rackip Consultancy Pte. LTD,4309.32,1780924683.9027197
+http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,76.37,AS45102,"Alibaba (US) Technology Co., Ltd.",3181.57,1780924681.5856588
+socks5,34.84.162.206,38081,Japan,JP,Tokyo,elite,true,80.22,AS396982,Google LLC,2135.45,1780924648.1428208
+socks5,152.69.205.252,1021,Japan,JP,Osaka,elite,true,36.27,AS31898,Oracle Corporation,5329.81,1780924642.6094024
+socks5,64.176.36.91,8888,Japan,JP,Osaka,elite,true,46.14,AS20473,The Constant Company,1473.61,1780924638.3252616
+http,20.210.76.178,8561,Japan,JP,Tokyo,anonymous,true,18.23,AS8075,Microsoft Corporation,837.37,1780924802.433839
+http,20.210.76.104,8561,Japan,JP,Tokyo,anonymous,true,18.38,AS8075,Microsoft Corporation,758.42,1780924798.1881733
+socks4,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,24.01,AS202422,G-Core Labs S.A.,7841.29,1780924796.611148
+http,20.27.11.248,8561,Japan,JP,Tokyo,anonymous,true,19.04,AS8075,Microsoft Corporation,791.48,1780924783.9411578
+http,20.210.76.175,8561,Japan,JP,Tokyo,anonymous,true,18.23,AS8075,Microsoft Corporation,790.36,1780924781.4384978
+http,20.78.118.91,8561,Japan,JP,Tokyo,anonymous,true,19.46,AS8075,Microsoft Corporation,783.88,1780924780.3960917
+socks5,103.31.14.121,9050,Japan,JP,Minato-ku,elite,true,45.2,AS55902,"TS-NET of TOSET, Inc. in Japan",7976.28,1780924759.8306763
+http,20.210.39.153,8561,Japan,JP,Tokyo,anonymous,true,19.5,AS8075,Microsoft Corporation,738.42,1780924754.3128572
+socks5,168.138.210.69,1080,Japan,JP,Tokyo,elite,true,63.68,AS31898,Oracle Corporation,6092.87,1780924749.0321941
+http,20.27.15.49,8561,Japan,JP,Tokyo,anonymous,true,17.74,AS8075,Microsoft Corporation,2229.04,1780924737.404536
+http,20.27.15.111,8561,Japan,JP,Tokyo,anonymous,true,19.18,AS8075,Microsoft Corporation,725.47,1780924729.631922
+http,20.78.26.206,8561,Japan,JP,Tokyo,anonymous,true,19.42,AS8075,Microsoft Corporation,729.69,1780924722.7736883
+http,20.27.13.35,8561,Japan,JP,Tokyo,anonymous,true,28.85,AS8075,Microsoft Corporation,705.48,1780924722.1963832
+http,203.189.96.232,80,Japan,JP,Chiyoda City,anonymous,false,9.23,AS7506,"GMO Internet Group, Inc.",10391.73,1780924710.82049
+socks5,43.153.149.53,1080,Japan,JP,Tokyo,elite,true,33.1,AS132203,Shenzhen Tencent Computer Systems Company Limited,6717.82,1780924688.1339266
+socks5,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,94.32,AS136258,BrainStorm Network,5737.35,1780924652.686467
