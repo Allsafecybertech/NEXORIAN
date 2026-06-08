@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.94,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 149.87,
+    "last_checked": 1780893824.3604925
+  },
+  {
     "protocol": "http",
     "ip": "185.141.26.131",
     "port": 3128,
@@ -8,26 +23,11 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 70.0,
+    "uptime_percent": 70.04,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 46.44,
-    "last_checked": 1780893267.5367806
-  },
-  {
-    "protocol": "http",
-    "ip": "185.128.240.2",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Drobeta-Turnu Severin",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.32,
-    "asn": "AS49052",
-    "isp": "Data ZYX SRL",
-    "latency_ms": 11077.25,
-    "last_checked": 1780893263.2928455
+    "latency_ms": 37.42,
+    "last_checked": 1780893808.4905016
   },
   {
     "protocol": "socks5",
@@ -38,10 +38,25 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.11,
+    "uptime_percent": 28.12,
     "asn": "AS9009",
     "isp": "M247 Europe SRL",
-    "latency_ms": 2308.2,
-    "last_checked": 1780893256.711668
+    "latency_ms": 2126.88,
+    "last_checked": 1780893805.560005
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.140.63",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.05,
+    "asn": "AS39287",
+    "isp": "ab stract",
+    "latency_ms": 133.91,
+    "last_checked": 1780893890.9524438
   }
 ]
