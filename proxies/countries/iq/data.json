@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.175.151.66",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "176.241.82.149",
+    "port": 5678,
     "country": "Iraq",
     "country_code": "IQ",
     "city": "Baghdad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.91,
+    "asn": "AS57588",
+    "isp": "Hayat ISP",
+    "latency_ms": 432.15,
+    "last_checked": 1780949997.4125657
+  },
+  {
+    "protocol": "http",
+    "ip": "188.72.43.129",
+    "port": 47193,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Xebat",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 21.88,
-    "asn": "AS209193",
-    "isp": "Super Cell Network for Internet Services LTD",
-    "latency_ms": 4318.52,
-    "last_checked": 1780949355.6572428
+    "uptime_percent": 8.36,
+    "asn": "AS213098",
+    "isp": "Pirmam For Information Technology Services Ltd",
+    "latency_ms": 11840.11,
+    "last_checked": 1780949960.6878784
+  },
+  {
+    "protocol": "http",
+    "ip": "185.166.24.221",
+    "port": 1976,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Sulaymaniyah",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.85,
+    "asn": "AS207097",
+    "isp": "Online Company Ltd",
+    "latency_ms": 15532.98,
+    "last_checked": 1780949953.753739
   },
   {
     "protocol": "http",
@@ -23,41 +53,11 @@
     "city": "Baghdad",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 29.37,
+    "uptime_percent": 29.36,
     "asn": "AS199739",
     "isp": "EarthLink Ltd.",
-    "latency_ms": 6116.63,
-    "last_checked": 1780949345.6280987
-  },
-  {
-    "protocol": "http",
-    "ip": "45.81.147.121",
-    "port": 8080,
-    "country": "Iraq",
-    "country_code": "IQ",
-    "city": "Baghdad",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.08,
-    "asn": "AS208859",
-    "isp": "Fact LTD",
-    "latency_ms": 1779.75,
-    "last_checked": 1780949332.657875
-  },
-  {
-    "protocol": "socks4",
-    "ip": "109.224.22.35",
-    "port": 51372,
-    "country": "Iraq",
-    "country_code": "IQ",
-    "city": "Baghdad",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.92,
-    "asn": "AS203214",
-    "isp": "Hulum",
-    "latency_ms": 1515.6,
-    "last_checked": 1780949331.1995518
+    "latency_ms": 14332.01,
+    "last_checked": 1780949928.2345784
   },
   {
     "protocol": "http",
@@ -67,12 +67,12 @@
     "country_code": "IQ",
     "city": "Sulaymaniyah",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.29,
     "asn": "AS207097",
     "isp": "Online Company Ltd",
-    "latency_ms": 12655.48,
-    "last_checked": 1780949301.1807883
+    "latency_ms": 2914.09,
+    "last_checked": 1780949899.6839943
   },
   {
     "protocol": "http",
@@ -86,22 +86,37 @@
     "uptime_percent": 97.2,
     "asn": "AS205889",
     "isp": "Giganet Telecom",
-    "latency_ms": 139.2,
-    "last_checked": 1780949386.4830556
+    "latency_ms": 152.29,
+    "last_checked": 1780949884.55548
   },
   {
     "protocol": "http",
-    "ip": "185.166.24.191",
-    "port": 1976,
+    "ip": "185.166.24.221",
+    "port": 1981,
     "country": "Iraq",
     "country_code": "IQ",
     "city": "Sulaymaniyah",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 11.64,
+    "uptime_percent": 22.07,
     "asn": "AS207097",
     "isp": "Online Company Ltd",
-    "latency_ms": 12816.59,
-    "last_checked": 1780949295.5323284
+    "latency_ms": 5999.42,
+    "last_checked": 1780949956.7056963
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.237.125.216",
+    "port": 6969,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Erbil",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.58,
+    "asn": "AS206206",
+    "isp": "Kurdistan Net 4",
+    "latency_ms": 9375.32,
+    "last_checked": 1780949876.1566007
   }
 ]
