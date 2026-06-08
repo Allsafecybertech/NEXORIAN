@@ -1,4 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,41.79,AS31898,Oracle Corporation,10031.57,1780936144.5573237
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.57,AS14061,"DigitalOcean, LLC",662.59,1780936096.8916826
-http,103.106.231.75,8081,Australia,AU,Sydney,elite,false,52.24,AS136258,BrainStorm Network,1518.79,1780936056.2579494
+socks5,103.106.231.75,1080,Australia,AU,Sydney,elite,true,80.26,AS136258,BrainStorm Network,4816.31,1780936725.7021024
+http,61.29.96.146,80,Australia,AU,Albury,anonymous,false,7.94,AS2764,AAPT Limited,4647.44,1780936702.956506
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.77,AS14061,"DigitalOcean, LLC",1566.63,1780936661.0511916
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.57,AS14061,"DigitalOcean, LLC",496.02,1780936647.9864495
+http,61.29.96.146,8000,Australia,AU,Albury,anonymous,true,9.1,AS2764,AAPT Limited,9919.2,1780936635.5570304
