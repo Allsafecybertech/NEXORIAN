@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.11,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 1090.63,
+    "last_checked": 1780924188.9329488
+  },
+  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -11,8 +26,23 @@
     "uptime_percent": 81.85,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4217.63,
-    "last_checked": 1780923537.2264202
+    "latency_ms": 7343.14,
+    "last_checked": 1780924184.1639538
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.91,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 8358.34,
+    "last_checked": 1780924099.9919808
   },
   {
     "protocol": "http",
@@ -22,26 +52,11 @@
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.33,
+    "ssl": true,
+    "uptime_percent": 34.35,
     "asn": "AS197296",
     "isp": "United Networks SE",
-    "latency_ms": 2698.93,
-    "last_checked": 1780923482.6078665
-  },
-  {
-    "protocol": "http",
-    "ip": "78.108.103.87",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 35.21,
-    "asn": "AS8251",
-    "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 2254.23,
-    "last_checked": 1780923448.5679266
+    "latency_ms": 59.14,
+    "last_checked": 1780924196.9938812
   }
 ]
