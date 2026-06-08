@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.18.90.43",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "185.141.26.131",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Ploieşti",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 72.43,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 907.22,
+    "last_checked": 1780931963.5960302
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cârţişoara",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 20.91,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 7308.61,
-    "last_checked": 1780931317.9772606
+    "uptime_percent": 61.34,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 1212.03,
+    "last_checked": 1780931959.2257605
   },
   {
     "protocol": "http",
@@ -23,40 +38,10 @@
     "city": "Brăila",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.0,
+    "uptime_percent": 27.01,
     "asn": "AS12302",
     "isp": "UPC Romania",
-    "latency_ms": 171.01,
-    "last_checked": 1780931258.9236588
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.121.51.40",
-    "port": 9091,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.56,
-    "asn": "AS9009",
-    "isp": "M247 Europe SRL",
-    "latency_ms": 3405.31,
-    "last_checked": 1780931233.3380835
-  },
-  {
-    "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 72.39,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 212.08,
-    "last_checked": 1780931187.4306664
+    "latency_ms": 7916.24,
+    "last_checked": 1780931734.3439524
   }
 ]
