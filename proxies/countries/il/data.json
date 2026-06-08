@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "2.54.100.184",
-    "port": 8080,
-    "country": "Israel",
-    "country_code": "IL",
-    "city": "Tel Aviv",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.44,
-    "asn": "AS12400",
-    "isp": "Partner Communications",
-    "latency_ms": 7717.48,
-    "last_checked": 1780949898.9905508
-  },
-  {
     "protocol": "socks5",
     "ip": "93.184.4.37",
     "port": 1080,
@@ -26,7 +11,22 @@
     "uptime_percent": 26.91,
     "asn": "AS47253",
     "isp": "BCI Telecommunication & Advanced Technology Company",
-    "latency_ms": 1568.17,
-    "last_checked": 1780949885.527328
+    "latency_ms": 482.0,
+    "last_checked": 1780950448.9667118
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.184.8.22",
+    "port": 1080,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Giv'on HaHadasha",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.69,
+    "asn": "AS47253",
+    "isp": "BNET network",
+    "latency_ms": 687.81,
+    "last_checked": 1780950571.024458
   }
 ]
