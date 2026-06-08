@@ -1,51 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "165.0.136.30",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Cape Town",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 6.63,
-    "asn": "AS37053",
-    "isp": "RSAWEB (PTY) LTD",
-    "latency_ms": 4093.35,
-    "last_checked": 1780889334.2307756
-  },
-  {
-    "protocol": "http",
-    "ip": "4.221.164.109",
-    "port": 9443,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Johannesburg",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 95.62,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 1643.78,
-    "last_checked": 1780889322.317197
-  },
-  {
-    "protocol": "http",
-    "ip": "154.117.154.194",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Cape Town",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 8.09,
-    "asn": "AS37358",
-    "isp": "BitCo",
-    "latency_ms": 7622.21,
-    "last_checked": 1780889318.9009411
-  },
-  {
-    "protocol": "http",
     "ip": "196.223.129.21",
     "port": 80,
     "country": "South Africa",
@@ -56,8 +11,8 @@
     "uptime_percent": 27.31,
     "asn": "AS328471",
     "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 5683.82,
-    "last_checked": 1780889317.3126764
+    "latency_ms": 6566.47,
+    "last_checked": 1780889976.3035514
   },
   {
     "protocol": "http",
@@ -67,12 +22,27 @@
     "country_code": "ZA",
     "city": "Johannesburg",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 98.02,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 1648.61,
-    "last_checked": 1780889294.2255251
+    "latency_ms": 1627.85,
+    "last_checked": 1780889964.742646
+  },
+  {
+    "protocol": "http",
+    "ip": "4.221.164.109",
+    "port": 9443,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 95.65,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 1637.57,
+    "last_checked": 1780889963.336114
   },
   {
     "protocol": "http",
@@ -86,23 +56,68 @@
     "uptime_percent": 97.84,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 619.26,
-    "last_checked": 1780889293.8695905
+    "latency_ms": 1832.76,
+    "last_checked": 1780889948.2532117
   },
   {
     "protocol": "http",
-    "ip": "196.251.193.252",
-    "port": 8081,
+    "ip": "102.219.231.22",
+    "port": 8080,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Brits",
+    "city": "Standerton",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 21.02,
+    "asn": "AS328848",
+    "isp": "Soepa Soap Vervaardigers CC",
+    "latency_ms": 3432.95,
+    "last_checked": 1780889942.3986132
+  },
+  {
+    "protocol": "http",
+    "ip": "156.155.51.117",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Durban",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 1.77,
-    "asn": "AS37403",
-    "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 7817.41,
-    "last_checked": 1780889274.1583545
+    "uptime_percent": 33.06,
+    "asn": "AS37611",
+    "isp": "AxxessNetworks",
+    "latency_ms": 10238.91,
+    "last_checked": 1780889927.5750644
+  },
+  {
+    "protocol": "http",
+    "ip": "156.155.29.119",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Durban",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.69,
+    "asn": "AS37611",
+    "isp": "AxxessNetworks",
+    "latency_ms": 11530.37,
+    "last_checked": 1780889905.6033049
+  },
+  {
+    "protocol": "http",
+    "ip": "41.180.70.2",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.14,
+    "asn": "AS36916",
+    "isp": "X-DSL Networking Solutions",
+    "latency_ms": 10387.92,
+    "last_checked": 1780889886.7750666
   },
   {
     "protocol": "http",
@@ -112,11 +127,11 @@
     "country_code": "ZA",
     "city": "Tzaneen",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.39,
+    "ssl": true,
+    "uptime_percent": 18.4,
     "asn": "AS328638",
     "isp": "LWIC",
-    "latency_ms": 12557.9,
-    "last_checked": 1780889153.9554543
+    "latency_ms": 3889.22,
+    "last_checked": 1780889946.73178
   }
 ]
