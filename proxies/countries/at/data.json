@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "193.233.129.235",
-    "port": 1080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.04,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 10022.76,
-    "last_checked": 1780887586.9406326
-  },
-  {
     "protocol": "http",
     "ip": "80.245.197.246",
     "port": 80,
@@ -23,11 +8,26 @@
     "city": "Vienna",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 84.71,
+    "uptime_percent": 84.74,
     "asn": "AS21360",
     "isp": "Empirion Telekommunikations Services GmbH",
-    "latency_ms": 290.34,
-    "last_checked": 1780887577.391414
+    "latency_ms": 3333.73,
+    "last_checked": 1780888147.369779
+  },
+  {
+    "protocol": "socks4",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.05,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 10664.19,
+    "last_checked": 1780888142.9225771
   },
   {
     "protocol": "http",
@@ -41,7 +41,37 @@
     "uptime_percent": 70.72,
     "asn": "AS12605",
     "isp": "LIWEST Kabelmedien GmbH",
-    "latency_ms": 100.3,
-    "last_checked": 1780887541.2294197
+    "latency_ms": 957.19,
+    "last_checked": 1780888051.323277
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.39,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 14471.69,
+    "last_checked": 1780888048.3335443
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.113.106.198",
+    "port": 987,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.88,
+    "asn": "AS210644",
+    "isp": "xorek.cloud International LTD",
+    "latency_ms": 39.97,
+    "last_checked": 1780888163.437955
   }
 ]
