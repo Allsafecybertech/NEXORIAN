@@ -1,33 +1,48 @@
 [
   {
     "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "ip": "81.18.90.43",
+    "port": 4153,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Cârţişoara",
+    "city": "Ploieşti",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.36,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 1203.95,
-    "last_checked": 1780926548.6075623
+    "uptime_percent": 20.9,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 1166.94,
+    "last_checked": 1780926864.8733735
   },
   {
     "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "ip": "185.141.26.131",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 72.13,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 54.62,
+    "last_checked": 1780926839.2967908
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.77",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.97,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 5331.3,
-    "last_checked": 1780926469.8961816
+    "uptime_percent": 7.83,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 9579.59,
+    "last_checked": 1780926782.7977586
   },
   {
     "protocol": "socks5",
@@ -43,20 +58,5 @@
     "isp": "ab stract",
     "latency_ms": 106.03,
     "last_checked": 1780926566.7786763
-  },
-  {
-    "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 72.12,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 32.87,
-    "last_checked": 1780926497.8627295
   }
 ]
