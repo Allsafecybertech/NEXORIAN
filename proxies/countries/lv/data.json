@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.91,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 8058.16,
+    "last_checked": 1780897773.417124
+  },
+  {
+    "protocol": "socks4",
     "ip": "159.148.146.65",
     "port": 5678,
     "country": "Latvia",
@@ -11,11 +26,11 @@
     "uptime_percent": 61.58,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 7429.11,
-    "last_checked": 1780897184.3275783
+    "latency_ms": 1204.75,
+    "last_checked": 1780897747.7109048
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "169.40.6.114",
     "port": 1080,
     "country": "Latvia",
@@ -23,55 +38,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.23,
+    "uptime_percent": 53.78,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 5018.77,
-    "last_checked": 1780897150.3267071
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.236.22.192",
-    "port": 9050,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.33,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 14547.8,
-    "last_checked": 1780897117.0915809
+    "latency_ms": 426.26,
+    "last_checked": 1780897738.2374346
   },
   {
     "protocol": "http",
-    "ip": "31.57.29.58",
-    "port": 3128,
+    "ip": "195.13.164.73",
+    "port": 8080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 34.39,
-    "asn": "AS56971",
-    "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 10487.71,
-    "last_checked": 1780897061.6880827
-  },
-  {
-    "protocol": "http",
-    "ip": "169.40.6.114",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 41.16,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 249.3,
-    "last_checked": 1780897043.5502756
+    "uptime_percent": 34.86,
+    "asn": "AS12578",
+    "isp": "SIA Tet",
+    "latency_ms": 6074.91,
+    "last_checked": 1780897696.3216171
   }
 ]
