@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.18.90.43",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Ploieşti",
-    "anonymity": "elite",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.31,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 134.18,
+    "last_checked": 1780892364.739297
+  },
+  {
+    "protocol": "http",
+    "ip": "185.141.26.131",
+    "port": 3128,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 20.94,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 1144.59,
-    "last_checked": 1780891769.0616653
+    "uptime_percent": 69.92,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 196.37,
+    "last_checked": 1780892362.2837696
   },
   {
     "protocol": "socks4",
@@ -26,22 +41,37 @@
     "uptime_percent": 61.5,
     "asn": "AS12302",
     "isp": "Vodafone RO",
-    "latency_ms": 3207.35,
-    "last_checked": 1780891752.7505786
+    "latency_ms": 183.06,
+    "last_checked": 1780892354.2440405
   },
   {
-    "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "45.142.140.63",
+    "port": 1080,
     "country": "Romania",
     "country_code": "RO",
     "city": "Bucharest",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.88,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 120.08,
-    "last_checked": 1780891727.3800483
+    "uptime_percent": 53.99,
+    "asn": "AS39287",
+    "isp": "ab stract",
+    "latency_ms": 172.73,
+    "last_checked": 1780892333.9283211
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Cluj-Napoca",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.7,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 1874.57,
+    "last_checked": 1780892277.6623302
   }
 ]
