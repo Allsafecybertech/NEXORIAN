@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "24.37.245.42",
+    "port": 51056,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Laval",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.73,
+    "asn": "AS5769",
+    "isp": "Le Groupe Videotron Ltee",
+    "latency_ms": 7811.26,
+    "last_checked": 1780916087.6512544
+  },
+  {
     "protocol": "socks5",
     "ip": "184.95.220.42",
     "port": 1080,
@@ -11,23 +26,23 @@
     "uptime_percent": 35.53,
     "asn": "AS22652",
     "isp": "Videotron Telecom Ltee",
-    "latency_ms": 5132.99,
-    "last_checked": 1780915440.1561804
+    "latency_ms": 3727.92,
+    "last_checked": 1780916054.9239113
   },
   {
-    "protocol": "socks4",
-    "ip": "86.107.168.166",
-    "port": 22,
+    "protocol": "http",
+    "ip": "158.69.60.88",
+    "port": 3128,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 57.93,
-    "asn": "AS26832",
-    "isp": "Rica Web Services",
-    "latency_ms": 8703.66,
-    "last_checked": 1780915425.5189006
+    "uptime_percent": 18.91,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 20074.21,
+    "last_checked": 1780916054.8695662
   },
   {
     "protocol": "socks5",
@@ -38,11 +53,11 @@
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.22,
+    "uptime_percent": 48.4,
     "asn": "AS136258",
     "isp": "BrainStorm Network, Inc",
-    "latency_ms": 553.17,
-    "last_checked": 1780915413.8631725
+    "latency_ms": 508.55,
+    "last_checked": 1780916053.3073356
   },
   {
     "protocol": "http",
@@ -52,56 +67,26 @@
     "country_code": "CA",
     "city": "Montreal",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.5,
+    "ssl": true,
+    "uptime_percent": 16.51,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 12008.83,
-    "last_checked": 1780915399.3882804
-  },
-  {
-    "protocol": "socks5",
-    "ip": "68.233.127.229",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.98,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 14209.51,
-    "last_checked": 1780915398.4403746
+    "latency_ms": 10162.85,
+    "last_checked": 1780916045.5338283
   },
   {
     "protocol": "http",
-    "ip": "54.39.154.107",
-    "port": 8082,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 21.29,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 6297.94,
-    "last_checked": 1780915373.3696697
-  },
-  {
-    "protocol": "socks5",
-    "ip": "184.95.235.194",
-    "port": 1080,
+    "ip": "23.95.76.201",
+    "port": 8443,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 35.18,
-    "asn": "AS22652",
-    "isp": "Videotron Telecom Ltee",
-    "latency_ms": 806.53,
-    "last_checked": 1780915326.3539827
+    "uptime_percent": 12.49,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network Inc.",
+    "latency_ms": 11178.11,
+    "last_checked": 1780916030.9221954
   }
 ]
