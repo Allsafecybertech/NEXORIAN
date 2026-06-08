@@ -1,5 +1,9 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.57,AS14061,"DigitalOcean, LLC",2302.39,1780928945.6295788
-http,61.29.96.146,80,Australia,AU,Albury,anonymous,false,7.93,AS2764,AAPT Limited,3824.73,1780928982.517699
-http,203.30.9.8,8443,Australia,AU,Brisbane,elite,true,68.06,AS136994,Southern Phone Company Ltd,612.75,1780928975.2572212
-http,203.23.238.21,80,Australia,AU,Canberra,anonymous,false,37.92,AS18390,Spintel Pty Ltd,9435.97,1780928944.3960097
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.57,AS14061,"DigitalOcean, LLC",501.13,1780929577.2196212
+socks5,103.106.231.75,1080,Australia,AU,Sydney,elite,true,81.02,AS136258,BrainStorm Network,7686.15,1780929554.7348938
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.77,AS14061,"DigitalOcean, LLC",3075.64,1780929526.7010238
+http,103.106.231.75,8081,Australia,AU,Sydney,elite,true,55.72,AS136258,BrainStorm Network,1515.72,1780929502.9299686
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,true,40.73,AS4764,Wideband Networks Pty Ltd,10700.04,1780929429.5080247
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,41.82,AS31898,Oracle Corporation,8746.51,1780929594.8581016
+http,203.30.9.8,8443,Australia,AU,Brisbane,elite,true,67.98,AS136994,Southern Phone Company Ltd,3646.37,1780929575.2183528
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,34.22,AS31898,Oracle Corporation,18317.76,1780929557.2017636
