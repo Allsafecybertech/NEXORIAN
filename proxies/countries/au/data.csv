@@ -1,8 +1,11 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.57,AS14061,"DigitalOcean, LLC",504.75,1780906160.8155305
-http,13.210.139.44,3128,Australia,AU,Sydney,elite,true,78.48,AS16509,Amazon Technologies Inc.,1513.72,1780906143.3757653
-http,139.99.237.62,80,Australia,AU,Sydney,elite,false,50.21,AS16276,OVH SAS,12442.43,1780906121.0769289
-http,203.30.9.8,8443,Australia,AU,Brisbane,elite,true,69.52,AS136994,Southern Phone Company Ltd,664.17,1780906101.8011804
-http,103.106.231.75,8081,Australia,AU,Sydney,elite,true,62.5,AS136258,BrainStorm Network,7535.73,1780906073.1965318
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,true,40.8,AS4764,Wideband Networks Pty Ltd,4197.39,1780906026.3595433
-http,103.131.232.9,8080,Australia,AU,Goulburn,transparent,true,23.92,AS45447,YLess4U Pty Ltd,10663.7,1780906015.1871018
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.78,AS14061,"DigitalOcean, LLC",1648.27,1780906748.8241763
+http,61.29.96.146,80,Australia,AU,Albury,anonymous,true,7.92,AS2764,AAPT Limited,1358.57,1780906742.7403088
+http,139.99.237.62,80,Australia,AU,Sydney,elite,false,50.22,AS16276,OVH SAS,12221.49,1780906741.2986603
+socks5,103.106.231.75,1080,Australia,AU,Sydney,elite,true,82.62,AS136258,BrainStorm Network,1905.02,1780906734.269404
+http,61.29.96.146,8000,Australia,AU,Albury,anonymous,false,9.09,AS2764,AAPT Limited,731.18,1780906729.8282025
+http,103.131.232.9,8080,Australia,AU,Goulburn,transparent,true,23.93,AS45447,YLess4U Pty Ltd,7264.89,1780906722.356679
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,40.81,AS4764,Wideband Networks Pty Ltd,4186.74,1780906716.5354345
+http,13.210.139.44,3128,Australia,AU,Sydney,elite,true,78.78,AS16509,Amazon Technologies Inc.,14075.79,1780906711.250636
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.58,AS14061,"DigitalOcean, LLC",1459.46,1780906705.141978
+http,203.30.9.8,8443,Australia,AU,Brisbane,elite,false,69.41,AS136994,Southern Phone Company Ltd,4712.62,1780906647.2828982
