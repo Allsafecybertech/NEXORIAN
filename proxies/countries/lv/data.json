@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "31.57.29.58",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "45.130.212.97",
+    "port": 8119,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.37,
-    "asn": "AS56971",
-    "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 17317.33,
-    "last_checked": 1780895925.767849
+    "uptime_percent": 16.01,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 4957.57,
+    "last_checked": 1780896595.395428
   },
   {
     "protocol": "socks4",
@@ -23,10 +23,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 61.57,
+    "uptime_percent": 61.58,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 179.41,
-    "last_checked": 1780895996.2853217
+    "latency_ms": 1167.71,
+    "last_checked": 1780896592.6745796
+  },
+  {
+    "protocol": "http",
+    "ip": "195.13.164.73",
+    "port": 8080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.85,
+    "asn": "AS12578",
+    "isp": "SIA Tet",
+    "latency_ms": 11551.47,
+    "last_checked": 1780896387.3918092
   }
 ]
