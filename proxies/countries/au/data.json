@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.57,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 539.91,
-    "last_checked": 1780955669.9301596
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 91.77,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1691.55,
-    "last_checked": 1780955663.1989536
+    "latency_ms": 2615.09,
+    "last_checked": 1780956283.4372551
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 7.94,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 10829.27,
-    "last_checked": 1780955657.2360916
+    "latency_ms": 12085.89,
+    "last_checked": 1780956240.4838662
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.57,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 512.16,
+    "last_checked": 1780956219.3993287
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 31.19,
     "asn": "AS4764",
     "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 10998.48,
-    "last_checked": 1780955627.18383
+    "latency_ms": 8427.25,
+    "last_checked": 1780956170.522362
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.1,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 28846.5,
+    "last_checked": 1780956259.843133
   }
 ]
