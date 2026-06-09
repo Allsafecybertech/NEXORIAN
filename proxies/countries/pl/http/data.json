@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "185.32.6.131",
-    "port": 8070,
+    "ip": "51.83.143.16",
+    "port": 80,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Ińsko",
-    "anonymity": "transparent",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.36,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 109.93,
+    "last_checked": 1780992227.7894144
+  },
+  {
+    "protocol": "http",
+    "ip": "91.150.189.122",
+    "port": 30389,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Rzeszów",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 8.24,
-    "asn": "AS60645",
-    "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 6878.32,
-    "last_checked": 1780991639.0465934
+    "uptime_percent": 5.49,
+    "asn": "AS42673",
+    "isp": "Skyware Sp. z o.o.",
+    "latency_ms": 13902.59,
+    "last_checked": 1780992185.161819
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "PL",
     "city": "Szczecinek",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.41,
     "asn": "AS31608",
     "isp": "Gawex Media Sp.zoo",
-    "latency_ms": 9043.61,
-    "last_checked": 1780991619.864151
-  },
-  {
-    "protocol": "http",
-    "ip": "85.198.229.194",
-    "port": 80,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Bytom",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.31,
-    "asn": "AS30851",
-    "isp": "Sileman Sp. z o.o.",
-    "latency_ms": 4680.14,
-    "last_checked": 1780991589.3400593
-  },
-  {
-    "protocol": "http",
-    "ip": "83.238.125.219",
-    "port": 8000,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Wroclaw",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.26,
-    "asn": "AS12741",
-    "isp": "Netia SA",
-    "latency_ms": 8692.88,
-    "last_checked": 1780991533.3123324
+    "latency_ms": 16451.94,
+    "last_checked": 1780992117.8022046
   }
 ]

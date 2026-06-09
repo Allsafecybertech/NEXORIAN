@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "37.202.222.37",
-    "port": 3128,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 37.91,
-    "asn": "AS21859",
-    "isp": "Zenlayer Inc",
-    "latency_ms": 10916.72,
-    "last_checked": 1780991614.589217
-  },
-  {
-    "protocol": "http",
-    "ip": "91.73.223.206",
-    "port": 8000,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 39.17,
-    "asn": "AS15802",
-    "isp": "Emirates Integrated Telecommunications Company PJSC",
-    "latency_ms": 12681.17,
-    "last_checked": 1780991592.7138717
-  },
-  {
-    "protocol": "http",
     "ip": "47.91.104.88",
     "port": 3128,
     "country": "United Arab Emirates",
@@ -41,22 +11,52 @@
     "uptime_percent": 78.67,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 5781.39,
-    "last_checked": 1780991558.4693618
+    "latency_ms": 2271.74,
+    "last_checked": 1780992252.9573424
   },
   {
-    "protocol": "socks5",
-    "ip": "47.91.120.190",
-    "port": 1081,
+    "protocol": "http",
+    "ip": "37.202.222.37",
+    "port": 3128,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 37.93,
+    "asn": "AS21859",
+    "isp": "Zenlayer Inc",
+    "latency_ms": 11022.05,
+    "last_checked": 1780992223.7036536
+  },
+  {
+    "protocol": "http",
+    "ip": "47.91.121.127",
+    "port": 1111,
     "country": "United Arab Emirates",
     "country_code": "AE",
     "city": "Dubai",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 2.42,
+    "uptime_percent": 0.96,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 9799.96,
-    "last_checked": 1780991510.1346183
+    "latency_ms": 2265.92,
+    "last_checked": 1780992139.267992
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.91.121.127",
+    "port": 8008,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 2.23,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 8136.8,
+    "last_checked": 1780992019.9616156
   }
 ]
