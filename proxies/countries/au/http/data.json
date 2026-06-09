@@ -1,33 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "103.106.231.75",
-    "port": 8081,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 48.02,
-    "asn": "AS136258",
-    "isp": "BrainStorm Network",
-    "latency_ms": 3531.05,
-    "last_checked": 1780975752.5997667
-  },
-  {
-    "protocol": "http",
     "ip": "103.131.232.9",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Goulburn",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 24.24,
     "asn": "AS45447",
     "isp": "YLess4U Pty Ltd",
-    "latency_ms": 5811.46,
-    "last_checked": 1780975696.487863
+    "latency_ms": 610.83,
+    "last_checked": 1780976387.671511
   },
   {
     "protocol": "http",
@@ -41,22 +26,37 @@
     "uptime_percent": 94.57,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 527.11,
-    "last_checked": 1780975668.4125457
+    "latency_ms": 522.05,
+    "last_checked": 1780976311.7464423
   },
   {
     "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "ip": "159.196.182.72",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
+    "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 40.92,
+    "ssl": true,
+    "uptime_percent": 31.23,
     "asn": "AS4764",
     "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2642.48,
-    "last_checked": 1780975641.5265718
+    "latency_ms": 1218.99,
+    "last_checked": 1780976287.3573916
+  },
+  {
+    "protocol": "http",
+    "ip": "203.23.238.21",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Canberra",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 37.71,
+    "asn": "AS18390",
+    "isp": "Spintel Pty Ltd",
+    "latency_ms": 7887.17,
+    "last_checked": 1780976392.3240845
   }
 ]
