@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 41.59,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 914.39,
-    "last_checked": 1781028554.8285646
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 76.36,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4246.0,
-    "last_checked": 1781028547.2681305
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -41,11 +11,11 @@
     "uptime_percent": 87.02,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4349.83,
-    "last_checked": 1781028527.6776564
+    "latency_ms": 3144.75,
+    "last_checked": 1781029158.0296323
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "45.85.93.15",
     "port": 4567,
     "country": "Switzerland",
@@ -53,11 +23,41 @@
     "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 21.69,
+    "uptime_percent": 24.67,
     "asn": "AS199058",
     "isp": "Serva ONE LTD",
-    "latency_ms": 6733.65,
-    "last_checked": 1781028501.5032275
+    "latency_ms": 4808.69,
+    "last_checked": 1781029133.6532102
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 76.37,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2601.93,
+    "last_checked": 1781029119.4539993
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.239.248",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wetzikon",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 13.47,
+    "asn": "AS264617",
+    "isp": "Geronimo Ramirez Computer Network",
+    "latency_ms": 10111.15,
+    "last_checked": 1781029087.759244
   },
   {
     "protocol": "socks5",
@@ -71,7 +71,7 @@
     "uptime_percent": 85.01,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4240.02,
-    "last_checked": 1781028385.7831597
+    "latency_ms": 4624.01,
+    "last_checked": 1781029072.6227746
   }
 ]
