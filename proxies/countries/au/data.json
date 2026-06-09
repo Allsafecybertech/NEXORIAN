@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.54,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1511.82,
+    "last_checked": 1781010537.0946875
+  },
+  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.76,
+    "uptime_percent": 91.77,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1831.14,
-    "last_checked": 1781009980.7218175
-  },
-  {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.59,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 4188.34,
-    "last_checked": 1781009980.6484413
+    "latency_ms": 1645.64,
+    "last_checked": 1781010514.422126
   },
   {
     "protocol": "socks5",
@@ -41,7 +41,22 @@
     "uptime_percent": 100.0,
     "asn": "AS16509",
     "isp": "Amazon Technologies Inc.",
-    "latency_ms": 1833.98,
-    "last_checked": 1781009974.4904764
+    "latency_ms": 1716.07,
+    "last_checked": 1781010478.2002404
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.59,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 4309.33,
+    "last_checked": 1781010600.4074206
   }
 ]
