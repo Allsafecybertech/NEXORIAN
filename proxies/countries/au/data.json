@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "103.106.231.75",
+    "port": 8081,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 46.64,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 516.53,
+    "last_checked": 1781003672.3589444
+  },
+  {
+    "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
     "country": "Australia",
@@ -11,23 +26,8 @@
     "uptime_percent": 94.55,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 509.93,
-    "last_checked": 1781003076.3616054
-  },
-  {
-    "protocol": "http",
-    "ip": "103.106.231.75",
-    "port": 8081,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 46.67,
-    "asn": "AS136258",
-    "isp": "BrainStorm Network",
-    "latency_ms": 7519.21,
-    "last_checked": 1781003027.1032023
+    "latency_ms": 536.58,
+    "last_checked": 1781003652.9651685
   },
   {
     "protocol": "socks5",
@@ -41,22 +41,22 @@
     "uptime_percent": 91.79,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1659.86,
-    "last_checked": 1781003010.283919
+    "latency_ms": 1690.33,
+    "last_checked": 1781003640.8406835
   },
   {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 40.8,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 5916.68,
-    "last_checked": 1781002942.3859074
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.62,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 10512.8,
+    "last_checked": 1781003673.5826097
   }
 ]
