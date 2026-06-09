@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Bern",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.27,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 10585.76,
-    "last_checked": 1781006947.5776536
+    "uptime_percent": 87.01,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1267.96,
+    "last_checked": 1781007562.9817984
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.65,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 13764.23,
+    "last_checked": 1781007545.7166715
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 76.4,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2890.39,
+    "last_checked": 1781007506.2154982
   },
   {
     "protocol": "socks5",
@@ -26,22 +56,7 @@
     "uptime_percent": 85.01,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2746.99,
-    "last_checked": 1781006895.319593
-  },
-  {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 13.65,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 14009.24,
-    "last_checked": 1781006855.9585643
+    "latency_ms": 14377.83,
+    "last_checked": 1781007444.0858424
   }
 ]
