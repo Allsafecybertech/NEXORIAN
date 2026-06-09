@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "129.222.204.27",
-    "port": 10000,
+    "protocol": "socks4",
+    "ip": "154.113.198.17",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.48,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 1604.24,
+    "last_checked": 1781042345.2532394
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.113.167.70",
+    "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.37,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 1585.32,
+    "last_checked": 1781042341.3936002
+  },
+  {
+    "protocol": "http",
+    "ip": "143.105.102.145",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 40.23,
+    "uptime_percent": 34.39,
     "asn": "AS14593",
     "isp": "Space Exploration Technologies Corporation",
-    "latency_ms": 5269.4,
-    "last_checked": 1781041740.3171744
+    "latency_ms": 3806.49,
+    "last_checked": 1781042196.8657918
   }
 ]
