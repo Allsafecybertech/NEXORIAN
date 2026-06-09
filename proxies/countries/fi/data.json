@@ -368,14 +368,14 @@
     "city": "Helsinki",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.8,
+    "uptime_percent": 96.6,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 3108.93,
-    "last_checked": 1781002181.936608
+    "latency_ms": 1212.2,
+    "last_checked": 1781002776.0363085
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "212.192.8.119",
     "port": 1080,
     "country": "Finland",
@@ -383,10 +383,40 @@
     "city": "Helsinki",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 37.86,
+    "uptime_percent": 40.67,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 3664.47,
-    "last_checked": 1781002094.6704469
+    "latency_ms": 4711.31,
+    "last_checked": 1781002734.7887769
+  },
+  {
+    "protocol": "http",
+    "ip": "212.192.8.119",
+    "port": 8080,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 14.08,
+    "asn": "AS57043",
+    "isp": "Hostkey B.V.",
+    "latency_ms": 9377.82,
+    "last_checked": 1781002687.2679973
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.159.68.227",
+    "port": 1080,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.73,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V.",
+    "latency_ms": 5958.53,
+    "last_checked": 1781002680.9276192
   }
 ]
