@@ -1,21 +1,51 @@
 [
   {
     "protocol": "http",
-    "ip": "185.226.195.249",
-    "port": 2222,
+    "ip": "81.0.49.104",
+    "port": 19775,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Dos Hermanas",
+    "city": "Valencia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 21.94,
-    "asn": "AS211141",
-    "isp": "Pinkbear SLU",
-    "latency_ms": 3654.19,
-    "last_checked": 1781025572.9729068
+    "uptime_percent": 16.46,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 10324.69,
+    "last_checked": 1781026137.51803
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "2.139.38.192",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.77,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 7448.87,
+    "last_checked": 1781026133.7719266
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "San Fernando de Henares",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.15,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 1211.85,
+    "last_checked": 1781026114.9413097
+  },
+  {
+    "protocol": "socks4",
     "ip": "65.20.105.241",
     "port": 10001,
     "country": "Spain",
@@ -23,41 +53,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.4,
+    "uptime_percent": 42.04,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 7299.38,
-    "last_checked": 1781025563.214352
-  },
-  {
-    "protocol": "http",
-    "ip": "90.161.186.147",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Puerto de Santiago",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.25,
-    "asn": "AS12479",
-    "isp": "UNI2-ABI",
-    "latency_ms": 4798.74,
-    "last_checked": 1781025511.6391892
-  },
-  {
-    "protocol": "http",
-    "ip": "88.1.150.79",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Alovera",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.5,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 10771.77,
-    "last_checked": 1781025489.988016
+    "latency_ms": 7268.29,
+    "last_checked": 1781026108.3651001
   },
   {
     "protocol": "socks5",
@@ -71,26 +71,11 @@
     "uptime_percent": 45.42,
     "asn": "AS210086",
     "isp": "Connecta 1876 SLU",
-    "latency_ms": 567.61,
-    "last_checked": 1781025469.312236
+    "latency_ms": 350.17,
+    "last_checked": 1781026106.1566544
   },
   {
     "protocol": "http",
-    "ip": "2.139.38.192",
-    "port": 3128,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.76,
-    "asn": "AS3352",
-    "isp": "RIMA (Red IP Multi Acceso)",
-    "latency_ms": 1158.22,
-    "last_checked": 1781025452.851777
-  },
-  {
-    "protocol": "socks5",
     "ip": "83.97.79.114",
     "port": 8443,
     "country": "Spain",
@@ -98,10 +83,10 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.74,
+    "uptime_percent": 24.21,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 9927.76,
-    "last_checked": 1781025355.2642295
+    "latency_ms": 3780.22,
+    "last_checked": 1781026019.2957728
   }
 ]
