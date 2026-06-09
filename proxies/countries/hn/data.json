@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "200.115.96.50",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.95,
+    "asn": "AS269919",
+    "isp": "Honduvision SRL",
+    "latency_ms": 790.01,
+    "last_checked": 1781035181.5079956
+  },
+  {
+    "protocol": "http",
     "ip": "181.78.44.63",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "La Unión",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 55.19,
     "asn": "AS52468",
     "isp": "Ufinet Honduras",
-    "latency_ms": 4147.79,
-    "last_checked": 1781034559.58866
+    "latency_ms": 8157.89,
+    "last_checked": 1781035167.9622524
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Comayagua",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 17.91,
+    "uptime_percent": 17.93,
     "asn": "AS262234",
     "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 5017.96,
-    "last_checked": 1781034557.3887472
+    "latency_ms": 11651.31,
+    "last_checked": 1781035164.2038167
+  },
+  {
+    "protocol": "http",
+    "ip": "200.106.236.142",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 29.86,
+    "asn": "AS23383",
+    "isp": "Metrored S.a. De C.V.",
+    "latency_ms": 12198.87,
+    "last_checked": 1781035104.4271877
   }
 ]
