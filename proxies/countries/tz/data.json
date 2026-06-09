@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "41.78.168.118",
-    "port": 8080,
-    "country": "Tanzania",
-    "country_code": "TZ",
-    "city": "Arusha",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.81,
-    "asn": "AS36909",
-    "isp": "Habari Node Public Limited",
-    "latency_ms": 3538.34,
-    "last_checked": 1780981700.4119065
-  },
-  {
-    "protocol": "http",
     "ip": "41.59.90.170",
     "port": 80,
     "country": "Tanzania",
@@ -23,10 +8,40 @@
     "city": "Dar es Salaam",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 79.17,
+    "uptime_percent": 79.2,
     "asn": "AS33765",
     "isp": "TTCL",
-    "latency_ms": 918.69,
-    "last_checked": 1780981597.9062545
+    "latency_ms": 865.21,
+    "last_checked": 1780982370.568929
+  },
+  {
+    "protocol": "http",
+    "ip": "41.78.168.118",
+    "port": 8080,
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "city": "Arusha",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 34.86,
+    "asn": "AS36909",
+    "isp": "Habari Node Public Limited",
+    "latency_ms": 4396.31,
+    "last_checked": 1780982350.3865426
+  },
+  {
+    "protocol": "socks5",
+    "ip": "165.16.192.205",
+    "port": 1080,
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "city": "Dar es Salaam",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.22,
+    "asn": "AS327792",
+    "isp": "CSS",
+    "latency_ms": 2332.84,
+    "last_checked": 1780982318.570122
   }
 ]
