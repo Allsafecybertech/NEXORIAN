@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.62.48.141",
+    "port": 5678,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Isernia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.87,
+    "asn": "AS201847",
+    "isp": "Elektronica Networks",
+    "latency_ms": 3309.18,
+    "last_checked": 1781008162.0096626
+  },
+  {
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -11,38 +26,8 @@
     "uptime_percent": 87.28,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2671.75,
-    "last_checked": 1781007575.7479532
-  },
-  {
-    "protocol": "socks4",
-    "ip": "2.115.212.62",
-    "port": 48293,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Furnari",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.15,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A",
-    "latency_ms": 7835.67,
-    "last_checked": 1781007575.6552036
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.33,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 3896.04,
-    "last_checked": 1781007571.9951923
+    "latency_ms": 1126.27,
+    "last_checked": 1781008156.7042806
   },
   {
     "protocol": "http",
@@ -56,22 +41,37 @@
     "uptime_percent": 69.39,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 3105.53,
-    "last_checked": 1781007539.9017403
+    "latency_ms": 5392.5,
+    "last_checked": 1781008142.4475448
   },
   {
-    "protocol": "http",
-    "ip": "79.108.211.139",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.33,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 4699.58,
+    "last_checked": 1781008112.7169077
+  },
+  {
+    "protocol": "http",
+    "ip": "93.42.151.100",
+    "port": 4443,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 36.45,
-    "asn": "AS44092",
-    "isp": "HAL Service SpA",
-    "latency_ms": 4168.04,
-    "last_checked": 1781007425.5941916
+    "uptime_percent": 19.91,
+    "asn": "AS12874",
+    "isp": "Fastweb SpA",
+    "latency_ms": 5562.49,
+    "last_checked": 1781008094.4436896
   }
 ]
