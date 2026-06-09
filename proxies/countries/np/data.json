@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "182.93.75.162",
+    "port": 1080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Mahottari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.52,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 1587.62,
+    "last_checked": 1780973672.7340662
+  },
+  {
+    "protocol": "http",
+    "ip": "182.50.65.145",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Lalitpur",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.58,
+    "asn": "AS55427",
+    "isp": "RO-65 BroadLink",
+    "latency_ms": 6405.45,
+    "last_checked": 1780973644.6234546
+  },
+  {
     "protocol": "http",
     "ip": "110.34.1.178",
     "port": 7777,
@@ -7,12 +37,12 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 18.35,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 3237.83,
-    "last_checked": 1780973348.431285
+    "latency_ms": 4179.09,
+    "last_checked": 1780973643.7970366
   },
   {
     "protocol": "http",
@@ -23,10 +53,55 @@
     "city": "Patan",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 38.03,
+    "uptime_percent": 38.06,
     "asn": "AS17501",
     "isp": "WLINK",
-    "latency_ms": 6973.49,
-    "last_checked": 1780973226.0916362
+    "latency_ms": 2681.21,
+    "last_checked": 1780973634.8985844
+  },
+  {
+    "protocol": "http",
+    "ip": "182.93.75.162",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Mahottari",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.82,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 4531.7,
+    "last_checked": 1780973612.0158677
+  },
+  {
+    "protocol": "http",
+    "ip": "103.114.25.2",
+    "port": 8088,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Narayan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.0,
+    "asn": "AS137580",
+    "isp": "Everest Wireless Network pvt. ltd",
+    "latency_ms": 6958.22,
+    "last_checked": 1780973569.0865395
+  },
+  {
+    "protocol": "http",
+    "ip": "103.1.93.184",
+    "port": 55443,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.47,
+    "asn": "AS55915",
+    "isp": "Classic Tech Pvt. Ltd",
+    "latency_ms": 12645.57,
+    "last_checked": 1780973564.431896
   }
 ]
