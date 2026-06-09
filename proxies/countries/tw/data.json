@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "210.61.216.63",
-    "port": 60808,
+    "protocol": "socks5",
+    "ip": "112.105.12.235",
+    "port": 1111,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Wugu District",
+    "city": "Taichung",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.03,
+    "ssl": true,
+    "uptime_percent": 20.01,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 12474.58,
+    "last_checked": 1781004841.0378568
+  },
+  {
+    "protocol": "http",
+    "ip": "122.117.203.252",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Kaohsiung",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 16.02,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 11834.68,
-    "last_checked": 1781004259.627206
+    "latency_ms": 10977.16,
+    "last_checked": 1781004831.9828153
   }
 ]

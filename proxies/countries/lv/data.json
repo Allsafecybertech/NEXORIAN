@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "169.40.6.114",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 52.32,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 8858.94,
-    "last_checked": 1781004288.2105465
-  },
-  {
-    "protocol": "socks4",
     "ip": "31.170.19.5",
     "port": 4153,
     "country": "Latvia",
@@ -26,8 +11,23 @@
     "uptime_percent": 4.76,
     "asn": "AS42099",
     "isp": "DNET ITRisinajumi Ltd.",
-    "latency_ms": 1171.08,
-    "last_checked": 1781004277.7574348
+    "latency_ms": 3183.11,
+    "last_checked": 1781004883.9032574
+  },
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.54,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 136.91,
+    "last_checked": 1781004876.5333652
   },
   {
     "protocol": "socks4",
@@ -41,22 +41,37 @@
     "uptime_percent": 4.85,
     "asn": "AS42099",
     "isp": "DNET ITRisinajumi Ltd.",
-    "latency_ms": 145.27,
-    "last_checked": 1781004276.921312
+    "latency_ms": 153.82,
+    "last_checked": 1781004865.747259
   },
   {
-    "protocol": "http",
-    "ip": "169.40.6.114",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "45.130.212.97",
+    "port": 8119,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 41.29,
+    "ssl": true,
+    "uptime_percent": 15.57,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 4195.84,
+    "last_checked": 1781004849.8857234
+  },
+  {
+    "protocol": "socks5",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.17,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 9207.39,
-    "last_checked": 1781004260.2428465
+    "latency_ms": 741.61,
+    "last_checked": 1781004817.4381063
   }
 ]
