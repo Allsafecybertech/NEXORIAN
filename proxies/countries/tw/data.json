@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "112.105.12.58",
-    "port": 1111,
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taichung",
+    "city": "Taipei",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 19.82,
-    "asn": "AS18049",
-    "isp": "TINP",
-    "latency_ms": 15063.43,
-    "last_checked": 1781049561.3916152
+    "ssl": false,
+    "uptime_percent": 29.04,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 3120.84,
+    "last_checked": 1781050179.7107208
+  },
+  {
+    "protocol": "http",
+    "ip": "220.134.5.4",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "New Taipei City",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.75,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 4385.05,
+    "last_checked": 1781050151.5806825
+  },
+  {
+    "protocol": "http",
+    "ip": "122.117.203.252",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Kaohsiung",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.13,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 22136.89,
+    "last_checked": 1781050007.8706944
   },
   {
     "protocol": "socks5",
@@ -26,37 +56,7 @@
     "uptime_percent": 20.03,
     "asn": "AS18049",
     "isp": "TINP",
-    "latency_ms": 21766.23,
-    "last_checked": 1781049513.2293394
-  },
-  {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 29.04,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 3041.88,
-    "last_checked": 1781049502.2525306
-  },
-  {
-    "protocol": "http",
-    "ip": "210.61.216.63",
-    "port": 60808,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Wugu District",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.03,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 12997.0,
-    "last_checked": 1781049576.3257551
+    "latency_ms": 18125.69,
+    "last_checked": 1781049895.295093
   }
 ]
