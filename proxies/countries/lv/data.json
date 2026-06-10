@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "169.40.6.114",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.89,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 1573.85,
-    "last_checked": 1781132038.1116233
-  },
-  {
     "protocol": "socks5",
     "ip": "185.236.22.192",
     "port": 9050,
@@ -23,11 +8,26 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.39,
+    "uptime_percent": 28.42,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 4307.33,
-    "last_checked": 1781132033.6166384
+    "latency_ms": 5641.53,
+    "last_checked": 1781132679.9200292
+  },
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.6,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 3182.55,
+    "last_checked": 1781132637.4387677
   },
   {
     "protocol": "http",
@@ -38,10 +38,40 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 33.85,
+    "uptime_percent": 33.84,
     "asn": "AS56971",
     "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 15164.45,
-    "last_checked": 1781132029.1528542
+    "latency_ms": 6400.83,
+    "last_checked": 1781132617.7385066
+  },
+  {
+    "protocol": "http",
+    "ip": "169.40.6.114",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.91,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 154.32,
+    "last_checked": 1781132615.5630765
+  },
+  {
+    "protocol": "socks5",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.75,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 3274.28,
+    "last_checked": 1781132493.2393188
   }
 ]
