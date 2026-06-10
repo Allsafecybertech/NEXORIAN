@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "47.91.121.127",
-    "port": 80,
+    "port": 10000,
     "country": "United Arab Emirates",
     "country_code": "AE",
     "city": "Dubai",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 1.83,
+    "uptime_percent": 1.08,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 7330.41,
-    "last_checked": 1781083152.2668123
+    "latency_ms": 4093.36,
+    "last_checked": 1781083757.3028343
   },
   {
     "protocol": "http",
@@ -26,23 +26,8 @@
     "uptime_percent": 78.73,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 3905.99,
-    "last_checked": 1781083149.9948227
-  },
-  {
-    "protocol": "socks5",
-    "ip": "47.91.121.127",
-    "port": 1111,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 2.06,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 14958.65,
-    "last_checked": 1781083149.023179
+    "latency_ms": 2123.65,
+    "last_checked": 1781083744.6396723
   },
   {
     "protocol": "http",
@@ -52,26 +37,26 @@
     "country_code": "AE",
     "city": "Dubai",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 43.55,
     "asn": "AS15802",
     "isp": "Emirates Integrated Telecommunications Company PJSC",
-    "latency_ms": 16864.56,
-    "last_checked": 1781083086.303486
+    "latency_ms": 8790.58,
+    "last_checked": 1781083735.4373062
   },
   {
-    "protocol": "socks5",
-    "ip": "47.91.120.190",
-    "port": 2021,
+    "protocol": "http",
+    "ip": "37.202.222.37",
+    "port": 3128,
     "country": "United Arab Emirates",
     "country_code": "AE",
     "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 2.14,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 13399.69,
-    "last_checked": 1781083006.2683387
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 35.27,
+    "asn": "AS21859",
+    "isp": "Zenlayer Inc",
+    "latency_ms": 16293.08,
+    "last_checked": 1781083645.5133421
   }
 ]
