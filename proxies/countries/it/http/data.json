@@ -1,33 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "195.231.69.203",
-    "port": 80,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Ponte San Pietro",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.82,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 6889.92,
-    "last_checked": 1781069601.2147408
-  },
-  {
-    "protocol": "http",
     "ip": "188.11.179.26",
     "port": 8443,
     "country": "Italy",
     "country_code": "IT",
     "city": "Crispi Cavour",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 11.88,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 5864.32,
-    "last_checked": 1781069577.2912364
+    "latency_ms": 1142.02,
+    "last_checked": 1781070286.3649356
   },
   {
     "protocol": "http",
@@ -41,7 +26,22 @@
     "uptime_percent": 22.46,
     "asn": "AS44092",
     "isp": "Mywic Costumers",
-    "latency_ms": 4316.92,
-    "last_checked": 1781069569.6798651
+    "latency_ms": 13204.54,
+    "last_checked": 1781070251.421443
+  },
+  {
+    "protocol": "http",
+    "ip": "195.231.69.203",
+    "port": 80,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Ponte San Pietro",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.82,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 1911.45,
+    "last_checked": 1781070238.0067117
   }
 ]
