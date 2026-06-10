@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "203.30.9.8",
+    "port": 8443,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.74,
+    "asn": "AS136994",
+    "isp": "Southern Phone Company Ltd",
+    "latency_ms": 3969.65,
+    "last_checked": 1781119180.0189269
+  },
+  {
+    "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
     "country": "Australia",
@@ -11,22 +26,37 @@
     "uptime_percent": 94.52,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 565.36,
-    "last_checked": 1781118585.0771422
+    "latency_ms": 816.67,
+    "last_checked": 1781119169.324403
   },
   {
     "protocol": "http",
     "ip": "61.29.96.146",
-    "port": 8000,
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Albury",
     "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 9.13,
+    "ssl": false,
+    "uptime_percent": 7.97,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 15450.52,
-    "last_checked": 1781118505.217766
+    "latency_ms": 8356.3,
+    "last_checked": 1781119113.7980826
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.63,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 3538.32,
+    "last_checked": 1781119113.0678508
   }
 ]
