@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "169.40.6.114",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.04,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 223.09,
-    "last_checked": 1781078956.3099
-  },
-  {
-    "protocol": "socks4",
     "ip": "159.148.146.65",
     "port": 5678,
     "country": "Latvia",
@@ -26,8 +11,38 @@
     "uptime_percent": 61.61,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 7516.82,
-    "last_checked": 1781078952.696073
+    "latency_ms": 3193.45,
+    "last_checked": 1781079558.8804677
+  },
+  {
+    "protocol": "socks5",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.54,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 7563.41,
+    "last_checked": 1781079508.6173449
+  },
+  {
+    "protocol": "socks4",
+    "ip": "169.40.6.114",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.03,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 6876.35,
+    "last_checked": 1781079507.537763
   },
   {
     "protocol": "http",
@@ -37,26 +52,11 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 41.05,
+    "ssl": true,
+    "uptime_percent": 41.06,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 7591.43,
-    "last_checked": 1781078897.3638806
-  },
-  {
-    "protocol": "http",
-    "ip": "31.57.29.58",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.98,
-    "asn": "AS56971",
-    "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 10349.98,
-    "last_checked": 1781078811.018311
+    "latency_ms": 7328.45,
+    "last_checked": 1781079457.6638725
   }
 ]
