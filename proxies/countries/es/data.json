@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "San Fernando de Henares",
+    "city": "Olot",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.42,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 1225.51,
-    "last_checked": 1781094564.6334867
+    "uptime_percent": 45.68,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 301.66,
+    "last_checked": 1781095168.0702646
+  },
+  {
+    "protocol": "http",
+    "ip": "90.161.186.147",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Puerto de Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.25,
+    "asn": "AS12479",
+    "isp": "UNI2-ABI",
+    "latency_ms": 9119.3,
+    "last_checked": 1781095151.7849555
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.245.197.146",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ocaña",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.07,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 370.67,
+    "last_checked": 1781095135.3283079
   },
   {
     "protocol": "socks5",
@@ -23,41 +53,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.54,
+    "uptime_percent": 94.34,
     "asn": "AS200758",
     "isp": "Datagear LLP",
-    "latency_ms": 179.13,
-    "last_checked": 1781094521.9655635
-  },
-  {
-    "protocol": "socks5",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 33.68,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 4825.41,
-    "last_checked": 1781094494.311027
-  },
-  {
-    "protocol": "http",
-    "ip": "83.97.79.114",
-    "port": 8443,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 24.19,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 8228.51,
-    "last_checked": 1781094493.9022486
+    "latency_ms": 193.71,
+    "last_checked": 1781095127.1832287
   },
   {
     "protocol": "http",
@@ -71,7 +71,7 @@
     "uptime_percent": 65.82,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 8452.59,
-    "last_checked": 1781094425.3166692
+    "latency_ms": 5123.02,
+    "last_checked": 1781095115.64557
   }
 ]
