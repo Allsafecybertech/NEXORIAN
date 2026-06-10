@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "47.91.110.148",
-    "port": 9080,
+    "protocol": "socks5",
+    "ip": "47.91.121.127",
+    "port": 1234,
     "country": "United Arab Emirates",
     "country_code": "AE",
     "city": "Dubai",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 0.93,
+    "ssl": true,
+    "uptime_percent": 1.94,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 3287.44,
-    "last_checked": 1781122442.7494261
+    "latency_ms": 9307.31,
+    "last_checked": 1781123050.4514904
+  },
+  {
+    "protocol": "http",
+    "ip": "37.202.222.37",
+    "port": 3128,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 34.36,
+    "asn": "AS21859",
+    "isp": "Zenlayer Inc",
+    "latency_ms": 9829.09,
+    "last_checked": 1781123043.5970786
   },
   {
     "protocol": "http",
@@ -26,37 +41,22 @@
     "uptime_percent": 78.77,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 2647.1,
-    "last_checked": 1781122439.992649
+    "latency_ms": 3490.58,
+    "last_checked": 1781123008.4934888
   },
   {
-    "protocol": "http",
-    "ip": "47.91.110.148",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "47.91.120.190",
+    "port": 2021,
     "country": "United Arab Emirates",
     "country_code": "AE",
     "city": "Dubai",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 1.04,
+    "uptime_percent": 2.14,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 2272.98,
-    "last_checked": 1781122410.8687956
-  },
-  {
-    "protocol": "http",
-    "ip": "37.202.222.37",
-    "port": 3128,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 34.15,
-    "asn": "AS21859",
-    "isp": "Zenlayer Inc",
-    "latency_ms": 4476.74,
-    "last_checked": 1781122343.1153128
+    "latency_ms": 6334.62,
+    "last_checked": 1781122984.2602396
   }
 ]
