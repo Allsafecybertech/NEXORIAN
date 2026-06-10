@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "109.135.16.145",
-    "port": 49879,
+    "port": 8789,
     "country": "Belgium",
     "country_code": "BE",
     "city": "Anderlecht",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.62,
+    "ssl": false,
+    "uptime_percent": 36.58,
     "asn": "AS5432",
     "isp": "Proximus NV",
-    "latency_ms": 7414.36,
-    "last_checked": 1781061593.0327713
+    "latency_ms": 161.25,
+    "last_checked": 1781062193.8033912
   },
   {
     "protocol": "http",
@@ -23,25 +23,10 @@
     "city": "Brussels",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 53.19,
+    "uptime_percent": 53.2,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 6887.52,
-    "last_checked": 1781061543.1790884
-  },
-  {
-    "protocol": "http",
-    "ip": "128.90.145.79",
-    "port": 8118,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 16.22,
-    "asn": "AS22363",
-    "isp": "Powerhouse Management, Inc.",
-    "latency_ms": 587.59,
-    "last_checked": 1781061496.579095
+    "latency_ms": 6996.13,
+    "last_checked": 1781062182.6163807
   }
 ]
