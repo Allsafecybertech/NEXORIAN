@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.65,
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.34,
     "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 4000.22,
-    "last_checked": 1781123060.3668375
+    "isp": "Vodafone RO",
+    "latency_ms": 3212.58,
+    "last_checked": 1781123653.905351
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.51.40",
+    "port": 9091,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.69,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 2524.82,
+    "last_checked": 1781123653.3081117
   },
   {
     "protocol": "http",
@@ -23,10 +38,10 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 80.56,
+    "uptime_percent": 80.58,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 54.26,
-    "last_checked": 1781123033.0719233
+    "latency_ms": 40.87,
+    "last_checked": 1781123604.9628825
   }
 ]
