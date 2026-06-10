@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.27,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 57.65,
+    "last_checked": 1781107189.9192548
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.26,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 9586.46,
+    "last_checked": 1781107183.624684
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -11,8 +41,8 @@
     "uptime_percent": 87.16,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1422.52,
-    "last_checked": 1781106577.4081361
+    "latency_ms": 5995.01,
+    "last_checked": 1781107177.1892035
   },
   {
     "protocol": "http",
@@ -22,41 +52,11 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 76.44,
+    "ssl": false,
+    "uptime_percent": 76.45,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1656.13,
-    "last_checked": 1781106562.2971988
-  },
-  {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.26,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 2118.35,
-    "last_checked": 1781106508.421595
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.25,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3489.95,
-    "last_checked": 1781106453.3014786
+    "latency_ms": 2659.77,
+    "last_checked": 1781107148.9356017
   }
 ]
