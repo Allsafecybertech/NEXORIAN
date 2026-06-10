@@ -1,18 +1,48 @@
 [
   {
     "protocol": "socks4",
-    "ip": "80.249.81.179",
-    "port": 9050,
+    "ip": "138.249.246.158",
+    "port": 1080,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Lida",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.1,
+    "asn": "AS35594",
+    "isp": "Reliable Software, Ltd.",
+    "latency_ms": 13840.95,
+    "last_checked": 1781113129.7082403
+  },
+  {
+    "protocol": "socks5",
+    "ip": "138.249.246.158",
+    "port": 1080,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Lida",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.57,
+    "asn": "AS35594",
+    "isp": "Reliable Software, Ltd.",
+    "latency_ms": 7833.25,
+    "last_checked": 1781113107.414038
+  },
+  {
+    "protocol": "http",
+    "ip": "82.209.219.244",
+    "port": 8080,
     "country": "Belarus",
     "country_code": "BY",
     "city": "Minsk",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.15,
-    "asn": "AS12406",
-    "isp": "Business network jv",
-    "latency_ms": 7843.08,
-    "last_checked": 1781112588.4434867
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.01,
+    "asn": "AS6697",
+    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "latency_ms": 9983.48,
+    "last_checked": 1781113063.281438
   },
   {
     "protocol": "socks5",
@@ -26,7 +56,7 @@
     "uptime_percent": 25.0,
     "asn": "AS12406",
     "isp": "Business network jv",
-    "latency_ms": 2443.75,
-    "last_checked": 1781112502.5516331
+    "latency_ms": 18260.29,
+    "last_checked": 1781113049.5095744
   }
 ]
