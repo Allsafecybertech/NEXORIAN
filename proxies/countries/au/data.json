@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.53,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 517.53,
-    "last_checked": 1781072281.5783987
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -26,7 +11,67 @@
     "uptime_percent": 91.75,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 2544.18,
-    "last_checked": 1781072153.6549873
+    "latency_ms": 1904.38,
+    "last_checked": 1781072940.3758707
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.9,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 7475.74,
+    "last_checked": 1781072937.8323073
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.53,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1558.43,
+    "last_checked": 1781072865.2990491
+  },
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.9,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 12256.22,
+    "last_checked": 1781072822.478916
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.34,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 19697.16,
+    "last_checked": 1781072746.3216398
   }
 ]
