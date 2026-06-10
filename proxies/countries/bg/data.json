@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.104.183.41",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Svoge",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.5,
-    "asn": "AS205331",
-    "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 1276.32,
-    "last_checked": 1781077178.283837
-  },
-  {
     "protocol": "socks4",
     "ip": "93.123.121.3",
     "port": 8080,
@@ -26,8 +11,8 @@
     "uptime_percent": 25.36,
     "asn": "AS44851",
     "isp": "Retel JSC",
-    "latency_ms": 4613.2,
-    "last_checked": 1781077176.5653312
+    "latency_ms": 4832.53,
+    "last_checked": 1781077432.3780475
   },
   {
     "protocol": "socks5",
@@ -41,7 +26,52 @@
     "uptime_percent": 20.99,
     "asn": "AS44851",
     "isp": "Retel JSC",
-    "latency_ms": 9251.76,
-    "last_checked": 1781077168.1076996
+    "latency_ms": 3297.13,
+    "last_checked": 1781077417.2739165
+  },
+  {
+    "protocol": "http",
+    "ip": "193.68.115.14",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Ablanitsa",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 7.35,
+    "asn": "AS48584",
+    "isp": "Sarnica-Net LTD",
+    "latency_ms": 7854.22,
+    "last_checked": 1781077398.3545747
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.183.41",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.52,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 7948.98,
+    "last_checked": 1781077386.7586374
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.93,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 338.41,
+    "last_checked": 1781077352.4745114
   }
 ]
