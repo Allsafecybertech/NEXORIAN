@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "203.30.9.8",
+    "port": 8443,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.73,
+    "asn": "AS136994",
+    "isp": "Southern Phone Company Ltd",
+    "latency_ms": 10550.53,
+    "last_checked": 1781102981.9338813
+  },
+  {
     "protocol": "socks4",
     "ip": "168.138.9.147",
     "port": 1080,
@@ -8,11 +23,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.2,
+    "uptime_percent": 42.21,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 25119.59,
-    "last_checked": 1781102362.768453
+    "latency_ms": 10165.52,
+    "last_checked": 1781102981.4589446
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.52,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1141.19,
+    "last_checked": 1781102947.4097342
   },
   {
     "protocol": "socks5",
@@ -26,7 +56,37 @@
     "uptime_percent": 91.73,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 6394.27,
-    "last_checked": 1781102297.85664
+    "latency_ms": 3508.47,
+    "last_checked": 1781102942.5853238
+  },
+  {
+    "protocol": "http",
+    "ip": "103.131.232.9",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Goulburn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.12,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 4781.04,
+    "last_checked": 1781102932.340001
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.79,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 6855.03,
+    "last_checked": 1781102926.3400433
   }
 ]
