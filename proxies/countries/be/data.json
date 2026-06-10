@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "34.140.137.151",
+    "port": 80,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 53.12,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 5496.85,
+    "last_checked": 1781049579.5013807
+  },
+  {
+    "protocol": "http",
     "ip": "109.135.16.145",
     "port": 8789,
     "country": "Belgium",
@@ -11,37 +26,22 @@
     "uptime_percent": 36.56,
     "asn": "AS5432",
     "isp": "Proximus NV",
-    "latency_ms": 89.48,
-    "last_checked": 1781048971.5979476
+    "latency_ms": 213.48,
+    "last_checked": 1781049577.7462976
   },
   {
-    "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "109.135.16.145",
+    "port": 49879,
     "country": "Belgium",
     "country_code": "BE",
-    "city": "Brussels",
+    "city": "Anderlecht",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 53.11,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 217.77,
-    "last_checked": 1781048961.0605762
-  },
-  {
-    "protocol": "http",
-    "ip": "91.176.4.2",
-    "port": 8888,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Ghent",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 18.98,
+    "ssl": true,
+    "uptime_percent": 50.67,
     "asn": "AS5432",
-    "isp": "Proximus",
-    "latency_ms": 905.8,
-    "last_checked": 1781048952.0279365
+    "isp": "Proximus NV",
+    "latency_ms": 201.88,
+    "last_checked": 1781049468.8484802
   }
 ]
