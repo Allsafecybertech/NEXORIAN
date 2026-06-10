@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "46.183.124.162",
+    "port": 53551,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Tirana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.85,
+    "asn": "AS56468",
+    "isp": "MC Networking",
+    "latency_ms": 7461.3,
+    "last_checked": 1781133247.1058545
+  },
+  {
+    "protocol": "socks4",
     "ip": "185.190.90.2",
     "port": 4145,
     "country": "Albania",
@@ -11,23 +26,8 @@
     "uptime_percent": 10.02,
     "asn": "AS212637",
     "isp": "Lightnet Sh.p.k.",
-    "latency_ms": 176.72,
-    "last_checked": 1781132694.529368
-  },
-  {
-    "protocol": "socks4",
-    "ip": "46.183.122.49",
-    "port": 53551,
-    "country": "Albania",
-    "country_code": "AL",
-    "city": "Tirana",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.23,
-    "asn": "AS56468",
-    "isp": "MC NETWORKING Sh.p.k.",
-    "latency_ms": 271.53,
-    "last_checked": 1781132685.0693521
+    "latency_ms": 182.48,
+    "last_checked": 1781133244.5368712
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "AL",
     "city": "Tirana",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.5,
+    "ssl": true,
+    "uptime_percent": 8.51,
     "asn": "AS35047",
     "isp": "Business Custommers",
-    "latency_ms": 3492.61,
-    "last_checked": 1781132645.8918738
+    "latency_ms": 4814.26,
+    "last_checked": 1781133211.1119046
+  },
+  {
+    "protocol": "http",
+    "ip": "185.89.156.2",
+    "port": 44224,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Elbasan",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 8.99,
+    "asn": "AS198279",
+    "isp": "ATU",
+    "latency_ms": 6476.37,
+    "last_checked": 1781133157.3543062
   }
 ]
