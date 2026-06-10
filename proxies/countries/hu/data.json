@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "79.121.102.227",
-    "port": 8080,
+    "ip": "31.46.33.59",
+    "port": 53281,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Esztergom",
-    "anonymity": "elite",
+    "city": "Tiszafüred",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 6.19,
+    "uptime_percent": 12.81,
     "asn": "AS5483",
-    "isp": "Magyar Telekom plc.",
-    "latency_ms": 14068.91,
-    "last_checked": 1781079700.4619043
+    "isp": "htc",
+    "latency_ms": 4648.28,
+    "last_checked": 1781080442.467632
+  },
+  {
+    "protocol": "socks5",
+    "ip": "79.172.212.71",
+    "port": 1080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.17,
+    "asn": "AS61998",
+    "isp": "Szerverplex Kft",
+    "latency_ms": 244.25,
+    "last_checked": 1781080364.2752268
   }
 ]
