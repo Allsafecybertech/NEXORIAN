@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "San Fernando de Henares",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.49,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 175.02,
+    "last_checked": 1781130279.4925141
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.192.9.27",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 89.22,
+    "asn": "AS200758",
+    "isp": "Datagear LLP",
+    "latency_ms": 185.12,
+    "last_checked": 1781130256.8620577
+  },
+  {
     "protocol": "socks5",
     "ip": "65.20.105.241",
     "port": 10001,
@@ -11,52 +41,7 @@
     "uptime_percent": 33.86,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 1393.87,
-    "last_checked": 1781129942.1889207
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.192.9.27",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 89.28,
-    "asn": "AS200758",
-    "isp": "Datagear LLP",
-    "latency_ms": 183.84,
-    "last_checked": 1781129941.393964
-  },
-  {
-    "protocol": "http",
-    "ip": "195.189.190.245",
-    "port": 9090,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Aldaia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.56,
-    "asn": "AS207906",
-    "isp": "Suballocated IT1",
-    "latency_ms": 861.03,
-    "last_checked": 1781129894.6063848
-  },
-  {
-    "protocol": "http",
-    "ip": "188.227.140.181",
-    "port": 8080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Leganés",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.93,
-    "asn": "AS56882",
-    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-    "latency_ms": 9299.28,
-    "last_checked": 1781129870.3575943
+    "latency_ms": 4238.19,
+    "last_checked": 1781130206.5169504
   }
 ]
