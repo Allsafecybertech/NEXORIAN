@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.47,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1088.46,
+    "last_checked": 1781104149.308886
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 19.18,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 10078.63,
-    "last_checked": 1781103561.383822
+    "uptime_percent": 29.13,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 7703.25,
+    "last_checked": 1781104104.9439683
   }
 ]
