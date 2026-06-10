@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 76.47,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8701.62,
-    "last_checked": 1781113140.8759458
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,8 +11,38 @@
     "uptime_percent": 87.17,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4413.23,
-    "last_checked": 1781113123.0977235
+    "latency_ms": 8551.96,
+    "last_checked": 1781113463.442896
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.07,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 5349.6,
+    "last_checked": 1781113449.0318496
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.94,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 13395.14,
+    "last_checked": 1781113443.2132366
   },
   {
     "protocol": "http",
@@ -37,12 +52,12 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.31,
+    "ssl": true,
+    "uptime_percent": 67.32,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 2488.66,
-    "last_checked": 1781113118.5764673
+    "latency_ms": 118.19,
+    "last_checked": 1781113413.5366528
   },
   {
     "protocol": "socks5",
@@ -56,7 +71,7 @@
     "uptime_percent": 85.27,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2623.46,
-    "last_checked": 1781112991.4433134
+    "latency_ms": 1315.39,
+    "last_checked": 1781113395.7101684
   }
 ]
