@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.77.210.90",
-    "port": 21056,
+    "protocol": "socks4",
+    "ip": "185.99.3.100",
+    "port": 995,
     "country": "Bosnia and Herzegovina",
     "country_code": "BA",
-    "city": "Sarajevo",
+    "city": "Novi Travnik",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 7.41,
-    "asn": "AS42560",
-    "isp": "TELEMACH BH",
-    "latency_ms": 11338.19,
-    "last_checked": 1781105290.3313935
+    "ssl": true,
+    "uptime_percent": 42.4,
+    "asn": "AS200698",
+    "isp": "Globalhost d.o.o. - Web Hosting Solutions",
+    "latency_ms": 1399.02,
+    "last_checked": 1781105966.9224274
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.99.3.100",
+    "port": 995,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Novi Travnik",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.93,
+    "asn": "AS200698",
+    "isp": "Globalhost d.o.o. - Web Hosting Solutions",
+    "latency_ms": 1491.85,
+    "last_checked": 1781105897.9335978
   }
 ]
