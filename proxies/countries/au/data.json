@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.18,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 18377.86,
-    "last_checked": 1781093352.821484
-  },
-  {
     "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
@@ -26,8 +11,23 @@
     "uptime_percent": 94.53,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 861.46,
-    "last_checked": 1781093336.2972543
+    "latency_ms": 609.0,
+    "last_checked": 1781093989.849903
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.19,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 5417.14,
+    "last_checked": 1781093987.0870547
   },
   {
     "protocol": "socks5",
@@ -38,11 +38,11 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.64,
+    "uptime_percent": 34.66,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 31560.61,
-    "last_checked": 1781093320.6534233
+    "latency_ms": 8670.82,
+    "last_checked": 1781093946.9588168
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,25 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.74,
+    "uptime_percent": 91.73,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 3196.62,
-    "last_checked": 1781093142.1224897
+    "latency_ms": 3968.46,
+    "last_checked": 1781093931.7581737
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.106.231.75",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 68.5,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 2050.49,
+    "last_checked": 1781093724.4434268
   }
 ]

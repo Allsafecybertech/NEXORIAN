@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "94.158.49.82",
-    "port": 3128,
+    "ip": "195.158.10.99",
+    "port": 8080,
     "country": "Uzbekistan",
     "country_code": "UZ",
-    "city": "Guliston",
-    "anonymity": "elite",
+    "city": "Tashkent",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 16.41,
-    "asn": "AS43060",
-    "isp": "Iplus LLC",
-    "latency_ms": 185.57,
-    "last_checked": 1781093392.3313825
+    "uptime_percent": 42.44,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 3716.28,
+    "last_checked": 1781093970.7195358
   },
   {
     "protocol": "http",
@@ -23,10 +23,40 @@
     "city": "Tashkent",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 79.55,
+    "uptime_percent": 79.54,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 2226.52,
-    "last_checked": 1781093347.7122612
+    "latency_ms": 20161.91,
+    "last_checked": 1781093963.5165963
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.20.151.70",
+    "port": 1080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.81,
+    "asn": "AS213951",
+    "isp": "Created Cogent Communications Customer - Globe Cloud LLC",
+    "latency_ms": 9328.37,
+    "last_checked": 1781093982.4950802
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.20.151.70",
+    "port": 1080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.98,
+    "asn": "AS213951",
+    "isp": "Created Cogent Communications Customer - Globe Cloud LLC",
+    "latency_ms": 2633.95,
+    "last_checked": 1781093960.2616017
   }
 ]
