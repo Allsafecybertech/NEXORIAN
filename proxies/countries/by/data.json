@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "138.249.246.158",
+    "port": 1080,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Lida",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.57,
+    "asn": "AS35594",
+    "isp": "Reliable Software, Ltd.",
+    "latency_ms": 117.13,
+    "last_checked": 1781099986.7016964
+  },
+  {
+    "protocol": "socks5",
+    "ip": "138.249.246.158",
+    "port": 1080,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Lida",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.39,
+    "asn": "AS35594",
+    "isp": "Reliable Software, Ltd.",
+    "latency_ms": 1232.89,
+    "last_checked": 1781099943.7717857
+  },
+  {
     "protocol": "http",
     "ip": "93.125.3.22",
     "port": 8080,
@@ -7,26 +37,11 @@
     "country_code": "BY",
     "city": "Minsk",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 10.22,
     "asn": "AS42772",
     "isp": "Unitary enterprise A1",
-    "latency_ms": 2170.8,
-    "last_checked": 1781099672.2594995
-  },
-  {
-    "protocol": "socks5",
-    "ip": "80.249.81.179",
-    "port": 9050,
-    "country": "Belarus",
-    "country_code": "BY",
-    "city": "Minsk",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.88,
-    "asn": "AS12406",
-    "isp": "Business network jv",
-    "latency_ms": 18152.6,
-    "last_checked": 1781099490.4050896
+    "latency_ms": 2126.66,
+    "last_checked": 1781099930.9096
   }
 ]
