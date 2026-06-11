@@ -1,48 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "203.30.9.8",
-    "port": 8443,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 48.68,
-    "asn": "AS136994",
-    "isp": "Southern Phone Company Ltd",
-    "latency_ms": 639.3,
-    "last_checked": 1781148554.8214011
-  },
-  {
-    "protocol": "http",
     "ip": "61.29.96.146",
     "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Albury",
     "anonymity": "anonymous",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 7.98,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 8030.88,
-    "last_checked": 1781148546.6999512
-  },
-  {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 44.3,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 10774.7,
-    "last_checked": 1781148519.5809872
+    "latency_ms": 10150.87,
+    "last_checked": 1781149164.3590415
   },
   {
     "protocol": "http",
@@ -56,7 +26,37 @@
     "uptime_percent": 94.51,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1523.58,
-    "last_checked": 1781148519.5118847
+    "latency_ms": 1470.93,
+    "last_checked": 1781149161.0764756
+  },
+  {
+    "protocol": "http",
+    "ip": "203.30.9.8",
+    "port": 8443,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.68,
+    "asn": "AS136994",
+    "isp": "Southern Phone Company Ltd",
+    "latency_ms": 7778.53,
+    "last_checked": 1781149156.4299774
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 44.19,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 4625.41,
+    "last_checked": 1781149107.9703853
   }
 ]
