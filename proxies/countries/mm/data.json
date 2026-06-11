@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "37.111.53.31",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "103.81.114.182",
+    "port": 4145,
     "country": "Myanmar",
     "country_code": "MM",
     "city": "Yangon",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.08,
+    "asn": "AS132148",
+    "isp": "Horizon Telecom International",
+    "latency_ms": 955.95,
+    "last_checked": 1781144044.3215284
+  },
+  {
+    "protocol": "http",
+    "ip": "103.25.79.150",
+    "port": 8054,
+    "country": "Myanmar",
+    "country_code": "MM",
+    "city": "Yangon",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 19.52,
-    "asn": "AS133385",
-    "isp": "Atom Myanmar Limited",
-    "latency_ms": 4549.06,
-    "last_checked": 1781143710.3319218
+    "uptime_percent": 40.7,
+    "asn": "AS133524",
+    "isp": "Global Technology Co",
+    "latency_ms": 585.63,
+    "last_checked": 1781144015.5247083
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Yangon",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 23.16,
+    "uptime_percent": 23.17,
     "asn": "AS58952",
     "isp": "Frontiir Co., Ltd",
-    "latency_ms": 4560.71,
-    "last_checked": 1781143701.9341733
+    "latency_ms": 919.57,
+    "last_checked": 1781143975.3139682
+  },
+  {
+    "protocol": "http",
+    "ip": "103.94.52.70",
+    "port": 3128,
+    "country": "Myanmar",
+    "country_code": "MM",
+    "city": "Yangon",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 43.94,
+    "asn": "AS136613",
+    "isp": "Ayeyarwady Bank",
+    "latency_ms": 7840.25,
+    "last_checked": 1781143936.8679934
   }
 ]
