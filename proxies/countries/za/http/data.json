@@ -1,33 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "196.223.129.21",
-    "port": 80,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Stellenbosch",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 27.81,
-    "asn": "AS328471",
-    "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 6461.13,
-    "last_checked": 1781185778.6883087
-  },
-  {
-    "protocol": "http",
     "ip": "4.221.164.109",
     "port": 443,
     "country": "South Africa",
     "country_code": "ZA",
     "city": "Johannesburg",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 97.17,
+    "ssl": true,
+    "uptime_percent": 97.18,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 2505.01,
-    "last_checked": 1781185777.6912975
+    "latency_ms": 5748.19,
+    "last_checked": 1781186378.4581642
   },
   {
     "protocol": "http",
@@ -38,11 +23,11 @@
     "city": "Johannesburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.02,
+    "uptime_percent": 96.03,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 13792.27,
-    "last_checked": 1781185766.2223713
+    "latency_ms": 2711.87,
+    "last_checked": 1781186378.109482
   },
   {
     "protocol": "http",
@@ -56,7 +41,22 @@
     "uptime_percent": 97.33,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 17206.16,
-    "last_checked": 1781185744.302301
+    "latency_ms": 4270.66,
+    "last_checked": 1781186367.5848632
+  },
+  {
+    "protocol": "http",
+    "ip": "196.223.129.21",
+    "port": 80,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Stellenbosch",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 27.81,
+    "asn": "AS328471",
+    "isp": "HERO TELECOMS (PTY) LTD",
+    "latency_ms": 3617.4,
+    "last_checked": 1781186357.5657945
   }
 ]
