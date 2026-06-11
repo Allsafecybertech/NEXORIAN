@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.66,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 1776.72,
-    "last_checked": 1781147383.21588
-  },
-  {
-    "protocol": "socks4",
-    "ip": "195.15.201.180",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Geneva",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 98.33,
-    "asn": "AS29222",
-    "isp": "Infomaniak Network SA",
-    "latency_ms": 152.7,
-    "last_checked": 1781147380.6078944
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -38,14 +8,14 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.29,
+    "uptime_percent": 87.3,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8920.63,
-    "last_checked": 1781147372.649318
+    "latency_ms": 1771.24,
+    "last_checked": 1781148000.519022
   },
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "195.15.201.180",
     "port": 1080,
     "country": "Switzerland",
@@ -53,11 +23,11 @@
     "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.44,
+    "uptime_percent": 98.55,
     "asn": "AS29222",
     "isp": "Infomaniak Network SA",
-    "latency_ms": 95.71,
-    "last_checked": 1781147368.421191
+    "latency_ms": 94.43,
+    "last_checked": 1781147990.5573401
   },
   {
     "protocol": "socks5",
@@ -71,8 +41,38 @@
     "uptime_percent": 85.41,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 910.6,
-    "last_checked": 1781147359.8926003
+    "latency_ms": 3578.18,
+    "last_checked": 1781147978.8287842
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.67,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 44.82,
+    "last_checked": 1781147944.9713948
+  },
+  {
+    "protocol": "http",
+    "ip": "195.15.201.180",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 98.72,
+    "asn": "AS29222",
+    "isp": "Infomaniak Network SA",
+    "latency_ms": 90.86,
+    "last_checked": 1781147943.7271197
   },
   {
     "protocol": "socks5",
@@ -83,25 +83,10 @@
     "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 97.83,
+    "uptime_percent": 98.25,
     "asn": "AS29222",
     "isp": "Infomaniak Network SA",
-    "latency_ms": 108.33,
-    "last_checked": 1781147315.7896714
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 76.6,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5834.93,
-    "last_checked": 1781147303.1878264
+    "latency_ms": 119.07,
+    "last_checked": 1781147931.8489149
   }
 ]
