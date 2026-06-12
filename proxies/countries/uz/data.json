@@ -1,17 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "195.158.10.99",
-    "port": 8080,
+    "ip": "195.158.1.187",
+    "port": 8026,
     "country": "Uzbekistan",
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 42.61,
+    "ssl": false,
+    "uptime_percent": 26.88,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 1653.37,
-    "last_checked": 1781271846.2994044
+    "latency_ms": 1207.33,
+    "last_checked": 1781272478.3558366
+  },
+  {
+    "protocol": "http",
+    "ip": "195.158.8.123",
+    "port": 3128,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 78.84,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 8180.9,
+    "last_checked": 1781272467.3198335
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.230.121.41",
+    "port": 1080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.17,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 8565.52,
+    "last_checked": 1781272431.2605333
   }
 ]
