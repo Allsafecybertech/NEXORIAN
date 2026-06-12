@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "103.81.114.182",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "202.165.92.206",
+    "port": 8080,
     "country": "Myanmar",
     "country_code": "MM",
     "city": "Yangon",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 3.13,
-    "asn": "AS132148",
-    "isp": "Horizon Telecom International",
-    "latency_ms": 3976.87,
-    "last_checked": 1781268543.7225025
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.68,
+    "asn": "AS136255",
+    "isp": "Telecom International Myanmar Company Limited",
+    "latency_ms": 750.7,
+    "last_checked": 1781269133.287508
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Ye",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 30.01,
+    "uptime_percent": 30.06,
     "asn": "AS136255",
     "isp": "Telecom International Myanmar Company Limited",
-    "latency_ms": 1457.35,
-    "last_checked": 1781268420.3244178
+    "latency_ms": 1806.6,
+    "last_checked": 1781269110.0792813
+  },
+  {
+    "protocol": "http",
+    "ip": "103.25.79.150",
+    "port": 8054,
+    "country": "Myanmar",
+    "country_code": "MM",
+    "city": "Yangon",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 37.32,
+    "asn": "AS133524",
+    "isp": "Global Technology Co",
+    "latency_ms": 11524.33,
+    "last_checked": 1781269051.947948
   }
 ]
