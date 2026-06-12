@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.130.240.238",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "84.2.239.42",
+    "port": 4153,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Siófok",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.1,
-    "asn": "AS47169",
-    "isp": "Pro-M Zrt.",
-    "latency_ms": 2844.36,
-    "last_checked": 1781245439.099101
+    "city": "Hajdúnánás",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.56,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 3214.0,
+    "last_checked": 1781246032.5183544
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,25 @@
     "city": "Budapest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.06,
+    "uptime_percent": 17.07,
     "asn": "AS61998",
     "isp": "Szerverplex Kft",
-    "latency_ms": 807.91,
-    "last_checked": 1781245355.7561607
+    "latency_ms": 180.3,
+    "last_checked": 1781246031.7963357
+  },
+  {
+    "protocol": "http",
+    "ip": "31.46.33.59",
+    "port": 53281,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Tiszafüred",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.87,
+    "asn": "AS5483",
+    "isp": "htc",
+    "latency_ms": 2472.17,
+    "last_checked": 1781246010.1821492
   }
 ]
