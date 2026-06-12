@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "110.34.1.178",
-    "port": 7777,
+    "protocol": "socks4",
+    "ip": "182.93.75.162",
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.3,
+    "city": "Mahottari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.31,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 8172.03,
-    "last_checked": 1781233704.5303185
+    "latency_ms": 8737.53,
+    "last_checked": 1781234389.5652342
+  },
+  {
+    "protocol": "http",
+    "ip": "139.5.75.83",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Patan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.34,
+    "asn": "AS17501",
+    "isp": "WLINK",
+    "latency_ms": 20802.33,
+    "last_checked": 1781234312.2540007
   }
 ]
