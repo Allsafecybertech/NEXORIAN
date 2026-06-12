@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.73,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 440.93,
+    "last_checked": 1781290201.7398095
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -11,8 +26,8 @@
     "uptime_percent": 87.4,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 9105.31,
-    "last_checked": 1781289553.2425337
+    "latency_ms": 11518.39,
+    "last_checked": 1781290186.0428538
   },
   {
     "protocol": "http",
@@ -22,26 +37,41 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 75.73,
+    "ssl": false,
+    "uptime_percent": 75.72,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3306.8,
-    "last_checked": 1781289537.488345
+    "latency_ms": 3713.31,
+    "last_checked": 1781290166.917769
   },
   {
-    "protocol": "http",
-    "ip": "185.191.239.248",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Wetzikon",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 13.72,
-    "asn": "AS264617",
-    "isp": "Geronimo Ramirez Computer Network",
-    "latency_ms": 6494.19,
-    "last_checked": 1781289412.5063398
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.46,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 11336.07,
+    "last_checked": 1781290142.0201814
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.6,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 16667.99,
+    "last_checked": 1781290080.9438531
   }
 ]
