@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "45.130.213.240",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 226.44,
-    "last_checked": 1781224763.820954
-  },
-  {
     "protocol": "socks4",
     "ip": "45.130.213.240",
     "port": 1080,
@@ -26,11 +11,11 @@
     "uptime_percent": 100.0,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 135.49,
-    "last_checked": 1781224759.183692
+    "latency_ms": 138.51,
+    "last_checked": 1781225393.6975493
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "217.177.45.251",
     "port": 1050,
     "country": "Latvia",
@@ -38,11 +23,11 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 64.06,
+    "uptime_percent": 60.0,
     "asn": "AS50053",
     "isp": "Anton Levin",
-    "latency_ms": 5158.89,
-    "last_checked": 1781224754.4863527
+    "latency_ms": 2892.05,
+    "last_checked": 1781225389.3173356
   },
   {
     "protocol": "socks4",
@@ -56,22 +41,52 @@
     "uptime_percent": 61.42,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 7338.1,
-    "last_checked": 1781224741.2837813
+    "latency_ms": 155.84,
+    "last_checked": 1781225366.4131238
   },
   {
     "protocol": "socks5",
-    "ip": "217.177.45.251",
-    "port": 1050,
+    "ip": "45.130.213.240",
+    "port": 1080,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.14,
-    "asn": "AS50053",
-    "isp": "Anton Levin",
-    "latency_ms": 1556.29,
-    "last_checked": 1781224558.2745101
+    "uptime_percent": 100.0,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 881.94,
+    "last_checked": 1781225335.755417
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.44,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 10885.45,
+    "last_checked": 1781225332.2508404
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.99,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 11760.32,
+    "last_checked": 1781225331.780751
   }
 ]
