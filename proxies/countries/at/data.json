@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.233.128.128",
-    "port": 3128,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 39.83,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 2401.53,
-    "last_checked": 1781253584.7518768
-  },
-  {
     "protocol": "socks4",
     "ip": "193.233.129.235",
     "port": 1080,
@@ -26,23 +11,23 @@
     "uptime_percent": 79.12,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 3559.19,
-    "last_checked": 1781253574.153007
+    "latency_ms": 11879.01,
+    "last_checked": 1781254177.5916173
   },
   {
-    "protocol": "socks5",
-    "ip": "193.233.129.235",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "178.115.230.100",
+    "port": 8080,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Vienna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 77.12,
-    "asn": "AS210644",
-    "isp": "OOO FREEnet Group",
-    "latency_ms": 4963.33,
-    "last_checked": 1781253538.2554333
+    "city": "Salzburg",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.56,
+    "asn": "AS25255",
+    "isp": "customers with static IP",
+    "latency_ms": 9601.29,
+    "last_checked": 1781254145.3067458
   },
   {
     "protocol": "http",
@@ -53,10 +38,25 @@
     "city": "Vienna",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 39.77,
+    "uptime_percent": 39.79,
     "asn": "AS210644",
     "isp": "OOO FREEnet Group",
-    "latency_ms": 8135.42,
-    "last_checked": 1781253515.9183116
+    "latency_ms": 11199.86,
+    "last_checked": 1781254143.869505
+  },
+  {
+    "protocol": "socks5",
+    "ip": "193.233.129.235",
+    "port": 1080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 77.13,
+    "asn": "AS210644",
+    "isp": "OOO FREEnet Group",
+    "latency_ms": 13211.2,
+    "last_checked": 1781254107.4984837
   }
 ]
