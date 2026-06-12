@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.49,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 529.71,
-    "last_checked": 1781236186.7862575
-  },
-  {
-    "protocol": "socks5",
-    "ip": "134.199.164.215",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 93.37,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 9773.12,
-    "last_checked": 1781236149.3266928
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -41,8 +11,38 @@
     "uptime_percent": 91.79,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1933.52,
-    "last_checked": 1781236132.2106118
+    "latency_ms": 1571.67,
+    "last_checked": 1781236795.3775353
+  },
+  {
+    "protocol": "http",
+    "ip": "103.106.231.75",
+    "port": 8081,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 34.41,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 10513.85,
+    "last_checked": 1781236772.4918833
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.14,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 5966.04,
+    "last_checked": 1781236761.1918995
   },
   {
     "protocol": "http",
@@ -53,26 +53,41 @@
     "city": "Melbourne",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 30.53,
+    "uptime_percent": 30.97,
     "asn": "AS134371",
     "isp": "Circle Network",
-    "latency_ms": 7981.57,
-    "last_checked": 1781236117.8481984
+    "latency_ms": 10695.25,
+    "last_checked": 1781236746.8265243
+  },
+  {
+    "protocol": "socks5",
+    "ip": "134.199.164.215",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 93.23,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 8720.61,
+    "last_checked": 1781236716.8445861
   },
   {
     "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "ip": "203.30.9.8",
+    "port": 8443,
     "country": "Australia",
     "country_code": "AU",
     "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.03,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 6278.95,
-    "last_checked": 1781236087.4907928
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.37,
+    "asn": "AS136994",
+    "isp": "Southern Phone Company Ltd",
+    "latency_ms": 647.24,
+    "last_checked": 1781236794.8540876
   },
   {
     "protocol": "socks4",
@@ -86,23 +101,8 @@
     "uptime_percent": 43.27,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 2491.53,
-    "last_checked": 1781236196.6363883
-  },
-  {
-    "protocol": "http",
-    "ip": "203.30.9.8",
-    "port": 8443,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 53.27,
-    "asn": "AS136994",
-    "isp": "Southern Phone Company Ltd",
-    "latency_ms": 631.44,
-    "last_checked": 1781236194.990893
+    "latency_ms": 4286.32,
+    "last_checked": 1781236788.2331085
   },
   {
     "protocol": "socks5",
@@ -113,10 +113,10 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.31,
+    "uptime_percent": 36.32,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 10326.02,
-    "last_checked": 1781236120.0485542
+    "latency_ms": 4266.9,
+    "last_checked": 1781236653.2358346
   }
 ]
