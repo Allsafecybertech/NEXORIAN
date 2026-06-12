@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "149.62.230.50",
-    "port": 1080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.67,
-    "asn": "AS29244",
-    "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 3197.31,
-    "last_checked": 1781255356.481654
-  },
-  {
     "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
+    "ip": "93.123.121.3",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pleven",
+    "city": "Pirdop",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.41,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 3593.93,
-    "last_checked": 1781255356.3485563
+    "uptime_percent": 22.53,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 2982.34,
+    "last_checked": 1781255993.6594558
   },
   {
     "protocol": "http",
@@ -38,14 +23,14 @@
     "city": "Haskovo",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 48.51,
+    "uptime_percent": 48.5,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 2577.53,
-    "last_checked": 1781255340.9371507
+    "latency_ms": 12476.85,
+    "last_checked": 1781255985.2573543
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "93.123.121.3",
     "port": 8080,
     "country": "Bulgaria",
@@ -53,10 +38,25 @@
     "city": "Pirdop",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.51,
+    "uptime_percent": 26.31,
     "asn": "AS44851",
     "isp": "Retel JSC",
-    "latency_ms": 7058.38,
-    "last_checked": 1781255330.6242523
+    "latency_ms": 7863.06,
+    "last_checked": 1781255977.4854035
+  },
+  {
+    "protocol": "http",
+    "ip": "149.62.230.50",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.14,
+    "asn": "AS29244",
+    "isp": "CETIN Bulgaria EAD",
+    "latency_ms": 11297.93,
+    "last_checked": 1781255921.555905
   }
 ]
