@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
+    "ip": "192.9.182.6",
+    "port": 20172,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.49,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 532.89,
-    "last_checked": 1781265556.4720068
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 519.7,
+    "last_checked": 1781266185.3070126
   },
   {
     "protocol": "socks5",
@@ -26,8 +26,23 @@
     "uptime_percent": 91.81,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 2420.64,
-    "last_checked": 1781265543.0510063
+    "latency_ms": 2049.41,
+    "last_checked": 1781266181.4953747
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.49,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 500.6,
+    "last_checked": 1781266179.3682327
   },
   {
     "protocol": "http",
@@ -38,40 +53,10 @@
     "city": "Brisbane",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.49,
+    "uptime_percent": 56.58,
     "asn": "AS136994",
     "isp": "Southern Phone Company Ltd",
-    "latency_ms": 2711.27,
-    "last_checked": 1781265539.2312903
-  },
-  {
-    "protocol": "http",
-    "ip": "192.9.182.6",
-    "port": 20172,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 525.03,
-    "last_checked": 1781265535.2809489
-  },
-  {
-    "protocol": "socks5",
-    "ip": "134.199.164.215",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.55,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 8780.57,
-    "last_checked": 1781265440.357185
+    "latency_ms": 763.32,
+    "last_checked": 1781266155.3572953
   }
 ]
