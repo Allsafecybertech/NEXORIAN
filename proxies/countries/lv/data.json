@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "45.130.213.240",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.77,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 283.81,
-    "last_checked": 1781227192.9713757
+    "uptime_percent": 61.41,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 149.04,
+    "last_checked": 1781227777.625603
   },
   {
     "protocol": "socks4",
@@ -23,10 +23,55 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.63,
+    "uptime_percent": 99.13,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 149.64,
-    "last_checked": 1781227191.4287314
+    "latency_ms": 1169.72,
+    "last_checked": 1781227760.7586217
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.130.213.240",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 98.85,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 1982.03,
+    "last_checked": 1781227720.2736144
+  },
+  {
+    "protocol": "http",
+    "ip": "217.177.45.251",
+    "port": 1050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 58.58,
+    "asn": "AS50053",
+    "isp": "Anton Levin",
+    "latency_ms": 1882.07,
+    "last_checked": 1781227670.0959625
+  },
+  {
+    "protocol": "http",
+    "ip": "31.57.29.58",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.41,
+    "asn": "AS56971",
+    "isp": "CGI GLOBAL LIMITED",
+    "latency_ms": 15118.55,
+    "last_checked": 1781227636.8525639
   }
 ]
