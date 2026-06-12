@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.209.219.244",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "80.249.81.179",
+    "port": 9050,
     "country": "Belarus",
     "country_code": "BY",
     "city": "Minsk",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 11.03,
-    "asn": "AS6697",
-    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "latency_ms": 4764.19,
-    "last_checked": 1781232227.512082
+    "uptime_percent": 34.26,
+    "asn": "AS12406",
+    "isp": "Business network jv",
+    "latency_ms": 1196.87,
+    "last_checked": 1781232865.7663574
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.249.81.179",
+    "port": 9050,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.35,
+    "asn": "AS12406",
+    "isp": "Business network jv",
+    "latency_ms": 444.41,
+    "last_checked": 1781232838.9568386
   }
 ]
