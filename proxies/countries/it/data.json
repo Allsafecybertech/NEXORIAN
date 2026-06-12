@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "172.232.203.89",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 95.31,
+    "asn": "AS63949",
+    "isp": "Akamai Technologies, Inc.",
+    "latency_ms": 93.04,
+    "last_checked": 1781276342.4615998
+  },
+  {
+    "protocol": "socks4",
+    "ip": "172.232.203.89",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 94.47,
+    "asn": "AS63949",
+    "isp": "Akamai Technologies, Inc.",
+    "latency_ms": 43.47,
+    "last_checked": 1781276337.9851942
+  },
+  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -11,23 +41,23 @@
     "uptime_percent": 87.44,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 712.34,
-    "last_checked": 1781275789.4817948
+    "latency_ms": 669.6,
+    "last_checked": 1781276335.1310568
   },
   {
-    "protocol": "socks4",
-    "ip": "172.232.203.89",
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.43,
-    "asn": "AS63949",
-    "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 2191.42,
-    "last_checked": 1781275787.4872963
+    "uptime_percent": 83.96,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 1416.83,
+    "last_checked": 1781276320.3017163
   },
   {
     "protocol": "http",
@@ -41,11 +71,26 @@
     "uptime_percent": 71.03,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 3875.08,
-    "last_checked": 1781275769.7315876
+    "latency_ms": 3128.14,
+    "last_checked": 1781276311.0004592
   },
   {
     "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Consiglio di Rumo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 58.77,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 1096.72,
+    "last_checked": 1781276294.5514188
+  },
+  {
+    "protocol": "socks5",
     "ip": "172.232.203.89",
     "port": 1080,
     "country": "Italy",
@@ -53,55 +98,25 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 95.33,
+    "uptime_percent": 92.44,
     "asn": "AS63949",
     "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 3337.83,
-    "last_checked": 1781275756.6004388
+    "latency_ms": 216.14,
+    "last_checked": 1781276200.1770203
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "5.59.248.134",
-    "port": 8081,
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Pomezia",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.76,
+    "ssl": false,
+    "uptime_percent": 17.92,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 2291.14,
-    "last_checked": 1781275742.7482464
-  },
-  {
-    "protocol": "socks5",
-    "ip": "172.232.203.89",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 92.36,
-    "asn": "AS63949",
-    "isp": "Akamai Technologies, Inc.",
-    "latency_ms": 457.02,
-    "last_checked": 1781275730.4913201
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.95,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 1070.32,
-    "last_checked": 1781275700.5772874
+    "latency_ms": 10727.74,
+    "last_checked": 1781276197.7066834
   }
 ]
