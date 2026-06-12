@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "37.111.53.31",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "103.81.114.182",
+    "port": 4145,
     "country": "Myanmar",
     "country_code": "MM",
     "city": "Yangon",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 19.5,
-    "asn": "AS133385",
-    "isp": "Atom Myanmar Limited",
-    "latency_ms": 7791.66,
-    "last_checked": 1781285303.9415884
+    "uptime_percent": 3.15,
+    "asn": "AS132148",
+    "isp": "Horizon Telecom International",
+    "latency_ms": 1912.08,
+    "last_checked": 1781285981.3170912
+  },
+  {
+    "protocol": "http",
+    "ip": "103.25.79.150",
+    "port": 8054,
+    "country": "Myanmar",
+    "country_code": "MM",
+    "city": "Yangon",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 36.94,
+    "asn": "AS133524",
+    "isp": "Global Technology Co",
+    "latency_ms": 11418.45,
+    "last_checked": 1781285945.948084
   }
 ]
