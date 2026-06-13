@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.46,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 8398.91,
+    "last_checked": 1781385555.0973842
+  },
+  {
+    "protocol": "http",
+    "ip": "151.237.84.9",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Kardzhali",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.64,
+    "asn": "AS48233",
+    "isp": "Netroniks EOOD",
+    "latency_ms": 3621.73,
+    "last_checked": 1781385551.9119203
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.160.97.49",
     "port": 4145,
     "country": "Bulgaria",
@@ -11,23 +41,8 @@
     "uptime_percent": 12.17,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 1300.99,
-    "last_checked": 1781384996.6752007
-  },
-  {
-    "protocol": "socks4",
-    "ip": "149.62.230.50",
-    "port": 1080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.28,
-    "asn": "AS29244",
-    "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 162.89,
-    "last_checked": 1781384992.7652588
+    "latency_ms": 4481.88,
+    "last_checked": 1781385542.8148763
   },
   {
     "protocol": "http",
@@ -37,26 +52,11 @@
     "country_code": "BG",
     "city": "Burgas",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 24.82,
+    "ssl": false,
+    "uptime_percent": 24.91,
     "asn": "AS29084",
     "isp": "ComNet Bulgaria Ltd.",
-    "latency_ms": 2735.34,
-    "last_checked": 1781384945.660336
-  },
-  {
-    "protocol": "http",
-    "ip": "78.130.246.65",
-    "port": 1881,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Plovdiv",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 6.94,
-    "asn": "AS9070",
-    "isp": "\"Cooolbox\" AD",
-    "latency_ms": 6903.71,
-    "last_checked": 1781384901.7974262
+    "latency_ms": 7623.2,
+    "last_checked": 1781385487.2624536
   }
 ]
