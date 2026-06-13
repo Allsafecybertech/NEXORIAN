@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "176.12.72.62",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.44,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 12035.8,
+    "last_checked": 1781327676.8732274
+  },
+  {
+    "protocol": "http",
+    "ip": "2.78.60.10",
+    "port": 3129,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 52.56,
-    "asn": "AS200590",
-    "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 10382.31,
-    "last_checked": 1781327059.1380787
+    "uptime_percent": 98.52,
+    "asn": "AS29355",
+    "isp": "Kcell JSC",
+    "latency_ms": 5033.51,
+    "last_checked": 1781327670.861805
   },
   {
     "protocol": "socks4",
@@ -26,22 +41,37 @@
     "uptime_percent": 50.02,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 8176.96,
-    "last_checked": 1781327055.6292348
+    "latency_ms": 4922.04,
+    "last_checked": 1781327660.0914133
   },
   {
     "protocol": "socks5",
-    "ip": "195.133.8.226",
+    "ip": "89.169.37.254",
     "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 77.31,
-    "asn": "AS41798",
-    "isp": "MTFINANCE",
-    "latency_ms": 738.93,
-    "last_checked": 1781327023.2163012
+    "uptime_percent": 45.03,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 9054.17,
+    "last_checked": 1781327575.3558958
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.148.6.12",
+    "port": 7777,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.29,
+    "asn": "AS48988",
+    "isp": "Haicom Limited",
+    "latency_ms": 8514.28,
+    "last_checked": 1781327530.267333
   }
 ]
