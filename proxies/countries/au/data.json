@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "192.9.182.6",
+    "port": 20172,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.87,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 741.91,
+    "last_checked": 1781393016.2372117
+  },
+  {
+    "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
     "country": "Australia",
@@ -11,8 +26,8 @@
     "uptime_percent": 94.51,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 537.87,
-    "last_checked": 1781392498.9834244
+    "latency_ms": 5186.09,
+    "last_checked": 1781392980.9236684
   },
   {
     "protocol": "socks5",
@@ -26,53 +41,23 @@
     "uptime_percent": 91.9,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1680.43,
-    "last_checked": 1781392485.9511733
+    "latency_ms": 4853.14,
+    "last_checked": 1781392977.510806
   },
   {
     "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "ip": "103.18.205.162",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
+    "city": "Melbourne",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 36.71,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2399.23,
-    "last_checked": 1781392475.555929
-  },
-  {
-    "protocol": "http",
-    "ip": "103.106.231.75",
-    "port": 8081,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 35.3,
-    "asn": "AS136258",
-    "isp": "BrainStorm Network",
-    "latency_ms": 533.38,
-    "last_checked": 1781392461.7107904
-  },
-  {
-    "protocol": "http",
-    "ip": "192.9.182.6",
-    "port": 20172,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.87,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 503.61,
-    "last_checked": 1781392447.250512
+    "uptime_percent": 34.56,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 4976.91,
+    "last_checked": 1781392965.5008898
   },
   {
     "protocol": "http",
@@ -82,12 +67,27 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.01,
+    "ssl": true,
+    "uptime_percent": 29.02,
     "asn": "AS4764",
     "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 3855.93,
-    "last_checked": 1781392388.3921509
+    "latency_ms": 3696.33,
+    "last_checked": 1781392964.3028412
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.106.231.75",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.81,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 1267.14,
+    "last_checked": 1781392932.0140593
   },
   {
     "protocol": "socks5",
@@ -98,40 +98,10 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.48,
+    "uptime_percent": 84.52,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 2529.73,
-    "last_checked": 1781392381.913203
-  },
-  {
-    "protocol": "socks5",
-    "ip": "168.138.9.147",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.0,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 17198.24,
-    "last_checked": 1781392361.8740418
-  },
-  {
-    "protocol": "http",
-    "ip": "203.30.9.8",
-    "port": 8443,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Woodhill",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 62.77,
-    "asn": "AS136994",
-    "isp": "Southern Phone Company Ltd",
-    "latency_ms": 10103.64,
-    "last_checked": 1781392394.2692518
+    "latency_ms": 13785.17,
+    "last_checked": 1781392827.763828
   }
 ]
