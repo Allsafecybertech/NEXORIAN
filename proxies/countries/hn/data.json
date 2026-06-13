@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.68,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 7997.97,
+    "last_checked": 1781391855.225352
+  },
+  {
     "protocol": "http",
     "ip": "181.78.44.63",
     "port": 999,
@@ -7,27 +22,12 @@
     "country_code": "HN",
     "city": "La Unión",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 55.15,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 7860.1,
-    "last_checked": 1781391248.240913
-  },
-  {
-    "protocol": "http",
-    "ip": "200.115.97.14",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Tegucigalpa",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 19.79,
-    "asn": "AS269919",
-    "isp": "Honduvision SRL",
-    "latency_ms": 9178.11,
-    "last_checked": 1781391243.9520197
+    "latency_ms": 4510.66,
+    "last_checked": 1781391807.8398647
   },
   {
     "protocol": "http",
@@ -41,7 +41,37 @@
     "uptime_percent": 22.69,
     "asn": "AS269919",
     "isp": "Honduvision SRL",
-    "latency_ms": 9916.41,
-    "last_checked": 1781391242.8771665
+    "latency_ms": 5072.5,
+    "last_checked": 1781391793.1199656
+  },
+  {
+    "protocol": "http",
+    "ip": "200.115.97.14",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.79,
+    "asn": "AS269919",
+    "isp": "Honduvision SRL",
+    "latency_ms": 1608.09,
+    "last_checked": 1781391790.3217008
+  },
+  {
+    "protocol": "http",
+    "ip": "45.89.82.210",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "El Níspero",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.02,
+    "asn": "AS273189",
+    "isp": "CA NETWORKS S.A. DE C.V.",
+    "latency_ms": 1495.45,
+    "last_checked": 1781391762.6399596
   }
 ]
