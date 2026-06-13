@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.58,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8469.8,
-    "last_checked": 1781393025.7732043
-  },
-  {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 66.64,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 53.84,
-    "last_checked": 1781393021.5735035
-  },
-  {
     "protocol": "http",
     "ip": "45.95.232.35",
     "port": 3128,
@@ -41,8 +11,23 @@
     "uptime_percent": 75.26,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3427.2,
-    "last_checked": 1781393009.0599613
+    "latency_ms": 2384.54,
+    "last_checked": 1781393666.6600935
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.58,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2334.8,
+    "last_checked": 1781393660.1796691
   },
   {
     "protocol": "socks5",
@@ -56,7 +41,22 @@
     "uptime_percent": 85.48,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3639.05,
-    "last_checked": 1781392973.02921
+    "latency_ms": 2334.0,
+    "last_checked": 1781393655.0263882
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.64,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 2867.28,
+    "last_checked": 1781393629.722557
   }
 ]
