@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.49,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 1047.44,
+    "last_checked": 1781364250.592628
+  },
+  {
+    "protocol": "http",
     "ip": "149.62.230.50",
-    "port": 1080,
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.59,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.54,
     "asn": "AS29244",
     "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 1180.99,
-    "last_checked": 1781363673.5399685
+    "latency_ms": 7204.55,
+    "last_checked": 1781364220.9013586
   },
   {
     "protocol": "socks5",
@@ -26,7 +41,7 @@
     "uptime_percent": 56.41,
     "asn": "AS197897",
     "isp": "5KOM",
-    "latency_ms": 1265.63,
-    "last_checked": 1781363473.4983506
+    "latency_ms": 1503.29,
+    "last_checked": 1781364055.628517
   }
 ]
