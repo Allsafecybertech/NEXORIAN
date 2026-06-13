@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "217.177.45.251",
+    "port": 1050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.44,
+    "asn": "AS50053",
+    "isp": "Anton Levin",
+    "latency_ms": 16236.04,
+    "last_checked": 1781384974.7862637
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.38,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 15120.32,
+    "last_checked": 1781384963.9817843
+  },
+  {
     "protocol": "http",
     "ip": "217.177.45.251",
     "port": 1050,
@@ -7,11 +37,11 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.91,
+    "ssl": true,
+    "uptime_percent": 40.93,
     "asn": "AS50053",
     "isp": "Anton Levin",
-    "latency_ms": 7652.5,
-    "last_checked": 1781384289.3839095
+    "latency_ms": 1462.22,
+    "last_checked": 1781384888.3575006
   }
 ]
