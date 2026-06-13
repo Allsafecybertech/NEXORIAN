@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.135.69.34",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "109.224.22.34",
+    "port": 51372,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Al Mansour",
+    "city": "Baghdad",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 97.14,
-    "asn": "AS205889",
-    "isp": "Giganet Telecom",
-    "latency_ms": 140.81,
-    "last_checked": 1781358594.746796
+    "ssl": true,
+    "uptime_percent": 6.5,
+    "asn": "AS203214",
+    "isp": "Hulum",
+    "latency_ms": 1373.66,
+    "last_checked": 1781359154.531565
+  },
+  {
+    "protocol": "socks4",
+    "ip": "176.241.82.149",
+    "port": 5678,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Baghdad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.94,
+    "asn": "AS57588",
+    "isp": "Hayat ISP",
+    "latency_ms": 417.3,
+    "last_checked": 1781359145.4046648
   },
   {
     "protocol": "socks4",
@@ -26,23 +41,38 @@
     "uptime_percent": 24.22,
     "asn": "AS203214",
     "isp": "Hulum",
-    "latency_ms": 348.98,
-    "last_checked": 1781358570.600724
+    "latency_ms": 3388.14,
+    "last_checked": 1781359135.9377651
   },
   {
     "protocol": "http",
-    "ip": "62.201.217.243",
-    "port": 40010,
+    "ip": "185.135.69.34",
+    "port": 80,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Kelar",
+    "city": "Al Mansour",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.15,
-    "asn": "AS44217",
-    "isp": "BAG",
-    "latency_ms": 10268.04,
-    "last_checked": 1781358545.7616875
+    "ssl": false,
+    "uptime_percent": 97.14,
+    "asn": "AS205889",
+    "isp": "Giganet Telecom",
+    "latency_ms": 156.56,
+    "last_checked": 1781359119.4094121
+  },
+  {
+    "protocol": "http",
+    "ip": "45.81.147.121",
+    "port": 8080,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Baghdad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.22,
+    "asn": "AS208859",
+    "isp": "Fact LTD",
+    "latency_ms": 2652.9,
+    "last_checked": 1781359102.4317617
   },
   {
     "protocol": "socks5",
@@ -56,7 +86,7 @@
     "uptime_percent": 52.71,
     "asn": "AS206206",
     "isp": "Kurdistan Net 4",
-    "latency_ms": 1659.22,
-    "last_checked": 1781358535.8271666
+    "latency_ms": 1788.61,
+    "last_checked": 1781359143.2571397
   }
 ]
