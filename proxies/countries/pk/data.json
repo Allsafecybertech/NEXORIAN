@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks5",
-    "ip": "103.236.134.210",
-    "port": 1080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Karachi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 72.16,
-    "asn": "AS38193",
-    "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-    "latency_ms": 2523.31,
-    "last_checked": 1781332470.1582944
-  },
-  {
-    "protocol": "socks5",
     "ip": "103.150.206.77",
     "port": 1080,
     "country": "Pakistan",
@@ -26,8 +11,23 @@
     "uptime_percent": 58.32,
     "asn": "AS140594",
     "isp": "Nadeem Abbas and Shayufta Rani",
-    "latency_ms": 1770.54,
-    "last_checked": 1781332457.7237325
+    "latency_ms": 927.5,
+    "last_checked": 1781332773.8021388
+  },
+  {
+    "protocol": "socks4",
+    "ip": "103.146.137.113",
+    "port": 1081,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Karachi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.95,
+    "asn": "AS139879",
+    "isp": "Galaxy Broadband (pvt.) Ltd.",
+    "latency_ms": 607.79,
+    "last_checked": 1781332768.249544
   },
   {
     "protocol": "http",
@@ -37,26 +37,41 @@
     "country_code": "PK",
     "city": "Lahore",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 32.38,
+    "ssl": false,
+    "uptime_percent": 32.37,
     "asn": "AS136384",
     "isp": "Optix Pakistan (Pvt.) Limited",
-    "latency_ms": 9778.72,
-    "last_checked": 1781332449.6283834
+    "latency_ms": 6360.61,
+    "last_checked": 1781332735.7655585
   },
   {
-    "protocol": "socks4",
-    "ip": "125.209.110.83",
-    "port": 1981,
+    "protocol": "http",
+    "ip": "182.176.164.41",
+    "port": 8080,
     "country": "Pakistan",
     "country_code": "PK",
-    "city": "Karachi",
-    "anonymity": "elite",
+    "city": "Lahore",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 13.37,
-    "asn": "AS9260",
-    "isp": "Multinet 125-110/24",
-    "latency_ms": 7945.81,
-    "last_checked": 1781332447.1173723
+    "uptime_percent": 14.05,
+    "asn": "AS17557",
+    "isp": "Pakistan Telecommuication company limited",
+    "latency_ms": 7697.27,
+    "last_checked": 1781332734.465964
+  },
+  {
+    "protocol": "http",
+    "ip": "103.115.196.98",
+    "port": 8080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Lahore",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.18,
+    "asn": "AS152605",
+    "isp": "AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED",
+    "latency_ms": 4837.98,
+    "last_checked": 1781332721.0088212
   }
 ]
