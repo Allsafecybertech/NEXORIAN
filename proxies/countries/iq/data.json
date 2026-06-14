@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "109.127.82.86",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "176.241.82.149",
+    "port": 5678,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Erbil",
+    "city": "Baghdad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.53,
+    "asn": "AS57588",
+    "isp": "Hayat ISP",
+    "latency_ms": 3426.71,
+    "last_checked": 1781481246.569813
+  },
+  {
+    "protocol": "http",
+    "ip": "185.166.24.221",
+    "port": 1981,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Sulaymaniyah",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.08,
-    "asn": "AS21277",
-    "isp": "Allay Nawroz Telecom Company for Communication/Ltd.",
-    "latency_ms": 3315.6,
-    "last_checked": 1781480612.9380648
+    "uptime_percent": 21.84,
+    "asn": "AS207097",
+    "isp": "Online Company Ltd",
+    "latency_ms": 9496.87,
+    "last_checked": 1781481244.5681968
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 97.12,
     "asn": "AS205889",
     "isp": "Giganet Telecom",
-    "latency_ms": 184.17,
-    "last_checked": 1781480552.507875
+    "latency_ms": 133.43,
+    "last_checked": 1781481202.4182863
   },
   {
-    "protocol": "socks5",
-    "ip": "212.237.125.216",
-    "port": 6969,
+    "protocol": "http",
+    "ip": "109.127.82.4",
+    "port": 8085,
     "country": "Iraq",
     "country_code": "IQ",
     "city": "Erbil",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 53.05,
-    "asn": "AS206206",
-    "isp": "Kurdistan Net 4",
-    "latency_ms": 3878.61,
-    "last_checked": 1781480684.8178487
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.53,
+    "asn": "AS21277",
+    "isp": "Allay Nawroz Telecom Company for Communication/Ltd.",
+    "latency_ms": 4370.18,
+    "last_checked": 1781481165.301731
+  },
+  {
+    "protocol": "http",
+    "ip": "45.81.146.7",
+    "port": 8080,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Simele",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.04,
+    "asn": "AS208859",
+    "isp": "Duhok Networks",
+    "latency_ms": 3106.67,
+    "last_checked": 1781481157.3576167
   }
 ]
