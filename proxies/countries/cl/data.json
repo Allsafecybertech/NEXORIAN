@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "190.54.100.74",
+    "port": 5678,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.99,
+    "asn": "AS6429",
+    "isp": "Telmex Chile Internet S.A.",
+    "latency_ms": 4601.55,
+    "last_checked": 1781446193.2533104
+  },
+  {
+    "protocol": "socks4",
+    "ip": "200.27.110.30",
+    "port": 57702,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Peñaflor",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.48,
+    "asn": "AS6429",
+    "isp": "Telmex Chile Internet S.A.",
+    "latency_ms": 8308.9,
+    "last_checked": 1781446165.8366718
+  },
+  {
+    "protocol": "socks4",
     "ip": "190.13.147.241",
     "port": 5678,
     "country": "Chile",
@@ -8,26 +38,41 @@
     "city": "Osorno",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.64,
+    "uptime_percent": 55.65,
     "asn": "AS14117",
     "isp": "Telefonica del Sur S.A",
-    "latency_ms": 1157.4,
-    "last_checked": 1781445538.2652206
+    "latency_ms": 8237.44,
+    "last_checked": 1781446158.3458455
   },
   {
     "protocol": "http",
-    "ip": "38.7.195.52",
+    "ip": "186.67.94.10",
     "port": 999,
     "country": "Chile",
     "country_code": "CL",
     "city": "Santiago",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.41,
+    "uptime_percent": 9.67,
+    "asn": "AS27651",
+    "isp": "Entel Chile S.A.",
+    "latency_ms": 6538.57,
+    "last_checked": 1781446151.7198803
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.195.50",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.47,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 5974.12,
-    "last_checked": 1781445467.70463
+    "latency_ms": 9587.16,
+    "last_checked": 1781446135.7100084
   },
   {
     "protocol": "http",
@@ -37,26 +82,11 @@
     "country_code": "CL",
     "city": "Santiago",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 26.45,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 21262.98,
-    "last_checked": 1781445424.9630525
-  },
-  {
-    "protocol": "http",
-    "ip": "45.230.39.131",
-    "port": 999,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "María Pinto",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.58,
-    "asn": "AS271869",
-    "isp": "Servicios Zonales De Internet Limitada",
-    "latency_ms": 14889.75,
-    "last_checked": 1781445419.1950083
+    "latency_ms": 3461.02,
+    "last_checked": 1781446132.0950253
   }
 ]
