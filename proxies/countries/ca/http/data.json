@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "54.39.154.107",
-    "port": 8082,
+    "ip": "23.95.76.201",
+    "port": 8443,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "anonymous",
+    "city": "Montreal",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 21.01,
+    "uptime_percent": 12.81,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network Inc.",
+    "latency_ms": 15765.48,
+    "last_checked": 1781402371.309073
+  },
+  {
+    "protocol": "http",
+    "ip": "192.99.44.178",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.57,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 4324.01,
-    "last_checked": 1781401914.955877
+    "latency_ms": 9430.47,
+    "last_checked": 1781402289.7499127
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.49,
+    "uptime_percent": 98.51,
     "asn": "AS49981",
     "isp": "WorldStream B.V.",
-    "latency_ms": 63.05,
-    "last_checked": 1781402005.0721195
+    "latency_ms": 77.32,
+    "last_checked": 1781402392.8523688
+  },
+  {
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Ottawa",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.73,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 15720.17,
+    "last_checked": 1781402334.5022533
   }
 ]
