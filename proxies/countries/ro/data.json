@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "92.86.207.198",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Cluj-Napoca",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.82,
-    "asn": "AS9050",
-    "isp": "Romtelecom",
-    "latency_ms": 129.88,
-    "last_checked": 1781422478.2518775
-  },
-  {
-    "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "transparent",
+    "city": "Cârţişoara",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.5,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 57.25,
-    "last_checked": 1781422476.2704737
+    "uptime_percent": 60.82,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 1432.4,
+    "last_checked": 1781423096.49382
   },
   {
     "protocol": "socks4",
@@ -41,22 +26,37 @@
     "uptime_percent": 20.69,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 1171.53,
-    "last_checked": 1781422474.2608442
+    "latency_ms": 1174.39,
+    "last_checked": 1781423060.4051936
   },
   {
     "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "ip": "185.141.26.131",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
+    "city": "Bucharest",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.82,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 9390.77,
-    "last_checked": 1781422468.8016198
+    "ssl": true,
+    "uptime_percent": 87.5,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 60.2,
+    "last_checked": 1781423042.83625
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.51.40",
+    "port": 9091,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.93,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 12183.37,
+    "last_checked": 1781422988.778115
   }
 ]
