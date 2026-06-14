@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.8,
+    "city": "Cârţişoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.64,
     "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 20728.78,
-    "last_checked": 1781468609.591953
+    "isp": "Vodafone RO",
+    "latency_ms": 7274.91,
+    "last_checked": 1781469263.9002597
   },
   {
     "protocol": "http",
@@ -23,26 +23,11 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 88.1,
+    "uptime_percent": 88.11,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 52.69,
-    "last_checked": 1781468591.36765
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.247.224.99",
-    "port": 39997,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.83,
-    "asn": "AS200651",
-    "isp": "FlokiNET ehf",
-    "latency_ms": 7435.13,
-    "last_checked": 1781468529.3313699
+    "latency_ms": 199.94,
+    "last_checked": 1781469227.765841
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,40 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 8.62,
+    "uptime_percent": 9.03,
     "asn": "",
     "isp": "Hostkey B.V",
-    "latency_ms": 330.66,
-    "last_checked": 1781468421.2150576
+    "latency_ms": 114.72,
+    "last_checked": 1781469163.513926
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.247.224.99",
+    "port": 39997,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.88,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 10677.21,
+    "last_checked": 1781469082.6163383
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.51.40",
+    "port": 9091,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.58,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 3511.58,
+    "last_checked": 1781468976.5441444
   }
 ]
