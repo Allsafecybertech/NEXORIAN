@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.08,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 1247.22,
+    "last_checked": 1781468641.5513158
+  },
+  {
     "protocol": "socks5",
     "ip": "165.154.227.39",
     "port": 1080,
@@ -11,22 +26,37 @@
     "uptime_percent": 99.66,
     "asn": "AS142002",
     "isp": "Scloud Pte Ltd",
-    "latency_ms": 2238.45,
-    "last_checked": 1781468093.1155028
+    "latency_ms": 1611.96,
+    "last_checked": 1781468586.893447
   },
   {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "112.105.12.235",
+    "port": 1111,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taipei",
+    "city": "Taichung",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 30.07,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 672.56,
-    "last_checked": 1781468071.255659
+    "ssl": true,
+    "uptime_percent": 20.38,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 11494.54,
+    "last_checked": 1781468545.8254611
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.58",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.18,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 21542.37,
+    "last_checked": 1781468499.4452348
   }
 ]
