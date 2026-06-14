@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.73.0.118",
-    "port": 5678,
+    "protocol": "socks5",
+    "ip": "86.107.168.166",
+    "port": 5432,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.37,
-    "asn": "AS5769",
-    "isp": "Videotron Ltee",
-    "latency_ms": 1557.55,
-    "last_checked": 1781438960.8573818
+    "uptime_percent": 55.43,
+    "asn": "AS26832",
+    "isp": "Rica Web Services",
+    "latency_ms": 9253.09,
+    "last_checked": 1781439513.1596491
+  },
+  {
+    "protocol": "socks4",
+    "ip": "86.107.168.166",
+    "port": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.12,
+    "asn": "AS26832",
+    "isp": "Rica Web Services",
+    "latency_ms": 13669.72,
+    "last_checked": 1781439508.093669
   },
   {
     "protocol": "socks5",
@@ -23,40 +38,25 @@
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 20.95,
+    "uptime_percent": 20.96,
     "asn": "AS212552",
     "isp": "BitCommand LLC",
-    "latency_ms": 1853.79,
-    "last_checked": 1781438958.68979
+    "latency_ms": 8082.95,
+    "last_checked": 1781439479.2520258
   },
   {
-    "protocol": "socks5",
-    "ip": "68.233.127.229",
+    "protocol": "http",
+    "ip": "140.238.156.12",
     "port": 1080,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Montreal",
+    "city": "Toronto",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.7,
+    "ssl": false,
+    "uptime_percent": 4.63,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 14297.19,
-    "last_checked": 1781438907.5438342
-  },
-  {
-    "protocol": "socks5",
-    "ip": "86.107.168.166",
-    "port": 5432,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 55.41,
-    "asn": "AS26832",
-    "isp": "Rica Web Services",
-    "latency_ms": 9251.14,
-    "last_checked": 1781438857.1258407
+    "latency_ms": 8336.59,
+    "last_checked": 1781439414.4901574
   }
 ]
