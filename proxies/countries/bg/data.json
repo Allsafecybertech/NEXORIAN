@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.49,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 5581.28,
+    "last_checked": 1781456090.0016057
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.160.97.49",
     "port": 4145,
     "country": "Bulgaria",
@@ -8,11 +23,11 @@
     "city": "Rousse",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 12.3,
+    "uptime_percent": 12.31,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 308.23,
-    "last_checked": 1781455488.7492542
+    "latency_ms": 7566.92,
+    "last_checked": 1781456085.5585794
   },
   {
     "protocol": "http",
@@ -22,41 +37,41 @@
     "country_code": "BG",
     "city": "Burgas",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.29,
+    "ssl": false,
+    "uptime_percent": 29.31,
     "asn": "AS29084",
     "isp": "ComNet Bulgaria Ltd.",
-    "latency_ms": 1730.87,
-    "last_checked": 1781455424.8211582
-  },
-  {
-    "protocol": "http",
-    "ip": "85.196.179.34",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 9.73,
-    "asn": "AS29580",
-    "isp": "Mobiltel BNG",
-    "latency_ms": 7774.47,
-    "last_checked": 1781455351.7399235
+    "latency_ms": 3091.64,
+    "last_checked": 1781456078.9452121
   },
   {
     "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
+    "ip": "149.62.230.50",
+    "port": 1080,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 11.27,
-    "asn": "AS8717",
-    "isp": "Spectrum NET",
-    "latency_ms": 137.77,
-    "last_checked": 1781455487.4774513
+    "uptime_percent": 53.42,
+    "asn": "AS29244",
+    "isp": "CETIN Bulgaria EAD",
+    "latency_ms": 3193.0,
+    "last_checked": 1781456062.2473292
+  },
+  {
+    "protocol": "http",
+    "ip": "78.130.246.65",
+    "port": 1881,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Plovdiv",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.95,
+    "asn": "AS9070",
+    "isp": "\"Cooolbox\" AD",
+    "latency_ms": 11123.52,
+    "last_checked": 1781455946.0800183
   }
 ]
