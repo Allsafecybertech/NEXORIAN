@@ -1,4 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,151.237.84.9,8080,Bulgaria,BG,Kardzhali,transparent,false,21.68,AS48233,Netroniks EOOD,1761.21,1781429678.7687583
-http,82.137.90.192,80,Bulgaria,BG,Haskovo,elite,false,48.43,AS8866,Bulgarian Telecommunications Company Plc.,7470.25,1781429673.135851
-http,87.126.65.14,8088,Bulgaria,BG,Stara Zagora,transparent,false,30.29,AS8866,Vivacom Bulgaria EAD,7527.37,1781429612.9500296
+socks5,31.211.142.115,8192,Bulgaria,BG,Pleven,elite,true,56.57,AS197897,5KOM,772.0,1781430272.3157039
+socks4,149.62.230.50,1080,Bulgaria,BG,Sofia,elite,true,53.38,AS29244,CETIN Bulgaria EAD,7348.7,1781430264.240112
+socks4,93.123.121.3,8080,Bulgaria,BG,Pirdop,elite,true,26.5,AS44851,Retel JSC,1207.13,1781430254.4734004
+http,82.137.90.192,80,Bulgaria,BG,Haskovo,elite,false,48.43,AS8866,Bulgarian Telecommunications Company Plc.,4202.54,1781430243.1958563
+socks4,212.50.19.150,4153,Bulgaria,BG,Sofia,elite,true,11.21,AS8717,Spectrum NET,120.97,1781430272.1492229
