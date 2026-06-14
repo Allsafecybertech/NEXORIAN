@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "91.244.106.26",
+    "port": 1090,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.42,
+    "asn": "AS21299",
+    "isp": "Kar-Tel LLC",
+    "latency_ms": 1555.78,
+    "last_checked": 1781462095.9494424
+  },
+  {
+    "protocol": "socks5",
+    "ip": "46.8.31.104",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Karaganda",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.83,
+    "asn": "AS203087",
+    "isp": "PE Fedinyak Sergey Vyacheslavovich",
+    "latency_ms": 9234.26,
+    "last_checked": 1781462082.8298836
+  },
+  {
+    "protocol": "socks4",
     "ip": "176.12.72.62",
     "port": 1080,
     "country": "Kazakhstan",
@@ -8,11 +38,26 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.78,
+    "uptime_percent": 34.8,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 3341.18,
-    "last_checked": 1781461498.625569
+    "latency_ms": 2736.31,
+    "last_checked": 1781462077.8333158
+  },
+  {
+    "protocol": "socks4",
+    "ip": "80.90.183.221",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.76,
+    "asn": "AS9123",
+    "isp": "Mamaev",
+    "latency_ms": 1364.76,
+    "last_checked": 1781462071.4194608
   },
   {
     "protocol": "socks5",
@@ -23,26 +68,11 @@
     "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 77.65,
+    "uptime_percent": 77.66,
     "asn": "AS41798",
     "isp": "MTFINANCE",
-    "latency_ms": 3489.7,
-    "last_checked": 1781461477.4590187
-  },
-  {
-    "protocol": "socks5",
-    "ip": "89.169.37.254",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.16,
-    "asn": "AS205516",
-    "isp": "NLS ASTANA LLP",
-    "latency_ms": 2760.63,
-    "last_checked": 1781461463.5348883
+    "latency_ms": 1603.84,
+    "last_checked": 1781462060.8468254
   },
   {
     "protocol": "socks4",
@@ -56,23 +86,8 @@
     "uptime_percent": 49.82,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 14846.62,
-    "last_checked": 1781461457.7734995
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.12.72.62",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.78,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 12887.87,
-    "last_checked": 1781461432.7188191
+    "latency_ms": 18733.39,
+    "last_checked": 1781462048.4840717
   },
   {
     "protocol": "http",
@@ -83,25 +98,55 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 53.84,
+    "uptime_percent": 53.85,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 3910.6,
-    "last_checked": 1781461408.4718478
+    "latency_ms": 6378.99,
+    "last_checked": 1781462043.4804316
+  },
+  {
+    "protocol": "http",
+    "ip": "2.78.60.10",
+    "port": 3129,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 98.43,
+    "asn": "AS29355",
+    "isp": "Kcell JSC",
+    "latency_ms": 4508.56,
+    "last_checked": 1781462026.8170676
+  },
+  {
+    "protocol": "http",
+    "ip": "91.229.151.118",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Shymkent",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.73,
+    "asn": "AS202293",
+    "isp": "D-Cloud LLC",
+    "latency_ms": 1993.86,
+    "last_checked": 1781462021.8181899
   },
   {
     "protocol": "socks5",
-    "ip": "80.90.183.221",
-    "port": 1080,
+    "ip": "213.148.6.12",
+    "port": 7777,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.27,
-    "asn": "AS9123",
-    "isp": "Mamaev",
-    "latency_ms": 10611.83,
-    "last_checked": 1781461322.489505
+    "uptime_percent": 55.3,
+    "asn": "AS48988",
+    "isp": "Haicom Limited",
+    "latency_ms": 9294.7,
+    "last_checked": 1781461846.4568348
   }
 ]
