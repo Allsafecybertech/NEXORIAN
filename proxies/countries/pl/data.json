@@ -11,8 +11,8 @@
     "uptime_percent": 12.61,
     "asn": "AS5617",
     "isp": "Orange Polska Spolka Akcyjna",
-    "latency_ms": 1151.43,
-    "last_checked": 1781477392.3077164
+    "latency_ms": 3142.65,
+    "last_checked": 1781477967.9824662
   },
   {
     "protocol": "socks4",
@@ -26,8 +26,38 @@
     "uptime_percent": 13.14,
     "asn": "AS206957",
     "isp": "PHU Kario-Sat Sp. z o.o.",
-    "latency_ms": 142.62,
-    "last_checked": 1781477382.4992647
+    "latency_ms": 214.5,
+    "last_checked": 1781477962.9420593
+  },
+  {
+    "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 74.15,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 290.68,
+    "last_checked": 1781477962.5596032
+  },
+  {
+    "protocol": "socks4",
+    "ip": "51.83.226.103",
+    "port": 9055,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.45,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 5080.46,
+    "last_checked": 1781477962.465964
   },
   {
     "protocol": "socks5",
@@ -41,23 +71,23 @@
     "uptime_percent": 60.24,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 253.8,
-    "last_checked": 1781477375.55041
+    "latency_ms": 292.77,
+    "last_checked": 1781477955.646767
   },
   {
-    "protocol": "socks4",
-    "ip": "185.32.4.65",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "185.32.6.131",
+    "port": 8070,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Chociwel",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 9.48,
+    "city": "Ińsko",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.36,
     "asn": "AS60645",
     "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 125.64,
-    "last_checked": 1781477368.5463192
+    "latency_ms": 6744.64,
+    "last_checked": 1781477952.526669
   },
   {
     "protocol": "socks4",
@@ -68,26 +98,26 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 64.58,
+    "uptime_percent": 64.59,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 175.39,
-    "last_checked": 1781477360.3245444
+    "latency_ms": 155.09,
+    "last_checked": 1781477945.2695537
   },
   {
-    "protocol": "socks4",
-    "ip": "88.218.206.170",
-    "port": 5432,
+    "protocol": "http",
+    "ip": "78.9.234.55",
+    "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 74.14,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 3105.16,
-    "last_checked": 1781477360.244234
+    "city": "Szczecin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.17,
+    "asn": "AS12741",
+    "isp": "Netia SA",
+    "latency_ms": 11799.82,
+    "last_checked": 1781477922.4940836
   },
   {
     "protocol": "http",
@@ -101,22 +131,52 @@
     "uptime_percent": 98.68,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 46.31,
-    "last_checked": 1781477346.801365
+    "latency_ms": 49.86,
+    "last_checked": 1781477908.6041145
   },
   {
     "protocol": "http",
-    "ip": "212.182.119.149",
+    "ip": "148.81.121.5",
     "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Lublin",
+    "city": "Warsaw",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.92,
-    "asn": "AS12346",
-    "isp": "non-academic part of Lublin MAN",
-    "latency_ms": 5265.87,
-    "last_checked": 1781477380.4489932
+    "uptime_percent": 12.31,
+    "asn": "AS1887",
+    "isp": "WAWPOLIP",
+    "latency_ms": 10387.71,
+    "last_checked": 1781477905.3877969
+  },
+  {
+    "protocol": "http",
+    "ip": "109.206.223.88",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lesznowola",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.08,
+    "asn": "AS41966",
+    "isp": "Skynet sp. z o.o.",
+    "latency_ms": 4004.5,
+    "last_checked": 1781477901.5964544
+  },
+  {
+    "protocol": "http",
+    "ip": "80.51.61.1",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Poniatowa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.83,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 2423.11,
+    "last_checked": 1781477844.4893055
   }
 ]
