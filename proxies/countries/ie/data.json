@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "94.102.193.91",
-    "port": 8080,
+    "ip": "89.127.207.174",
+    "port": 18080,
     "country": "Ireland",
     "country_code": "IE",
-    "city": "Taghmon",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.65,
-    "asn": "AS47942",
-    "isp": "Regional Broadband Ireland Ltd",
-    "latency_ms": 14345.58,
-    "last_checked": 1781431972.01586
+    "city": "Dublin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.53,
+    "asn": "",
+    "isp": "IBIS",
+    "latency_ms": 365.31,
+    "last_checked": 1781432643.506484
+  },
+  {
+    "protocol": "socks5",
+    "ip": "38.180.151.41",
+    "port": 1080,
+    "country": "Ireland",
+    "country_code": "IE",
+    "city": "Dublin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 68.66,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 7578.18,
+    "last_checked": 1781432522.5967329
   }
 ]
