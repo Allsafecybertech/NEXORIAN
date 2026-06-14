@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "139.84.246.167",
-    "port": 8888,
+    "protocol": "socks5",
+    "ip": "129.232.148.138",
+    "port": 1080,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Isando",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 13.76,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 12733.12,
-    "last_checked": 1781479440.6678858
-  },
-  {
-    "protocol": "http",
-    "ip": "196.223.129.21",
-    "port": 80,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Stellenbosch",
+    "city": "Cape Town",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 28.35,
-    "asn": "AS328471",
-    "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 12040.09,
-    "last_checked": 1781479432.2327461
+    "ssl": true,
+    "uptime_percent": 40.7,
+    "asn": "AS37153",
+    "isp": "Xneelo (Pty) Ltd",
+    "latency_ms": 1317.56,
+    "last_checked": 1781480062.259832
   },
   {
     "protocol": "socks5",
@@ -41,23 +26,23 @@
     "uptime_percent": 60.16,
     "asn": "AS328970",
     "isp": "CloudGistics",
-    "latency_ms": 9867.53,
-    "last_checked": 1781479428.7494712
+    "latency_ms": 3644.92,
+    "last_checked": 1781480036.4281063
   },
   {
     "protocol": "http",
-    "ip": "4.221.164.109",
-    "port": 80,
+    "ip": "102.221.118.74",
+    "port": 8080,
     "country": "South Africa",
     "country_code": "ZA",
     "city": "Johannesburg",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 96.75,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 1700.11,
-    "last_checked": 1781479417.7323117
+    "uptime_percent": 10.23,
+    "asn": "AS328714",
+    "isp": "Lucert Technologies Pty Ltd.",
+    "latency_ms": 8662.97,
+    "last_checked": 1781480033.9553685
   },
   {
     "protocol": "http",
@@ -71,8 +56,8 @@
     "uptime_percent": 28.74,
     "asn": "AS37403",
     "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 11026.27,
-    "last_checked": 1781479412.721944
+    "latency_ms": 14968.97,
+    "last_checked": 1781480028.5513659
   },
   {
     "protocol": "http",
@@ -86,8 +71,38 @@
     "uptime_percent": 96.55,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 1652.51,
-    "last_checked": 1781479394.595544
+    "latency_ms": 645.71,
+    "last_checked": 1781480020.7427213
+  },
+  {
+    "protocol": "http",
+    "ip": "102.217.139.31",
+    "port": 8180,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Cape Town",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.33,
+    "asn": "AS329181",
+    "isp": "Bluedog Technology",
+    "latency_ms": 10660.54,
+    "last_checked": 1781480004.4479816
+  },
+  {
+    "protocol": "http",
+    "ip": "4.221.164.109",
+    "port": 80,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 96.75,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 628.73,
+    "last_checked": 1781479998.2015553
   },
   {
     "protocol": "http",
@@ -97,26 +112,56 @@
     "country_code": "ZA",
     "city": "Johannesburg",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 95.65,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 1956.18,
-    "last_checked": 1781479387.705934
+    "latency_ms": 5399.99,
+    "last_checked": 1781479990.8557901
   },
   {
     "protocol": "http",
-    "ip": "169.239.208.70",
-    "port": 8080,
+    "ip": "196.223.129.21",
+    "port": 80,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Cape Town",
+    "city": "Stellenbosch",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.35,
+    "asn": "AS328471",
+    "isp": "HERO TELECOMS (PTY) LTD",
+    "latency_ms": 5150.78,
+    "last_checked": 1781479970.309032
+  },
+  {
+    "protocol": "http",
+    "ip": "102.135.142.234",
+    "port": 12354,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Daveyton",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 29.3,
-    "asn": "AS327983",
-    "isp": "Interworks Wireless Solutions",
-    "latency_ms": 15595.77,
-    "last_checked": 1781479346.3744504
+    "uptime_percent": 9.34,
+    "asn": "AS327907",
+    "isp": "Session Telecoms(PTY) Ltd",
+    "latency_ms": 15376.37,
+    "last_checked": 1781479901.3495603
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.36.127.231",
+    "port": 1080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Nelspruit",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.1,
+    "asn": "AS327794",
+    "isp": "Clear Access (Pty) Ltd",
+    "latency_ms": 9871.34,
+    "last_checked": 1781479834.5209742
   }
 ]
