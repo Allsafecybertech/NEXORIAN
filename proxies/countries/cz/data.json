@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.52,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 66.69,
+    "last_checked": 1781468100.8829184
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.67,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 59.97,
+    "last_checked": 1781468075.941723
+  },
+  {
+    "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
     "country": "Czechia",
@@ -11,22 +41,37 @@
     "uptime_percent": 82.56,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2491.53,
-    "last_checked": 1781467787.9175627
+    "latency_ms": 4221.36,
+    "last_checked": 1781468012.8192446
   },
   {
     "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
+    "ip": "78.108.103.87",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Nejdek",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.36,
+    "asn": "AS8251",
+    "isp": "Neutral Free eXchange members - FreeTel alternate",
+    "latency_ms": 4236.27,
+    "last_checked": 1781467984.2330134
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 7.72,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 9976.35,
-    "last_checked": 1781467750.8998182
+    "uptime_percent": 26.63,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 10586.4,
+    "last_checked": 1781467920.1477954
   }
 ]
