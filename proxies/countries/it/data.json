@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "87.121.148.126",
-    "port": 49200,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Consiglio di Rumo",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 64.47,
-    "asn": "AS210218",
-    "isp": "Open Fiber S.P.A.",
-    "latency_ms": 1048.34,
-    "last_checked": 1781417383.5968583
-  },
-  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -26,8 +11,53 @@
     "uptime_percent": 87.55,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 219.83,
-    "last_checked": 1781417369.8066902
+    "latency_ms": 425.79,
+    "last_checked": 1781417952.8694367
+  },
+  {
+    "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Furnari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.1,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 3964.81,
+    "last_checked": 1781417952.246244
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.28,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 3047.28,
+    "last_checked": 1781417929.1195285
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.45,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 519.06,
+    "last_checked": 1781417882.7798333
   },
   {
     "protocol": "socks5",
@@ -38,11 +68,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.22,
+    "uptime_percent": 84.23,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 421.22,
-    "last_checked": 1781417352.7903845
+    "latency_ms": 1736.29,
+    "last_checked": 1781417869.667873
   },
   {
     "protocol": "http",
@@ -56,7 +86,7 @@
     "uptime_percent": 71.31,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 9466.82,
-    "last_checked": 1781417322.8016236
+    "latency_ms": 7721.45,
+    "last_checked": 1781417855.1837687
   }
 ]
