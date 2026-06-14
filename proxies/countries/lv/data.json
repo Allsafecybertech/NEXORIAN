@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "31.57.29.49",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "217.177.45.251",
+    "port": 1050,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.84,
-    "asn": "AS56971",
-    "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 185.57,
-    "last_checked": 1781445239.6658158
+    "uptime_percent": 47.58,
+    "asn": "AS50053",
+    "isp": "Anton Levin",
+    "latency_ms": 7565.99,
+    "last_checked": 1781445529.4493299
+  },
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.98,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 1175.8,
+    "last_checked": 1781445514.770795
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 43.04,
+    "ssl": true,
+    "uptime_percent": 43.17,
     "asn": "AS50053",
     "isp": "Anton Levin",
-    "latency_ms": 12517.54,
-    "last_checked": 1781445199.939861
+    "latency_ms": 3205.65,
+    "last_checked": 1781445493.2440348
   }
 ]
