@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.44,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 1273.51,
-    "last_checked": 1781486922.344706
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.54,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 74.42,
+    "last_checked": 1781487597.8669019
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Prague",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 82.59,
+    "uptime_percent": 82.6,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 5123.96,
-    "last_checked": 1781486902.3710847
+    "latency_ms": 6196.13,
+    "last_checked": 1781487557.2228136
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.54,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 4076.95,
+    "last_checked": 1781487586.443844
   }
 ]
