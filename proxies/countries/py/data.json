@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "190.104.143.94",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "170.245.132.80",
+    "port": 999,
     "country": "Paraguay",
     "country_code": "PY",
-    "city": "Asunción",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 7.6,
-    "asn": "AS27895",
-    "isp": "Núcleo S.A.",
-    "latency_ms": 1268.33,
-    "last_checked": 1781518764.5860014
+    "city": "Carapeguá",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.62,
+    "asn": "AS270096",
+    "isp": "MACHADO BAEZ, NERY JAVIER",
+    "latency_ms": 4265.7,
+    "last_checked": 1781519367.2584767
+  },
+  {
+    "protocol": "http",
+    "ip": "170.245.132.81",
+    "port": 999,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Carapeguá",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.39,
+    "asn": "AS270096",
+    "isp": "MACHADO BAEZ, NERY JAVIER",
+    "latency_ms": 10456.89,
+    "last_checked": 1781519360.1736422
   },
   {
     "protocol": "http",
@@ -23,41 +38,11 @@
     "city": "Asunción",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 64.33,
+    "uptime_percent": 64.34,
     "asn": "AS28103",
     "isp": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-    "latency_ms": 4357.67,
-    "last_checked": 1781518756.7003255
-  },
-  {
-    "protocol": "http",
-    "ip": "170.245.133.49",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Carapeguá",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.91,
-    "asn": "AS270096",
-    "isp": "MACHADO BAEZ, NERY JAVIER",
-    "latency_ms": 2514.47,
-    "last_checked": 1781518746.9803634
-  },
-  {
-    "protocol": "http",
-    "ip": "181.233.100.101",
-    "port": 8080,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Veinticinco de Diciembre",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.3,
-    "asn": "AS272099",
-    "isp": "Wirschke Monges Ricardo Daniel",
-    "latency_ms": 5415.4,
-    "last_checked": 1781518697.947798
+    "latency_ms": 8716.67,
+    "last_checked": 1781519336.4339287
   },
   {
     "protocol": "http",
@@ -71,7 +56,22 @@
     "uptime_percent": 9.21,
     "asn": "AS52468",
     "isp": "Ufinet Paraguay S.A",
-    "latency_ms": 7450.65,
-    "last_checked": 1781518666.2157664
+    "latency_ms": 6433.34,
+    "last_checked": 1781519327.7882679
+  },
+  {
+    "protocol": "http",
+    "ip": "181.233.100.101",
+    "port": 8080,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Veinticinco de Diciembre",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 23.29,
+    "asn": "AS272099",
+    "isp": "Wirschke Monges Ricardo Daniel",
+    "latency_ms": 8469.54,
+    "last_checked": 1781519319.7103808
   }
 ]
