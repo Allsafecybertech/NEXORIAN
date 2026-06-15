@@ -1,17 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "ip": "78.108.103.87",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
-    "anonymity": "anonymous",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 82.62,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2701.21,
-    "last_checked": 1781510352.3945084
+    "uptime_percent": 29.9,
+    "asn": "AS8251",
+    "isp": "Neutral Free eXchange members - FreeTel alternate",
+    "latency_ms": 336.17,
+    "last_checked": 1781510925.8890576
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 17.28,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 3642.7,
+    "last_checked": 1781510922.292129
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.69,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1081.37,
+    "last_checked": 1781510921.0536911
   }
 ]
