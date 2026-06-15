@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "185.141.26.131",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Roșcani",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 88.86,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 65.56,
+    "last_checked": 1781554760.319841
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Ploieşti",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.68,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 3481.01,
-    "last_checked": 1781554140.7916713
+    "uptime_percent": 20.65,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 7453.3,
+    "last_checked": 1781554726.4653492
   },
   {
     "protocol": "http",
@@ -23,26 +38,11 @@
     "city": "Baia Mare",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 56.43,
+    "uptime_percent": 56.69,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 84.71,
-    "last_checked": 1781554136.6694543
-  },
-  {
-    "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Brăila",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.04,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 1720.8,
-    "last_checked": 1781554124.2043827
+    "latency_ms": 110.94,
+    "last_checked": 1781554707.3835874
   },
   {
     "protocol": "socks5",
@@ -53,25 +53,10 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 18.07,
+    "uptime_percent": 18.1,
     "asn": "AS200651",
     "isp": "FlokiNET ehf",
-    "latency_ms": 9409.44,
-    "last_checked": 1781554119.39843
-  },
-  {
-    "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 88.85,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 72.01,
-    "last_checked": 1781554091.2588863
+    "latency_ms": 7565.89,
+    "last_checked": 1781554646.170004
   }
 ]
