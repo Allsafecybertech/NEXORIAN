@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "94.102.193.91",
+    "ip": "89.127.207.174",
+    "port": 18080,
+    "country": "Ireland",
+    "country_code": "IE",
+    "city": "Dublin",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 63.47,
+    "asn": "",
+    "isp": "IBIS",
+    "latency_ms": 6148.56,
+    "last_checked": 1781522033.6372092
+  },
+  {
+    "protocol": "http",
+    "ip": "5.83.244.1",
     "port": 8080,
     "country": "Ireland",
     "country_code": "IE",
-    "city": "Wexford",
+    "city": "Roscommon",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 15.68,
-    "asn": "AS47942",
-    "isp": "Regional Broadband Ireland Ltd",
-    "latency_ms": 8653.03,
-    "last_checked": 1781521359.861051
+    "uptime_percent": 3.53,
+    "asn": "AS57791",
+    "isp": "EURONA-BRISKNET",
+    "latency_ms": 6022.17,
+    "last_checked": 1781522022.3012364
   },
   {
     "protocol": "socks5",
@@ -23,10 +38,25 @@
     "city": "Dublin",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 71.03,
+    "uptime_percent": 71.04,
     "asn": "AS9009",
     "isp": "M247 Europe SRL",
-    "latency_ms": 164.67,
-    "last_checked": 1781521335.0170774
+    "latency_ms": 7630.88,
+    "last_checked": 1781522010.094598
+  },
+  {
+    "protocol": "http",
+    "ip": "94.102.193.91",
+    "port": 8080,
+    "country": "Ireland",
+    "country_code": "IE",
+    "city": "Wexford",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.68,
+    "asn": "AS47942",
+    "isp": "Regional Broadband Ireland Ltd",
+    "latency_ms": 15060.8,
+    "last_checked": 1781521982.4151444
   }
 ]
