@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.68,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 208.58,
+    "last_checked": 1781555373.341638
+  },
+  {
     "protocol": "http",
     "ip": "185.141.26.131",
     "port": 3128,
@@ -11,38 +26,8 @@
     "uptime_percent": 88.86,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 65.56,
-    "last_checked": 1781554760.319841
-  },
-  {
-    "protocol": "socks4",
-    "ip": "81.18.90.43",
-    "port": 4153,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Ploieşti",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 20.65,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 7453.3,
-    "last_checked": 1781554726.4653492
-  },
-  {
-    "protocol": "http",
-    "ip": "86.127.175.42",
-    "port": 8080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Baia Mare",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 56.69,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 110.94,
-    "last_checked": 1781554707.3835874
+    "latency_ms": 111.49,
+    "last_checked": 1781555361.9785037
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,40 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 18.1,
+    "uptime_percent": 18.14,
     "asn": "AS200651",
     "isp": "FlokiNET ehf",
-    "latency_ms": 7565.89,
-    "last_checked": 1781554646.170004
+    "latency_ms": 21105.54,
+    "last_checked": 1781555352.79902
+  },
+  {
+    "protocol": "http",
+    "ip": "86.127.175.42",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Baia Mare",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 57.09,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 105.26,
+    "last_checked": 1781555351.32541
+  },
+  {
+    "protocol": "http",
+    "ip": "89.136.79.157",
+    "port": 8085,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Brăila",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.04,
+    "asn": "AS12302",
+    "isp": "UPC Romania",
+    "latency_ms": 412.1,
+    "last_checked": 1781555332.6180553
   }
 ]

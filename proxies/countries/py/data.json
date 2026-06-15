@@ -1,47 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "181.78.95.30",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "190.104.143.94",
+    "port": 4153,
     "country": "Paraguay",
     "country_code": "PY",
     "city": "Asunción",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 7.64,
+    "asn": "AS27895",
+    "isp": "Núcleo S.A.",
+    "latency_ms": 8336.7,
+    "last_checked": 1781555370.2602572
+  },
+  {
+    "protocol": "http",
+    "ip": "181.78.217.50",
+    "port": 999,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Villa Hayes",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.28,
+    "uptime_percent": 9.24,
     "asn": "AS52468",
     "isp": "Ufinet Paraguay S.A",
-    "latency_ms": 8652.48,
-    "last_checked": 1781554733.312386
-  },
-  {
-    "protocol": "http",
-    "ip": "37.230.57.120",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Ciudad del Este",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.82,
-    "asn": "AS270052",
-    "isp": "Aranda Cardozo Lider Ramon",
-    "latency_ms": 5313.47,
-    "last_checked": 1781554732.2986932
-  },
-  {
-    "protocol": "http",
-    "ip": "45.170.128.120",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Ciudad del Este",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.69,
-    "asn": "AS61512",
-    "isp": "GIG@NET SOCIEDAD ANONIMA",
-    "latency_ms": 11389.79,
-    "last_checked": 1781554705.3159692
+    "latency_ms": 12811.73,
+    "last_checked": 1781555351.7843974
   }
 ]
