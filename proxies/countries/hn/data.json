@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.0,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 1800.9,
+    "last_checked": 1781560464.5018914
+  },
+  {
+    "protocol": "http",
+    "ip": "138.0.228.123",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.77,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 9815.27,
+    "last_checked": 1781560436.6358833
+  },
+  {
     "protocol": "http",
     "ip": "45.89.82.210",
     "port": 8080,
@@ -11,22 +41,37 @@
     "uptime_percent": 16.64,
     "asn": "AS273189",
     "isp": "CA NETWORKS S.A. DE C.V.",
-    "latency_ms": 10928.6,
-    "last_checked": 1781559827.4356887
+    "latency_ms": 9048.59,
+    "last_checked": 1781560331.2799141
   },
   {
     "protocol": "http",
-    "ip": "38.7.24.161",
+    "ip": "200.115.97.14",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "San Pedro Sula",
+    "city": "Cuyalí",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 19.58,
+    "asn": "AS269919",
+    "isp": "Honduvision SRL",
+    "latency_ms": 2641.91,
+    "last_checked": 1781560463.3368738
+  },
+  {
+    "protocol": "http",
+    "ip": "200.115.96.50",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Yuscarán",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 13.64,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 1040.97,
-    "last_checked": 1781559775.3678539
+    "uptime_percent": 22.68,
+    "asn": "AS269919",
+    "isp": "Honduvision SRL",
+    "latency_ms": 2508.17,
+    "last_checked": 1781560445.271407
   }
 ]
