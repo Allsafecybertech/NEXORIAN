@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "80.78.73.120",
+    "port": 65530,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Tirana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.9,
+    "asn": "AS21183",
+    "isp": "Vodafone Albania Sh.A.",
+    "latency_ms": 1208.77,
+    "last_checked": 1781499553.1916993
+  },
+  {
+    "protocol": "http",
+    "ip": "188.164.218.209",
+    "port": 8080,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Tirana",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.51,
+    "asn": "AS21183",
+    "isp": "Vodafone Albania Sh.A.",
+    "latency_ms": 3434.4,
+    "last_checked": 1781499434.9518576
+  },
+  {
     "protocol": "http",
     "ip": "77.242.21.133",
     "port": 8080,
@@ -7,11 +37,11 @@
     "country_code": "AL",
     "city": "Tirana",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.54,
     "asn": "AS35047",
     "isp": "Business Custommers",
-    "latency_ms": 2215.43,
-    "last_checked": 1781499178.7358792
+    "latency_ms": 10987.18,
+    "last_checked": 1781499433.41875
   }
 ]
