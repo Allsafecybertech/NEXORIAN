@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "5.77.252.204",
+    "ip": "5.77.252.202",
     "port": 8080,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.12,
+    "ssl": true,
+    "uptime_percent": 17.88,
     "asn": "AS44395",
     "isp": "Ucom Mobile Network",
-    "latency_ms": 7624.34,
-    "last_checked": 1781492374.5678449
+    "latency_ms": 3205.95,
+    "last_checked": 1781492991.2958972
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.215.53.193",
+    "port": 3629,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.68,
+    "asn": "AS205368",
+    "isp": "Fnet LLC",
+    "latency_ms": 1357.12,
+    "last_checked": 1781492968.3693447
   }
 ]

@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "221.120.208.25",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "103.146.137.233",
+    "port": 1081,
     "country": "Pakistan",
     "country_code": "PK",
-    "city": "Lahore",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.43,
-    "asn": "AS9557",
-    "isp": "Pakistan Telecommuication company limited",
-    "latency_ms": 3437.6,
-    "last_checked": 1781492354.8719347
+    "city": "Karachi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.27,
+    "asn": "AS139879",
+    "isp": "Galaxy Broadband (pvt.) Ltd.",
+    "latency_ms": 606.82,
+    "last_checked": 1781492992.8338664
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.236.134.210",
+    "port": 1080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Karachi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 72.2,
+    "asn": "AS38193",
+    "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+    "latency_ms": 3779.29,
+    "last_checked": 1781492968.8034053
   },
   {
     "protocol": "socks5",
@@ -26,38 +41,8 @@
     "uptime_percent": 69.74,
     "asn": "AS131275",
     "isp": "Logon Broadband Pvt. Limited",
-    "latency_ms": 1802.69,
-    "last_checked": 1781492353.2424896
-  },
-  {
-    "protocol": "socks5",
-    "ip": "103.236.134.210",
-    "port": 1080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Karachi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 72.21,
-    "asn": "AS38193",
-    "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-    "latency_ms": 1771.92,
-    "last_checked": 1781492337.4805772
-  },
-  {
-    "protocol": "http",
-    "ip": "43.251.253.40",
-    "port": 8080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Lahore",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.89,
-    "asn": "AS136384",
-    "isp": "Optix Pakistan (Pvt.) Limited",
-    "latency_ms": 4551.6,
-    "last_checked": 1781492309.3054304
+    "latency_ms": 2044.25,
+    "last_checked": 1781492920.9113061
   },
   {
     "protocol": "socks5",
@@ -71,7 +56,7 @@
     "uptime_percent": 58.43,
     "asn": "AS140594",
     "isp": "Nadeem Abbas and Shayufta Rani",
-    "latency_ms": 1540.72,
-    "last_checked": 1781492280.2457597
+    "latency_ms": 3953.31,
+    "last_checked": 1781492715.3024101
   }
 ]
