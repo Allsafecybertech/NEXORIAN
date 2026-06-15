@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "82.137.90.192",
+    "port": 80,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Haskovo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 48.92,
+    "asn": "AS8866",
+    "isp": "Bulgarian Telecommunications Company Plc.",
+    "latency_ms": 8856.71,
+    "last_checked": 1781554067.9875374
+  },
+  {
+    "protocol": "http",
+    "ip": "79.132.21.211",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Burgas",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.13,
+    "asn": "AS29084",
+    "isp": "ComNet Bulgaria Ltd.",
+    "latency_ms": 10849.02,
+    "last_checked": 1781554011.9045413
+  },
+  {
     "protocol": "socks5",
     "ip": "31.211.142.115",
     "port": 8192,
@@ -11,38 +41,23 @@
     "uptime_percent": 56.53,
     "asn": "AS197897",
     "isp": "5KOM",
-    "latency_ms": 254.92,
-    "last_checked": 1781553573.9754395
+    "latency_ms": 374.54,
+    "last_checked": 1781553963.5890434
   },
   {
-    "protocol": "http",
-    "ip": "78.128.6.82",
+    "protocol": "socks5",
+    "ip": "93.123.121.3",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.0,
-    "asn": "AS31083",
-    "isp": "Telepoint Ltd",
-    "latency_ms": 3621.29,
-    "last_checked": 1781553553.4525123
-  },
-  {
-    "protocol": "http",
-    "ip": "87.126.65.14",
-    "port": 8088,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Stara Zagora",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.35,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 12779.66,
-    "last_checked": 1781553497.071904
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.2,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 6600.63,
+    "last_checked": 1781553734.8561623
   },
   {
     "protocol": "socks4",
@@ -56,7 +71,22 @@
     "uptime_percent": 11.4,
     "asn": "AS8717",
     "isp": "Spectrum NET",
-    "latency_ms": 3143.47,
-    "last_checked": 1781553607.4694366
+    "latency_ms": 122.6,
+    "last_checked": 1781554203.633979
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.66,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 2877.46,
+    "last_checked": 1781554088.551651
   }
 ]
