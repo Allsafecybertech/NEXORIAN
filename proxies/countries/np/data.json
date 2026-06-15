@@ -1,6 +1,51 @@
 [
   {
     "protocol": "socks4",
+    "ip": "118.91.175.146",
+    "port": 5678,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.74,
+    "asn": "AS24550",
+    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+    "latency_ms": 8093.73,
+    "last_checked": 1781507325.699332
+  },
+  {
+    "protocol": "http",
+    "ip": "103.124.97.12",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Pokhara",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.43,
+    "asn": "AS138388",
+    "isp": "Pokhara Internet Pvt. Ltd",
+    "latency_ms": 15289.83,
+    "last_checked": 1781507233.8788517
+  },
+  {
+    "protocol": "http",
+    "ip": "202.166.197.177",
+    "port": 2121,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.09,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 9113.62,
+    "last_checked": 1781507189.7620726
+  },
+  {
+    "protocol": "socks4",
     "ip": "202.166.219.80",
     "port": 4153,
     "country": "Nepal",
@@ -11,37 +56,7 @@
     "uptime_percent": 8.42,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 862.98,
-    "last_checked": 1781506785.0679944
-  },
-  {
-    "protocol": "socks4",
-    "ip": "118.91.175.146",
-    "port": 5678,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.73,
-    "asn": "AS24550",
-    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
-    "latency_ms": 918.11,
-    "last_checked": 1781506753.6414027
-  },
-  {
-    "protocol": "http",
-    "ip": "139.5.75.83",
-    "port": 8080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Patan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.24,
-    "asn": "AS17501",
-    "isp": "WLINK",
-    "latency_ms": 9571.49,
-    "last_checked": 1781506671.9872718
+    "latency_ms": 866.14,
+    "last_checked": 1781507389.9337626
   }
 ]
