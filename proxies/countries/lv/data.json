@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.130.212.97",
-    "port": 8119,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 14.81,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 3274.12,
-    "last_checked": 1781505272.86668
-  },
-  {
-    "protocol": "socks4",
-    "ip": "31.170.19.5",
-    "port": 4153,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Saldus",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 5.26,
-    "asn": "AS42099",
-    "isp": "DNET ITRisinajumi Ltd.",
-    "latency_ms": 3177.69,
-    "last_checked": 1781505264.8413374
-  },
-  {
     "protocol": "socks5",
     "ip": "31.57.29.49",
     "port": 1080,
@@ -38,10 +8,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 93.6,
+    "uptime_percent": 93.65,
     "asn": "AS56971",
     "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 180.21,
-    "last_checked": 1781505193.5652888
+    "latency_ms": 199.11,
+    "last_checked": 1781505815.0038774
+  },
+  {
+    "protocol": "http",
+    "ip": "31.57.29.58",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.42,
+    "asn": "AS56971",
+    "isp": "CGI GLOBAL LIMITED",
+    "latency_ms": 19403.98,
+    "last_checked": 1781505784.3710098
   }
 ]
