@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "90.174.128.42",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
-    "city": "San Fernando de Henares",
-    "anonymity": "elite",
+    "city": "Madrid",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 25.69,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 3380.84,
-    "last_checked": 1781551753.2991672
+    "uptime_percent": 10.38,
+    "asn": "AS12479",
+    "isp": "Uni2",
+    "latency_ms": 9406.08,
+    "last_checked": 1781552348.3308089
   },
   {
-    "protocol": "socks4",
-    "ip": "185.223.82.217",
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
     "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Olot",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.99,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 4660.77,
+    "last_checked": 1781552345.2933998
+  },
+  {
+    "protocol": "http",
+    "ip": "83.97.79.114",
+    "port": 8443,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.68,
-    "asn": "AS400992",
-    "isp": "ZhouyiSat Communications",
-    "latency_ms": 9986.62,
-    "last_checked": 1781551693.8196387
+    "ssl": false,
+    "uptime_percent": 24.13,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 14284.09,
+    "last_checked": 1781552328.1075988
   },
   {
     "protocol": "socks5",
@@ -38,41 +53,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.19,
+    "uptime_percent": 34.2,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 20379.39,
-    "last_checked": 1781551580.4818435
-  },
-  {
-    "protocol": "http",
-    "ip": "193.38.224.169",
-    "port": 8081,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.4,
-    "asn": "AS206276",
-    "isp": "Citelia s.a.",
-    "latency_ms": 4427.8,
-    "last_checked": 1781551567.8761685
-  },
-  {
-    "protocol": "socks4",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.53,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 1167.32,
-    "last_checked": 1781551797.8842027
+    "latency_ms": 20706.26,
+    "last_checked": 1781552193.604186
   },
   {
     "protocol": "socks5",
@@ -86,8 +71,23 @@
     "uptime_percent": 3.68,
     "asn": "AS56882",
     "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-    "latency_ms": 4125.48,
-    "last_checked": 1781551629.451144
+    "latency_ms": 1580.52,
+    "last_checked": 1781552332.626402
+  },
+  {
+    "protocol": "socks5",
+    "ip": "65.20.105.241",
+    "port": 10001,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.71,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 4975.47,
+    "last_checked": 1781552270.4835598
   },
   {
     "protocol": "http",
@@ -101,7 +101,7 @@
     "uptime_percent": 75.6,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 9692.95,
-    "last_checked": 1781551782.4633763
+    "latency_ms": 128.63,
+    "last_checked": 1781552344.391006
   }
 ]
