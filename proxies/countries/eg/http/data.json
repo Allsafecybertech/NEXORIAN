@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "41.33.66.248",
+    "ip": "41.65.103.189",
     "port": 8080,
     "country": "Egypt",
     "country_code": "EG",
-    "city": "Giza",
-    "anonymity": "transparent",
+    "city": "Cairo",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 27.26,
+    "asn": "AS36992",
+    "isp": "Etisalat Misr Mobile BB",
+    "latency_ms": 2962.45,
+    "last_checked": 1781633933.3819044
+  },
+  {
+    "protocol": "http",
+    "ip": "41.65.103.190",
+    "port": 8080,
+    "country": "Egypt",
+    "country_code": "EG",
+    "city": "Cairo",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 31.45,
-    "asn": "AS8452",
-    "isp": "TE Data",
-    "latency_ms": 3990.57,
-    "last_checked": 1781633318.3081152
+    "uptime_percent": 24.75,
+    "asn": "AS36992",
+    "isp": "Etisalat Misr Mobile BB",
+    "latency_ms": 10562.51,
+    "last_checked": 1781633928.9005125
   },
   {
     "protocol": "http",
@@ -26,22 +41,52 @@
     "uptime_percent": 13.96,
     "asn": "AS36992",
     "isp": "Etisalat",
-    "latency_ms": 16676.61,
-    "last_checked": 1781633308.4158537
+    "latency_ms": 6503.71,
+    "last_checked": 1781633915.3195143
   },
   {
     "protocol": "http",
-    "ip": "41.33.172.171",
+    "ip": "197.164.101.10",
     "port": 1976,
     "country": "Egypt",
     "country_code": "EG",
     "city": "Cairo",
-    "anonymity": "anonymous",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 10.54,
-    "asn": "AS8452",
-    "isp": "TE Data",
-    "latency_ms": 14653.53,
-    "last_checked": 1781633294.8866363
+    "uptime_percent": 14.47,
+    "asn": "AS24863",
+    "isp": "Link Egypt (Link.NET)",
+    "latency_ms": 8650.21,
+    "last_checked": 1781633879.8521688
+  },
+  {
+    "protocol": "http",
+    "ip": "41.128.72.142",
+    "port": 1981,
+    "country": "Egypt",
+    "country_code": "EG",
+    "city": "Cairo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.77,
+    "asn": "AS24863",
+    "isp": "LINKdotNET AS number",
+    "latency_ms": 10441.66,
+    "last_checked": 1781633856.4772007
+  },
+  {
+    "protocol": "http",
+    "ip": "197.164.101.10",
+    "port": 1981,
+    "country": "Egypt",
+    "country_code": "EG",
+    "city": "Giza",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.46,
+    "asn": "AS24863",
+    "isp": "Link Egypt (Link.NET)",
+    "latency_ms": 8309.98,
+    "last_checked": 1781633824.1206772
   }
 ]
