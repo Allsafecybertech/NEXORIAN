@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "77.239.114.179",
-    "port": 3128,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.1,
-    "asn": "AS207567",
-    "isp": "Intezio Worldwide Limited",
-    "latency_ms": 5541.66,
-    "last_checked": 1781621632.000437
-  },
-  {
-    "protocol": "http",
     "ip": "178.212.144.7",
     "port": 80,
     "country": "Poland",
@@ -26,8 +11,23 @@
     "uptime_percent": 98.69,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 48.22,
-    "last_checked": 1781621629.9185245
+    "latency_ms": 46.24,
+    "last_checked": 1781621980.7073562
+  },
+  {
+    "protocol": "http",
+    "ip": "81.200.154.236",
+    "port": 48503,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 74.32,
+    "asn": "AS210976",
+    "isp": "Timeweb, LLP",
+    "latency_ms": 108.83,
+    "last_checked": 1781621969.7473838
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "PL",
     "city": "Chojnice",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 20.8,
     "asn": "AS199250",
     "isp": "Ckpartnet Network",
-    "latency_ms": 6739.06,
-    "last_checked": 1781621579.3104184
+    "latency_ms": 17823.58,
+    "last_checked": 1781621950.462794
+  },
+  {
+    "protocol": "http",
+    "ip": "77.239.114.179",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.1,
+    "asn": "AS207567",
+    "isp": "Intezio Worldwide Limited",
+    "latency_ms": 12172.12,
+    "last_checked": 1781621914.886954
   }
 ]
