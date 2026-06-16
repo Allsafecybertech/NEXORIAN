@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "94.200.195.220",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "47.91.110.148",
+    "port": 8123,
     "country": "United Arab Emirates",
     "country_code": "AE",
     "city": "Dubai",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.71,
-    "asn": "AS15802",
-    "isp": "Emirates Integrated Telecommunications Company PJSC",
-    "latency_ms": 3171.55,
-    "last_checked": 1781609373.8078685
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.23,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 4743.3,
+    "last_checked": 1781609669.727596
+  },
+  {
+    "protocol": "socks4",
+    "ip": "47.91.110.148",
+    "port": 1266,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.12,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 10413.37,
+    "last_checked": 1781609665.7137008
   },
   {
     "protocol": "http",
@@ -23,41 +38,11 @@
     "city": "Dubai",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 66.3,
+    "uptime_percent": 66.31,
     "asn": "AS21859",
     "isp": "Zenlayer Inc",
-    "latency_ms": 12733.35,
-    "last_checked": 1781609359.730763
-  },
-  {
-    "protocol": "http",
-    "ip": "47.91.115.179",
-    "port": 1000,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 1.03,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 2268.62,
-    "last_checked": 1781609333.2805548
-  },
-  {
-    "protocol": "http",
-    "ip": "47.91.115.179",
-    "port": 8090,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 1.19,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 2270.28,
-    "last_checked": 1781609328.253775
+    "latency_ms": 11201.91,
+    "last_checked": 1781609628.1280277
   },
   {
     "protocol": "http",
@@ -71,7 +56,22 @@
     "uptime_percent": 79.13,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 4715.04,
-    "last_checked": 1781609273.7276313
+    "latency_ms": 7309.52,
+    "last_checked": 1781609600.1886973
+  },
+  {
+    "protocol": "socks5",
+    "ip": "129.151.128.225",
+    "port": 1080,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Masdar City",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.9,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1846.04,
+    "last_checked": 1781609495.8034215
   }
 ]
