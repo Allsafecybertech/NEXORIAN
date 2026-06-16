@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.54,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 8278.19,
-    "last_checked": 1781627069.394072
-  },
-  {
-    "protocol": "socks4",
     "ip": "83.56.15.57",
     "port": 5678,
     "country": "Spain",
@@ -26,8 +11,23 @@
     "uptime_percent": 25.91,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 186.22,
-    "last_checked": 1781627067.901795
+    "latency_ms": 177.97,
+    "last_checked": 1781627693.3377178
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.62.226.187",
+    "port": 9051,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.51,
+    "asn": "AS214036",
+    "isp": "Ultahost, Inc.",
+    "latency_ms": 7348.32,
+    "last_checked": 1781627689.2167592
   },
   {
     "protocol": "socks5",
@@ -38,25 +38,40 @@
     "city": "Olot",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.65,
+    "uptime_percent": 46.64,
     "asn": "AS210086",
     "isp": "Connecta 1876 SLU",
-    "latency_ms": 8116.45,
-    "last_checked": 1781627062.5190089
+    "latency_ms": 7529.45,
+    "last_checked": 1781627607.494155
   },
   {
-    "protocol": "http",
-    "ip": "212.231.191.23",
+    "protocol": "socks5",
+    "ip": "168.245.197.146",
     "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ocaña",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.8,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 1562.14,
+    "last_checked": 1781627588.5831647
+  },
+  {
+    "protocol": "socks5",
+    "ip": "65.20.105.241",
+    "port": 10001,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 75.16,
-    "asn": "AS15704",
-    "isp": "Xtra Telecom S.A",
-    "latency_ms": 129.97,
-    "last_checked": 1781627044.6076338
+    "ssl": true,
+    "uptime_percent": 34.87,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 4194.28,
+    "last_checked": 1781627569.5670984
   }
 ]
