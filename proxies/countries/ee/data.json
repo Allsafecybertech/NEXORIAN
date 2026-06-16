@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.7,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 1185.75,
+    "last_checked": 1781615699.0988991
+  },
+  {
     "protocol": "socks5",
     "ip": "5.45.118.209",
     "port": 1080,
@@ -8,41 +23,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.03,
+    "uptime_percent": 48.2,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 282.25,
-    "last_checked": 1781615079.6567304
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 36.95,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 3087.26,
-    "last_checked": 1781615062.5236363
-  },
-  {
-    "protocol": "socks5",
-    "ip": "178.130.46.234",
-    "port": 10801,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 89.4,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2244.79,
-    "last_checked": 1781615020.6107545
+    "latency_ms": 323.52,
+    "last_checked": 1781615685.6098027
   },
   {
     "protocol": "socks5",
@@ -56,7 +41,37 @@
     "uptime_percent": 63.72,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1225.71,
-    "last_checked": 1781614982.668647
+    "latency_ms": 2999.98,
+    "last_checked": 1781615670.4186223
+  },
+  {
+    "protocol": "socks5",
+    "ip": "178.130.46.234",
+    "port": 10801,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 89.4,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 289.17,
+    "last_checked": 1781615666.572152
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 36.96,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 13244.0,
+    "last_checked": 1781615540.6523244
   }
 ]

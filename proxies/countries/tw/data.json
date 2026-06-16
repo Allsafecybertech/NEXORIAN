@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "165.154.243.94",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "27.147.28.73",
+    "port": 8080,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taipei City",
+    "city": "Xindian District",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 6.92,
+    "asn": "AS18429",
+    "isp": "Extra-Lan Technologies Co., LTD",
+    "latency_ms": 7206.35,
+    "last_checked": 1781615656.8719497
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.235",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.46,
-    "asn": "AS142002",
-    "isp": "Scloud Pte Ltd",
-    "latency_ms": 1445.7,
-    "last_checked": 1781615050.0870955
+    "uptime_percent": 20.75,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 14125.02,
+    "last_checked": 1781615576.0367918
   },
   {
     "protocol": "socks5",
@@ -26,7 +41,22 @@
     "uptime_percent": 99.77,
     "asn": "AS142002",
     "isp": "Scloud Pte Ltd",
-    "latency_ms": 1562.34,
-    "last_checked": 1781614968.277251
+    "latency_ms": 2816.53,
+    "last_checked": 1781615700.1365912
+  },
+  {
+    "protocol": "socks5",
+    "ip": "165.154.243.94",
+    "port": 1080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei City",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.52,
+    "asn": "AS142002",
+    "isp": "Scloud Pte Ltd",
+    "latency_ms": 1917.15,
+    "last_checked": 1781615652.8260114
   }
 ]
