@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "91.150.189.122",
-    "port": 60647,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Rzeszów",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 18.52,
-    "asn": "AS42673",
-    "isp": "Skyware Sp. z o.o.",
-    "latency_ms": 1206.07,
-    "last_checked": 1781617765.8209023
-  },
-  {
     "protocol": "http",
     "ip": "178.212.144.7",
     "port": 80,
@@ -26,26 +11,11 @@
     "uptime_percent": 98.69,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 46.9,
-    "last_checked": 1781617760.936712
+    "latency_ms": 45.6,
+    "last_checked": 1781618367.5450234
   },
   {
-    "protocol": "http",
-    "ip": "148.81.121.5",
-    "port": 8080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 12.43,
-    "asn": "AS1887",
-    "isp": "WAWPOLIP",
-    "latency_ms": 3363.21,
-    "last_checked": 1781617736.5682166
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "95.214.54.200",
     "port": 1080,
     "country": "Poland",
@@ -53,11 +23,26 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.39,
+    "uptime_percent": 39.19,
     "asn": "AS201814",
     "isp": "MEVSPACE sp. z o.o.",
-    "latency_ms": 1900.19,
-    "last_checked": 1781617732.8211927
+    "latency_ms": 4412.88,
+    "last_checked": 1781618365.6182811
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.144.49.156",
+    "port": 1080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.34,
+    "asn": "AS49791",
+    "isp": "3hcloud",
+    "latency_ms": 340.14,
+    "last_checked": 1781618364.8196998
   },
   {
     "protocol": "http",
@@ -68,10 +53,25 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.43,
+    "uptime_percent": 74.41,
     "asn": "AS210976",
     "isp": "Timeweb, LLP",
-    "latency_ms": 5198.97,
-    "last_checked": 1781617726.9585588
+    "latency_ms": 354.97,
+    "last_checked": 1781618346.3246515
+  },
+  {
+    "protocol": "http",
+    "ip": "77.239.114.179",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.07,
+    "asn": "AS207567",
+    "isp": "Intezio Worldwide Limited",
+    "latency_ms": 11093.33,
+    "last_checked": 1781618253.9678905
   }
 ]
