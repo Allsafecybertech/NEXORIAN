@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "13.114.160.78",
+    "port": 80,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Tokyo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 93.1,
+    "asn": "AS16509",
+    "isp": "Amazon Technologies Inc",
+    "latency_ms": 1417.2,
+    "last_checked": 1781643555.677898
+  },
+  {
+    "protocol": "http",
     "ip": "74.176.195.135",
     "port": 80,
     "country": "Japan",
@@ -11,23 +26,8 @@
     "uptime_percent": 97.18,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 722.02,
-    "last_checked": 1781642967.9882948
-  },
-  {
-    "protocol": "http",
-    "ip": "133.232.90.156",
-    "port": 80,
-    "country": "Japan",
-    "country_code": "JP",
-    "city": "Chiyoda City",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 6.12,
-    "asn": "AS2514",
-    "isp": "NTT PC Communications, Inc.",
-    "latency_ms": 4115.67,
-    "last_checked": 1781642942.8799717
+    "latency_ms": 765.56,
+    "last_checked": 1781643555.6500695
   },
   {
     "protocol": "http",
@@ -41,23 +41,38 @@
     "uptime_percent": 76.66,
     "asn": "AS45102",
     "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 4112.56,
-    "last_checked": 1781642935.254049
+    "latency_ms": 6214.95,
+    "last_checked": 1781643554.7301712
   },
   {
     "protocol": "http",
-    "ip": "13.114.160.78",
+    "ip": "133.232.90.156",
     "port": 80,
     "country": "Japan",
     "country_code": "JP",
-    "city": "Tokyo",
+    "city": "Chiyoda City",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 93.1,
-    "asn": "AS16509",
-    "isp": "Amazon Technologies Inc",
-    "latency_ms": 2729.33,
-    "last_checked": 1781642934.413826
+    "uptime_percent": 6.12,
+    "asn": "AS2514",
+    "isp": "NTT PC Communications, Inc.",
+    "latency_ms": 14167.21,
+    "last_checked": 1781643545.9490201
+  },
+  {
+    "protocol": "http",
+    "ip": "168.138.202.218",
+    "port": 3128,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Tokyo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.34,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 13681.28,
+    "last_checked": 1781643543.2752495
   },
   {
     "protocol": "http",
@@ -68,11 +83,26 @@
     "city": "Chiyoda City",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 17.72,
+    "uptime_percent": 17.82,
     "asn": "AS58791",
     "isp": "GMO Internet, Inc",
-    "latency_ms": 6298.11,
-    "last_checked": 1781642932.1020882
+    "latency_ms": 10526.38,
+    "last_checked": 1781643530.890721
+  },
+  {
+    "protocol": "http",
+    "ip": "154.36.184.20",
+    "port": 3128,
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Tokyo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 18.67,
+    "asn": "AS979",
+    "isp": "NetLab Global",
+    "latency_ms": 3295.94,
+    "last_checked": 1781643526.3659387
   },
   {
     "protocol": "http",
@@ -82,12 +112,12 @@
     "country_code": "JP",
     "city": "Tokyo",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 77.32,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 3779.26,
-    "last_checked": 1781642922.6714437
+    "latency_ms": 3805.94,
+    "last_checked": 1781643504.324442
   },
   {
     "protocol": "http",
@@ -101,53 +131,8 @@
     "uptime_percent": 24.14,
     "asn": "AS2514",
     "isp": "NTT PC Communications, Inc.",
-    "latency_ms": 7844.13,
-    "last_checked": 1781642906.5841486
-  },
-  {
-    "protocol": "http",
-    "ip": "158.101.89.163",
-    "port": 3123,
-    "country": "Japan",
-    "country_code": "JP",
-    "city": "Tokyo",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 20.49,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 14222.94,
-    "last_checked": 1781642905.9374354
-  },
-  {
-    "protocol": "http",
-    "ip": "61.118.38.234",
-    "port": 60808,
-    "country": "Japan",
-    "country_code": "JP",
-    "city": "Honchō",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 7.58,
-    "asn": "AS4713",
-    "isp": "Open Computer Network",
-    "latency_ms": 5498.2,
-    "last_checked": 1781642880.3323412
-  },
-  {
-    "protocol": "http",
-    "ip": "64.176.36.91",
-    "port": 8888,
-    "country": "Japan",
-    "country_code": "JP",
-    "city": "Osaka",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 33.96,
-    "asn": "AS20473",
-    "isp": "The Constant Company",
-    "latency_ms": 6891.6,
-    "last_checked": 1781642876.848373
+    "latency_ms": 3751.21,
+    "last_checked": 1781643489.2089393
   },
   {
     "protocol": "http",
@@ -161,7 +146,7 @@
     "uptime_percent": 99.93,
     "asn": "AS2497",
     "isp": "Japan Network Information Center",
-    "latency_ms": 747.46,
-    "last_checked": 1781642956.986719
+    "latency_ms": 715.64,
+    "last_checked": 1781643568.402597
   }
 ]
