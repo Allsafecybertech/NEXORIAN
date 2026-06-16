@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 89.03,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 4610.99,
-    "last_checked": 1781575168.537756
-  },
-  {
-    "protocol": "http",
-    "ip": "86.121.33.98",
-    "port": 80,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Ocna Mureş",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 3.98,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 14381.02,
-    "last_checked": 1781575121.409315
-  },
-  {
-    "protocol": "http",
     "ip": "89.136.79.157",
     "port": 8085,
     "country": "Romania",
@@ -41,22 +11,37 @@
     "uptime_percent": 28.1,
     "asn": "AS12302",
     "isp": "UPC Romania",
-    "latency_ms": 6346.75,
-    "last_checked": 1781575111.8684056
+    "latency_ms": 3267.62,
+    "last_checked": 1781575769.2865126
   },
   {
-    "protocol": "socks5",
-    "ip": "85.121.51.40",
-    "port": 9091,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.72,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 1213.24,
+    "last_checked": 1781575764.5601435
+  },
+  {
+    "protocol": "http",
+    "ip": "185.141.26.131",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
     "city": "Bucharest",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 21.63,
-    "asn": "AS9009",
-    "isp": "M247 Europe SRL",
-    "latency_ms": 1284.18,
-    "last_checked": 1781575100.3948996
+    "uptime_percent": 89.04,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 81.76,
+    "last_checked": 1781575748.90205
   }
 ]

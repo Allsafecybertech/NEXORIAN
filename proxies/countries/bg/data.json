@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "87.126.65.14",
-    "port": 8088,
+    "protocol": "socks4",
+    "ip": "149.62.230.50",
+    "port": 1080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Stara Zagora",
-    "anonymity": "transparent",
+    "city": "Sofia",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.39,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 9637.67,
-    "last_checked": 1781575163.9110327
+    "uptime_percent": 53.35,
+    "asn": "AS29244",
+    "isp": "CETIN Bulgaria EAD",
+    "latency_ms": 7302.2,
+    "last_checked": 1781575764.9570825
   },
   {
-    "protocol": "socks4",
-    "ip": "93.123.121.3",
+    "protocol": "http",
+    "ip": "85.187.224.21",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pirdop",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.59,
-    "asn": "AS44851",
-    "isp": "Retel JSC",
-    "latency_ms": 4227.1,
-    "last_checked": 1781575146.5733333
+    "city": "Kardzhali",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.1,
+    "asn": "AS199173",
+    "isp": "Technolux Ltd",
+    "latency_ms": 12861.38,
+    "last_checked": 1781575756.628242
   },
   {
     "protocol": "http",
@@ -38,10 +38,25 @@
     "city": "Haskovo",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 49.01,
+    "uptime_percent": 49.02,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 16841.52,
-    "last_checked": 1781575124.5803835
+    "latency_ms": 12890.28,
+    "last_checked": 1781575690.6692698
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.12",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.64,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 2760.82,
+    "last_checked": 1781575751.591948
   }
 ]
