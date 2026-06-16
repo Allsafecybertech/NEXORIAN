@@ -1,17 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "213.169.33.10",
+    "ip": "79.132.21.211",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Burgas",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.85,
+    "asn": "AS29084",
+    "isp": "ComNet Bulgaria Ltd.",
+    "latency_ms": 1590.26,
+    "last_checked": 1781620709.9318554
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.52,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 7249.72,
+    "last_checked": 1781620746.9878469
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.12",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.67,
+    "ssl": true,
+    "uptime_percent": 19.63,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 12301.88,
-    "last_checked": 1781620158.1839042
+    "latency_ms": 5497.63,
+    "last_checked": 1781620741.2599826
   }
 ]
