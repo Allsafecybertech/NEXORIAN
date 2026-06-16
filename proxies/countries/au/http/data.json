@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 35.29,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 3895.16,
+    "last_checked": 1781647759.3585644
+  },
+  {
+    "protocol": "http",
     "ip": "192.9.182.6",
     "port": 20172,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 99.19,
+    "ssl": true,
+    "uptime_percent": 99.17,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 503.72,
-    "last_checked": 1781647124.4515078
+    "latency_ms": 1520.82,
+    "last_checked": 1781647746.4021826
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 94.53,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 591.04,
-    "last_checked": 1781647103.885631
+    "latency_ms": 500.0,
+    "last_checked": 1781647716.8875697
   }
 ]
