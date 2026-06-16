@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "149.62.230.50",
-    "port": 1080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 53.21,
-    "asn": "AS29244",
-    "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 1187.0,
-    "last_checked": 1781605437.5317118
-  },
-  {
-    "protocol": "socks4",
     "ip": "109.160.97.49",
     "port": 4145,
     "country": "Bulgaria",
@@ -26,37 +11,52 @@
     "uptime_percent": 12.54,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 239.97,
-    "last_checked": 1781605437.376749
+    "latency_ms": 260.05,
+    "last_checked": 1781606034.455857
   },
   {
     "protocol": "http",
-    "ip": "79.132.21.211",
+    "ip": "82.137.90.192",
+    "port": 80,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Haskovo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 49.05,
+    "asn": "AS8866",
+    "isp": "Bulgarian Telecommunications Company Plc.",
+    "latency_ms": 15323.63,
+    "last_checked": 1781606013.4369147
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.123.121.3",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Burgas",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.11,
-    "asn": "AS29084",
-    "isp": "ComNet Bulgaria Ltd.",
-    "latency_ms": 9738.32,
-    "last_checked": 1781605402.6560235
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
+    "city": "Pirdop",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 11.51,
-    "asn": "AS8717",
-    "isp": "Spectrum NET",
-    "latency_ms": 127.86,
-    "last_checked": 1781605458.1601255
+    "uptime_percent": 23.42,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 1107.64,
+    "last_checked": 1781606011.532957
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 56.47,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 8490.22,
+    "last_checked": 1781605876.0597527
   }
 ]
