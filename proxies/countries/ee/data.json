@@ -1,21 +1,21 @@
 [
   {
     "protocol": "socks5",
-    "ip": "5.101.120.25",
+    "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.97,
+    "uptime_percent": 63.5,
     "asn": "AS198068",
-    "isp": "P.A.G.M. OU",
-    "latency_ms": 1241.16,
-    "last_checked": 1781652546.4661899
+    "isp": "PAGM network",
+    "latency_ms": 5300.32,
+    "last_checked": 1781653171.7147548
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "89.150.40.241",
     "port": 1080,
     "country": "Estonia",
@@ -23,11 +23,26 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.25,
+    "uptime_percent": 49.13,
     "asn": "AS59711",
     "isp": "HZ Hosting Ltd",
-    "latency_ms": 3318.61,
-    "last_checked": 1781652516.3813431
+    "latency_ms": 10956.86,
+    "last_checked": 1781653147.3923059
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.101.120.25",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 88.98,
+    "asn": "AS198068",
+    "isp": "P.A.G.M. OU",
+    "latency_ms": 4071.44,
+    "last_checked": 1781653144.4027057
   },
   {
     "protocol": "socks5",
@@ -41,22 +56,22 @@
     "uptime_percent": 89.43,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 152.26,
-    "last_checked": 1781652490.4577298
+    "latency_ms": 1165.36,
+    "last_checked": 1781652920.5154655
   },
   {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
+    "protocol": "socks5",
+    "ip": "89.150.40.241",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 37.0,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 1971.17,
-    "last_checked": 1781652487.425365
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.41,
+    "asn": "AS59711",
+    "isp": "HZ Hosting Ltd",
+    "latency_ms": 9335.79,
+    "last_checked": 1781652856.0879128
   }
 ]
