@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "200.106.236.142",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "Tegucigalpa",
+    "city": "San Pedro Sula",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.94,
-    "asn": "AS23383",
-    "isp": "Metrored S.a. De C.V.",
-    "latency_ms": 7567.9,
-    "last_checked": 1781648370.473251
+    "uptime_percent": 13.11,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 771.45,
+    "last_checked": 1781648958.2451317
+  },
+  {
+    "protocol": "http",
+    "ip": "38.226.222.5",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.39,
+    "asn": "AS274085",
+    "isp": "Corporate Solutions S De RL De CV",
+    "latency_ms": 2902.99,
+    "last_checked": 1781648925.755938
   },
   {
     "protocol": "http",
@@ -22,11 +37,11 @@
     "country_code": "HN",
     "city": "La Unión",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 54.86,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 12786.35,
-    "last_checked": 1781648327.5785801
+    "latency_ms": 10201.82,
+    "last_checked": 1781648917.899853
   }
 ]
