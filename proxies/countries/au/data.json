@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "134.199.164.215",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "54.79.50.67",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 52.63,
+    "asn": "AS16509",
+    "isp": "Amazon Corporate Services Pty Ltd, Amazon.com, Inc.",
+    "latency_ms": 544.83,
+    "last_checked": 1781631856.5989702
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 84.55,
+    "ssl": false,
+    "uptime_percent": 94.53,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 5552.86,
-    "last_checked": 1781631195.7383947
+    "latency_ms": 503.22,
+    "last_checked": 1781631854.7785463
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.81,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 1774.15,
+    "last_checked": 1781631836.6449437
   },
   {
     "protocol": "http",
@@ -23,11 +53,11 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 99.67,
+    "uptime_percent": 99.65,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 507.25,
-    "last_checked": 1781631195.3581913
+    "latency_ms": 522.33,
+    "last_checked": 1781631817.4612978
   },
   {
     "protocol": "socks5",
@@ -41,22 +71,7 @@
     "uptime_percent": 92.08,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 2493.81,
-    "last_checked": 1781631131.1442704
-  },
-  {
-    "protocol": "socks5",
-    "ip": "103.248.47.230",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Kurnell",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 47.82,
-    "asn": "AS133417",
-    "isp": "Dicker Data Ltd",
-    "latency_ms": 1738.35,
-    "last_checked": 1781630964.3875554
+    "latency_ms": 2172.26,
+    "last_checked": 1781631769.8236804
   }
 ]
