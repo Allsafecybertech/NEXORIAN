@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "155.93.96.210",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "154.113.198.17",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Ojota",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.25,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 640.73,
+    "last_checked": 1781609381.5507395
+  },
+  {
+    "protocol": "http",
+    "ip": "129.222.204.27",
+    "port": 10000,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 11.31,
-    "asn": "AS16284",
-    "isp": "Vodacom Business Nigeria",
-    "latency_ms": 12955.67,
-    "last_checked": 1781608722.3092825
+    "uptime_percent": 31.29,
+    "asn": "AS14593",
+    "isp": "Space Exploration Technologies Corporation",
+    "latency_ms": 10352.43,
+    "last_checked": 1781609368.5172787
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.69.146.59",
+    "port": 7080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.19,
+    "asn": "AS328451",
+    "isp": "IP Express Ltd",
+    "latency_ms": 11539.6,
+    "last_checked": 1781609329.2803636
   }
 ]

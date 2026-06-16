@@ -1,36 +1,41 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,47.79.119.13,8080,Singapore,SG,Singapore,elite,true,98.35,AS45102,Alibaba.com LLC,915.33,1781608779.3682911
-socks4,168.144.41.8,1080,Singapore,SG,Singapore,elite,true,96.75,AS14061,"DigitalOcean, LLC",8302.79,1781608777.7572112
-socks4,34.124.190.108,8080,Singapore,SG,Singapore,elite,true,36.99,AS396982,Google LLC,2992.99,1781608774.715774
-socks5,43.156.208.80,1080,Singapore,SG,Singapore,elite,true,62.74,AS132203,Shenzhen Tencent Computer Systems Company Limited,3194.79,1781608771.6369023
-socks5,47.236.177.236,1080,Singapore,SG,Singapore,elite,true,89.16,AS45102,"Alibaba (US) Technology Co., Ltd.",1004.44,1781608770.6904101
-socks5,168.144.41.8,1080,Singapore,SG,Singapore,elite,true,96.66,AS14061,"DigitalOcean, LLC",8370.83,1781608753.8197963
-http,47.79.119.13,8080,Singapore,SG,Singapore,elite,true,98.65,AS45102,Alibaba.com LLC,471.03,1781608753.3718722
-socks4,47.237.2.245,87,Singapore,SG,Singapore,elite,true,1.65,AS45102,"Alibaba (US) Technology Co., Ltd.",3337.78,1781608752.70724
-socks4,134.209.98.206,1080,Singapore,SG,Singapore,elite,true,70.39,AS14061,"DigitalOcean, LLC",2838.39,1781608751.7209957
-socks4,8.219.70.174,443,Singapore,SG,Singapore,elite,true,32.98,AS45102,Alibaba Cloud (Singapore) Private Limited,747.09,1781608751.22806
-http,129.226.93.232,80,Singapore,SG,Singapore,elite,false,87.5,AS132203,Tencent Cloud Computing (Beijing) Co,10369.24,1781608750.803984
-socks4,47.237.2.245,9098,Singapore,SG,Singapore,elite,true,1.07,AS45102,"Alibaba (US) Technology Co., Ltd.",6351.77,1781608749.680851
-socks4,47.237.2.245,8081,Singapore,SG,Singapore,elite,true,1.18,AS45102,"Alibaba (US) Technology Co., Ltd.",10441.3,1781608745.725594
-socks5,124.156.197.209,1080,Singapore,SG,Singapore,elite,true,99.86,AS132203,Tencent Cloud Computing (Beijing) Co,2583.51,1781608743.6569054
-socks4,159.223.87.50,443,Singapore,SG,Singapore,elite,true,61.05,AS14061,"DigitalOcean, LLC",2807.47,1781608739.9169798
-http,47.245.117.43,80,Singapore,SG,Singapore,elite,false,12.97,AS45102,"Alibaba (US) Technology Co., Ltd.",466.12,1781608738.51589
-http,97.74.87.226,80,Singapore,SG,Singapore,elite,false,70.68,AS26496,"GoDaddy.com, LLC",409.04,1781608735.6374578
-http,15.235.193.159,10046,Singapore,SG,Singapore,elite,false,18.07,AS16276,OVH SAS,5854.32,1781608734.6739721
-http,8.219.229.53,443,Singapore,SG,Singapore,elite,false,0.89,AS45102,"Alibaba (US) Technology Co., Ltd.",2388.95,1781608732.6315858
-socks5,138.199.25.13,3906,Singapore,SG,Singapore,elite,true,40.72,AS60068,DataCamp Limited,1219.13,1781608732.1668408
-socks5,47.79.119.13,8080,Singapore,SG,Singapore,elite,true,98.09,AS45102,Alibaba.com LLC,1001.52,1781608730.998827
-http,8.219.229.53,3129,Singapore,SG,Singapore,elite,false,1.59,AS45102,"Alibaba (US) Technology Co., Ltd.",2330.86,1781608728.354261
-socks5,194.76.172.30,1080,Singapore,SG,Singapore,elite,true,60.9,AS50053,Anton Levin,5002.84,1781608721.7950187
-socks5,34.124.190.108,8080,Singapore,SG,Singapore,elite,true,90.14,AS396982,Google LLC,3401.19,1781608717.6493459
-socks5,138.199.25.13,3901,Singapore,SG,Singapore,elite,true,38.04,AS60068,DataCamp Limited,11460.61,1781608713.5642836
-socks5,159.223.87.50,443,Singapore,SG,Singapore,elite,true,65.27,AS14061,"DigitalOcean, LLC",1203.78,1781608710.7872722
-socks5,45.32.119.194,9000,Singapore,SG,Singapore,elite,true,35.99,AS20473,The Constant Company,2240.55,1781608707.4410748
-http,159.223.87.50,443,Singapore,SG,Singapore,elite,true,59.26,AS14061,"DigitalOcean, LLC",404.35,1781608695.538379
-socks5,51.79.177.162,1010,Singapore,SG,Singapore,elite,true,99.96,AS16276,OVH SAS,985.51,1781608690.6685889
-http,47.237.92.86,88,Singapore,SG,Singapore,elite,false,1.05,AS45102,"Alibaba (US) Technology Co., Ltd.",5436.72,1781608686.6876152
-socks5,188.166.249.234,4000,Singapore,SG,Singapore,elite,true,90.55,AS14061,"DigitalOcean, LLC",6363.33,1781608677.2093368
-socks5,188.166.249.234,3128,Singapore,SG,Singapore,elite,true,94.69,AS14061,"DigitalOcean, LLC",8101.08,1781608670.1438658
-socks5,134.209.98.206,1080,Singapore,SG,Singapore,elite,true,56.05,AS14061,"DigitalOcean, LLC",721.34,1781608668.335244
-socks5,104.248.151.220,57554,Singapore,SG,Singapore,elite,true,50.32,AS14061,"DigitalOcean, LLC",7598.5,1781608633.2600708
-socks5,47.237.2.245,9098,Singapore,SG,Singapore,elite,true,1.64,AS45102,"Alibaba (US) Technology Co., Ltd.",6602.57,1781608632.4333413
+http,47.79.119.13,8080,Singapore,SG,Singapore,elite,true,98.65,AS45102,Alibaba.com LLC,472.89,1781609391.60927
+socks4,159.223.87.50,443,Singapore,SG,Singapore,elite,true,61.03,AS14061,"DigitalOcean, LLC",1046.08,1781609389.7182539
+socks5,124.156.197.209,1080,Singapore,SG,Singapore,elite,true,99.86,AS132203,Tencent Cloud Computing (Beijing) Co,1044.82,1781609389.4875114
+socks4,34.124.190.108,8080,Singapore,SG,Singapore,elite,true,36.99,AS396982,Google LLC,4140.87,1781609388.4319057
+socks4,47.79.119.13,8080,Singapore,SG,Singapore,elite,true,98.36,AS45102,Alibaba.com LLC,972.06,1781609382.9320447
+socks4,43.156.208.80,1080,Singapore,SG,Singapore,elite,true,65.82,AS132203,Shenzhen Tencent Computer Systems Company Limited,2399.29,1781609379.474185
+socks4,168.144.41.8,1080,Singapore,SG,Singapore,elite,true,96.75,AS14061,"DigitalOcean, LLC",8264.95,1781609378.7843175
+socks4,45.76.182.157,1081,Singapore,SG,Singapore,elite,true,97.35,AS20473,The Constant Company,904.37,1781609375.849686
+socks5,34.124.190.108,8080,Singapore,SG,Singapore,elite,true,90.14,AS396982,Google LLC,6787.07,1781609368.2095718
+socks5,43.156.208.80,1080,Singapore,SG,Singapore,elite,true,62.76,AS132203,Shenzhen Tencent Computer Systems Company Limited,2468.92,1781609365.7852242
+socks5,194.76.172.30,1080,Singapore,SG,Singapore,elite,true,60.89,AS50053,Anton Levin,2984.41,1781609365.2880583
+socks5,138.199.25.13,3906,Singapore,SG,Singapore,elite,true,40.72,AS60068,DataCamp Limited,2097.95,1781609363.6754959
+socks5,47.236.177.236,1080,Singapore,SG,Singapore,elite,true,89.89,AS45102,"Alibaba (US) Technology Co., Ltd.",1003.53,1781609358.6478796
+socks5,168.144.41.8,1080,Singapore,SG,Singapore,elite,true,96.66,AS14061,"DigitalOcean, LLC",8199.15,1781609355.1797507
+socks5,129.226.152.29,20000,Singapore,SG,Singapore,elite,true,24.91,AS132203,Tencent Cloud Computing (Beijing) Co,2467.6,1781609351.6284466
+socks5,138.199.25.13,3903,Singapore,SG,Singapore,elite,true,33.67,AS60068,DataCamp Limited,1971.81,1781609341.2820597
+http,97.74.87.226,80,Singapore,SG,Singapore,elite,false,70.68,AS26496,"GoDaddy.com, LLC",430.44,1781609341.0887454
+socks5,194.76.172.30,1081,Singapore,SG,Singapore,elite,true,66.87,AS50053,Anton Levin,7374.2,1781609340.8609743
+socks5,138.199.25.13,3905,Singapore,SG,Singapore,elite,true,38.64,AS60068,DataCamp Limited,3116.98,1781609338.0040865
+http,104.248.149.186,3128,Singapore,SG,Singapore,transparent,true,15.3,AS14061,"DigitalOcean, LLC",10467.63,1781609337.307279
+http,8.219.97.248,80,Singapore,SG,Singapore,elite,true,65.41,AS45102,Alibaba Cloud (Singapore) Private Limited,409.86,1781609329.6227071
+http,129.212.224.122,3128,Singapore,SG,Singapore,anonymous,true,17.44,AS14061,"DigitalOcean, LLC",4240.44,1781609321.3475735
+socks5,188.166.249.234,4000,Singapore,SG,Singapore,elite,true,90.55,AS14061,"DigitalOcean, LLC",5352.57,1781609321.2107763
+socks5,159.223.87.50,443,Singapore,SG,Singapore,elite,true,65.29,AS14061,"DigitalOcean, LLC",1441.99,1781609319.8007364
+socks5,51.79.177.162,1010,Singapore,SG,Singapore,elite,true,99.96,AS16276,OVH SAS,1030.85,1781609308.4125755
+socks5,47.79.119.13,8080,Singapore,SG,Singapore,elite,true,98.09,AS45102,Alibaba.com LLC,9434.11,1781609297.538188
+socks5,188.166.249.234,3128,Singapore,SG,Singapore,elite,true,94.69,AS14061,"DigitalOcean, LLC",4015.84,1781609288.6853132
+socks5,47.237.113.119,14,Singapore,SG,Singapore,elite,true,2.09,AS45102,"Alibaba (US) Technology Co., Ltd.",6346.11,1781609284.9388068
+socks5,8.222.248.34,443,Singapore,SG,Singapore,elite,true,21.12,AS45102,"Alibaba (US) Technology Co., Ltd.",1172.47,1781609283.9405758
+socks5,47.237.113.119,18081,Singapore,SG,Singapore,elite,true,2.01,AS45102,"Alibaba (US) Technology Co., Ltd.",6717.03,1781609283.271538
+socks5,47.237.113.119,8008,Singapore,SG,Singapore,elite,true,1.91,AS45102,"Alibaba (US) Technology Co., Ltd.",13682.1,1781609277.047927
+http,62.72.46.137,8080,Singapore,SG,Singapore,transparent,true,20.71,AS141995,Contabo Asia Private Limited,6901.0,1781609267.3559647
+socks5,43.106.60.21,1080,Singapore,SG,Singapore,elite,true,56.88,AS45102,"Alibaba (US) Technology Co., Ltd.",1077.34,1781609258.957656
+socks5,45.76.182.157,1081,Singapore,SG,Singapore,elite,true,96.35,AS20473,The Constant Company,982.54,1781609254.7668536
+socks5,104.248.151.220,57554,Singapore,SG,Singapore,elite,true,50.32,AS14061,"DigitalOcean, LLC",18277.85,1781609247.6514573
+socks5,64.176.82.76,1080,Singapore,SG,Singapore,elite,true,55.76,AS20473,"The Constant Company, LLC",11007.8,1781609235.1576247
+socks5,138.199.25.13,3901,Singapore,SG,Singapore,elite,true,38.05,AS60068,DataCamp Limited,12530.43,1781609235.0307178
+socks5,129.150.47.213,9050,Singapore,SG,Singapore,elite,true,33.36,AS31898,Oracle Corporation,21116.94,1781609112.319043
+socks5,209.74.82.220,1080,Singapore,SG,Singapore,elite,true,79.62,AS22612,"Namecheap, Inc.",1109.35,1781609400.2674627
+http,213.35.113.150,6969,Singapore,SG,Singapore,transparent,true,31.94,AS31898,Oracle Corporation,8213.55,1781609386.4450772
