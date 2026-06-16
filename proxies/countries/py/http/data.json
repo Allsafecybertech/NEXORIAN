@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "181.78.27.38",
+    "ip": "190.128.195.58",
     "port": 999,
     "country": "Paraguay",
     "country_code": "PY",
     "city": "Asunción",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.07,
+    "uptime_percent": 10.0,
+    "asn": "AS23201",
+    "isp": "Telecel S.A.",
+    "latency_ms": 5829.63,
+    "last_checked": 1781568572.436828
+  },
+  {
+    "protocol": "http",
+    "ip": "181.78.217.50",
+    "port": 999,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Villa Hayes",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.24,
     "asn": "AS52468",
     "isp": "Ufinet Paraguay S.A",
-    "latency_ms": 1775.39,
-    "last_checked": 1781567962.3414023
+    "latency_ms": 13132.96,
+    "last_checked": 1781568448.3795033
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "PY",
     "city": "Fernando de la Mora",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 11.61,
     "asn": "AS27895",
     "isp": "Núcleo S.A.",
-    "latency_ms": 3877.33,
-    "last_checked": 1781567929.4318345
-  },
-  {
-    "protocol": "http",
-    "ip": "170.245.132.82",
-    "port": 9000,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Carapeguá",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.91,
-    "asn": "AS270096",
-    "isp": "MACHADO BAEZ, NERY JAVIER",
-    "latency_ms": 11161.99,
-    "last_checked": 1781567866.4925156
-  },
-  {
-    "protocol": "http",
-    "ip": "24.152.40.49",
-    "port": 8080,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Coronel Oviedo",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.98,
-    "asn": "AS269976",
-    "isp": "TV MAX CABLE S.A.",
-    "latency_ms": 13375.1,
-    "last_checked": 1781567838.402855
+    "latency_ms": 3022.68,
+    "last_checked": 1781568440.0556037
   }
 ]
