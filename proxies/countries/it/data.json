@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Consiglio di Rumo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 64.72,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 70.79,
+    "last_checked": 1781576401.339977
+  },
+  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -11,8 +26,8 @@
     "uptime_percent": 87.66,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 731.89,
-    "last_checked": 1781575757.5251017
+    "latency_ms": 3375.35,
+    "last_checked": 1781576397.7187521
   },
   {
     "protocol": "http",
@@ -26,22 +41,67 @@
     "uptime_percent": 21.02,
     "asn": "AS12874",
     "isp": "Fastweb SpA",
-    "latency_ms": 1570.88,
-    "last_checked": 1781575686.2881415
+    "latency_ms": 185.28,
+    "last_checked": 1781576365.9867086
   },
   {
     "protocol": "socks5",
-    "ip": "77.81.230.90",
-    "port": 9050,
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 84.48,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 4695.19,
+    "last_checked": 1781576332.6469314
+  },
+  {
+    "protocol": "http",
+    "ip": "85.235.150.219",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
     "city": "Arezzo",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 22.15,
+    "uptime_percent": 7.68,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 22767.65,
-    "last_checked": 1781575624.2909122
+    "latency_ms": 1562.33,
+    "last_checked": 1781576327.5538359
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.76,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 17311.78,
+    "last_checked": 1781576246.5232208
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.26.134",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 61.48,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 10854.93,
+    "last_checked": 1781576362.3290796
   }
 ]
