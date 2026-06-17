@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.204.190.140",
-    "port": 81,
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.88,
-    "asn": "AS42991",
-    "isp": "BioNet LLC",
-    "latency_ms": 9984.29,
-    "last_checked": 1781731391.275897
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.83,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 274.31,
+    "last_checked": 1781732050.6878932
+  },
+  {
+    "protocol": "http",
+    "ip": "91.103.248.58",
+    "port": 3128,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.89,
+    "asn": "AS201884",
+    "isp": "ISP SUPPORT LLC",
+    "latency_ms": 4510.36,
+    "last_checked": 1781732035.6249335
   }
 ]
