@@ -1,32 +1,47 @@
 [
   {
+    "protocol": "http",
+    "ip": "178.217.168.164",
+    "port": 55443,
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "city": "Bishkek",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.05,
+    "asn": "AS197119",
+    "isp": "KRENA - Kyrgyz research and education network association",
+    "latency_ms": 6522.42,
+    "last_checked": 1781693964.7002702
+  },
+  {
+    "protocol": "http",
+    "ip": "31.192.248.55",
+    "port": 8080,
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "city": "Bishkek",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.75,
+    "asn": "AS8449",
+    "isp": "\"ElCat\" Ltd.",
+    "latency_ms": 1737.18,
+    "last_checked": 1781693927.7120159
+  },
+  {
     "protocol": "socks5",
-    "ip": "85.113.12.130",
+    "ip": "80.72.180.122",
     "port": 1080,
     "country": "Kyrgyzstan",
     "country_code": "KG",
     "city": "Bishkek",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 19.6,
+    "uptime_percent": 54.48,
     "asn": "AS12997",
     "isp": "OJSC Kyrgyztelecom",
-    "latency_ms": 1682.08,
-    "last_checked": 1781693573.956038
-  },
-  {
-    "protocol": "http",
-    "ip": "212.112.121.130",
-    "port": 8080,
-    "country": "Kyrgyzstan",
-    "country_code": "KG",
-    "city": "Bishkek",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.64,
-    "asn": "AS12764",
-    "isp": "AKNET Ltd",
-    "latency_ms": 3929.23,
-    "last_checked": 1781693611.3199103
+    "latency_ms": 2154.71,
+    "last_checked": 1781693810.6139727
   }
 ]
