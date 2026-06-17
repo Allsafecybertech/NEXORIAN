@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "170.64.170.204",
-    "port": 8080,
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.53,
+    "ssl": true,
+    "uptime_percent": 92.08,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 503.64,
-    "last_checked": 1781682506.9916365
+    "latency_ms": 1931.35,
+    "last_checked": 1781683174.6614375
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.65,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 8936.52,
+    "last_checked": 1781683158.103938
   },
   {
     "protocol": "http",
@@ -26,8 +41,38 @@
     "uptime_percent": 99.03,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 507.16,
-    "last_checked": 1781682486.8927464
+    "latency_ms": 523.76,
+    "last_checked": 1781683132.2005107
+  },
+  {
+    "protocol": "http",
+    "ip": "103.131.232.9",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Goulburn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.15,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 2621.89,
+    "last_checked": 1781683087.618498
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.53,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1827.33,
+    "last_checked": 1781683082.845666
   },
   {
     "protocol": "socks5",
@@ -41,7 +86,7 @@
     "uptime_percent": 83.7,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1554.09,
-    "last_checked": 1781682419.7607117
+    "latency_ms": 1610.62,
+    "last_checked": 1781683068.6935782
   }
 ]
