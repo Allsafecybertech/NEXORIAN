@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "5.101.120.25",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 89.1,
+    "asn": "AS198068",
+    "isp": "P.A.G.M. OU",
+    "latency_ms": 7527.66,
+    "last_checked": 1781680467.1307719
+  },
+  {
     "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
@@ -8,26 +23,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.48,
+    "uptime_percent": 66.49,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 8338.3,
-    "last_checked": 1781679860.7197604
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.08,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 19752.7,
-    "last_checked": 1781679832.3322394
+    "latency_ms": 1162.9,
+    "last_checked": 1781680454.3213687
   },
   {
     "protocol": "socks5",
@@ -41,22 +41,37 @@
     "uptime_percent": 89.43,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1137.09,
-    "last_checked": 1781679762.994417
+    "latency_ms": 3154.74,
+    "last_checked": 1781680427.9068937
   },
   {
     "protocol": "socks5",
-    "ip": "89.150.40.241",
+    "ip": "5.45.125.201",
     "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.39,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 3694.6,
+    "last_checked": 1781680283.7304375
+  },
+  {
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.38,
-    "asn": "AS59711",
-    "isp": "HZ Hosting Ltd",
-    "latency_ms": 1325.21,
-    "last_checked": 1781679689.0843778
+    "ssl": false,
+    "uptime_percent": 16.78,
+    "asn": "AS211211",
+    "isp": "IT-Develop DOO",
+    "latency_ms": 10782.91,
+    "last_checked": 1781680280.9505672
   }
 ]

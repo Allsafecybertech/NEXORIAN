@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Karlovy Vary",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.75,
-    "asn": "AS201476",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.48,
+    "asn": "AS47232",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 1505.96,
-    "last_checked": 1781679854.8007224
+    "latency_ms": 78.42,
+    "last_checked": 1781680452.7483082
   },
   {
     "protocol": "http",
@@ -26,52 +26,7 @@
     "uptime_percent": 82.87,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2937.22,
-    "last_checked": 1781679851.977575
-  },
-  {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kryry",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.47,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1095.9,
-    "last_checked": 1781679850.113372
-  },
-  {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.94,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 7427.78,
-    "last_checked": 1781679799.8099296
-  },
-  {
-    "protocol": "http",
-    "ip": "78.108.103.87",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 28.94,
-    "asn": "AS8251",
-    "isp": "Neutral Free eXchange members - FreeTel alternate",
-    "latency_ms": 2412.61,
-    "last_checked": 1781679799.286791
+    "latency_ms": 6576.63,
+    "last_checked": 1781680433.4160328
   }
 ]
