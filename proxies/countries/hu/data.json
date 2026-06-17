@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "185.163.204.2",
-    "port": 60000,
+    "protocol": "socks4",
+    "ip": "84.2.239.42",
+    "port": 4153,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Hajdúnánás",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.17,
+    "asn": "AS5483",
+    "isp": "Magyar Telekom",
+    "latency_ms": 193.77,
+    "last_checked": 1781727265.6775138
+  },
+  {
+    "protocol": "http",
+    "ip": "45.130.240.238",
+    "port": 8080,
     "country": "Hungary",
     "country_code": "HU",
     "city": "Budapest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.62,
-    "asn": "AS56322",
-    "isp": "ServerAstra Kft.",
-    "latency_ms": 12554.9,
-    "last_checked": 1781726966.2749107
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.15,
+    "asn": "AS47169",
+    "isp": "Pro-M Zrt.",
+    "latency_ms": 1190.45,
+    "last_checked": 1781727242.0967016
   }
 ]
