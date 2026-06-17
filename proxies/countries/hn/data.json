@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "181.115.65.194",
+    "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 13.15,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 4.5,
     "asn": "AS14754",
     "isp": "Telgua",
-    "latency_ms": 1787.5,
-    "last_checked": 1781720973.3149624
+    "latency_ms": 4945.94,
+    "last_checked": 1781721557.7496207
+  },
+  {
+    "protocol": "http",
+    "ip": "38.226.222.5",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.5,
+    "asn": "AS274085",
+    "isp": "Corporate Solutions S De RL De CV",
+    "latency_ms": 4408.29,
+    "last_checked": 1781721497.9159107
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 22.67,
     "asn": "AS269919",
     "isp": "Honduvision SRL",
-    "latency_ms": 10657.29,
-    "last_checked": 1781720942.2285435
-  },
-  {
-    "protocol": "http",
-    "ip": "38.188.186.47",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Comayagua",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.8,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 6969.97,
-    "last_checked": 1781720929.107918
-  },
-  {
-    "protocol": "http",
-    "ip": "181.115.65.194",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "San Pedro Sula",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 4.5,
-    "asn": "AS14754",
-    "isp": "Telgua",
-    "latency_ms": 2355.5,
-    "last_checked": 1781720920.3259122
+    "latency_ms": 9198.96,
+    "last_checked": 1781721453.6401484
   }
 ]
