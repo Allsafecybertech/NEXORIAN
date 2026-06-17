@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
+    "ip": "2.139.232.101",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Alcobendas",
-    "anonymity": "elite",
+    "city": "Magaluf",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 24.42,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 2617.55,
+    "last_checked": 1781736524.5567558
+  },
+  {
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 20500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Valencia",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 65.6,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 5132.52,
-    "last_checked": 1781736251.4964495
+    "uptime_percent": 28.16,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 5912.51,
+    "last_checked": 1781736523.3758948
   },
   {
     "protocol": "http",
@@ -23,11 +38,11 @@
     "city": "Barcelona",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.83,
+    "uptime_percent": 26.85,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A.",
-    "latency_ms": 2783.23,
-    "last_checked": 1781736197.2314448
+    "latency_ms": 6391.89,
+    "last_checked": 1781736480.2439506
   },
   {
     "protocol": "http",
@@ -37,26 +52,41 @@
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.45,
+    "ssl": true,
+    "uptime_percent": 33.46,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 20783.6,
-    "last_checked": 1781736191.886298
+    "latency_ms": 21739.29,
+    "last_checked": 1781736467.767015
   },
   {
     "protocol": "http",
-    "ip": "81.0.49.104",
-    "port": 18359,
+    "ip": "188.227.140.181",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Valencia",
+    "city": "A Coruña",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 12.18,
+    "ssl": false,
+    "uptime_percent": 7.97,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 7698.73,
+    "last_checked": 1781736443.4523358
+  },
+  {
+    "protocol": "http",
+    "ip": "212.231.191.23",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 74.57,
     "asn": "AS15704",
-    "isp": "MasMovil Access Network",
-    "latency_ms": 5521.03,
-    "last_checked": 1781736177.2394092
+    "isp": "Xtra Telecom S.A",
+    "latency_ms": 5951.61,
+    "last_checked": 1781736507.4870272
   }
 ]
