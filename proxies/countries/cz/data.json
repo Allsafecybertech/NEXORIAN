@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
+    "city": "Kryry",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 5.73,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 1073.32,
-    "last_checked": 1781690375.9372065
+    "uptime_percent": 39.5,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 75.21,
+    "last_checked": 1781690951.5291593
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 16.96,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 1949.93,
+    "last_checked": 1781690933.3478634
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 82.88,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4929.4,
-    "last_checked": 1781690360.144673
+    "latency_ms": 4119.59,
+    "last_checked": 1781690932.562109
   },
   {
     "protocol": "http",
-    "ip": "45.139.91.62",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.75,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 4094.23,
+    "last_checked": 1781690890.579968
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
     "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
+    "city": "Dobříš",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 29.99,
-    "asn": "AS197296",
-    "isp": "United Networks SE",
-    "latency_ms": 3755.32,
-    "last_checked": 1781690327.8725019
+    "uptime_percent": 25.78,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 1775.01,
+    "last_checked": 1781690853.701012
   }
 ]
