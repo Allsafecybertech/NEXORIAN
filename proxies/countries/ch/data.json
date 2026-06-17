@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.65,
+    "uptime_percent": 87.94,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1764.03,
-    "last_checked": 1781666946.5408885
+    "latency_ms": 4538.02,
+    "last_checked": 1781667586.7859929
   },
   {
     "protocol": "http",
@@ -22,15 +22,15 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.02,
+    "ssl": true,
+    "uptime_percent": 67.03,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 3339.16,
-    "last_checked": 1781666945.2441924
+    "latency_ms": 2120.4,
+    "last_checked": 1781667579.8676765
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.101.85.133",
     "port": 9050,
     "country": "Switzerland",
@@ -38,26 +38,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 100.0,
+    "uptime_percent": 90.65,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 5942.03,
-    "last_checked": 1781666910.6762185
-  },
-  {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Tann",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.97,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 11272.83,
-    "last_checked": 1781666908.6799562
+    "latency_ms": 8129.43,
+    "last_checked": 1781667577.85633
   },
   {
     "protocol": "socks5",
@@ -71,7 +56,7 @@
     "uptime_percent": 85.82,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3763.73,
-    "last_checked": 1781666789.23888
+    "latency_ms": 5215.06,
+    "last_checked": 1781667502.7129164
   }
 ]
