@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 84.61,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 315.26,
-    "last_checked": 1781671483.083279
-  },
-  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -26,37 +11,67 @@
     "uptime_percent": 87.7,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 564.88,
-    "last_checked": 1781671477.5633547
+    "latency_ms": 1268.09,
+    "last_checked": 1781672093.3995037
   },
   {
     "protocol": "http",
-    "ip": "185.191.106.0",
-    "port": 8081,
+    "ip": "194.183.1.205",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.81,
+    "asn": "AS5394",
+    "isp": "UNIDATA S.p.A.",
+    "latency_ms": 5673.72,
+    "last_checked": 1781672067.1322584
+  },
+  {
+    "protocol": "http",
+    "ip": "93.42.151.100",
+    "port": 4443,
     "country": "Italy",
     "country_code": "IT",
     "city": "Milan",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 22.0,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 2420.26,
-    "last_checked": 1781671419.9880912
+    "uptime_percent": 21.29,
+    "asn": "AS12874",
+    "isp": "Fastweb SpA",
+    "latency_ms": 7358.5,
+    "last_checked": 1781672049.6033244
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "5.59.248.134",
-    "port": 8081,
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Pomezia",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.68,
+    "ssl": false,
+    "uptime_percent": 17.0,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 15950.77,
-    "last_checked": 1781671380.3137753
+    "latency_ms": 2616.55,
+    "last_checked": 1781672020.7200103
+  },
+  {
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 84.61,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 1256.6,
+    "last_checked": 1781671945.6833348
   }
 ]
