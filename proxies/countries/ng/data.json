@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "154.113.17.106",
+    "ip": "154.113.170.1",
     "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Lagos",
+    "city": "Benin City",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 3.86,
+    "uptime_percent": 12.31,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 599.47,
-    "last_checked": 1781686803.70594
+    "latency_ms": 590.17,
+    "last_checked": 1781687310.2296138
+  },
+  {
+    "protocol": "http",
+    "ip": "129.222.204.27",
+    "port": 10000,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.44,
+    "asn": "AS14593",
+    "isp": "Space Exploration Technologies Corporation",
+    "latency_ms": 3250.92,
+    "last_checked": 1781687293.3910224
   },
   {
     "protocol": "http",
@@ -22,41 +37,26 @@
     "country_code": "NG",
     "city": "Ebute-Metta",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 20.71,
     "asn": "AS328556",
     "isp": "Syscodes Communications",
-    "latency_ms": 1496.14,
-    "last_checked": 1781686734.417608
+    "latency_ms": 2197.96,
+    "last_checked": 1781687279.8864048
   },
   {
     "protocol": "http",
-    "ip": "143.105.102.145",
+    "ip": "41.203.76.166",
     "port": 8080,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 27.08,
-    "asn": "AS14593",
-    "isp": "Space Exploration Technologies Corporation",
-    "latency_ms": 13508.52,
-    "last_checked": 1781686685.594871
-  },
-  {
-    "protocol": "http",
-    "ip": "41.184.92.219",
-    "port": 80,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Abuja",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 57.21,
-    "asn": "AS29091",
-    "isp": "ipNX Nigeria Limited",
-    "latency_ms": 646.28,
-    "last_checked": 1781686678.3238206
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.94,
+    "asn": "AS37148",
+    "isp": "GLO",
+    "latency_ms": 2697.85,
+    "last_checked": 1781687268.9310453
   }
 ]
