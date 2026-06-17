@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Roșcani",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 60.58,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 197.32,
-    "last_checked": 1781721585.1658642
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.247.224.99",
-    "port": 39997,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.26,
-    "asn": "AS200651",
-    "isp": "FlokiNET ehf",
-    "latency_ms": 13552.01,
-    "last_checked": 1781721567.4172225
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.73,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 2186.65,
+    "last_checked": 1781722151.3911293
   },
   {
     "protocol": "http",
@@ -38,10 +23,40 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 90.34,
+    "uptime_percent": 90.35,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 37.02,
-    "last_checked": 1781721556.5698934
+    "latency_ms": 765.39,
+    "last_checked": 1781722134.5103464
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.247.224.99",
+    "port": 39997,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.28,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 17285.49,
+    "last_checked": 1781722114.8711512
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.77",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.89,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 7849.4,
+    "last_checked": 1781721977.3138998
   }
 ]
