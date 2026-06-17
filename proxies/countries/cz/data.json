@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 82.92,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3190.56,
-    "last_checked": 1781720317.5174136
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Dobříš",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.76,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 3931.63,
-    "last_checked": 1781720293.332344
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.54,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 3103.39,
+    "last_checked": 1781720989.3626564
   },
   {
     "protocol": "http",
@@ -41,7 +26,37 @@
     "uptime_percent": 7.76,
     "asn": "AS201476",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 1561.71,
-    "last_checked": 1781720207.2735336
+    "latency_ms": 3411.59,
+    "last_checked": 1781720957.5642047
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 82.92,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 4747.22,
+    "last_checked": 1781720929.895843
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 17.01,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 4682.19,
+    "last_checked": 1781720910.9364362
   }
 ]
