@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "47.250.159.65",
-    "port": 443,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Kuala Lumpur",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 1.08,
-    "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 10508.4,
-    "last_checked": 1781689716.679251
-  },
-  {
     "protocol": "http",
     "ip": "60.53.176.79",
     "port": 8080,
@@ -23,25 +8,40 @@
     "city": "Batu Pahat",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 29.77,
+    "uptime_percent": 29.76,
     "asn": "AS4788",
     "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-    "latency_ms": 2131.91,
-    "last_checked": 1781689677.3416328
+    "latency_ms": 2601.08,
+    "last_checked": 1781690361.3768208
   },
   {
-    "protocol": "http",
-    "ip": "175.143.19.216",
-    "port": 8081,
+    "protocol": "socks5",
+    "ip": "47.250.159.65",
+    "port": 50,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.25,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 9974.39,
+    "last_checked": 1781690319.0254235
+  },
+  {
+    "protocol": "http",
+    "ip": "175.139.233.79",
+    "port": 80,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Puchong",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 23.98,
+    "uptime_percent": 32.92,
     "asn": "AS4788",
-    "isp": "Telekom Malaysia Berhad",
-    "latency_ms": 4956.49,
-    "last_checked": 1781689659.9286566
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "latency_ms": 727.5,
+    "last_checked": 1781690267.5038395
   }
 ]
