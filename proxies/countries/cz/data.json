@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "192.124.172.245",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
+    "city": "Klatovy",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.32,
-    "asn": "AS26383",
-    "isp": "Baxet Group Inc.",
-    "latency_ms": 75.39,
-    "last_checked": 1781752451.002602
+    "uptime_percent": 5.75,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 7285.05,
+    "last_checked": 1781753027.7203019
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.7,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 3690.05,
+    "last_checked": 1781753019.9819798
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 82.96,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3397.25,
-    "last_checked": 1781752409.8005006
-  },
-  {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.09,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 10149.88,
-    "last_checked": 1781752399.791855
-  },
-  {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.53,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 4658.89,
-    "last_checked": 1781752323.6934345
+    "latency_ms": 2294.71,
+    "last_checked": 1781752967.86314
   }
 ]
