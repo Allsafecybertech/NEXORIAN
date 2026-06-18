@@ -1,21 +1,21 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Dobříš",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.64,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 1833.65,
-    "last_checked": 1781821122.611118
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.77,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 3121.65,
+    "last_checked": 1781821788.2429953
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "192.124.172.245",
     "port": 1080,
     "country": "Czechia",
@@ -23,10 +23,25 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.65,
+    "uptime_percent": 27.53,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 943.06,
-    "last_checked": 1781821019.8967426
+    "latency_ms": 78.87,
+    "last_checked": 1781821780.645498
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.55,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 1837.18,
+    "last_checked": 1781821672.6679285
   }
 ]
