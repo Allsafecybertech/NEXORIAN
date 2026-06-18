@@ -1,33 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "57.128.159.156",
-    "port": 21,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Erith",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 26.94,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 17570.68,
-    "last_checked": 1781802853.4941852
-  },
-  {
-    "protocol": "http",
     "ip": "81.168.119.85",
     "port": 443,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "Maidenhead",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 85.29,
     "asn": "AS20860",
     "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 401.01,
-    "last_checked": 1781802779.0443764
+    "latency_ms": 4521.12,
+    "last_checked": 1781803438.566
   },
   {
     "protocol": "http",
@@ -37,12 +22,27 @@
     "country_code": "GB",
     "city": "Portsmouth",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 18.3,
+    "ssl": false,
+    "uptime_percent": 18.31,
     "asn": "AS51167",
     "isp": "Contabo GmbH",
-    "latency_ms": 9916.72,
-    "last_checked": 1781802704.0600777
+    "latency_ms": 12413.45,
+    "last_checked": 1781803381.7864692
+  },
+  {
+    "protocol": "http",
+    "ip": "5.11.93.98",
+    "port": 8080,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Farnborough",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 6.54,
+    "asn": "AS196646",
+    "isp": "Datum Datacentres Limited",
+    "latency_ms": 212.8,
+    "last_checked": 1781803331.6431909
   },
   {
     "protocol": "http",
@@ -56,7 +56,7 @@
     "uptime_percent": 75.96,
     "asn": "AS8757",
     "isp": "NSFOCUS, Inc.",
-    "latency_ms": 788.36,
-    "last_checked": 1781802871.8447423
+    "latency_ms": 4219.63,
+    "last_checked": 1781803402.9631617
   }
 ]
