@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "86.127.175.42",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Baia Mare",
-    "anonymity": "transparent",
+    "city": "Ploieşti",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.13,
+    "uptime_percent": 20.74,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 132.68,
-    "last_checked": 1781744635.534755
+    "latency_ms": 218.42,
+    "last_checked": 1781745287.5031695
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.51.40",
+    "port": 9091,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.26,
+    "asn": "AS9009",
+    "isp": "M247 Europe SRL",
+    "latency_ms": 2466.37,
+    "last_checked": 1781745279.0869563
   },
   {
     "protocol": "http",
@@ -23,11 +38,11 @@
     "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 90.13,
+    "uptime_percent": 90.14,
     "asn": "AS199834",
     "isp": "IP Solus Inc",
-    "latency_ms": 56.1,
-    "last_checked": 1781744620.609652
+    "latency_ms": 69.53,
+    "last_checked": 1781745272.9710414
   },
   {
     "protocol": "http",
@@ -41,7 +56,37 @@
     "uptime_percent": 17.74,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 999.64,
-    "last_checked": 1781744577.004978
+    "latency_ms": 5621.89,
+    "last_checked": 1781745268.824948
+  },
+  {
+    "protocol": "http",
+    "ip": "86.127.175.42",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Baia Mare",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 54.27,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 100.64,
+    "last_checked": 1781745245.88919
+  },
+  {
+    "protocol": "http",
+    "ip": "89.136.79.157",
+    "port": 8085,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Brăila",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.47,
+    "asn": "AS12302",
+    "isp": "UPC Romania",
+    "latency_ms": 3142.66,
+    "last_checked": 1781745231.6305497
   }
 ]
