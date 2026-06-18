@@ -1,21 +1,21 @@
 [
   {
     "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Kryry",
+    "city": "Klatovy",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.54,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1102.91,
-    "last_checked": 1781780389.9744947
+    "uptime_percent": 5.76,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1061.85,
+    "last_checked": 1781780951.8557265
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "192.124.172.245",
     "port": 1080,
     "country": "Czechia",
@@ -23,11 +23,41 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.51,
+    "uptime_percent": 29.72,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 110.69,
-    "last_checked": 1781780363.159828
+    "latency_ms": 61.04,
+    "last_checked": 1781780947.8594506
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 82.99,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 6146.41,
+    "last_checked": 1781780931.2972772
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Šebetov",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.11,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 12264.51,
+    "last_checked": 1781780915.2574306
   },
   {
     "protocol": "http",
@@ -37,11 +67,11 @@
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 30.03,
     "asn": "AS197296",
     "isp": "United Networks SE",
-    "latency_ms": 1353.65,
-    "last_checked": 1781780304.0078452
+    "latency_ms": 3070.81,
+    "last_checked": 1781780871.2119303
   }
 ]
