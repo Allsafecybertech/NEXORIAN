@@ -1,18 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "45.95.232.35",
-    "port": 1080,
+    "ip": "5.101.85.133",
+    "port": 9050,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.96,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1698.51,
-    "last_checked": 1781765089.7807279
+    "uptime_percent": 55.65,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 3787.54,
+    "last_checked": 1781765669.6789093
   },
   {
     "protocol": "socks4",
@@ -23,26 +23,26 @@
     "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.11,
+    "uptime_percent": 26.15,
     "asn": "AS199058",
     "isp": "Serva ONE LTD",
-    "latency_ms": 4018.97,
-    "last_checked": 1781765077.2673986
+    "latency_ms": 6731.75,
+    "last_checked": 1781765665.1112921
   },
   {
-    "protocol": "socks5",
-    "ip": "45.85.93.15",
-    "port": 4567,
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Geneva",
+    "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.0,
-    "asn": "AS199058",
-    "isp": "Serva ONE LTD",
-    "latency_ms": 6641.71,
-    "last_checked": 1781765073.292673
+    "uptime_percent": 87.96,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 4174.32,
+    "last_checked": 1781765652.3093162
   },
   {
     "protocol": "http",
@@ -52,27 +52,12 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.41,
+    "ssl": true,
+    "uptime_percent": 67.42,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 188.53,
-    "last_checked": 1781765031.5080764
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 74.69,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 7697.99,
-    "last_checked": 1781765009.1053052
+    "latency_ms": 231.03,
+    "last_checked": 1781765636.8981574
   },
   {
     "protocol": "socks5",
@@ -86,7 +71,37 @@
     "uptime_percent": 86.06,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1317.36,
-    "last_checked": 1781764970.1748004
+    "latency_ms": 4198.71,
+    "last_checked": 1781765594.5814602
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.14,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 11091.77,
+    "last_checked": 1781765573.4137523
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.06,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 4296.84,
+    "last_checked": 1781765543.1704085
   }
 ]
