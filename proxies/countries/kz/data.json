@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.8.31.104",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Karaganda",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.54,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 8598.15,
-    "last_checked": 1781795904.9778247
-  },
-  {
     "protocol": "http",
     "ip": "2.78.60.10",
     "port": 3129,
@@ -26,8 +11,23 @@
     "uptime_percent": 98.46,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 1411.97,
-    "last_checked": 1781795896.1546538
+    "latency_ms": 3259.88,
+    "last_checked": 1781796272.6184814
+  },
+  {
+    "protocol": "socks5",
+    "ip": "92.46.70.174",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.7,
+    "asn": "AS9198",
+    "isp": "JSC Kazakhtelecom",
+    "latency_ms": 880.76,
+    "last_checked": 1781796260.932174
   },
   {
     "protocol": "http",
@@ -41,8 +41,8 @@
     "uptime_percent": 55.04,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 9584.96,
-    "last_checked": 1781795877.6827042
+    "latency_ms": 772.87,
+    "last_checked": 1781796235.9267013
   },
   {
     "protocol": "socks5",
@@ -53,10 +53,40 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.35,
+    "uptime_percent": 33.36,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 2176.53,
-    "last_checked": 1781795864.2875392
+    "latency_ms": 7193.0,
+    "last_checked": 1781796225.9464962
+  },
+  {
+    "protocol": "socks5",
+    "ip": "89.169.37.254",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.97,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 10486.03,
+    "last_checked": 1781796218.012783
+  },
+  {
+    "protocol": "http",
+    "ip": "91.185.20.162",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.81,
+    "asn": "AS41798",
+    "isp": "TTC Network",
+    "latency_ms": 7598.61,
+    "last_checked": 1781796196.2934346
   }
 ]
