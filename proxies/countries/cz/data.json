@@ -1,5 +1,65 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "192.124.172.245",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.2,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 71.87,
+    "last_checked": 1781770159.7441452
+  },
+  {
+    "protocol": "socks5",
+    "ip": "192.124.172.245",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.72,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 207.62,
+    "last_checked": 1781770124.3728175
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.77,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 5481.65,
+    "last_checked": 1781770118.7725246
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.53,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 8439.6,
+    "last_checked": 1781770097.6595423
+  },
+  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -11,22 +71,7 @@
     "uptime_percent": 82.98,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4136.95,
-    "last_checked": 1781769566.812063
-  },
-  {
-    "protocol": "socks5",
-    "ip": "192.124.172.245",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.15,
-    "asn": "AS26383",
-    "isp": "Baxet Group Inc.",
-    "latency_ms": 473.56,
-    "last_checked": 1781769558.0659552
+    "latency_ms": 39.07,
+    "last_checked": 1781770074.846826
   }
 ]
