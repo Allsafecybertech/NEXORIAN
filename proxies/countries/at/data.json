@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.233.128.134",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "185.175.58.225",
+    "port": 18889,
     "country": "Austria",
     "country_code": "AT",
     "city": "Vienna",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.41,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 15646.2,
-    "last_checked": 1781763553.3318393
-  },
-  {
-    "protocol": "http",
-    "ip": "178.115.230.100",
-    "port": 8080,
-    "country": "Austria",
-    "country_code": "AT",
-    "city": "Salzburg",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 7.68,
-    "asn": "AS25255",
-    "isp": "customers with static IP",
-    "latency_ms": 9493.71,
-    "last_checked": 1781763552.9409285
+    "uptime_percent": 23.92,
+    "asn": "AS63473",
+    "isp": "HostHatch",
+    "latency_ms": 648.99,
+    "last_checked": 1781764134.7354796
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 95.95,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 1333.94,
-    "last_checked": 1781763548.227068
+    "latency_ms": 125.96,
+    "last_checked": 1781764124.127633
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.134",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 38.4,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 16919.58,
+    "last_checked": 1781764097.2521496
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "AT",
     "city": "Vienna",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.25,
+    "ssl": true,
+    "uptime_percent": 38.27,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 12727.18,
-    "last_checked": 1781763544.5279713
+    "latency_ms": 13002.99,
+    "last_checked": 1781764094.3475194
+  },
+  {
+    "protocol": "http",
+    "ip": "178.115.230.100",
+    "port": 8080,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Salzburg",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.7,
+    "asn": "AS25255",
+    "isp": "customers with static IP",
+    "latency_ms": 8410.5,
+    "last_checked": 1781764058.2199352
   }
 ]
