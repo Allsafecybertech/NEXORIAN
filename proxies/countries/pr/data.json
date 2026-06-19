@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "192.203.0.142",
+    "port": 999,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Comunas",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.35,
+    "asn": "AS63393",
+    "isp": "Boom NET",
+    "latency_ms": 3792.1,
+    "last_checked": 1781866174.0240288
+  },
+  {
+    "protocol": "http",
     "ip": "192.203.0.118",
     "port": 999,
     "country": "Puerto Rico",
     "country_code": "PR",
     "city": "Comunas",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.48,
     "asn": "AS63393",
     "isp": "Boom NET",
-    "latency_ms": 966.54,
-    "last_checked": 1781865503.3570197
+    "latency_ms": 7544.21,
+    "last_checked": 1781866160.8880618
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "PR",
     "city": "San Juan",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 4.7,
     "asn": "AS11992",
     "isp": "Liberty Mobile Puerto Rico Inc.",
-    "latency_ms": 2971.43,
-    "last_checked": 1781865420.4118528
-  },
-  {
-    "protocol": "http",
-    "ip": "198.52.243.21",
-    "port": 9999,
-    "country": "Puerto Rico",
-    "country_code": "PR",
-    "city": "Candelero Arriba",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.6,
-    "asn": "AS401013",
-    "isp": "BNET",
-    "latency_ms": 981.83,
-    "last_checked": 1781865392.7763538
+    "latency_ms": 21933.15,
+    "last_checked": 1781866100.075626
   }
 ]
