@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.137.90.192",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Haskovo",
+    "city": "Rousse",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 48.44,
-    "asn": "AS8866",
-    "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 8051.07,
-    "last_checked": 1781858949.6385508
+    "ssl": true,
+    "uptime_percent": 12.86,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 281.08,
+    "last_checked": 1781859574.8442347
   },
   {
-    "protocol": "http",
-    "ip": "85.196.179.34",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Sofia",
+    "city": "Pleven",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 10.23,
-    "asn": "AS29580",
-    "isp": "Mobiltel BNG",
-    "latency_ms": 6605.43,
-    "last_checked": 1781858914.967858
+    "ssl": true,
+    "uptime_percent": 56.25,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 3313.6,
+    "last_checked": 1781859557.939571
   },
   {
     "protocol": "http",
@@ -41,8 +41,53 @@
     "uptime_percent": 5.05,
     "asn": "AS48747",
     "isp": "Lukovitnet Ltd.",
-    "latency_ms": 13569.68,
-    "last_checked": 1781858761.3985813
+    "latency_ms": 9216.47,
+    "last_checked": 1781859543.2639394
+  },
+  {
+    "protocol": "http",
+    "ip": "82.137.90.192",
+    "port": 80,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Haskovo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 48.45,
+    "asn": "AS8866",
+    "isp": "Bulgarian Telecommunications Company Plc.",
+    "latency_ms": 3300.89,
+    "last_checked": 1781859514.6744392
+  },
+  {
+    "protocol": "http",
+    "ip": "85.196.179.34",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.23,
+    "asn": "AS29580",
+    "isp": "Mobiltel BNG",
+    "latency_ms": 3424.22,
+    "last_checked": 1781859491.0445442
+  },
+  {
+    "protocol": "http",
+    "ip": "78.128.6.82",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.99,
+    "asn": "AS31083",
+    "isp": "Telepoint Ltd",
+    "latency_ms": 9628.18,
+    "last_checked": 1781859431.779903
   },
   {
     "protocol": "http",
@@ -56,23 +101,38 @@
     "uptime_percent": 13.93,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 8072.43,
-    "last_checked": 1781858969.891911
+    "latency_ms": 4808.96,
+    "last_checked": 1781859530.3233943
   },
   {
     "protocol": "http",
-    "ip": "213.169.33.7",
+    "ip": "213.169.33.12",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 10.46,
+    "uptime_percent": 19.66,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 12074.46,
-    "last_checked": 1781858949.295682
+    "latency_ms": 6399.77,
+    "last_checked": 1781859522.28994
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.8",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.78,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 3476.4,
+    "last_checked": 1781859513.1744754
   },
   {
     "protocol": "http",
@@ -83,10 +143,10 @@
     "city": "Sofia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 13.71,
+    "uptime_percent": 13.72,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 6865.28,
-    "last_checked": 1781858937.2279308
+    "latency_ms": 9673.41,
+    "last_checked": 1781859468.8278697
   }
 ]
