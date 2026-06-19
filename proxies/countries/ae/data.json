@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "193.123.89.241",
     "port": 1080,
     "country": "United Arab Emirates",
@@ -11,8 +11,23 @@
     "uptime_percent": 100.0,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 872.97,
-    "last_checked": 1781833190.8202605
+    "latency_ms": 605.59,
+    "last_checked": 1781833779.2791917
+  },
+  {
+    "protocol": "http",
+    "ip": "37.202.222.37",
+    "port": 3128,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 70.27,
+    "asn": "AS21859",
+    "isp": "Zenlayer Inc",
+    "latency_ms": 6104.66,
+    "last_checked": 1781833755.8488371
   },
   {
     "protocol": "http",
@@ -26,11 +41,11 @@
     "uptime_percent": 79.27,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 6388.68,
-    "last_checked": 1781833188.890539
+    "latency_ms": 6225.18,
+    "last_checked": 1781833738.3667219
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "193.123.89.241",
     "port": 1080,
     "country": "United Arab Emirates",
@@ -41,23 +56,8 @@
     "uptime_percent": 100.0,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 625.68,
-    "last_checked": 1781833187.2409277
-  },
-  {
-    "protocol": "http",
-    "ip": "37.202.222.37",
-    "port": 3128,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 70.25,
-    "asn": "AS21859",
-    "isp": "Zenlayer Inc",
-    "latency_ms": 14117.16,
-    "last_checked": 1781833173.3479745
+    "latency_ms": 1751.55,
+    "last_checked": 1781833737.464554
   },
   {
     "protocol": "http",
@@ -68,40 +68,10 @@
     "city": "Dubai",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 72.58,
+    "uptime_percent": 72.67,
     "asn": "AS15802",
     "isp": "Emirates Integrated Telecommunications Company PJSC",
-    "latency_ms": 12317.02,
-    "last_checked": 1781833140.4530425
-  },
-  {
-    "protocol": "socks5",
-    "ip": "129.151.128.225",
-    "port": 1080,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Masdar City",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 56.05,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 11197.89,
-    "last_checked": 1781833106.6091154
-  },
-  {
-    "protocol": "socks5",
-    "ip": "47.91.121.127",
-    "port": 8443,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 1.86,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 13534.89,
-    "last_checked": 1781833084.591682
+    "latency_ms": 8348.0,
+    "last_checked": 1781833713.9805448
   }
 ]
