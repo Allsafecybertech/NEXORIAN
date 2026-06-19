@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.85.111.18",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Tann",
+    "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.81,
-    "asn": "AS51395",
-    "isp": "Datasource AG",
-    "latency_ms": 4906.63,
-    "last_checked": 1781846358.6249843
+    "ssl": true,
+    "uptime_percent": 87.74,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2568.35,
+    "last_checked": 1781846956.8811617
   },
   {
     "protocol": "http",
@@ -23,11 +23,26 @@
     "city": "Bern",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.35,
+    "uptime_percent": 67.36,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 69.34,
-    "last_checked": 1781846321.7202961
+    "latency_ms": 632.58,
+    "last_checked": 1781846951.7259657
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.65,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 8998.22,
+    "last_checked": 1781846928.8518157
   },
   {
     "protocol": "http",
@@ -38,10 +53,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.54,
+    "uptime_percent": 74.55,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2157.03,
-    "last_checked": 1781846234.2249188
+    "latency_ms": 7244.24,
+    "last_checked": 1781846867.2684534
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.23,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 9636.84,
+    "last_checked": 1781846748.40843
   }
 ]
