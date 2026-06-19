@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.49,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 1210.38,
+    "last_checked": 1781849400.80603
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.97,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 3479.27,
+    "last_checked": 1781849379.3520858
+  },
+  {
     "protocol": "http",
     "ip": "185.128.240.2",
     "port": 3128,
@@ -11,23 +41,8 @@
     "uptime_percent": 17.78,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 931.17,
-    "last_checked": 1781848731.8376718
-  },
-  {
-    "protocol": "http",
-    "ip": "185.141.26.131",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 90.77,
-    "asn": "AS199834",
-    "isp": "IP Solus Inc",
-    "latency_ms": 42.51,
-    "last_checked": 1781848708.1500537
+    "latency_ms": 8140.17,
+    "last_checked": 1781849370.2797735
   },
   {
     "protocol": "http",
@@ -41,7 +56,22 @@
     "uptime_percent": 28.53,
     "asn": "AS12302",
     "isp": "UPC Romania",
-    "latency_ms": 6911.77,
-    "last_checked": 1781848689.6450348
+    "latency_ms": 4396.26,
+    "last_checked": 1781849274.2979906
+  },
+  {
+    "protocol": "http",
+    "ip": "185.141.26.131",
+    "port": 3128,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 90.77,
+    "asn": "AS199834",
+    "isp": "IP Solus Inc",
+    "latency_ms": 52.38,
+    "last_checked": 1781849345.1231163
   }
 ]
