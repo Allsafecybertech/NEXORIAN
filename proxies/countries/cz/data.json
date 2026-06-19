@@ -1,6 +1,51 @@
 [
   {
     "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.08,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 7539.95,
+    "last_checked": 1781844823.2039719
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.78,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 7196.31,
+    "last_checked": 1781844804.5692558
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.66,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 4543.38,
+    "last_checked": 1781844755.9664676
+  },
+  {
+    "protocol": "http",
     "ip": "91.139.78.174",
     "port": 3128,
     "country": "Czechia",
@@ -11,23 +56,8 @@
     "uptime_percent": 17.07,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 5095.49,
-    "last_checked": 1781844281.6455173
-  },
-  {
-    "protocol": "http",
-    "ip": "45.139.91.62",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.07,
-    "asn": "AS197296",
-    "isp": "United Networks SE",
-    "latency_ms": 2631.99,
-    "last_checked": 1781844256.0198371
+    "latency_ms": 6285.8,
+    "last_checked": 1781844755.388936
   },
   {
     "protocol": "http",
@@ -38,10 +68,10 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 62.37,
+    "uptime_percent": 62.38,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 10189.44,
-    "last_checked": 1781844272.6375673
+    "latency_ms": 5681.27,
+    "last_checked": 1781844733.527152
   }
 ]
