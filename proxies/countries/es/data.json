@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "85.117.248.36",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Olot",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 46.11,
-    "asn": "AS210086",
-    "isp": "Connecta 1876 SLU",
-    "latency_ms": 7419.95,
-    "last_checked": 1781876091.1856112
-  },
-  {
     "protocol": "socks4",
     "ip": "83.56.15.57",
     "port": 5678,
@@ -26,8 +11,8 @@
     "uptime_percent": 26.4,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 1218.48,
-    "last_checked": 1781876091.1568007
+    "latency_ms": 197.01,
+    "last_checked": 1781876331.7051516
   },
   {
     "protocol": "http",
@@ -41,8 +26,23 @@
     "uptime_percent": 65.55,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5126.71,
-    "last_checked": 1781876035.3189886
+    "latency_ms": 7875.93,
+    "last_checked": 1781876315.7801225
+  },
+  {
+    "protocol": "http",
+    "ip": "2.139.38.192",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.03,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 11462.21,
+    "last_checked": 1781876273.4002528
   },
   {
     "protocol": "http",
@@ -56,7 +56,37 @@
     "uptime_percent": 21.26,
     "asn": "AS211141",
     "isp": "Pinkbear SLU",
-    "latency_ms": 14689.27,
-    "last_checked": 1781876010.6465232
+    "latency_ms": 1258.24,
+    "last_checked": 1781876254.9951234
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Olot",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.11,
+    "asn": "AS210086",
+    "isp": "Connecta 1876 SLU",
+    "latency_ms": 809.75,
+    "last_checked": 1781876249.5946307
+  },
+  {
+    "protocol": "socks5",
+    "ip": "65.20.105.241",
+    "port": 10001,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.27,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 395.07,
+    "last_checked": 1781876243.3216164
   }
 ]
