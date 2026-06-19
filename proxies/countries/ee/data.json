@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.101.120.25",
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.66,
+    "uptime_percent": 66.84,
     "asn": "AS198068",
-    "isp": "P.A.G.M. OU",
-    "latency_ms": 707.41,
-    "last_checked": 1781874584.8176012
+    "isp": "PAGM network",
+    "latency_ms": 1193.08,
+    "last_checked": 1781874900.2174504
+  },
+  {
+    "protocol": "socks4",
+    "ip": "95.85.242.7",
+    "port": 9050,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.02,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 13081.47,
+    "last_checked": 1781874876.2571824
   },
   {
     "protocol": "socks5",
@@ -23,26 +38,26 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.42,
+    "uptime_percent": 69.45,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1410.06,
-    "last_checked": 1781874582.6024318
+    "latency_ms": 1784.22,
+    "last_checked": 1781874874.1216204
   },
   {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
+    "protocol": "socks5",
+    "ip": "5.101.120.25",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.11,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.67,
     "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 19815.83,
-    "last_checked": 1781874493.801441
+    "isp": "P.A.G.M. OU",
+    "latency_ms": 246.37,
+    "last_checked": 1781874860.9496343
   },
   {
     "protocol": "socks5",
@@ -56,7 +71,7 @@
     "uptime_percent": 89.39,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 105.68,
-    "last_checked": 1781874402.4373577
+    "latency_ms": 160.34,
+    "last_checked": 1781874775.1861534
   }
 ]
