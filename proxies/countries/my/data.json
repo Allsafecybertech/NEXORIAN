@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "187.77.156.136",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "175.139.233.79",
+    "port": 80,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Puchong",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 33.08,
+    "asn": "AS4788",
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "latency_ms": 2509.95,
+    "last_checked": 1781890480.76703
+  },
+  {
+    "protocol": "http",
+    "ip": "219.93.101.62",
+    "port": 80,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kota Kinabalu",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 90.28,
+    "asn": "AS4788",
+    "isp": "ADSL Streamyx Telekom Malaysia",
+    "latency_ms": 3254.14,
+    "last_checked": 1781890474.9195633
+  },
+  {
+    "protocol": "http",
+    "ip": "175.143.19.216",
+    "port": 8081,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 61.95,
-    "asn": "AS47583",
-    "isp": "Hostinger MY",
-    "latency_ms": 1819.21,
-    "last_checked": 1781890171.6311502
+    "uptime_percent": 27.37,
+    "asn": "AS4788",
+    "isp": "Telekom Malaysia Berhad",
+    "latency_ms": 4585.9,
+    "last_checked": 1781890462.355886
   },
   {
     "protocol": "http",
@@ -26,23 +56,8 @@
     "uptime_percent": 80.79,
     "asn": "AS4788",
     "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 4666.02,
-    "last_checked": 1781890101.3221903
-  },
-  {
-    "protocol": "http",
-    "ip": "175.139.233.78",
-    "port": 80,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Puchong",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 72.04,
-    "asn": "AS4788",
-    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-    "latency_ms": 1780.99,
-    "last_checked": 1781890089.9588375
+    "latency_ms": 2151.49,
+    "last_checked": 1781890452.9193635
   },
   {
     "protocol": "http",
@@ -56,22 +71,52 @@
     "uptime_percent": 81.91,
     "asn": "AS4788",
     "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 925.27,
-    "last_checked": 1781890083.5977418
+    "latency_ms": 1814.7,
+    "last_checked": 1781890408.5447834
   },
   {
     "protocol": "socks5",
-    "ip": "47.250.177.202",
-    "port": 999,
+    "ip": "47.250.155.254",
+    "port": 8004,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 1.87,
+    "uptime_percent": 2.26,
     "asn": "AS45102",
     "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 6782.74,
-    "last_checked": 1781889924.8628418
+    "latency_ms": 7310.49,
+    "last_checked": 1781890395.8953853
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.250.155.254",
+    "port": 111,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.78,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 6351.2,
+    "last_checked": 1781890392.0248575
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.250.155.254",
+    "port": 1000,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 2.16,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 9376.03,
+    "last_checked": 1781890389.2578871
   }
 ]
