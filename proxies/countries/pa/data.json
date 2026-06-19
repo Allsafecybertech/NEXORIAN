@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "190.61.85.225",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "190.140.31.195",
+    "port": 9900,
     "country": "Panama",
     "country_code": "PA",
     "city": "Panama City",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.79,
+    "asn": "AS18809",
+    "isp": "Cable Onda",
+    "latency_ms": 1428.32,
+    "last_checked": 1781903910.908877
+  },
+  {
+    "protocol": "http",
+    "ip": "45.229.58.33",
+    "port": 999,
+    "country": "Panama",
+    "country_code": "PA",
+    "city": "La Chorrera",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 16.29,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 8799.04,
-    "last_checked": 1781903242.8278918
+    "uptime_percent": 6.01,
+    "asn": "AS266692",
+    "isp": "GEEK NETWORKS, S.A",
+    "latency_ms": 14475.09,
+    "last_checked": 1781903894.655938
   }
 ]
