@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "179.49.113.230",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "Comayagua",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.31,
-    "asn": "AS262234",
-    "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 13863.3,
-    "last_checked": 1781986699.3217933
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.67,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 790.03,
+    "last_checked": 1781987376.9773576
   },
   {
     "protocol": "http",
@@ -23,11 +23,11 @@
     "city": "El Níspero",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 18.77,
+    "uptime_percent": 18.78,
     "asn": "AS273189",
     "isp": "CA NETWORKS S.A. DE C.V.",
-    "latency_ms": 5766.32,
-    "last_checked": 1781986696.9366155
+    "latency_ms": 9646.82,
+    "last_checked": 1781987337.2278113
   },
   {
     "protocol": "http",
@@ -38,10 +38,25 @@
     "city": "Tegucigalpa",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 28.2,
+    "uptime_percent": 28.22,
     "asn": "AS23383",
     "isp": "Metrored S.a. De C.V.",
-    "latency_ms": 9359.5,
-    "last_checked": 1781986629.7576613
+    "latency_ms": 10534.99,
+    "last_checked": 1781987311.0671015
+  },
+  {
+    "protocol": "http",
+    "ip": "179.49.113.225",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Comayagua",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.66,
+    "asn": "AS262234",
+    "isp": "Asociacion De Servicio De Internet S. De RL",
+    "latency_ms": 2783.42,
+    "last_checked": 1781987309.9750953
   }
 ]
