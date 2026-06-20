@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.169.37.254",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "176.12.72.62",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Astana",
+    "city": "Almaty",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 21.27,
-    "asn": "AS205516",
-    "isp": "NLS ASTANA LLP",
-    "latency_ms": 2211.02,
-    "last_checked": 1781941775.609323
+    "ssl": true,
+    "uptime_percent": 36.79,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 2159.86,
+    "last_checked": 1781942352.3637
   },
   {
     "protocol": "http",
@@ -23,14 +23,44 @@
     "city": "Almaty",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 25.48,
+    "uptime_percent": 25.49,
     "asn": "AS41798",
     "isp": "JSC Transtelecom",
-    "latency_ms": 6531.04,
-    "last_checked": 1781941772.8461218
+    "latency_ms": 6650.59,
+    "last_checked": 1781942345.9099474
   },
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "176.12.74.0",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 19.13,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 5920.97,
+    "last_checked": 1781942336.8047352
+  },
+  {
+    "protocol": "http",
+    "ip": "176.12.72.62",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.04,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 9998.65,
+    "last_checked": 1781942304.7865088
+  },
+  {
+    "protocol": "socks5",
     "ip": "89.169.37.254",
     "port": 1080,
     "country": "Kazakhstan",
@@ -38,11 +68,11 @@
     "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.45,
+    "uptime_percent": 44.36,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 8299.0,
-    "last_checked": 1781941770.9332066
+    "latency_ms": 3874.03,
+    "last_checked": 1781942264.0756433
   },
   {
     "protocol": "http",
@@ -56,52 +86,7 @@
     "uptime_percent": 98.49,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 1484.96,
-    "last_checked": 1781941731.2836375
-  },
-  {
-    "protocol": "http",
-    "ip": "93.185.68.82",
-    "port": 8080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Atyrau",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.83,
-    "asn": "AS35104",
-    "isp": "JSC \"KazTransCom\"",
-    "latency_ms": 11387.61,
-    "last_checked": 1781941672.8198798
-  },
-  {
-    "protocol": "http",
-    "ip": "176.12.74.0",
-    "port": 3128,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 19.12,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 4656.32,
-    "last_checked": 1781941663.3568957
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.12.74.0",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 33.36,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 10754.45,
-    "last_checked": 1781941544.4665968
+    "latency_ms": 793.23,
+    "last_checked": 1781942384.0200264
   }
 ]
