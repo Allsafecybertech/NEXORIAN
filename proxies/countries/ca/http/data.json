@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "140.238.156.12",
-    "port": 1080,
+    "ip": "185.196.61.251",
+    "port": 8081,
     "country": "Canada",
     "country_code": "CA",
     "city": "Toronto",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.67,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network, Inc",
+    "latency_ms": 1228.12,
+    "last_checked": 1781980176.2533894
+  },
+  {
+    "protocol": "http",
+    "ip": "23.95.76.201",
+    "port": 8443,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 4.81,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 3392.7,
-    "last_checked": 1781979516.2438688
+    "uptime_percent": 13.1,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network Inc.",
+    "latency_ms": 18296.58,
+    "last_checked": 1781980095.8358665
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Montreal",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 50.0,
+    "uptime_percent": 50.11,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 14265.1,
-    "last_checked": 1781979420.862049
+    "latency_ms": 219.81,
+    "last_checked": 1781980084.5390577
+  },
+  {
+    "protocol": "http",
+    "ip": "96.1.101.113",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Calgary",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 24.01,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 14855.12,
+    "last_checked": 1781980109.403913
   }
 ]
