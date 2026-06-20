@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "35.252.27.234",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "199.203.152.99",
+    "port": 8111,
     "country": "Israel",
     "country_code": "IL",
-    "city": "Tel Aviv",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 52.45,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 1515.51,
-    "last_checked": 1781991802.257797
+    "city": "Herzliya",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 3.08,
+    "asn": "AS1680",
+    "isp": "Cellcom Fixed Line Communication L.P",
+    "latency_ms": 330.16,
+    "last_checked": 1781992429.943826
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Haifa",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.85,
+    "uptime_percent": 25.86,
     "asn": "AS44709",
     "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "latency_ms": 11011.57,
-    "last_checked": 1781991775.1837404
+    "latency_ms": 3278.03,
+    "last_checked": 1781992395.6878645
+  },
+  {
+    "protocol": "socks5",
+    "ip": "35.252.27.234",
+    "port": 1080,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Tel Aviv",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.41,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 364.32,
+    "last_checked": 1781992341.7045603
   }
 ]
