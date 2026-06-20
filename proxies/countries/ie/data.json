@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "207.254.71.62",
-    "port": 8088,
+    "protocol": "socks4",
+    "ip": "34.255.167.51",
+    "port": 1081,
     "country": "Ireland",
     "country_code": "IE",
     "city": "Dublin",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.16,
-    "asn": "AS30377",
-    "isp": "MacStadium, Inc.",
-    "latency_ms": 1108.35,
-    "last_checked": 1781975390.3556654
+    "ssl": true,
+    "uptime_percent": 58.24,
+    "asn": "AS16509",
+    "isp": "Amazon Technologies Inc.",
+    "latency_ms": 1842.2,
+    "last_checked": 1781975992.3132544
+  },
+  {
+    "protocol": "socks5",
+    "ip": "34.255.167.51",
+    "port": 1081,
+    "country": "Ireland",
+    "country_code": "IE",
+    "city": "Dublin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.73,
+    "asn": "AS16509",
+    "isp": "Amazon Technologies Inc.",
+    "latency_ms": 7844.25,
+    "last_checked": 1781975903.4918892
   }
 ]
