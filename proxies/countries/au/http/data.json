@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "46.250.241.190",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 62.1,
+    "asn": "AS141995",
+    "isp": "Contabo Asia Private Limited",
+    "latency_ms": 15541.06,
+    "last_checked": 1781921946.7082837
+  },
+  {
+    "protocol": "http",
+    "ip": "103.106.231.75",
+    "port": 8081,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.29,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 513.18,
+    "last_checked": 1781921910.9522223
+  },
+  {
+    "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
     "country": "Australia",
@@ -11,38 +41,8 @@
     "uptime_percent": 94.48,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 508.81,
-    "last_checked": 1781921387.484079
-  },
-  {
-    "protocol": "http",
-    "ip": "4.237.213.197",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "The Rocks",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 15.26,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 948.33,
-    "last_checked": 1781921381.569698
-  },
-  {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.6,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 8359.85,
-    "last_checked": 1781921205.3753843
+    "latency_ms": 500.86,
+    "last_checked": 1781921872.3427608
   },
   {
     "protocol": "http",
@@ -52,11 +52,11 @@
     "country_code": "AU",
     "city": "Woodhill",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 50.91,
+    "ssl": true,
+    "uptime_percent": 50.93,
     "asn": "AS136994",
     "isp": "Southern Phone Company Ltd",
-    "latency_ms": 10417.73,
-    "last_checked": 1781921250.187835
+    "latency_ms": 5700.93,
+    "last_checked": 1781921940.9799128
   }
 ]
