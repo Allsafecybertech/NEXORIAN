@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "34.255.167.51",
     "port": 1081,
     "country": "Ireland",
@@ -8,10 +8,25 @@
     "city": "Dublin",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 72.03,
+    "uptime_percent": 66.86,
     "asn": "AS16509",
     "isp": "Amazon Technologies Inc.",
-    "latency_ms": 1076.27,
-    "last_checked": 1781964525.665223
+    "latency_ms": 786.91,
+    "last_checked": 1781965196.2569382
+  },
+  {
+    "protocol": "http",
+    "ip": "5.83.244.250",
+    "port": 8080,
+    "country": "Ireland",
+    "country_code": "IE",
+    "city": "Roscommon",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 3.59,
+    "asn": "AS57791",
+    "isp": "EURONA-BRISKNET",
+    "latency_ms": 7211.16,
+    "last_checked": 1781965145.5093062
   }
 ]
