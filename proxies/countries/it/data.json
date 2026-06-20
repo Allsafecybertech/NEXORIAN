@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "194.146.164.66",
+    "port": 37846,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Corigliano-Rossano",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.37,
+    "asn": "AS202347",
+    "isp": "Europsys S.r.l.",
+    "latency_ms": 172.01,
+    "last_checked": 1781999691.0378373
+  },
+  {
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -11,8 +26,8 @@
     "uptime_percent": 87.89,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 321.51,
-    "last_checked": 1781999037.7566175
+    "latency_ms": 205.15,
+    "last_checked": 1781999689.3681784
   },
   {
     "protocol": "socks4",
@@ -26,8 +41,8 @@
     "uptime_percent": 51.4,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A",
-    "latency_ms": 7445.48,
-    "last_checked": 1781999037.4500973
+    "latency_ms": 270.04,
+    "last_checked": 1781999653.8505745
   },
   {
     "protocol": "socks5",
@@ -41,52 +56,67 @@
     "uptime_percent": 85.13,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 388.39,
-    "last_checked": 1781999019.316033
+    "latency_ms": 165.96,
+    "last_checked": 1781999630.071985
   },
   {
-    "protocol": "socks4",
+    "protocol": "http",
     "ip": "194.146.164.66",
-    "port": 37846,
+    "port": 8080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Corigliano-Rossano",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 82.36,
-    "asn": "AS202347",
-    "isp": "Europsys S.r.l.",
-    "latency_ms": 15499.21,
-    "last_checked": 1781999015.9030192
-  },
-  {
-    "protocol": "http",
-    "ip": "188.11.179.26",
-    "port": 8443,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Crispi Cavour",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 12.44,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 4714.41,
-    "last_checked": 1781998948.4172592
+    "uptime_percent": 26.44,
+    "asn": "AS202347",
+    "isp": "Europsys S.r.l.",
+    "latency_ms": 4927.0,
+    "last_checked": 1781999624.803932
   },
   {
     "protocol": "http",
-    "ip": "185.191.106.0",
-    "port": 8081,
+    "ip": "93.187.25.12",
+    "port": 58080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Milan",
+    "city": "Siena",
     "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.33,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 10246.03,
+    "last_checked": 1781999622.053827
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.35,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 3485.4,
-    "last_checked": 1781998920.587901
+    "uptime_percent": 26.23,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 7585.42,
+    "last_checked": 1781999587.4201558
+  },
+  {
+    "protocol": "socks5",
+    "ip": "77.81.230.90",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.16,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 12247.51,
+    "last_checked": 1781999585.0173962
   }
 ]
