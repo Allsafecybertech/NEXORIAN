@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "31.192.248.55",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "80.72.180.122",
+    "port": 1080,
     "country": "Kyrgyzstan",
     "country_code": "KG",
     "city": "Bishkek",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.26,
+    "asn": "AS12997",
+    "isp": "OJSC Kyrgyztelecom",
+    "latency_ms": 679.49,
+    "last_checked": 1781959159.9883313
+  },
+  {
+    "protocol": "http",
+    "ip": "212.112.121.130",
+    "port": 8080,
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "city": "Bishkek",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.22,
-    "asn": "AS8449",
-    "isp": "\"ElCat\" Ltd.",
-    "latency_ms": 2310.53,
-    "last_checked": 1781958505.3667436
+    "uptime_percent": 11.2,
+    "asn": "AS12764",
+    "isp": "AKNET Ltd",
+    "latency_ms": 1855.28,
+    "last_checked": 1781959181.4318871
   }
 ]
