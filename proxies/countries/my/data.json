@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "187.77.156.136",
     "port": 1080,
     "country": "Malaysia",
@@ -8,11 +8,11 @@
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.98,
+    "uptime_percent": 57.34,
     "asn": "AS47583",
     "isp": "Hostinger MY",
-    "latency_ms": 957.38,
-    "last_checked": 1781998462.8376222
+    "latency_ms": 801.8,
+    "last_checked": 1781999044.670809
   },
   {
     "protocol": "http",
@@ -22,57 +22,12 @@
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 28.78,
     "asn": "AS4788",
     "isp": "Telekom Malaysia Berhad",
-    "latency_ms": 4879.07,
-    "last_checked": 1781998447.173409
-  },
-  {
-    "protocol": "http",
-    "ip": "58.84.16.214",
-    "port": 1231,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Putrajaya",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.38,
-    "asn": "AS38182",
-    "isp": "Extreme Broadband",
-    "latency_ms": 1564.02,
-    "last_checked": 1781998416.5563
-  },
-  {
-    "protocol": "http",
-    "ip": "47.250.11.111",
-    "port": 1080,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Kuala Lumpur",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 1.11,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 2346.3,
-    "last_checked": 1781998400.1899397
-  },
-  {
-    "protocol": "http",
-    "ip": "47.250.11.111",
-    "port": 81,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Kuala Lumpur",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 1.14,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 2352.5,
-    "last_checked": 1781998398.491037
+    "latency_ms": 7864.4,
+    "last_checked": 1781998975.3947964
   },
   {
     "protocol": "http",
@@ -82,11 +37,56 @@
     "country_code": "MY",
     "city": "Kepong",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 29.06,
     "asn": "AS4788",
     "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-    "latency_ms": 7074.93,
-    "last_checked": 1781998306.5614152
+    "latency_ms": 10768.96,
+    "last_checked": 1781998966.8892744
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.250.51.110",
+    "port": 80,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 2.25,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 6994.62,
+    "last_checked": 1781998948.7031004
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.250.51.110",
+    "port": 5007,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 2.11,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 9671.78,
+    "last_checked": 1781998946.0439014
+  },
+  {
+    "protocol": "http",
+    "ip": "47.250.155.254",
+    "port": 45,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 1.97,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 2346.12,
+    "last_checked": 1781998882.2413478
   }
 ]
