@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "181.115.67.3",
+    "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 13.69,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.85,
     "asn": "AS14754",
     "isp": "Telgua",
-    "latency_ms": 3879.54,
-    "last_checked": 1781993378.7735472
+    "latency_ms": 16889.04,
+    "last_checked": 1781993887.441772
+  },
+  {
+    "protocol": "http",
+    "ip": "200.115.97.14",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Cuyalí",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.64,
+    "asn": "AS269919",
+    "isp": "Honduvision SRL",
+    "latency_ms": 4676.09,
+    "last_checked": 1781993883.3405888
   },
   {
     "protocol": "http",
@@ -26,22 +41,7 @@
     "uptime_percent": 17.31,
     "asn": "AS262234",
     "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 6563.8,
-    "last_checked": 1781993360.3643851
-  },
-  {
-    "protocol": "http",
-    "ip": "190.185.116.186",
-    "port": 8080,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Tegucigalpa",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 33.67,
-    "asn": "AS27932",
-    "isp": "Redes y Telecomunicaciones",
-    "latency_ms": 2088.51,
-    "last_checked": 1781993336.723627
+    "latency_ms": 14236.37,
+    "last_checked": 1781993882.8299463
   }
 ]
