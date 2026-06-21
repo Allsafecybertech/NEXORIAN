@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "41.203.83.242",
-    "port": 8080,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.71,
-    "asn": "AS37148",
-    "isp": "Globacom Limited",
-    "latency_ms": 9184.79,
-    "last_checked": 1782058406.7728562
-  },
-  {
-    "protocol": "http",
     "ip": "41.184.92.219",
     "port": 80,
     "country": "Nigeria",
@@ -26,22 +11,37 @@
     "uptime_percent": 56.36,
     "asn": "AS29091",
     "isp": "ipNX Nigeria Limited",
-    "latency_ms": 614.51,
-    "last_checked": 1782058363.4070067
+    "latency_ms": 620.36,
+    "last_checked": 1782059046.479917
   },
   {
-    "protocol": "http",
-    "ip": "143.105.102.145",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "154.113.17.106",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.01,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 3612.46,
+    "last_checked": 1782058985.0029833
+  },
+  {
+    "protocol": "http",
+    "ip": "41.203.83.242",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 26.57,
-    "asn": "AS14593",
-    "isp": "Space Exploration Technologies Corporation",
-    "latency_ms": 5146.33,
-    "last_checked": 1782058314.7955847
+    "uptime_percent": 7.71,
+    "asn": "AS37148",
+    "isp": "Globacom Limited",
+    "latency_ms": 9860.76,
+    "last_checked": 1782058857.645617
   }
 ]
