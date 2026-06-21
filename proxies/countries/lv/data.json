@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "37.128.207.220",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "31.170.19.5",
+    "port": 4153,
     "country": "Latvia",
     "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "transparent",
+    "city": "Saldus",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.28,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 116.95,
-    "last_checked": 1782016129.8589215
+    "uptime_percent": 5.69,
+    "asn": "AS42099",
+    "isp": "DNET ITRisinajumi Ltd.",
+    "latency_ms": 149.75,
+    "last_checked": 1782016763.6173692
+  },
+  {
+    "protocol": "socks4",
+    "ip": "31.170.17.141",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Saldus",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.7,
+    "asn": "AS42099",
+    "isp": "DNET ITRisinajumi Ltd.",
+    "latency_ms": 147.36,
+    "last_checked": 1782016763.4995177
   },
   {
     "protocol": "http",
@@ -22,12 +37,12 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 51.87,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 14750.98,
-    "last_checked": 1782016093.084023
+    "latency_ms": 12985.05,
+    "last_checked": 1782016717.1239135
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.57,
+    "ssl": true,
+    "uptime_percent": 33.58,
     "asn": "AS56971",
     "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 10115.69,
-    "last_checked": 1782016090.727849
+    "latency_ms": 12306.72,
+    "last_checked": 1782016692.707983
+  },
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.37,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 137.07,
+    "last_checked": 1782016787.2932947
   }
 ]
