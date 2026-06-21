@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kryry",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.7,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 7246.15,
-    "last_checked": 1782039585.465382
-  },
-  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -26,8 +11,23 @@
     "uptime_percent": 83.28,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2871.18,
-    "last_checked": 1782039566.1878295
+    "latency_ms": 3162.85,
+    "last_checked": 1782040155.7558954
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.7,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 3110.16,
+    "last_checked": 1782040151.2981586
   },
   {
     "protocol": "http",
@@ -38,11 +38,26 @@
     "city": "Brno",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 63.29,
+    "uptime_percent": 63.3,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 6067.4,
-    "last_checked": 1782039527.7001927
+    "latency_ms": 8810.21,
+    "last_checked": 1782040141.7479432
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.16,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 2103.54,
+    "last_checked": 1782040140.3345072
   },
   {
     "protocol": "http",
@@ -52,26 +67,26 @@
     "country_code": "CZ",
     "city": "Dobříš",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 25.71,
+    "ssl": false,
+    "uptime_percent": 25.72,
     "asn": "AS42189",
     "isp": "DOBRISNET",
-    "latency_ms": 2910.26,
-    "last_checked": 1782039498.2358797
+    "latency_ms": 9164.88,
+    "last_checked": 1782040093.9847221
   },
   {
     "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
+    "ip": "188.119.98.126",
+    "port": 9999,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Karlovy Vary",
+    "city": "Strážnice",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 7.81,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 12447.19,
-    "last_checked": 1782039479.6879292
+    "uptime_percent": 11.67,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 10338.62,
+    "last_checked": 1782040047.1524677
   }
 ]
