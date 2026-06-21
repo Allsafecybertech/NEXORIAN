@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "176.12.72.62",
+    "ip": "89.169.37.254",
     "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.21,
+    "asn": "AS205516",
+    "isp": "NLS ASTANA LLP",
+    "latency_ms": 692.65,
+    "last_checked": 1782019172.7093787
+  },
+  {
+    "protocol": "http",
+    "ip": "176.12.72.62",
+    "port": 3128,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.65,
+    "ssl": false,
+    "uptime_percent": 20.3,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 2334.05,
-    "last_checked": 1782018600.559193
+    "latency_ms": 7023.06,
+    "last_checked": 1782019125.5879846
   },
   {
     "protocol": "http",
@@ -26,38 +41,8 @@
     "uptime_percent": 98.5,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 785.94,
-    "last_checked": 1782018565.9811203
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.12.72.62",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.91,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 12063.86,
-    "last_checked": 1782018488.3814569
-  },
-  {
-    "protocol": "http",
-    "ip": "176.12.73.250",
-    "port": 3128,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 21.09,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 10621.76,
-    "last_checked": 1782018383.7425177
+    "latency_ms": 954.39,
+    "last_checked": 1782019071.8938277
   },
   {
     "protocol": "socks5",
@@ -71,7 +56,7 @@
     "uptime_percent": 52.5,
     "asn": "AS48988",
     "isp": "Modern Server Solutions LLP",
-    "latency_ms": 664.9,
-    "last_checked": 1782018581.071318
+    "latency_ms": 1757.06,
+    "last_checked": 1782019132.9938176
   }
 ]
