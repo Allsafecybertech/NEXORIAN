@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "181.115.65.196",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 4.4,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.86,
     "asn": "AS14754",
     "isp": "Telgua",
-    "latency_ms": 11721.44,
-    "last_checked": 1782059597.5736852
+    "latency_ms": 1794.76,
+    "last_checked": 1782060291.7965117
+  },
+  {
+    "protocol": "http",
+    "ip": "45.89.82.210",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "El Níspero",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.08,
+    "asn": "AS273189",
+    "isp": "CA NETWORKS S.A. DE C.V.",
+    "latency_ms": 8980.15,
+    "last_checked": 1782060246.540188
+  },
+  {
+    "protocol": "http",
+    "ip": "200.106.236.142",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.98,
+    "asn": "AS23383",
+    "isp": "Metrored S.a. De C.V.",
+    "latency_ms": 17329.0,
+    "last_checked": 1782060244.371861
   }
 ]
