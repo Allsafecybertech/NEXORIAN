@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kryry",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.63,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1074.51,
-    "last_checked": 1782007486.666191
-  },
-  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -26,38 +11,23 @@
     "uptime_percent": 83.24,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 6039.54,
-    "last_checked": 1782007477.703895
+    "latency_ms": 612.26,
+    "last_checked": 1782008097.3863692
   },
   {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.65,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 2956.37,
-    "last_checked": 1782007452.3518364
-  },
-  {
-    "protocol": "http",
-    "ip": "45.139.91.62",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.08,
-    "asn": "AS197296",
-    "isp": "United Networks SE",
-    "latency_ms": 4200.66,
-    "last_checked": 1782007449.4598475
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.63,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 71.09,
+    "last_checked": 1782008072.8542347
   },
   {
     "protocol": "http",
@@ -71,8 +41,8 @@
     "uptime_percent": 63.18,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 10567.19,
-    "last_checked": 1782007445.4488196
+    "latency_ms": 8036.35,
+    "last_checked": 1782008064.9177718
   },
   {
     "protocol": "http",
@@ -83,10 +53,40 @@
     "city": "Prague",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 8.32,
+    "uptime_percent": 8.35,
     "asn": "AS209847",
     "isp": "WorkTitans B.V",
-    "latency_ms": 12149.0,
-    "last_checked": 1782007414.8759117
+    "latency_ms": 10784.88,
+    "last_checked": 1782008054.5246809
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.8,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 7266.58,
+    "last_checked": 1782008052.36923
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.08,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 7722.43,
+    "last_checked": 1782007939.0831923
   }
 ]
