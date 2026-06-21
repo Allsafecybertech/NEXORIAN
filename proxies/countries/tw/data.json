@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "85.237.206.150",
+    "port": 1234,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.5,
+    "asn": "AS401443",
+    "isp": "WAP.AC LLC",
+    "latency_ms": 1497.45,
+    "last_checked": 1782050981.3535936
+  },
+  {
     "protocol": "socks4",
     "ip": "85.237.206.150",
     "port": 1234,
@@ -8,26 +23,11 @@
     "city": "Taipei",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.49,
+    "uptime_percent": 99.5,
     "asn": "AS401443",
     "isp": "WAP.AC LLC",
-    "latency_ms": 714.75,
-    "last_checked": 1782050389.4653406
-  },
-  {
-    "protocol": "http",
-    "ip": "59.124.62.9",
-    "port": 3128,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Bade District",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.04,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 16340.35,
-    "last_checked": 1782050365.785812
+    "latency_ms": 725.69,
+    "last_checked": 1782050980.8462243
   },
   {
     "protocol": "socks5",
@@ -41,22 +41,37 @@
     "uptime_percent": 99.86,
     "asn": "AS142002",
     "isp": "Scloud Pte Ltd",
-    "latency_ms": 1725.13,
-    "last_checked": 1782050353.2450247
+    "latency_ms": 1567.48,
+    "last_checked": 1782050934.9137127
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "85.237.206.150",
     "port": 1234,
     "country": "Taiwan",
     "country_code": "TW",
     "city": "Taipei",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.5,
+    "ssl": false,
+    "uptime_percent": 98.81,
     "asn": "AS401443",
     "isp": "WAP.AC LLC",
-    "latency_ms": 918.41,
-    "last_checked": 1782050256.8150284
+    "latency_ms": 559.04,
+    "last_checked": 1782050927.544244
+  },
+  {
+    "protocol": "http",
+    "ip": "59.124.62.9",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Bade District",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 13.04,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 15305.64,
+    "last_checked": 1782050913.188083
   }
 ]
