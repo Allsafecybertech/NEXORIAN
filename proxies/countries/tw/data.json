@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.237.206.150",
-    "port": 1234,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.54,
-    "asn": "AS401443",
-    "isp": "WAP.AC LLC",
-    "latency_ms": 728.66,
-    "last_checked": 1782077078.4251857
-  },
-  {
     "protocol": "socks5",
     "ip": "85.237.206.150",
     "port": 1234,
@@ -26,11 +11,11 @@
     "uptime_percent": 99.56,
     "asn": "AS401443",
     "isp": "WAP.AC LLC",
-    "latency_ms": 970.71,
-    "last_checked": 1782077068.4753687
+    "latency_ms": 899.2,
+    "last_checked": 1782077672.8896844
   },
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "85.237.206.150",
     "port": 1234,
     "country": "Taiwan",
@@ -38,11 +23,11 @@
     "city": "Taipei",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.01,
+    "uptime_percent": 99.54,
     "asn": "AS401443",
     "isp": "WAP.AC LLC",
-    "latency_ms": 533.13,
-    "last_checked": 1782077064.7076266
+    "latency_ms": 711.77,
+    "last_checked": 1782077672.3346882
   },
   {
     "protocol": "socks5",
@@ -56,7 +41,37 @@
     "uptime_percent": 99.85,
     "asn": "AS142002",
     "isp": "Scloud Pte Ltd",
-    "latency_ms": 1538.48,
-    "last_checked": 1782077034.334513
+    "latency_ms": 1523.28,
+    "last_checked": 1782077635.6977334
+  },
+  {
+    "protocol": "http",
+    "ip": "85.237.206.150",
+    "port": 1234,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.02,
+    "asn": "AS401443",
+    "isp": "WAP.AC LLC",
+    "latency_ms": 555.98,
+    "last_checked": 1782077622.1398716
+  },
+  {
+    "protocol": "http",
+    "ip": "59.124.62.9",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Bade District",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 13.09,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 11964.57,
+    "last_checked": 1782077553.4959238
   }
 ]
