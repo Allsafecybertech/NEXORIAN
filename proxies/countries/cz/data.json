@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Kryry",
+    "city": "Brno",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.7,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1089.02,
-    "last_checked": 1782041355.7811604
+    "ssl": false,
+    "uptime_percent": 63.31,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 7392.37,
+    "last_checked": 1782041981.6436071
   },
   {
     "protocol": "http",
@@ -26,8 +26,23 @@
     "uptime_percent": 83.28,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3514.13,
-    "last_checked": 1782041353.2686791
+    "latency_ms": 2618.94,
+    "last_checked": 1782041971.4409695
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.71,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 9106.37,
+    "last_checked": 1782041945.5816104
   },
   {
     "protocol": "http",
@@ -41,22 +56,7 @@
     "uptime_percent": 11.67,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 4141.1,
-    "last_checked": 1782041351.0589256
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 63.31,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 6482.33,
-    "last_checked": 1782041316.8410668
+    "latency_ms": 4418.45,
+    "last_checked": 1782041878.5312033
   }
 ]
