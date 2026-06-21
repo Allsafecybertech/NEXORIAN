@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "2.83.243.148",
-    "port": 7777,
+    "protocol": "socks4",
+    "ip": "185.228.160.145",
+    "port": 1080,
     "country": "Portugal",
     "country_code": "PT",
-    "city": "Figueira da Foz Municipality",
-    "anonymity": "transparent",
+    "city": "Torres Vedras",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.72,
+    "asn": "AS50666",
+    "isp": "LigaT Telecom Sociedade Unipessoal LDA",
+    "latency_ms": 214.43,
+    "last_checked": 1782014359.843415
+  },
+  {
+    "protocol": "http",
+    "ip": "176.61.151.123",
+    "port": 80,
+    "country": "Portugal",
+    "country_code": "PT",
+    "city": "Faro Municipality",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 10.99,
-    "asn": "AS3243",
-    "isp": "PT Comunicacoes S.A",
-    "latency_ms": 11575.02,
-    "last_checked": 1782013651.6186755
+    "uptime_percent": 77.84,
+    "asn": "AS33876",
+    "isp": "Flesk Telecom",
+    "latency_ms": 9057.34,
+    "last_checked": 1782014321.0947936
   }
 ]
