@@ -1,22 +1,7 @@
 [
   {
-    "protocol": "http",
-    "ip": "37.128.207.220",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 86.68,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 113.65,
-    "last_checked": 1782031191.691151
-  },
-  {
     "protocol": "socks4",
-    "ip": "31.170.17.141",
+    "ip": "31.170.19.5",
     "port": 4153,
     "country": "Latvia",
     "country_code": "LV",
@@ -26,23 +11,23 @@
     "uptime_percent": 5.71,
     "asn": "AS42099",
     "isp": "DNET ITRisinajumi Ltd.",
-    "latency_ms": 1165.67,
-    "last_checked": 1782031187.7171988
+    "latency_ms": 1145.85,
+    "last_checked": 1782031483.8269784
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "45.130.212.97",
     "port": 8119,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 14.9,
+    "ssl": true,
+    "uptime_percent": 15.19,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 5518.62,
-    "last_checked": 1782031175.555442
+    "latency_ms": 4383.89,
+    "last_checked": 1782031473.1448076
   },
   {
     "protocol": "http",
@@ -53,11 +38,11 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 33.87,
+    "uptime_percent": 33.88,
     "asn": "AS56971",
     "isp": "CGI GLOBAL LIMITED",
-    "latency_ms": 8308.8,
-    "last_checked": 1782031024.2449925
+    "latency_ms": 20262.09,
+    "last_checked": 1782031449.3116076
   },
   {
     "protocol": "http",
@@ -68,10 +53,25 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 52.39,
+    "uptime_percent": 52.48,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 12703.04,
-    "last_checked": 1782031079.4251103
+    "latency_ms": 13188.64,
+    "last_checked": 1782031426.8839018
+  },
+  {
+    "protocol": "http",
+    "ip": "37.128.207.220",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 86.7,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 126.04,
+    "last_checked": 1782031412.630239
   }
 ]

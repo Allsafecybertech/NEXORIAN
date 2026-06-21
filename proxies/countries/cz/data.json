@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Kryry",
+    "city": "Brno",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.68,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 7337.76,
-    "last_checked": 1782031172.445581
+    "ssl": false,
+    "uptime_percent": 63.23,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 8062.12,
+    "last_checked": 1782031457.774633
   },
   {
     "protocol": "http",
@@ -26,8 +26,23 @@
     "uptime_percent": 83.27,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1039.78,
-    "last_checked": 1782031124.6348274
+    "latency_ms": 41.22,
+    "last_checked": 1782031455.3165755
+  },
+  {
+    "protocol": "http",
+    "ip": "185.53.46.240",
+    "port": 55555,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.57,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 17585.97,
+    "last_checked": 1782031449.4479265
   },
   {
     "protocol": "http",
@@ -41,22 +56,7 @@
     "uptime_percent": 11.66,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 752.04,
-    "last_checked": 1782031079.3494904
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 63.23,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 5440.03,
-    "last_checked": 1782031187.3400598
+    "latency_ms": 3069.14,
+    "last_checked": 1782031417.624767
   }
 ]
