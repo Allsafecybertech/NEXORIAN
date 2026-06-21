@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "184.95.220.42",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.42,
+    "asn": "AS22652",
+    "isp": "Videotron Telecom Ltee",
+    "latency_ms": 1393.52,
+    "last_checked": 1782082745.1513376
+  },
+  {
     "protocol": "socks4",
     "ip": "24.37.245.42",
     "port": 51056,
@@ -11,8 +26,8 @@
     "uptime_percent": 13.47,
     "asn": "AS5769",
     "isp": "Le Groupe Videotron Ltee",
-    "latency_ms": 1204.02,
-    "last_checked": 1782082185.5921981
+    "latency_ms": 7599.58,
+    "last_checked": 1782082723.8762872
   },
   {
     "protocol": "socks4",
@@ -23,71 +38,11 @@
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 18.65,
+    "uptime_percent": 18.66,
     "asn": "AS5769",
     "isp": "Videotron Ltee",
-    "latency_ms": 536.28,
-    "last_checked": 1782082185.288775
-  },
-  {
-    "protocol": "socks5",
-    "ip": "68.233.127.229",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.43,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 17797.01,
-    "last_checked": 1782082164.3309
-  },
-  {
-    "protocol": "socks5",
-    "ip": "137.184.174.234",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Toronto",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 88.25,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 7824.81,
-    "last_checked": 1782082152.414811
-  },
-  {
-    "protocol": "socks5",
-    "ip": "89.251.9.135",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Toronto",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 19.66,
-    "asn": "AS212552",
-    "isp": "BitCommand LLC",
-    "latency_ms": 7675.08,
-    "last_checked": 1782082092.3890827
-  },
-  {
-    "protocol": "socks5",
-    "ip": "184.95.220.42",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.41,
-    "asn": "AS22652",
-    "isp": "Videotron Telecom Ltee",
-    "latency_ms": 1620.02,
-    "last_checked": 1782082038.9804685
+    "latency_ms": 539.6,
+    "last_checked": 1782082713.4113803
   },
   {
     "protocol": "socks5",
@@ -101,7 +56,52 @@
     "uptime_percent": 97.85,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 575.32,
-    "last_checked": 1782081984.27029
+    "latency_ms": 570.38,
+    "last_checked": 1782082708.258033
+  },
+  {
+    "protocol": "http",
+    "ip": "149.56.24.51",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.55,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 14407.13,
+    "last_checked": 1782082697.859968
+  },
+  {
+    "protocol": "socks5",
+    "ip": "89.251.9.135",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.66,
+    "asn": "AS212552",
+    "isp": "BitCommand LLC",
+    "latency_ms": 7775.81,
+    "last_checked": 1782082659.652429
+  },
+  {
+    "protocol": "socks5",
+    "ip": "137.184.174.234",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 88.24,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 585.0,
+    "last_checked": 1782082653.782273
   }
 ]
