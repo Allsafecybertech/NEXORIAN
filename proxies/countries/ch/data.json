@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.96,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 489.25,
+    "last_checked": 1782152904.3018515
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -11,8 +26,53 @@
     "uptime_percent": 88.02,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5371.25,
-    "last_checked": 1782152696.7975
+    "latency_ms": 2946.24,
+    "last_checked": 1782152903.9444964
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.06,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 11431.93,
+    "last_checked": 1782152891.2880611
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.38,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 5365.75,
+    "last_checked": 1782152871.237583
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.41,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 12338.17,
+    "last_checked": 1782152830.8463883
   },
   {
     "protocol": "socks5",
@@ -28,20 +88,5 @@
     "isp": "Serva ONE LTD",
     "latency_ms": 17120.4,
     "last_checked": 1782152680.7996972
-  },
-  {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 67.96,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 1608.94,
-    "last_checked": 1782152631.909178
   }
 ]
