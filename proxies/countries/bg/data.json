@@ -1,32 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "149.62.230.50",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "148.253.214.128",
+    "port": 3182,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.37,
+    "uptime_percent": 43.2,
+    "asn": "AS216129",
+    "isp": "SEBEK sp. z o.o",
+    "latency_ms": 1764.51,
+    "last_checked": 1782123863.7868915
+  },
+  {
+    "protocol": "socks4",
+    "ip": "149.62.230.50",
+    "port": 1080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.81,
     "asn": "AS29244",
     "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 1168.13,
-    "last_checked": 1782123291.069363
+    "latency_ms": 1183.57,
+    "last_checked": 1782123861.3132477
   },
   {
     "protocol": "http",
-    "ip": "82.137.90.192",
-    "port": 80,
+    "ip": "87.126.65.11",
+    "port": 1388,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Haskovo",
-    "anonymity": "elite",
+    "city": "Stara Zagora",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 48.11,
+    "uptime_percent": 5.85,
     "asn": "AS8866",
-    "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 4278.41,
-    "last_checked": 1782123275.2987456
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 7356.53,
+    "last_checked": 1782123786.5198715
   }
 ]
