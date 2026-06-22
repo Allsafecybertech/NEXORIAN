@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks5",
-    "ip": "45.130.212.97",
-    "port": 8119,
+    "ip": "185.236.22.192",
+    "port": 9050,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.23,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 6388.76,
-    "last_checked": 1782170089.4028108
+    "uptime_percent": 29.42,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 9920.43,
+    "last_checked": 1782170657.8044188
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.38,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 11256.81,
+    "last_checked": 1782170655.953216
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 51.16,
+    "ssl": false,
+    "uptime_percent": 51.15,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 10383.67,
-    "last_checked": 1782170072.7213044
-  },
-  {
-    "protocol": "http",
-    "ip": "45.130.212.97",
-    "port": 8119,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 14.97,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 5425.97,
-    "last_checked": 1782170052.4401999
-  },
-  {
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 59.78,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 1172.69,
-    "last_checked": 1782170083.004093
+    "latency_ms": 13459.81,
+    "last_checked": 1782170667.7897418
   }
 ]
