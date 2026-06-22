@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "102.36.133.62",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "154.113.17.106",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Ebute-Metta",
-    "anonymity": "transparent",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.03,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 3619.0,
+    "last_checked": 1782104086.301215
+  },
+  {
+    "protocol": "http",
+    "ip": "41.184.92.219",
+    "port": 80,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Abuja",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 21.19,
-    "asn": "AS328556",
-    "isp": "Syscodes Communications",
-    "latency_ms": 6271.94,
-    "last_checked": 1782103724.3488636
+    "uptime_percent": 56.27,
+    "asn": "AS29091",
+    "isp": "ipNX Nigeria Limited",
+    "latency_ms": 730.39,
+    "last_checked": 1782104068.129002
   }
 ]
