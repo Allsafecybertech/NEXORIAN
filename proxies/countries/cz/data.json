@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.139.91.62",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.7,
-    "asn": "AS197296",
-    "isp": "United Networks SE",
-    "latency_ms": 8410.21,
-    "last_checked": 1782161066.7575738
-  },
-  {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 83.47,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 6764.93,
-    "last_checked": 1782161049.4746552
-  },
-  {
     "protocol": "socks5",
     "ip": "192.124.172.51",
     "port": 1080,
@@ -38,11 +8,11 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.3,
+    "uptime_percent": 84.44,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 1069.11,
-    "last_checked": 1782161035.084425
+    "latency_ms": 61.96,
+    "last_checked": 1782161657.7419002
   },
   {
     "protocol": "http",
@@ -56,7 +26,37 @@
     "uptime_percent": 63.9,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 10659.24,
-    "last_checked": 1782161034.8329728
+    "latency_ms": 9677.41,
+    "last_checked": 1782161640.6996763
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.7,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 6391.25,
+    "last_checked": 1782161634.461948
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.47,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 3651.79,
+    "last_checked": 1782161610.6439676
   }
 ]
