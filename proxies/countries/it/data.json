@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.55,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 4658.2,
+    "last_checked": 1782143939.4893117
+  },
+  {
     "protocol": "http",
     "ip": "195.231.69.203",
     "port": 80,
@@ -11,11 +26,26 @@
     "uptime_percent": 69.74,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 53.46,
-    "last_checked": 1782143624.1407003
+    "latency_ms": 54.42,
+    "last_checked": 1782143939.2962744
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "93.187.26.218",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.14,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 2053.64,
+    "last_checked": 1782143930.812878
+  },
+  {
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -23,25 +53,40 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.38,
+    "uptime_percent": 87.98,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 3954.72,
-    "last_checked": 1782143582.3162706
+    "latency_ms": 1863.78,
+    "last_checked": 1782143922.9329915
   },
   {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
+    "protocol": "socks4",
+    "ip": "77.81.230.90",
     "port": 9050,
     "country": "Italy",
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.64,
+    "uptime_percent": 29.7,
     "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 13963.72,
-    "last_checked": 1782143548.8666592
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 14234.7,
+    "last_checked": 1782143917.2795253
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.54,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 5600.62,
+    "last_checked": 1782143828.9078884
   }
 ]
