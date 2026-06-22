@@ -1,48 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "102.218.41.98",
-    "port": 8082,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Durban",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.86,
-    "asn": "AS328942",
-    "isp": "IMVULA ITECHNOLOGIES (PTY) LTD",
-    "latency_ms": 1392.44,
-    "last_checked": 1782163784.5018406
-  },
-  {
-    "protocol": "http",
-    "ip": "102.206.118.204",
-    "port": 8088,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Cape Town",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 28.03,
-    "asn": "AS328723",
-    "isp": "Cloud Hosting",
-    "latency_ms": 8033.06,
-    "last_checked": 1782163781.787932
-  },
-  {
-    "protocol": "http",
     "ip": "4.221.164.109",
-    "port": 80,
+    "port": 443,
     "country": "South Africa",
     "country_code": "ZA",
     "city": "Johannesburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.55,
+    "uptime_percent": 96.46,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 1665.85,
-    "last_checked": 1782163770.015397
+    "latency_ms": 627.39,
+    "last_checked": 1782164350.9920788
   },
   {
     "protocol": "socks4",
@@ -56,23 +26,38 @@
     "uptime_percent": 30.87,
     "asn": "AS329325",
     "isp": "Maxko for Gaming Development",
-    "latency_ms": 13298.41,
-    "last_checked": 1782163767.4196148
+    "latency_ms": 13740.41,
+    "last_checked": 1782164344.903805
   },
   {
     "protocol": "http",
     "ip": "4.221.164.109",
-    "port": 443,
+    "port": 80,
     "country": "South Africa",
     "country_code": "ZA",
     "city": "Johannesburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.47,
+    "uptime_percent": 96.56,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 4748.2,
-    "last_checked": 1782163764.8966668
+    "latency_ms": 626.59,
+    "last_checked": 1782164328.9923444
+  },
+  {
+    "protocol": "http",
+    "ip": "169.239.208.70",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Cape Town",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.87,
+    "asn": "AS327983",
+    "isp": "Interworks Wireless Solutions",
+    "latency_ms": 3495.32,
+    "last_checked": 1782164296.2913685
   },
   {
     "protocol": "http",
@@ -82,12 +67,27 @@
     "country_code": "ZA",
     "city": "Johannesburg",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.61,
+    "ssl": false,
+    "uptime_percent": 24.63,
     "asn": "AS327979",
     "isp": "Axxess Hosting",
-    "latency_ms": 11394.65,
-    "last_checked": 1782163742.339978
+    "latency_ms": 21475.88,
+    "last_checked": 1782164288.4007246
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.211.56.106",
+    "port": 9051,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Johannesburg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.14,
+    "asn": "AS329325",
+    "isp": "Maxko for Gaming Development",
+    "latency_ms": 12652.26,
+    "last_checked": 1782164279.178571
   },
   {
     "protocol": "http",
@@ -98,40 +98,10 @@
     "city": "Johannesburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 96.0,
+    "uptime_percent": 96.01,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 1630.52,
-    "last_checked": 1782163708.0500636
-  },
-  {
-    "protocol": "http",
-    "ip": "154.126.213.5",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Potchefstroom",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 19.37,
-    "asn": "AS327750",
-    "isp": "JENNY Network",
-    "latency_ms": 6028.98,
-    "last_checked": 1782163654.4887557
-  },
-  {
-    "protocol": "socks5",
-    "ip": "168.253.92.93",
-    "port": 10808,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Rustenburg",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.22,
-    "asn": "AS37650",
-    "isp": "CM Value Added Services (Pty) Ltd",
-    "latency_ms": 8307.84,
-    "last_checked": 1782163635.4194455
+    "latency_ms": 1663.43,
+    "last_checked": 1782164265.516363
   }
 ]
