@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "103.167.229.147",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "182.93.75.162",
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
-    "city": "Butwal",
-    "anonymity": "transparent",
+    "city": "Kathmandu",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 8.42,
-    "asn": "AS140072",
-    "isp": "Fiberworld Communication Pvt. Ltd",
-    "latency_ms": 3627.57,
-    "last_checked": 1782112064.7299674
+    "uptime_percent": 50.22,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 1896.1,
+    "last_checked": 1782112795.0212672
+  },
+  {
+    "protocol": "http",
+    "ip": "110.34.1.180",
+    "port": 32650,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.02,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 3950.15,
+    "last_checked": 1782112743.320068
   }
 ]
