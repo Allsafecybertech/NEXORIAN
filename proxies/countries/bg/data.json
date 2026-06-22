@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.96,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 1839.28,
+    "last_checked": 1782113327.4344952
+  },
+  {
+    "protocol": "socks5",
     "ip": "148.253.214.128",
     "port": 3182,
     "country": "Bulgaria",
@@ -8,40 +23,10 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 47.29,
+    "uptime_percent": 43.87,
     "asn": "AS216129",
     "isp": "SEBEK sp. z o.o",
-    "latency_ms": 5783.15,
-    "last_checked": 1782112780.6195092
-  },
-  {
-    "protocol": "http",
-    "ip": "85.196.179.34",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 10.52,
-    "asn": "AS29580",
-    "isp": "Mobiltel BNG",
-    "latency_ms": 7217.41,
-    "last_checked": 1782112765.9942377
-  },
-  {
-    "protocol": "http",
-    "ip": "193.68.115.14",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Ablanitsa",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.47,
-    "asn": "AS48584",
-    "isp": "Sarnica-Net LTD",
-    "latency_ms": 8001.05,
-    "last_checked": 1782112701.3724012
+    "latency_ms": 10491.22,
+    "last_checked": 1782113253.6645124
   }
 ]
