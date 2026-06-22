@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "192.124.172.51",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
+    "city": "Brno",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.88,
-    "asn": "AS26383",
-    "isp": "Baxet Group Inc.",
-    "latency_ms": 3125.17,
-    "last_checked": 1782134375.9598768
+    "ssl": false,
+    "uptime_percent": 63.82,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 7778.4,
+    "last_checked": 1782134941.1206949
   },
   {
     "protocol": "http",
@@ -26,8 +26,23 @@
     "uptime_percent": 83.43,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1695.25,
-    "last_checked": 1782134369.3400023
+    "latency_ms": 2935.84,
+    "last_checked": 1782134926.3148203
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 11.69,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 4060.85,
+    "last_checked": 1782134907.9030802
   },
   {
     "protocol": "http",
@@ -37,26 +52,11 @@
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.46,
     "asn": "AS209847",
     "isp": "WorkTitans B.V",
-    "latency_ms": 11997.88,
-    "last_checked": 1782134344.3783908
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 63.81,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 9696.93,
-    "last_checked": 1782134337.2953541
+    "latency_ms": 2638.66,
+    "last_checked": 1782134831.97139
   }
 ]
