@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "195.231.69.203",
-    "port": 80,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Ponte San Pietro",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.75,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 8331.35,
-    "last_checked": 1782144870.146008
-  },
-  {
-    "protocol": "http",
     "ip": "93.43.251.159",
     "port": 80,
     "country": "Italy",
     "country_code": "IT",
     "city": "Turin",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 4.37,
     "asn": "AS12874",
     "isp": "Fastweb Networks",
-    "latency_ms": 12753.3,
-    "last_checked": 1782144803.9564703
+    "latency_ms": 4236.75,
+    "last_checked": 1782145458.4341025
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.25.12",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.47,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 3537.68,
+    "last_checked": 1782145448.9079354
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.26.134",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.48,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 2708.89,
+    "last_checked": 1782145444.5056937
   },
   {
     "protocol": "http",
@@ -41,22 +56,37 @@
     "uptime_percent": 12.56,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 6792.88,
-    "last_checked": 1782144787.350481
+    "latency_ms": 6532.98,
+    "last_checked": 1782145442.8398418
   },
   {
     "protocol": "http",
-    "ip": "78.134.20.48",
+    "ip": "195.231.69.203",
+    "port": 80,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Ponte San Pietro",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 69.75,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 1618.28,
+    "last_checked": 1782145397.2490017
+  },
+  {
+    "protocol": "http",
+    "ip": "149.86.206.27",
     "port": 8080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Pitigliano",
+    "city": "Figline Valdarno",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.04,
-    "asn": "AS35612",
-    "isp": "NGI",
-    "latency_ms": 3718.04,
-    "last_checked": 1782144694.783793
+    "uptime_percent": 5.61,
+    "asn": "AS60501",
+    "isp": "Sirius Technology SRL",
+    "latency_ms": 110.06,
+    "last_checked": 1782145380.8920028
   }
 ]
