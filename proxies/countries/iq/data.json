@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "109.127.82.4",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "109.224.12.170",
+    "port": 52015,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Erbil",
+    "city": "Baghdad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.03,
+    "asn": "AS203214",
+    "isp": "Hulum",
+    "latency_ms": 360.12,
+    "last_checked": 1782138262.4771008
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.224.22.35",
+    "port": 51372,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Baghdad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.92,
+    "asn": "AS203214",
+    "isp": "Hulum",
+    "latency_ms": 1396.9,
+    "last_checked": 1782138249.3696158
+  },
+  {
+    "protocol": "http",
+    "ip": "5.175.151.66",
+    "port": 8080,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Baghdad",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 15.14,
-    "asn": "AS21277",
-    "isp": "Allay Nawroz Telecom Company for Communication/Ltd.",
-    "latency_ms": 6052.58,
-    "last_checked": 1782137930.1998367
+    "uptime_percent": 21.08,
+    "asn": "AS209193",
+    "isp": "Super Cell Network for Internet Services LTD",
+    "latency_ms": 2593.16,
+    "last_checked": 1782138209.461779
   },
   {
     "protocol": "http",
@@ -26,8 +56,8 @@
     "uptime_percent": 96.8,
     "asn": "AS205889",
     "isp": "Giganet Telecom",
-    "latency_ms": 181.75,
-    "last_checked": 1782137912.6896832
+    "latency_ms": 138.61,
+    "last_checked": 1782138194.9623947
   },
   {
     "protocol": "socks5",
@@ -41,7 +71,7 @@
     "uptime_percent": 53.36,
     "asn": "AS206206",
     "isp": "Kurdistan Net 4",
-    "latency_ms": 411.02,
-    "last_checked": 1782137937.5319345
+    "latency_ms": 1451.93,
+    "last_checked": 1782138220.5565882
   }
 ]
