@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "45.130.212.97",
+    "port": 8119,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.18,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 3126.85,
+    "last_checked": 1782111523.6115837
+  },
+  {
     "protocol": "http",
     "ip": "13.140.17.206",
     "port": 3128,
@@ -7,11 +22,26 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 51.97,
+    "ssl": true,
+    "uptime_percent": 51.98,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 13736.2,
-    "last_checked": 1782110936.7534897
+    "latency_ms": 15100.75,
+    "last_checked": 1782111486.9839478
+  },
+  {
+    "protocol": "http",
+    "ip": "31.57.29.58",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.23,
+    "asn": "AS56971",
+    "isp": "CGI GLOBAL LIMITED",
+    "latency_ms": 10238.41,
+    "last_checked": 1782111452.9567964
   }
 ]
