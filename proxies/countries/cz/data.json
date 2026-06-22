@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
+    "protocol": "socks5",
+    "ip": "192.124.172.51",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
+    "city": "Prague",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 11.7,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 1143.65,
-    "last_checked": 1782162575.1101658
+    "uptime_percent": 84.57,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 89.14,
+    "last_checked": 1782163174.626606
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 63.91,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 7700.66,
+    "last_checked": 1782163150.9174488
   },
   {
     "protocol": "http",
@@ -26,22 +41,22 @@
     "uptime_percent": 83.47,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3873.14,
-    "last_checked": 1782162562.5680802
+    "latency_ms": 1837.35,
+    "last_checked": 1782163145.0127635
   },
   {
-    "protocol": "socks5",
-    "ip": "192.124.172.51",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 84.54,
-    "asn": "AS26383",
-    "isp": "Baxet Group Inc.",
-    "latency_ms": 142.39,
-    "last_checked": 1782162540.296891
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.69,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 866.25,
+    "last_checked": 1782163113.0610983
   }
 ]
