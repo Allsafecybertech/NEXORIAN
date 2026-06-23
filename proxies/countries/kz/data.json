@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "92.46.70.174",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 51.01,
+    "asn": "AS9198",
+    "isp": "JSC Kazakhtelecom",
+    "latency_ms": 3980.35,
+    "last_checked": 1782246538.0176013
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.8.31.104",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Karaganda",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.29,
+    "asn": "AS203087",
+    "isp": "PE Fedinyak Sergey Vyacheslavovich",
+    "latency_ms": 2482.3,
+    "last_checked": 1782246534.8413355
+  },
+  {
     "protocol": "socks4",
     "ip": "89.169.37.254",
     "port": 1080,
@@ -11,53 +41,38 @@
     "uptime_percent": 47.78,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 500.1,
-    "last_checked": 1782245998.2870398
+    "latency_ms": 16954.77,
+    "last_checked": 1782246529.8804483
   },
   {
-    "protocol": "socks5",
-    "ip": "176.12.74.0",
+    "protocol": "socks4",
+    "ip": "45.10.40.218",
     "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.52,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 11571.95,
-    "last_checked": 1782245990.297381
+    "uptime_percent": 47.06,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 1184.61,
+    "last_checked": 1782246516.8412232
   },
   {
-    "protocol": "socks4",
-    "ip": "91.244.106.26",
-    "port": 1090,
+    "protocol": "socks5",
+    "ip": "89.169.37.254",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 16.99,
-    "asn": "AS21299",
-    "isp": "Kar-Tel LLC",
-    "latency_ms": 1559.11,
-    "last_checked": 1782245982.1372042
-  },
-  {
-    "protocol": "http",
-    "ip": "89.169.37.254",
-    "port": 8080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 21.46,
+    "uptime_percent": 43.64,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 1812.33,
-    "last_checked": 1782245981.72618
+    "latency_ms": 8383.77,
+    "last_checked": 1782246514.3565624
   },
   {
     "protocol": "http",
@@ -71,8 +86,8 @@
     "uptime_percent": 98.51,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 1740.73,
-    "last_checked": 1782245951.827126
+    "latency_ms": 1622.44,
+    "last_checked": 1782246503.644342
   },
   {
     "protocol": "http",
@@ -83,25 +98,40 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 55.97,
+    "uptime_percent": 55.98,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 678.92,
-    "last_checked": 1782245930.9659538
+    "latency_ms": 675.39,
+    "last_checked": 1782246493.5267146
   },
   {
     "protocol": "socks5",
-    "ip": "46.8.31.104",
+    "ip": "45.10.40.218",
     "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Karaganda",
+    "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.65,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 6617.46,
-    "last_checked": 1782245910.4525726
+    "uptime_percent": 42.59,
+    "asn": "AS9123",
+    "isp": "JSC \"TIMEWEB\"",
+    "latency_ms": 7743.9,
+    "last_checked": 1782246470.7411146
+  },
+  {
+    "protocol": "http",
+    "ip": "176.12.74.0",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 19.51,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 1693.71,
+    "last_checked": 1782246417.7411652
   }
 ]
