@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "5.45.125.201",
+    "protocol": "socks5",
+    "ip": "5.101.120.25",
     "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.94,
+    "uptime_percent": 88.66,
+    "asn": "AS198068",
+    "isp": "P.A.G.M. OU",
+    "latency_ms": 3264.22,
+    "last_checked": 1782240591.1870825
+  },
+  {
+    "protocol": "socks4",
+    "ip": "95.85.242.7",
+    "port": 9050,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.73,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 5898.96,
+    "last_checked": 1782240547.9933403
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.99,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 168.77,
-    "last_checked": 1782239955.2838454
+    "latency_ms": 4844.36,
+    "last_checked": 1782240528.3928194
   },
   {
     "protocol": "socks5",
@@ -23,25 +53,25 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.47,
+    "uptime_percent": 81.48,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1269.1,
-    "last_checked": 1782239913.3789854
+    "latency_ms": 1546.0,
+    "last_checked": 1782240526.8235924
   },
   {
     "protocol": "socks5",
-    "ip": "5.101.120.25",
-    "port": 1080,
+    "ip": "95.85.242.7",
+    "port": 9050,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.65,
-    "asn": "AS198068",
-    "isp": "P.A.G.M. OU",
-    "latency_ms": 1626.94,
-    "last_checked": 1782239874.5063949
+    "uptime_percent": 18.63,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 13856.73,
+    "last_checked": 1782240524.3038347
   }
 ]
