@@ -1,18 +1,78 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "125.209.110.83",
-    "port": 39617,
+    "port": 1981,
     "country": "Pakistan",
     "country_code": "PK",
     "city": "Karachi",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 8.63,
+    "ssl": true,
+    "uptime_percent": 13.28,
     "asn": "AS9260",
     "isp": "Multinet 125-110/24",
-    "latency_ms": 5406.75,
-    "last_checked": 1782220660.4453008
+    "latency_ms": 7986.27,
+    "last_checked": 1782221384.2897458
+  },
+  {
+    "protocol": "http",
+    "ip": "103.255.151.169",
+    "port": 8080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Karachi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.08,
+    "asn": "AS138985",
+    "isp": "Delta Networks",
+    "latency_ms": 2322.4,
+    "last_checked": 1782221361.624067
+  },
+  {
+    "protocol": "http",
+    "ip": "103.255.66.109",
+    "port": 8080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Islamabad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.47,
+    "asn": "AS150683",
+    "isp": "Transworld Enterprise Services",
+    "latency_ms": 12603.94,
+    "last_checked": 1782221341.3996933
+  },
+  {
+    "protocol": "http",
+    "ip": "43.251.253.40",
+    "port": 8080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Lahore",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 31.9,
+    "asn": "AS136384",
+    "isp": "Optix Pakistan (Pvt.) Limited",
+    "latency_ms": 2069.82,
+    "last_checked": 1782221338.947804
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.150.206.77",
+    "port": 1080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Faisalabad",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.38,
+    "asn": "AS140594",
+    "isp": "Nadeem Abbas and Shayufta Rani",
+    "latency_ms": 1057.32,
+    "last_checked": 1782221277.2376542
   },
   {
     "protocol": "socks5",
@@ -23,10 +83,10 @@
     "city": "Lahore",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 51.6,
+    "uptime_percent": 51.78,
     "asn": "AS136030",
     "isp": "AGIS",
-    "latency_ms": 1441.85,
-    "last_checked": 1782220712.352802
+    "latency_ms": 3828.03,
+    "last_checked": 1782221328.981
   }
 ]
