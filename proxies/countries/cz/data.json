@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Klatovy",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 5.89,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 58.61,
-    "last_checked": 1782242326.338786
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.51,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 2839.85,
+    "last_checked": 1782242927.3582313
   },
   {
     "protocol": "http",
@@ -26,23 +26,23 @@
     "uptime_percent": 64.23,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 10220.84,
-    "last_checked": 1782242299.3600404
+    "latency_ms": 4591.86,
+    "last_checked": 1782242924.5802033
   },
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 83.51,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4795.89,
-    "last_checked": 1782242243.0806088
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.91,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 3094.06,
+    "last_checked": 1782242898.2172966
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,22 @@
     "uptime_percent": 82.26,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 4252.3,
-    "last_checked": 1782242226.4985275
+    "latency_ms": 3153.34,
+    "last_checked": 1782242843.7508774
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.73,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 2902.5,
+    "last_checked": 1782242812.1173105
   }
 ]
