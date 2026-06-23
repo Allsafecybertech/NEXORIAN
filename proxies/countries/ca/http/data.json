@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "128.90.43.196",
-    "port": 8118,
+    "ip": "96.1.101.113",
+    "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Toronto",
+    "city": "Calgary",
     "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 24.22,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 17895.92,
+    "last_checked": 1782187743.2694626
+  },
+  {
+    "protocol": "http",
+    "ip": "23.95.76.201",
+    "port": 8443,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 39.22,
-    "asn": "AS40861",
-    "isp": "Paradise Networks LLC",
-    "latency_ms": 1111.6,
-    "last_checked": 1782187139.399501
+    "uptime_percent": 13.34,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network Inc.",
+    "latency_ms": 14339.43,
+    "last_checked": 1782187736.7357538
   },
   {
     "protocol": "http",
@@ -23,25 +38,10 @@
     "city": "Vancouver",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 32.09,
+    "uptime_percent": 32.1,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 4034.67,
-    "last_checked": 1782187109.6984143
-  },
-  {
-    "protocol": "http",
-    "ip": "96.1.101.113",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Calgary",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 24.21,
-    "asn": "AS852",
-    "isp": "TELUS Communications Inc.",
-    "latency_ms": 18206.0,
-    "last_checked": 1782187112.2629707
+    "latency_ms": 822.46,
+    "last_checked": 1782187735.6959875
   }
 ]
