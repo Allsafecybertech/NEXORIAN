@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "192.124.172.51",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 83.52,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 989.71,
-    "last_checked": 1782249563.0017943
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.74,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 4132.26,
+    "last_checked": 1782250152.8654566
   },
   {
     "protocol": "http",
@@ -26,8 +26,38 @@
     "uptime_percent": 17.45,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 11780.3,
-    "last_checked": 1782249555.0000079
+    "latency_ms": 13069.16,
+    "last_checked": 1782250129.4450917
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.52,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 1125.6,
+    "last_checked": 1782250121.267159
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 11.73,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 4756.68,
+    "last_checked": 1782250066.529183
   },
   {
     "protocol": "http",
@@ -41,22 +71,7 @@
     "uptime_percent": 64.26,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 8538.79,
-    "last_checked": 1782249479.5854688
-  },
-  {
-    "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Karlovy Vary",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 7.83,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1211.24,
-    "last_checked": 1782249465.4918308
+    "latency_ms": 6362.1,
+    "last_checked": 1782250121.911208
   }
 ]
