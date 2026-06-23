@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "2.78.60.10",
+    "port": 3129,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 98.5,
+    "asn": "AS29355",
+    "isp": "Kcell JSC",
+    "latency_ms": 1118.46,
+    "last_checked": 1782209360.4533658
+  },
+  {
+    "protocol": "socks4",
     "ip": "176.12.72.62",
     "port": 1080,
     "country": "Kazakhstan",
@@ -8,26 +23,11 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.92,
+    "uptime_percent": 36.93,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 1357.78,
-    "last_checked": 1782208779.5055773
-  },
-  {
-    "protocol": "socks4",
-    "ip": "46.8.31.104",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Karaganda",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.29,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 14128.08,
-    "last_checked": 1782208779.2892888
+    "latency_ms": 6436.0,
+    "last_checked": 1782209357.65554
   },
   {
     "protocol": "socks4",
@@ -41,8 +41,8 @@
     "uptime_percent": 47.92,
     "asn": "AS205516",
     "isp": "NLS ASTANA LLP",
-    "latency_ms": 8641.8,
-    "last_checked": 1782208771.6617186
+    "latency_ms": 13284.35,
+    "last_checked": 1782209356.5494964
   },
   {
     "protocol": "socks4",
@@ -53,56 +53,56 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.96,
+    "uptime_percent": 50.06,
     "asn": "AS9123",
     "isp": "JSC \"TIMEWEB\"",
-    "latency_ms": 1702.85,
-    "last_checked": 1782208765.9868705
-  },
-  {
-    "protocol": "socks4",
-    "ip": "91.244.106.26",
-    "port": 1090,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Astana",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.96,
-    "asn": "AS21299",
-    "isp": "Kar-Tel LLC",
-    "latency_ms": 7854.1,
-    "last_checked": 1782208759.3459408
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.12.74.0",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.41,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 8835.29,
-    "last_checked": 1782208714.3690815
+    "latency_ms": 3979.36,
+    "last_checked": 1782209337.214082
   },
   {
     "protocol": "http",
-    "ip": "2.78.60.10",
-    "port": 3129,
+    "ip": "176.12.72.62",
+    "port": 3128,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 20.48,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 8658.86,
+    "last_checked": 1782209322.176058
+  },
+  {
+    "protocol": "socks5",
+    "ip": "94.131.230.23",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Ust-Kamenogorsk",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.5,
-    "asn": "AS29355",
-    "isp": "Kcell JSC",
-    "latency_ms": 922.2,
-    "last_checked": 1782208699.5527403
+    "uptime_percent": 24.2,
+    "asn": "AS58172",
+    "isp": "Freedom Telecom Kazakhstan",
+    "latency_ms": 617.73,
+    "last_checked": 1782209320.05516
+  },
+  {
+    "protocol": "http",
+    "ip": "82.115.60.51",
+    "port": 80,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 55.81,
+    "asn": "AS200590",
+    "isp": "NLS Kazakhstan LLC",
+    "latency_ms": 20440.46,
+    "last_checked": 1782209315.1504514
   },
   {
     "protocol": "http",
@@ -112,11 +112,11 @@
     "country_code": "KZ",
     "city": "Astana",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 27.32,
     "asn": "AS41798",
     "isp": "TTC Network",
-    "latency_ms": 4482.88,
-    "last_checked": 1782208695.457662
+    "latency_ms": 11850.96,
+    "last_checked": 1782209265.8694634
   }
 ]
