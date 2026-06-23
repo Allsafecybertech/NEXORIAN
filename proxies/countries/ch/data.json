@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "5.101.85.133",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.61,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 6768.14,
+    "last_checked": 1782193794.4828024
+  },
+  {
     "protocol": "http",
     "ip": "45.59.122.132",
     "port": 80,
@@ -7,12 +22,12 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 68.1,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 775.89,
-    "last_checked": 1782193179.650589
+    "latency_ms": 110.73,
+    "last_checked": 1782193775.9839756
   },
   {
     "protocol": "socks4",
@@ -26,23 +41,8 @@
     "uptime_percent": 87.91,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2240.17,
-    "last_checked": 1782193176.3067615
-  },
-  {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 75.25,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5463.05,
-    "last_checked": 1782193156.019872
+    "latency_ms": 3482.69,
+    "last_checked": 1782193772.6521802
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,22 @@
     "uptime_percent": 85.87,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3560.33,
-    "last_checked": 1782193085.341911
+    "latency_ms": 5055.41,
+    "last_checked": 1782193705.3951268
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.25,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 11524.31,
+    "last_checked": 1782193672.287944
   }
 ]
