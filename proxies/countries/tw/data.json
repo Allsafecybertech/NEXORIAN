@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "85.237.206.150",
+    "port": 1234,
     "country": "Taiwan",
     "country_code": "TW",
     "city": "Taipei",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 30.9,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 645.81,
-    "last_checked": 1782198460.2615495
+    "ssl": true,
+    "uptime_percent": 85.42,
+    "asn": "AS401443",
+    "isp": "WAP.AC LLC",
+    "latency_ms": 10346.1,
+    "last_checked": 1782199153.4591708
   },
   {
     "protocol": "socks5",
@@ -26,7 +26,37 @@
     "uptime_percent": 99.84,
     "asn": "AS142002",
     "isp": "Scloud Pte Ltd",
-    "latency_ms": 1731.94,
-    "last_checked": 1782198447.158734
+    "latency_ms": 13572.41,
+    "last_checked": 1782199148.51089
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.237.207.223",
+    "port": 50161,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 93.05,
+    "asn": "AS401443",
+    "isp": "WAP.AC LLC",
+    "latency_ms": 18556.18,
+    "last_checked": 1782199146.4859364
+  },
+  {
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.9,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 656.36,
+    "last_checked": 1782199065.2175527
   }
 ]
