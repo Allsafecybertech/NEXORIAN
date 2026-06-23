@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "85.237.206.150",
+    "port": 1234,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 81.01,
+    "asn": "AS401443",
+    "isp": "WAP.AC LLC",
+    "latency_ms": 4441.29,
+    "last_checked": 1782243569.399739
+  },
+  {
+    "protocol": "socks4",
     "ip": "85.237.207.223",
     "port": 50161,
     "country": "Taiwan",
@@ -8,41 +23,11 @@
     "city": "Taipei",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 93.59,
+    "uptime_percent": 93.56,
     "asn": "AS401443",
     "isp": "WAP.AC LLC",
-    "latency_ms": 8489.52,
-    "last_checked": 1782242947.10548
-  },
-  {
-    "protocol": "socks5",
-    "ip": "165.154.227.39",
-    "port": 1080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.83,
-    "asn": "AS142002",
-    "isp": "Scloud Pte Ltd",
-    "latency_ms": 1559.98,
-    "last_checked": 1782242932.027515
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.237.207.223",
-    "port": 50161,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 90.66,
-    "asn": "AS401443",
-    "isp": "WAP.AC LLC",
-    "latency_ms": 12173.59,
-    "last_checked": 1782242917.7756674
+    "latency_ms": 10396.95,
+    "last_checked": 1782243565.6968694
   },
   {
     "protocol": "http",
@@ -56,7 +41,37 @@
     "uptime_percent": 30.99,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 644.91,
-    "last_checked": 1782242826.5616481
+    "latency_ms": 660.34,
+    "last_checked": 1782243554.5964608
+  },
+  {
+    "protocol": "socks5",
+    "ip": "165.154.227.39",
+    "port": 1080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.83,
+    "asn": "AS142002",
+    "isp": "Scloud Pte Ltd",
+    "latency_ms": 1858.64,
+    "last_checked": 1782243552.158612
+  },
+  {
+    "protocol": "http",
+    "ip": "122.117.203.252",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Kaohsiung",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 16.8,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 6810.74,
+    "last_checked": 1782243419.9425771
   }
 ]
