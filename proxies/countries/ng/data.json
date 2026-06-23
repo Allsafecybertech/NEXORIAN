@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "41.184.92.219",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "154.113.167.70",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Abuja",
-    "anonymity": "anonymous",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.85,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 1582.9,
+    "last_checked": 1782254976.1715963
+  },
+  {
+    "protocol": "http",
+    "ip": "143.105.102.145",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 55.98,
-    "asn": "AS29091",
-    "isp": "ipNX Nigeria Limited",
-    "latency_ms": 695.46,
-    "last_checked": 1782254364.6374433
+    "uptime_percent": 26.31,
+    "asn": "AS14593",
+    "isp": "Space Exploration Technologies Corporation",
+    "latency_ms": 13455.66,
+    "last_checked": 1782254937.9059992
   },
   {
     "protocol": "socks5",
@@ -23,11 +38,11 @@
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 68.42,
+    "uptime_percent": 68.23,
     "asn": "AS8849",
     "isp": "Melbikomas UAB",
-    "latency_ms": 5782.14,
-    "last_checked": 1782254343.9952316
+    "latency_ms": 1270.14,
+    "last_checked": 1782254889.8532221
   },
   {
     "protocol": "socks5",
@@ -38,25 +53,10 @@
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.29,
+    "uptime_percent": 57.38,
     "asn": "AS8849",
     "isp": "Melbikomas UAB",
-    "latency_ms": 3405.55,
-    "last_checked": 1782254342.9093761
-  },
-  {
-    "protocol": "http",
-    "ip": "197.253.23.4",
-    "port": 8080,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.58,
-    "asn": "AS37282",
-    "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 4254.88,
-    "last_checked": 1782254264.5404224
+    "latency_ms": 1443.1,
+    "last_checked": 1782254875.5140424
   }
 ]
