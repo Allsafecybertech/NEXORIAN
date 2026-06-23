@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "148.253.214.128",
     "port": 3182,
     "country": "Bulgaria",
@@ -8,11 +8,41 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.34,
+    "uptime_percent": 46.77,
     "asn": "AS216129",
     "isp": "SEBEK sp. z o.o",
-    "latency_ms": 5043.11,
-    "last_checked": 1782203919.890746
+    "latency_ms": 873.12,
+    "last_checked": 1782204592.3849719
+  },
+  {
+    "protocol": "socks4",
+    "ip": "148.253.214.128",
+    "port": 3180,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 74.51,
+    "asn": "AS216129",
+    "isp": "SEBEK sp. z o.o",
+    "latency_ms": 884.9,
+    "last_checked": 1782204577.5491102
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.174.199",
+    "port": 23500,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Dobrich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.58,
+    "asn": "AS57344",
+    "isp": "DobrudjaCable Ltd.",
+    "latency_ms": 14800.1,
+    "last_checked": 1782204489.763932
   },
   {
     "protocol": "socks4",
@@ -23,10 +53,25 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 12.37,
+    "uptime_percent": 12.38,
     "asn": "AS8717",
     "isp": "Spectrum NET",
-    "latency_ms": 129.09,
-    "last_checked": 1782203985.387923
+    "latency_ms": 1160.33,
+    "last_checked": 1782204597.1118495
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.98,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 6737.95,
+    "last_checked": 1782204496.2358727
   }
 ]
