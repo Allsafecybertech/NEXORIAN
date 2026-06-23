@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.237.207.223",
-    "port": 50161,
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
     "country": "Taiwan",
     "country_code": "TW",
     "city": "Taipei",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 92.52,
-    "asn": "AS401443",
-    "isp": "WAP.AC LLC",
-    "latency_ms": 20304.42,
-    "last_checked": 1782202751.7950668
-  },
-  {
-    "protocol": "socks5",
-    "ip": "112.105.12.235",
-    "port": 1111,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taichung",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.11,
-    "asn": "AS18049",
-    "isp": "TINP",
-    "latency_ms": 18817.78,
-    "last_checked": 1782202750.5078213
+    "ssl": false,
+    "uptime_percent": 30.91,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 643.57,
+    "last_checked": 1782203352.7195015
   },
   {
     "protocol": "socks5",
@@ -41,22 +26,37 @@
     "uptime_percent": 99.84,
     "asn": "AS142002",
     "isp": "Scloud Pte Ltd",
-    "latency_ms": 2378.62,
-    "last_checked": 1782202710.3910265
+    "latency_ms": 1524.62,
+    "last_checked": 1782203350.4027715
   },
   {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "85.237.207.223",
+    "port": 50161,
     "country": "Taiwan",
     "country_code": "TW",
     "city": "Taipei",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 30.91,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 660.28,
-    "last_checked": 1782202692.9382067
+    "ssl": true,
+    "uptime_percent": 87.98,
+    "asn": "AS401443",
+    "isp": "WAP.AC LLC",
+    "latency_ms": 10162.76,
+    "last_checked": 1782203345.3005416
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.237.207.223",
+    "port": 50161,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 92.23,
+    "asn": "AS401443",
+    "isp": "WAP.AC LLC",
+    "latency_ms": 9877.56,
+    "last_checked": 1782203333.9017923
   }
 ]
