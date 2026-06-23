@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "130.193.123.34",
-    "port": 5678,
+    "ip": "45.142.195.110",
+    "port": 995,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 20.71,
-    "asn": "AS49800",
-    "isp": "GNC",
-    "latency_ms": 3297.41,
-    "last_checked": 1782185954.4812896
+    "uptime_percent": 44.36,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 4693.51,
+    "last_checked": 1782186245.350638
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.53,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 12391.99,
+    "last_checked": 1782186237.1655803
   },
   {
     "protocol": "http",
@@ -22,11 +37,26 @@
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.59,
+    "ssl": true,
+    "uptime_percent": 17.6,
     "asn": "AS44395",
     "isp": "Ucom Mobile Network",
-    "latency_ms": 8132.35,
-    "last_checked": 1782185909.6451087
+    "latency_ms": 5604.59,
+    "last_checked": 1782186192.3478916
+  },
+  {
+    "protocol": "http",
+    "ip": "91.103.248.58",
+    "port": 3128,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.42,
+    "asn": "AS201884",
+    "isp": "ISP SUPPORT LLC",
+    "latency_ms": 11653.63,
+    "last_checked": 1782186162.5662386
   }
 ]
