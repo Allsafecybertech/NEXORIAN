@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "148.253.214.128",
     "port": 3180,
     "country": "Bulgaria",
@@ -8,11 +8,56 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.46,
+    "uptime_percent": 59.61,
     "asn": "AS216129",
     "isp": "SEBEK sp. z o.o",
-    "latency_ms": 3248.95,
-    "last_checked": 1782295182.964025
+    "latency_ms": 4047.44,
+    "last_checked": 1782295795.6789036
+  },
+  {
+    "protocol": "http",
+    "ip": "78.128.6.82",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 28.42,
+    "asn": "AS31083",
+    "isp": "Telepoint Ltd",
+    "latency_ms": 6098.07,
+    "last_checked": 1782295757.8245332
+  },
+  {
+    "protocol": "socks4",
+    "ip": "148.253.214.128",
+    "port": 3182,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.68,
+    "asn": "AS216129",
+    "isp": "SEBEK sp. z o.o",
+    "latency_ms": 9112.69,
+    "last_checked": 1782295757.2452953
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.183.25",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.97,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 4029.54,
+    "last_checked": 1782295755.7706301
   },
   {
     "protocol": "http",
@@ -26,11 +71,11 @@
     "uptime_percent": 28.05,
     "asn": "AS8866",
     "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 5286.33,
-    "last_checked": 1782295169.6718564
+    "latency_ms": 5541.49,
+    "last_checked": 1782295715.3319685
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "148.253.214.128",
     "port": 3180,
     "country": "Bulgaria",
@@ -38,41 +83,11 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 59.72,
+    "uptime_percent": 53.63,
     "asn": "AS216129",
     "isp": "SEBEK sp. z o.o",
-    "latency_ms": 6495.5,
-    "last_checked": 1782295168.7522316
-  },
-  {
-    "protocol": "socks5",
-    "ip": "93.123.121.3",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Pirdop",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 24.72,
-    "asn": "AS44851",
-    "isp": "Retel JSC",
-    "latency_ms": 5269.96,
-    "last_checked": 1782295121.990406
-  },
-  {
-    "protocol": "socks5",
-    "ip": "148.253.214.128",
-    "port": 3182,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.39,
-    "asn": "AS216129",
-    "isp": "SEBEK sp. z o.o",
-    "latency_ms": 2896.36,
-    "last_checked": 1782295076.1983454
+    "latency_ms": 2372.55,
+    "last_checked": 1782295695.0734758
   },
   {
     "protocol": "socks4",
@@ -83,10 +98,40 @@
     "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 12.64,
+    "uptime_percent": 12.65,
     "asn": "AS8717",
     "isp": "Spectrum NET",
-    "latency_ms": 135.22,
-    "last_checked": 1782295173.799518
+    "latency_ms": 3146.64,
+    "last_checked": 1782295803.5693483
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.0,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 7879.14,
+    "last_checked": 1782295728.4356062
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.7",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.53,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 4612.59,
+    "last_checked": 1782295651.9442463
   }
 ]

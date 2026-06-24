@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.92,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 3106.65,
+    "last_checked": 1782295796.5393314
+  },
+  {
     "protocol": "socks5",
     "ip": "192.124.172.51",
     "port": 1080,
@@ -8,11 +23,11 @@
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.87,
+    "uptime_percent": 80.89,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 3102.4,
-    "last_checked": 1782295184.474712
+    "latency_ms": 7164.37,
+    "last_checked": 1782295793.2603118
   },
   {
     "protocol": "socks4",
@@ -23,26 +38,26 @@
     "city": "Kryry",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.69,
+    "uptime_percent": 39.7,
     "asn": "AS47232",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 83.59,
-    "last_checked": 1782295184.2734103
+    "latency_ms": 3118.74,
+    "last_checked": 1782295790.4262953
   },
   {
     "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "ip": "77.240.97.77",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
+    "city": "Dobříš",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 83.55,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 11266.31,
-    "last_checked": 1782295128.4907415
+    "uptime_percent": 25.33,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 1884.61,
+    "last_checked": 1782295762.684941
   },
   {
     "protocol": "http",
@@ -56,7 +71,37 @@
     "uptime_percent": 7.84,
     "asn": "AS201476",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 9055.18,
-    "last_checked": 1782295124.8887937
+    "latency_ms": 11242.94,
+    "last_checked": 1782295762.4356651
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.55,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 7884.97,
+    "last_checked": 1782295702.8631947
+  },
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Brno",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 64.5,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 7448.86,
+    "last_checked": 1782295779.4983976
   }
 ]
