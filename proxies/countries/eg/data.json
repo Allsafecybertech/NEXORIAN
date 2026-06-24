@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "41.33.219.140",
-    "port": 1981,
+    "ip": "196.219.64.252",
+    "port": 8080,
     "country": "Egypt",
     "country_code": "EG",
     "city": "Cairo",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 16.33,
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.57,
     "asn": "AS8452",
     "isp": "TE Data",
-    "latency_ms": 11113.56,
-    "last_checked": 1782285517.4279149
+    "latency_ms": 1280.47,
+    "last_checked": 1782286192.411323
+  },
+  {
+    "protocol": "http",
+    "ip": "45.240.232.62",
+    "port": 8080,
+    "country": "Egypt",
+    "country_code": "EG",
+    "city": "Cairo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.54,
+    "asn": "AS24863",
+    "isp": "LINKdotNET AS number",
+    "latency_ms": 9837.49,
+    "last_checked": 1782286151.8310602
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 8.76,
     "asn": "AS36992",
     "isp": "Etisalat Misr Mobile BB",
-    "latency_ms": 3154.37,
-    "last_checked": 1782285480.0172248
-  },
-  {
-    "protocol": "http",
-    "ip": "41.65.103.190",
-    "port": 8080,
-    "country": "Egypt",
-    "country_code": "EG",
-    "city": "Cairo",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 23.43,
-    "asn": "AS36992",
-    "isp": "Etisalat Misr Mobile BB",
-    "latency_ms": 3892.21,
-    "last_checked": 1782285399.3910418
-  },
-  {
-    "protocol": "http",
-    "ip": "82.129.237.65",
-    "port": 1976,
-    "country": "Egypt",
-    "country_code": "EG",
-    "city": "Alexandria",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.51,
-    "asn": "AS24835",
-    "isp": "Global-AWAYED",
-    "latency_ms": 11183.65,
-    "last_checked": 1782285394.3369153
+    "latency_ms": 7414.56,
+    "last_checked": 1782286107.8792994
   }
 ]
