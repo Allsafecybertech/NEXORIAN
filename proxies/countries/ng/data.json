@@ -1,17 +1,47 @@
 [
   {
     "protocol": "http",
+    "ip": "41.203.83.242",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.73,
+    "asn": "AS37148",
+    "isp": "Globacom Limited",
+    "latency_ms": 11319.49,
+    "last_checked": 1782341053.780946
+  },
+  {
+    "protocol": "http",
     "ip": "102.36.133.62",
     "port": 8080,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Ebute-Metta",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 21.24,
+    "ssl": false,
+    "uptime_percent": 21.25,
     "asn": "AS328556",
     "isp": "Syscodes Communications",
-    "latency_ms": 2875.63,
-    "last_checked": 1782340730.6958854
+    "latency_ms": 2396.09,
+    "last_checked": 1782341047.6638453
+  },
+  {
+    "protocol": "socks5",
+    "ip": "176.97.192.158",
+    "port": 1083,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.59,
+    "asn": "AS8849",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 5341.88,
+    "last_checked": 1782341034.3220296
   }
 ]
