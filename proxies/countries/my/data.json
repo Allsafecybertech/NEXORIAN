@@ -1,48 +1,48 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "47.250.11.111",
-    "port": 8085,
+    "port": 13,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 1.08,
+    "uptime_percent": 1.86,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 6365.69,
-    "last_checked": 1782278972.9573092
+    "latency_ms": 6386.88,
+    "last_checked": 1782279531.8508086
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "47.250.11.111",
-    "port": 8181,
+    "port": 161,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 1.32,
+    "uptime_percent": 1.77,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 10512.08,
-    "last_checked": 1782278969.53883
+    "latency_ms": 6437.64,
+    "last_checked": 1782279530.0949674
   },
   {
-    "protocol": "socks4",
-    "ip": "187.77.156.136",
-    "port": 1080,
+    "protocol": "socks5",
+    "ip": "47.250.11.111",
+    "port": 81,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.4,
-    "asn": "AS47583",
-    "isp": "Hostinger MY",
-    "latency_ms": 801.52,
-    "last_checked": 1782278957.4251945
+    "uptime_percent": 1.86,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 9452.98,
+    "last_checked": 1782279512.9206614
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 29.11,
     "asn": "AS4788",
     "isp": "Telekom Malaysia Berhad",
-    "latency_ms": 985.98,
-    "last_checked": 1782278932.721803
+    "latency_ms": 5168.25,
+    "last_checked": 1782279490.2147586
+  },
+  {
+    "protocol": "http",
+    "ip": "58.84.16.214",
+    "port": 1231,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Putrajaya",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.43,
+    "asn": "AS38182",
+    "isp": "Extreme Broadband",
+    "latency_ms": 4736.79,
+    "last_checked": 1782279419.239872
   }
 ]
