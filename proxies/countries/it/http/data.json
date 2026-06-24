@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "93.187.26.134",
+    "ip": "194.183.1.205",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 21.01,
+    "asn": "AS5394",
+    "isp": "UNIDATA S.p.A.",
+    "latency_ms": 1794.86,
+    "last_checked": 1782310190.3047872
+  },
+  {
+    "protocol": "http",
+    "ip": "149.86.206.27",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Figline Valdarno",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.64,
+    "asn": "AS60501",
+    "isp": "Sirius Technology SRL",
+    "latency_ms": 79.47,
+    "last_checked": 1782310179.7300618
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.26.218",
     "port": 58080,
     "country": "Italy",
     "country_code": "IT",
     "city": "Siena",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 32.74,
+    "uptime_percent": 30.11,
     "asn": "AS43960",
     "isp": "Consorzio Terrecablate",
-    "latency_ms": 9634.39,
-    "last_checked": 1782309533.2907703
-  },
-  {
-    "protocol": "http",
-    "ip": "188.11.179.26",
-    "port": 8443,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Crispi Cavour",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 12.7,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 4297.18,
-    "last_checked": 1782309514.3438807
+    "latency_ms": 1440.46,
+    "last_checked": 1782310159.992921
   },
   {
     "protocol": "http",
@@ -37,11 +52,26 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.25,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 11418.25,
-    "last_checked": 1782309453.997624
+    "latency_ms": 10352.05,
+    "last_checked": 1782310156.6800725
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.27,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 140.29,
+    "last_checked": 1782310201.1639326
   }
 ]
