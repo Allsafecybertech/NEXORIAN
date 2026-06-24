@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.101.85.133",
     "port": 9050,
     "country": "Switzerland",
@@ -8,11 +8,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 50.15,
+    "uptime_percent": 55.4,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 423.36,
-    "last_checked": 1782287958.3691869
+    "latency_ms": 1473.36,
+    "last_checked": 1782288594.424267
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.06,
+    "uptime_percent": 88.07,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2353.37,
-    "last_checked": 1782287953.9473705
+    "latency_ms": 1147.34,
+    "last_checked": 1782288579.521174
   },
   {
     "protocol": "http",
@@ -41,8 +41,38 @@
     "uptime_percent": 68.57,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 71.38,
-    "last_checked": 1782287928.4293168
+    "latency_ms": 1006.52,
+    "last_checked": 1782288573.2367134
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.07,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2455.79,
+    "last_checked": 1782288571.3102736
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.239.248",
+    "port": 8080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Wetzikon",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 11.72,
+    "asn": "AS264617",
+    "isp": "Geronimo Ramirez Computer Network",
+    "latency_ms": 14620.3,
+    "last_checked": 1782288569.973898
   },
   {
     "protocol": "socks5",
@@ -56,7 +86,22 @@
     "uptime_percent": 86.09,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4517.88,
-    "last_checked": 1782287896.3261673
+    "latency_ms": 9461.72,
+    "last_checked": 1782288550.3297834
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.51,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 14025.58,
+    "last_checked": 1782288505.060103
   }
 ]
