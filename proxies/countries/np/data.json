@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "110.44.115.83",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "118.91.175.146",
+    "port": 5678,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Nanche Bazar",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.92,
+    "asn": "AS24550",
+    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+    "latency_ms": 3894.86,
+    "last_checked": 1782276505.309379
+  },
+  {
+    "protocol": "socks4",
+    "ip": "182.93.75.162",
+    "port": 1080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 7.86,
-    "asn": "AS45650",
-    "isp": "Vianet Communications Pvt. Ltd",
-    "latency_ms": 13545.79,
-    "last_checked": 1782275917.2702034
+    "ssl": true,
+    "uptime_percent": 50.19,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 3903.55,
+    "last_checked": 1782276504.3906825
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 8.07,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 11991.5,
-    "last_checked": 1782275864.667954
+    "latency_ms": 4155.51,
+    "last_checked": 1782276492.9109068
+  },
+  {
+    "protocol": "http",
+    "ip": "110.34.1.178",
+    "port": 7777,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.41,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 9245.91,
+    "last_checked": 1782276374.6290655
   }
 ]
