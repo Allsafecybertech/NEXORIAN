@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "192.124.172.51",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.59,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 7130.63,
+    "last_checked": 1782277172.361528
+  },
+  {
     "protocol": "http",
     "ip": "77.240.97.77",
     "port": 8080,
@@ -7,12 +22,12 @@
     "country_code": "CZ",
     "city": "Dobříš",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 25.33,
     "asn": "AS42189",
     "isp": "DOBRISNET",
-    "latency_ms": 4438.29,
-    "last_checked": 1782276495.8800955
+    "latency_ms": 5656.01,
+    "last_checked": 1782277161.7305663
   },
   {
     "protocol": "http",
@@ -26,8 +41,23 @@
     "uptime_percent": 83.56,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2042.72,
-    "last_checked": 1782276476.335656
+    "latency_ms": 7637.81,
+    "last_checked": 1782277143.3778245
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.5,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 6992.16,
+    "last_checked": 1782277138.450723
   },
   {
     "protocol": "http",
@@ -41,22 +71,22 @@
     "uptime_percent": 7.84,
     "asn": "AS201476",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 11237.64,
-    "last_checked": 1782276453.4433646
+    "latency_ms": 7954.3,
+    "last_checked": 1782277073.2070003
   },
   {
-    "protocol": "socks5",
-    "ip": "192.124.172.51",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
+    "city": "Brno",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 80.67,
-    "asn": "AS26383",
-    "isp": "Baxet Group Inc.",
-    "latency_ms": 1266.92,
-    "last_checked": 1782276388.7717843
+    "ssl": false,
+    "uptime_percent": 64.4,
+    "asn": "AS24641",
+    "isp": "FASTER CZ spol. s r.o.",
+    "latency_ms": 51.75,
+    "last_checked": 1782277188.490084
   }
 ]
