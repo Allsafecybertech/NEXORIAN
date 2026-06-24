@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "134.199.164.215",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.15,
+    "ssl": false,
+    "uptime_percent": 94.3,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1463.87,
-    "last_checked": 1782272074.5806913
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Albury",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 8.22,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 4100.93,
-    "last_checked": 1782272074.5666013
+    "latency_ms": 491.6,
+    "last_checked": 1782272653.552688
   },
   {
     "protocol": "http",
@@ -37,27 +22,42 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 51.3,
     "asn": "AS141995",
     "isp": "Contabo Asia Private Limited",
-    "latency_ms": 6256.92,
-    "last_checked": 1782272072.6534743
+    "latency_ms": 14311.56,
+    "last_checked": 1782272652.035808
   },
   {
     "protocol": "http",
-    "ip": "103.18.205.162",
+    "ip": "103.131.232.9",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
+    "city": "Goulburn",
     "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.08,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 5823.42,
+    "last_checked": 1782272637.6279988
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.65,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 6844.72,
-    "last_checked": 1782272072.2248895
+    "uptime_percent": 46.53,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 2666.37,
+    "last_checked": 1782272635.3469732
   },
   {
     "protocol": "socks5",
@@ -71,23 +71,38 @@
     "uptime_percent": 91.5,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1484.8,
-    "last_checked": 1782272015.5571072
+    "latency_ms": 1561.08,
+    "last_checked": 1782272606.2614598
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.137.166",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "North Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 42.11,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13401.83,
+    "last_checked": 1782272600.582237
   },
   {
     "protocol": "socks5",
-    "ip": "103.248.47.230",
+    "ip": "134.199.164.215",
     "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Kurnell",
+    "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.52,
-    "asn": "AS133417",
-    "isp": "Dicker Data Ltd",
-    "latency_ms": 1663.87,
-    "last_checked": 1782271996.9221556
+    "uptime_percent": 85.16,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1468.25,
+    "last_checked": 1782272591.4567556
   },
   {
     "protocol": "http",
@@ -97,12 +112,12 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 30.27,
     "asn": "AS136258",
     "isp": "BrainStorm Network",
-    "latency_ms": 515.08,
-    "last_checked": 1782271947.3101885
+    "latency_ms": 1513.41,
+    "last_checked": 1782272590.9483614
   },
   {
     "protocol": "http",
@@ -113,10 +128,10 @@
     "city": "Sydney",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 58.21,
+    "uptime_percent": 58.68,
     "asn": "AS133159",
     "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 7754.25,
-    "last_checked": 1782272079.3862298
+    "latency_ms": 13620.64,
+    "last_checked": 1782272605.5154552
   }
 ]
