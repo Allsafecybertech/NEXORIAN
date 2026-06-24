@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 83.55,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1051.05,
-    "last_checked": 1782273579.214582
-  },
-  {
-    "protocol": "socks5",
-    "ip": "192.124.172.51",
-    "port": 1080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
+    "city": "Klatovy",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.75,
-    "asn": "AS26383",
-    "isp": "Baxet Group Inc.",
-    "latency_ms": 1091.37,
-    "last_checked": 1782273566.066373
+    "uptime_percent": 5.91,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 3095.78,
+    "last_checked": 1782274141.3471875
   },
   {
     "protocol": "http",
@@ -41,7 +26,52 @@
     "uptime_percent": 64.38,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 6757.77,
-    "last_checked": 1782273469.2736664
+    "latency_ms": 3202.28,
+    "last_checked": 1782274130.432875
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.55,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 7954.76,
+    "last_checked": 1782274128.4753125
+  },
+  {
+    "protocol": "socks5",
+    "ip": "192.124.172.51",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.72,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 1291.88,
+    "last_checked": 1782274127.4681566
+  },
+  {
+    "protocol": "http",
+    "ip": "91.139.78.174",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 17.48,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 13927.55,
+    "last_checked": 1782274102.5492198
   }
 ]
