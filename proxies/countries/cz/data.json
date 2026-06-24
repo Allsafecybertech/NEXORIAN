@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "192.124.172.51",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.87,
+    "asn": "AS26383",
+    "isp": "Baxet Group Inc.",
+    "latency_ms": 3102.4,
+    "last_checked": 1782295184.474712
+  },
+  {
     "protocol": "socks4",
     "ip": "78.111.112.118",
     "port": 4145,
@@ -11,53 +26,8 @@
     "uptime_percent": 39.69,
     "asn": "AS47232",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 68.1,
-    "last_checked": 1782294559.5953808
-  },
-  {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.75,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 1597.19,
-    "last_checked": 1782294511.9482532
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Dobříš",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.33,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 4700.83,
-    "last_checked": 1782294507.8185554
-  },
-  {
-    "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Karlovy Vary",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.84,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 10091.84,
-    "last_checked": 1782294497.7252493
+    "latency_ms": 83.59,
+    "last_checked": 1782295184.2734103
   },
   {
     "protocol": "http",
@@ -71,7 +41,22 @@
     "uptime_percent": 83.55,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 14350.9,
-    "last_checked": 1782294470.7981386
+    "latency_ms": 11266.31,
+    "last_checked": 1782295128.4907415
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.84,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 9055.18,
+    "last_checked": 1782295124.8887937
   }
 ]
