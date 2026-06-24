@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.40.80.143",
-    "port": 4153,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Klatovy",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 5.92,
-    "asn": "AS210712",
-    "isp": "Airweb",
-    "latency_ms": 63.19,
-    "last_checked": 1782301202.4148786
-  },
-  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -26,8 +11,8 @@
     "uptime_percent": 83.55,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 2170.96,
-    "last_checked": 1782301173.27925
+    "latency_ms": 1272.91,
+    "last_checked": 1782301771.4853137
   },
   {
     "protocol": "http",
@@ -37,26 +22,41 @@
     "country_code": "CZ",
     "city": "Šebetov",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 8.13,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 7111.8,
-    "last_checked": 1782301168.4224303
+    "latency_ms": 12943.2,
+    "last_checked": 1782301725.530351
   },
   {
     "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "ip": "45.139.91.62",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
+    "city": "Pilsen",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 64.53,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 8620.43,
-    "last_checked": 1782301118.4392326
+    "uptime_percent": 29.49,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 11379.54,
+    "last_checked": 1782301723.8942976
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.34,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 13014.26,
+    "last_checked": 1782301669.7180872
   }
 ]

@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.136.79.157",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Brăila",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.7,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 1175.36,
+    "last_checked": 1782301794.3371422
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.77",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 7.96,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 6807.51,
+    "last_checked": 1782301766.2407248
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 28.81,
-    "asn": "AS12302",
-    "isp": "UPC Romania",
-    "latency_ms": 8955.71,
-    "last_checked": 1782301099.707843
+    "uptime_percent": 18.0,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 2582.7,
+    "last_checked": 1782301723.3888166
   }
 ]
