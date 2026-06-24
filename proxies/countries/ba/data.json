@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.77.210.90",
-    "port": 21056,
+    "protocol": "socks4",
+    "ip": "185.99.3.100",
+    "port": 995,
     "country": "Bosnia and Herzegovina",
     "country_code": "BA",
-    "city": "Sarajevo",
+    "city": "Novi Travnik",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 7.58,
-    "asn": "AS42560",
-    "isp": "TELEMACH BH",
-    "latency_ms": 3317.02,
-    "last_checked": 1782275307.3595464
+    "ssl": true,
+    "uptime_percent": 36.84,
+    "asn": "AS200698",
+    "isp": "Globalhost d.o.o. - Web Hosting Solutions",
+    "latency_ms": 373.99,
+    "last_checked": 1782275928.730423
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.99.3.100",
+    "port": 995,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Novi Travnik",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.19,
+    "asn": "AS200698",
+    "isp": "Globalhost d.o.o. - Web Hosting Solutions",
+    "latency_ms": 7987.9,
+    "last_checked": 1782275772.16582
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.39.114.139",
+    "port": 5678,
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "city": "Mostar",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.62,
+    "asn": "AS20875",
+    "isp": "JP HT d.d. Mostar",
+    "latency_ms": 7588.8,
+    "last_checked": 1782275989.0852494
   }
 ]
