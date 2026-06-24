@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "170.64.170.204",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 91.5,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 1488.64,
-    "last_checked": 1782342593.4953432
-  },
-  {
     "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
@@ -26,23 +11,23 @@
     "uptime_percent": 94.3,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 507.74,
-    "last_checked": 1782342577.7484765
+    "latency_ms": 501.21,
+    "last_checked": 1782343150.2885883
   },
   {
     "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "ip": "61.29.96.146",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.55,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2878.41,
-    "last_checked": 1782342567.303097
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 8.24,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 4918.29,
+    "last_checked": 1782343128.9561346
   },
   {
     "protocol": "http",
@@ -52,11 +37,41 @@
     "country_code": "AU",
     "city": "Goulburn",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.04,
+    "ssl": true,
+    "uptime_percent": 23.05,
     "asn": "AS45447",
     "isp": "YLess4U Pty Ltd",
-    "latency_ms": 8711.81,
-    "last_checked": 1782342543.5802143
+    "latency_ms": 3635.55,
+    "last_checked": 1782343128.28464
+  },
+  {
+    "protocol": "socks5",
+    "ip": "170.64.170.204",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 91.5,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1546.19,
+    "last_checked": 1782343090.2588062
+  },
+  {
+    "protocol": "http",
+    "ip": "103.106.231.75",
+    "port": 8081,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 29.78,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 12516.92,
+    "last_checked": 1782343058.497298
   }
 ]
