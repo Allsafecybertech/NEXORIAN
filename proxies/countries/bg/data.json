@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "78.128.6.82",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 28.02,
-    "asn": "AS31083",
-    "isp": "Telepoint Ltd",
-    "latency_ms": 15474.77,
-    "last_checked": 1782396847.7558174
-  },
-  {
     "protocol": "socks4",
     "ip": "109.160.97.49",
     "port": 4145,
@@ -26,8 +11,38 @@
     "uptime_percent": 13.52,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 7420.29,
-    "last_checked": 1782396842.713825
+    "latency_ms": 7521.81,
+    "last_checked": 1782397491.310005
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.79,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 11561.06,
+    "last_checked": 1782397480.3546739
+  },
+  {
+    "protocol": "socks4",
+    "ip": "93.123.121.3",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pirdop",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.34,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 3546.63,
+    "last_checked": 1782397462.3202212
   },
   {
     "protocol": "http",
@@ -41,53 +56,23 @@
     "uptime_percent": 47.86,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 5294.16,
-    "last_checked": 1782396825.2639024
+    "latency_ms": 15294.84,
+    "last_checked": 1782397458.2331371
   },
   {
     "protocol": "http",
-    "ip": "92.247.12.130",
-    "port": 9510,
+    "ip": "45.150.111.32",
+    "port": 5555,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.62,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 8724.34,
-    "last_checked": 1782396784.545321
-  },
-  {
-    "protocol": "http",
-    "ip": "87.126.65.14",
-    "port": 8088,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Stara Zagora",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.74,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 11561.21,
-    "last_checked": 1782396772.294312
-  },
-  {
-    "protocol": "http",
-    "ip": "85.187.224.21",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Kardzhali",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.87,
-    "asn": "AS199173",
-    "isp": "Technolux Ltd",
-    "latency_ms": 4253.93,
-    "last_checked": 1782396748.7798424
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 57.05,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 3109.88,
+    "last_checked": 1782397400.2815318
   },
   {
     "protocol": "http",
@@ -97,12 +82,27 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 5.29,
     "asn": "AS8866",
     "isp": "BTC-BROADBAND",
-    "latency_ms": 2683.94,
-    "last_checked": 1782396739.3370473
+    "latency_ms": 3786.1,
+    "last_checked": 1782397389.876621
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.81,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 12169.11,
+    "last_checked": 1782397439.8443754
   },
   {
     "protocol": "http",
@@ -112,11 +112,11 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 19.7,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 7549.95,
-    "last_checked": 1782396862.0599396
+    "latency_ms": 5637.75,
+    "last_checked": 1782397437.3608096
   }
 ]
