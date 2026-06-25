@@ -1,5 +1,50 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.59,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 1230.02,
+    "last_checked": 1782412786.9011195
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.57,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 230.97,
+    "last_checked": 1782412773.6176605
+  },
+  {
+    "protocol": "http",
+    "ip": "89.136.79.157",
+    "port": 8085,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Brăila",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.98,
+    "asn": "AS12302",
+    "isp": "UPC Romania",
+    "latency_ms": 3305.12,
+    "last_checked": 1782412685.665062
+  },
+  {
     "protocol": "socks5",
     "ip": "185.247.224.99",
     "port": 39997,
@@ -8,10 +53,25 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.26,
+    "uptime_percent": 14.28,
     "asn": "AS200651",
     "isp": "FlokiNET ehf",
-    "latency_ms": 1974.86,
-    "last_checked": 1782412188.6158595
+    "latency_ms": 9830.19,
+    "last_checked": 1782412666.0111365
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.07,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 3678.72,
+    "last_checked": 1782412612.719948
   }
 ]
