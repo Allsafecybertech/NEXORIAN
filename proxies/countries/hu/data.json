@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "45.130.240.238",
-    "port": 8080,
+    "ip": "31.46.33.59",
+    "port": 53281,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Budapest",
+    "city": "Tiszafüred",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.95,
-    "asn": "AS47169",
-    "isp": "Pro-M Zrt.",
-    "latency_ms": 5050.78,
-    "last_checked": 1782370748.8317983
+    "ssl": false,
+    "uptime_percent": 13.62,
+    "asn": "AS5483",
+    "isp": "htc",
+    "latency_ms": 8662.19,
+    "last_checked": 1782371295.7413006
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,25 @@
     "city": "Budapest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.32,
+    "uptime_percent": 17.33,
     "asn": "AS61998",
     "isp": "Szerverplex Kft",
-    "latency_ms": 547.92,
-    "last_checked": 1782370665.5944645
+    "latency_ms": 154.16,
+    "last_checked": 1782371273.553958
+  },
+  {
+    "protocol": "http",
+    "ip": "45.130.240.238",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.97,
+    "asn": "AS47169",
+    "isp": "Pro-M Zrt.",
+    "latency_ms": 3349.67,
+    "last_checked": 1782371269.401141
   }
 ]
