@@ -1,18 +1,48 @@
 [
   {
     "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 83.69,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 1128.77,
+    "last_checked": 1782388750.9299376
+  },
+  {
+    "protocol": "http",
+    "ip": "185.53.46.240",
+    "port": 55555,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.38,
+    "asn": "AS209847",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 15463.28,
+    "last_checked": 1782388727.5734804
+  },
+  {
+    "protocol": "http",
     "ip": "91.139.78.174",
     "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 17.43,
+    "ssl": false,
+    "uptime_percent": 17.44,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 6608.22,
-    "last_checked": 1782388457.5836346
+    "latency_ms": 13571.2,
+    "last_checked": 1782388679.6383555
   },
   {
     "protocol": "http",
@@ -26,22 +56,7 @@
     "uptime_percent": 64.95,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 8574.28,
-    "last_checked": 1782388454.5760126
-  },
-  {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 83.69,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 40.27,
-    "last_checked": 1782388394.392642
+    "latency_ms": 9679.32,
+    "last_checked": 1782388672.047068
   }
 ]
