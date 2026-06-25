@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.14,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 341.24,
+    "last_checked": 1782401998.5732312
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.21,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 4102.18,
+    "last_checked": 1782401985.609206
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.142.195.110",
     "port": 995,
     "country": "Armenia",
@@ -11,22 +41,7 @@
     "uptime_percent": 44.43,
     "asn": "AS215929",
     "isp": "Data Campus Limited",
-    "latency_ms": 2495.3,
-    "last_checked": 1782401396.4694686
-  },
-  {
-    "protocol": "http",
-    "ip": "91.103.248.58",
-    "port": 3128,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 44.7,
-    "asn": "AS201884",
-    "isp": "ISP SUPPORT LLC",
-    "latency_ms": 4852.6,
-    "last_checked": 1782401362.3670528
+    "latency_ms": 10981.18,
+    "last_checked": 1782401973.8719249
   }
 ]
