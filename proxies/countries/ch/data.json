@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 68.44,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 392.32,
-    "last_checked": 1782384281.623917
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.101.85.133",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.31,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 7747.46,
-    "last_checked": 1782384277.9159787
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -41,8 +11,8 @@
     "uptime_percent": 88.17,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4462.29,
-    "last_checked": 1782384275.717662
+    "latency_ms": 1483.29,
+    "last_checked": 1782384897.349285
   },
   {
     "protocol": "socks5",
@@ -53,10 +23,40 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.24,
+    "uptime_percent": 86.23,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2896.41,
-    "last_checked": 1782384228.1700196
+    "latency_ms": 2198.82,
+    "last_checked": 1782384874.473695
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 68.44,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 2465.48,
+    "last_checked": 1782384813.0920403
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.55,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 20093.99,
+    "last_checked": 1782384808.9400053
   }
 ]
