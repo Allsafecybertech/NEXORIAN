@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.73,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 7354.78,
+    "last_checked": 1782374360.911327
+  },
+  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -11,8 +26,23 @@
     "uptime_percent": 83.69,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3539.24,
-    "last_checked": 1782373783.371313
+    "latency_ms": 3898.65,
+    "last_checked": 1782374355.038514
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.11,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 5620.76,
+    "last_checked": 1782374344.247985
   },
   {
     "protocol": "http",
@@ -26,37 +56,7 @@
     "uptime_percent": 64.91,
     "asn": "AS24641",
     "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 12787.92,
-    "last_checked": 1782373771.7295942
-  },
-  {
-    "protocol": "http",
-    "ip": "45.139.91.62",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 29.21,
-    "asn": "AS197296",
-    "isp": "United Networks SE",
-    "latency_ms": 956.06,
-    "last_checked": 1782373753.4855838
-  },
-  {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Strážnice",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 11.77,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 124.32,
-    "last_checked": 1782373724.6885674
+    "latency_ms": 8754.12,
+    "last_checked": 1782374291.6289468
   }
 ]
