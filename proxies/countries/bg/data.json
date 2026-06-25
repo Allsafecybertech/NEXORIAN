@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "5.104.183.25",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Rousse",
+    "city": "Svoge",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 16.95,
+    "asn": "AS205331",
+    "isp": "Wi-Max Network Ltd.",
+    "latency_ms": 2862.71,
+    "last_checked": 1782427440.3559074
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 13.53,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 254.09,
-    "last_checked": 1782427174.0786483
+    "uptime_percent": 54.06,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 7277.28,
+    "last_checked": 1782427420.3046196
   },
   {
     "protocol": "http",
-    "ip": "87.126.65.14",
-    "port": 8088,
+    "ip": "45.150.111.32",
+    "port": 5555,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Stara Zagora",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.75,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 3499.97,
-    "last_checked": 1782427138.3439417
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.24,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 12583.38,
+    "last_checked": 1782427408.3831055
   },
   {
     "protocol": "http",
@@ -38,26 +53,11 @@
     "city": "Kardzhali",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 16.9,
+    "uptime_percent": 16.91,
     "asn": "AS199173",
     "isp": "Technolux Ltd",
-    "latency_ms": 3619.94,
-    "last_checked": 1782427118.0159307
-  },
-  {
-    "protocol": "http",
-    "ip": "45.150.111.32",
-    "port": 5555,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.19,
-    "asn": "AS200019",
-    "isp": "Alexhost SRL",
-    "latency_ms": 12977.43,
-    "last_checked": 1782427068.2478878
+    "latency_ms": 4519.89,
+    "last_checked": 1782427405.8278537
   },
   {
     "protocol": "http",
@@ -71,8 +71,8 @@
     "uptime_percent": 7.51,
     "asn": "AS48584",
     "isp": "Sarnica-Net LTD",
-    "latency_ms": 8186.32,
-    "last_checked": 1782427009.192067
+    "latency_ms": 5464.11,
+    "last_checked": 1782427333.527939
   },
   {
     "protocol": "http",
@@ -82,11 +82,11 @@
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 19.72,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 12601.77,
-    "last_checked": 1782427178.5919275
+    "latency_ms": 4299.59,
+    "last_checked": 1782427464.8787217
   }
 ]
