@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "82.223.151.29",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 70.12,
+    "asn": "AS8560",
+    "isp": "arsys.es",
+    "latency_ms": 197.15,
+    "last_checked": 1782368039.9558854
+  },
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "San Fernando de Henares",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.72,
+    "asn": "AS3352",
+    "isp": "Telefonica de Espana SAU",
+    "latency_ms": 7276.02,
+    "last_checked": 1782368038.1651857
+  },
+  {
     "protocol": "http",
     "ip": "195.114.209.50",
     "port": 80,
@@ -11,8 +41,8 @@
     "uptime_percent": 65.74,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5761.38,
-    "last_checked": 1782367446.8930974
+    "latency_ms": 5122.0,
+    "last_checked": 1782367924.632453
   },
   {
     "protocol": "http",
@@ -22,26 +52,11 @@
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.37,
+    "ssl": false,
+    "uptime_percent": 31.38,
     "asn": "AS3352",
     "isp": "RIMA (Red IP Multi Acceso)",
-    "latency_ms": 3201.22,
-    "last_checked": 1782367412.7038844
-  },
-  {
-    "protocol": "http",
-    "ip": "212.231.191.23",
-    "port": 80,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 71.18,
-    "asn": "AS15704",
-    "isp": "Xtra Telecom S.A",
-    "latency_ms": 740.3,
-    "last_checked": 1782367463.1256979
+    "latency_ms": 158.0,
+    "last_checked": 1782367888.3559759
   }
 ]
