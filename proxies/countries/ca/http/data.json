@@ -1,32 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "192.99.44.178",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.22,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 12762.34,
-    "last_checked": 1782419893.4017692
-  },
-  {
-    "protocol": "http",
     "ip": "51.222.142.44",
     "port": 8080,
     "country": "Canada",
     "country_code": "CA",
     "city": "Beauharnois",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.92,
+    "ssl": true,
+    "uptime_percent": 31.84,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 8975.98,
-    "last_checked": 1782419840.6839378
+    "latency_ms": 10143.01,
+    "last_checked": 1782420519.9582498
+  },
+  {
+    "protocol": "http",
+    "ip": "192.99.44.178",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 18.22,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 13006.0,
+    "last_checked": 1782420482.0997825
+  },
+  {
+    "protocol": "http",
+    "ip": "54.39.154.107",
+    "port": 8082,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 20.44,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15028.85,
+    "last_checked": 1782420416.8398976
   }
 ]
