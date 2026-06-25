@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "95.85.242.7",
-    "port": 9050,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 28.48,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 9007.3,
-    "last_checked": 1782373174.9011967
-  },
-  {
     "protocol": "socks5",
     "ip": "5.101.120.25",
     "port": 1080,
@@ -26,8 +11,8 @@
     "uptime_percent": 88.72,
     "asn": "AS198068",
     "isp": "P.A.G.M. OU",
-    "latency_ms": 2407.13,
-    "last_checked": 1782373167.3854403
+    "latency_ms": 273.23,
+    "last_checked": 1782373791.5788448
   },
   {
     "protocol": "socks5",
@@ -38,10 +23,55 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.03,
+    "uptime_percent": 84.04,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 567.44,
-    "last_checked": 1782373136.2062702
+    "latency_ms": 407.02,
+    "last_checked": 1782373784.5057428
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.73,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 7736.12,
+    "last_checked": 1782373780.3446832
+  },
+  {
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 16.85,
+    "asn": "AS211211",
+    "isp": "IT-Develop DOO",
+    "latency_ms": 2586.74,
+    "last_checked": 1782373758.6252108
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.35,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 2723.48,
+    "last_checked": 1782373654.1713588
   }
 ]

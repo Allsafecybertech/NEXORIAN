@@ -1,21 +1,51 @@
 [
   {
-    "protocol": "http",
-    "ip": "47.250.11.111",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "47.250.177.202",
+    "port": 20000,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 1.11,
+    "ssl": true,
+    "uptime_percent": 1.18,
     "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 2339.82,
-    "last_checked": 1782373176.8025522
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 3352.89,
+    "last_checked": 1782373796.3315468
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "47.250.177.202",
+    "port": 111,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.23,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 6379.58,
+    "last_checked": 1782373792.6964295
+  },
+  {
+    "protocol": "socks4",
+    "ip": "47.250.177.202",
+    "port": 2000,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 0.91,
+    "asn": "AS45102",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "latency_ms": 11341.93,
+    "last_checked": 1782373786.754017
+  },
+  {
+    "protocol": "socks4",
     "ip": "187.77.156.136",
     "port": 1080,
     "country": "Malaysia",
@@ -23,26 +53,11 @@
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.1,
+    "uptime_percent": 44.75,
     "asn": "AS47583",
     "isp": "Hostinger MY",
-    "latency_ms": 1243.0,
-    "last_checked": 1782373156.8308246
-  },
-  {
-    "protocol": "http",
-    "ip": "38.54.97.149",
-    "port": 8080,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Kuala Lumpur",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.32,
-    "asn": "AS138915",
-    "isp": "Kaopu Cloud HK Limited",
-    "latency_ms": 12592.62,
-    "last_checked": 1782373080.7491028
+    "latency_ms": 1919.68,
+    "last_checked": 1782373749.5133233
   },
   {
     "protocol": "http",
@@ -52,11 +67,11 @@
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.91,
+    "ssl": true,
+    "uptime_percent": 28.9,
     "asn": "AS4788",
     "isp": "Telekom Malaysia Berhad",
-    "latency_ms": 11899.47,
-    "last_checked": 1782373006.1337337
+    "latency_ms": 485.5,
+    "last_checked": 1782373728.356371
   }
 ]
