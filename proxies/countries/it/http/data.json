@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "194.183.1.205",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.03,
+    "asn": "AS5394",
+    "isp": "UNIDATA S.p.A.",
+    "latency_ms": 9756.2,
+    "last_checked": 1782404976.4518714
+  },
+  {
+    "protocol": "http",
     "ip": "188.11.179.26",
     "port": 8443,
     "country": "Italy",
     "country_code": "IT",
     "city": "Crispi Cavour",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 12.72,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 6380.5,
-    "last_checked": 1782404388.9639897
+    "latency_ms": 3479.35,
+    "last_checked": 1782404973.8032186
   },
   {
     "protocol": "http",
@@ -23,26 +38,11 @@
     "city": "Palazzago",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 58.96,
+    "uptime_percent": 58.98,
     "asn": "AS210218",
     "isp": "Open Fiber S.P.A.",
-    "latency_ms": 74.58,
-    "last_checked": 1782404367.4975116
-  },
-  {
-    "protocol": "http",
-    "ip": "85.235.150.219",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.28,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 20378.73,
-    "last_checked": 1782404287.6484444
+    "latency_ms": 65.17,
+    "last_checked": 1782404924.4037495
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "IT",
     "city": "Siena",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.61,
+    "ssl": true,
+    "uptime_percent": 31.65,
     "asn": "AS43960",
     "isp": "Consorzio Terrecablate",
-    "latency_ms": 5106.17,
-    "last_checked": 1782404298.6139114
+    "latency_ms": 2305.96,
+    "last_checked": 1782404989.5050716
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.0",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 22.43,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 4048.73,
+    "last_checked": 1782404951.7831159
   }
 ]
