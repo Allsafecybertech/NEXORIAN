@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.115.230.100",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "185.196.178.238",
+    "port": 60606,
     "country": "Austria",
     "country_code": "AT",
-    "city": "Salzburg",
-    "anonymity": "transparent",
+    "city": "Längenfeld",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 9.21,
-    "asn": "AS25255",
-    "isp": "customers with static IP",
-    "latency_ms": 2659.98,
-    "last_checked": 1782377984.254794
+    "uptime_percent": 10.71,
+    "asn": "AS206091",
+    "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+    "latency_ms": 7217.22,
+    "last_checked": 1782378556.8654869
+  },
+  {
+    "protocol": "http",
+    "ip": "193.233.128.128",
+    "port": 3128,
+    "country": "Austria",
+    "country_code": "AT",
+    "city": "Vienna",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 40.83,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 10636.91,
+    "last_checked": 1782378500.2934299
   }
 ]
