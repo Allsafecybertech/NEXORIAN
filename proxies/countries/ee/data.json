@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.45.118.209",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.93,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 503.87,
-    "last_checked": 1782366831.9753833
-  },
-  {
     "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 66.01,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 155.15,
-    "last_checked": 1782366827.3214436
+    "latency_ms": 8378.37,
+    "last_checked": 1782367421.330792
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.76,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 16129.78,
+    "last_checked": 1782367416.961092
   },
   {
     "protocol": "socks5",
@@ -38,10 +38,40 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.71,
+    "uptime_percent": 88.72,
     "asn": "AS198068",
     "isp": "P.A.G.M. OU",
-    "latency_ms": 213.56,
-    "last_checked": 1782366826.8149543
+    "latency_ms": 288.58,
+    "last_checked": 1782367414.7108335
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.118.209",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.94,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 351.7,
+    "last_checked": 1782367411.3228316
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.85.242.7",
+    "port": 9050,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.57,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 16250.25,
+    "last_checked": 1782367281.1511636
   }
 ]
