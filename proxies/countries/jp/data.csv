@@ -1,29 +1,44 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,8.216.32.38,1080,Japan,JP,Tokyo,elite,true,89.75,AS45102,"Alibaba (US) Technology Co., Ltd.",924.05,1782347966.1760914
-socks5,172.105.192.212,9080,Japan,JP,Tokyo,elite,true,38.37,AS63949,Akamai Technologies,2356.85,1782347963.4625912
-socks4,45.76.104.16,1080,Japan,JP,Minamishinagawa,elite,true,58.96,AS20473,The Constant Company,3149.55,1782347963.2830176
-socks5,34.84.162.206,38081,Japan,JP,Tokyo,elite,true,76.3,AS396982,Google LLC,7242.6,1782347955.9324155
-socks5,139.162.108.209,1080,Japan,JP,Tokyo,elite,true,28.48,AS63949,"Akamai Technologies, Inc.",8211.23,1782347951.375284
-socks5,66.42.34.255,1080,Japan,JP,Minamishinagawa,elite,true,41.5,AS20473,"The Constant Company, LLC",5560.25,1782347951.3658946
-socks5,8.216.32.38,1080,Japan,JP,Tokyo,elite,true,87.78,AS45102,"Alibaba (US) Technology Co., Ltd.",10246.21,1782347951.288414
-http,8.209.255.13,3128,Japan,JP,Tokyo,elite,false,76.93,AS45102,"Alibaba (US) Technology Co., Ltd.",691.52,1782347949.9746616
-socks4,198.13.63.73,1080,Japan,JP,Minamishinagawa,elite,true,80.78,AS20473,The Constant Company,11570.06,1782347949.3424942
-socks5,45.76.104.16,1080,Japan,JP,Minamishinagawa,elite,true,49.77,AS20473,The Constant Company,5649.01,1782347947.185884
-socks4,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,97.03,AS136258,BrainStorm Network,7992.16,1782347938.2631798
-socks4,66.42.34.255,1080,Japan,JP,Minamishinagawa,elite,true,52.74,AS20473,"The Constant Company, LLC",7896.58,1782347934.9332216
-socks4,8.221.139.222,20,Japan,JP,Tokyo,elite,true,1.02,AS45102,"Alibaba (US) Technology Co., Ltd.",4504.27,1782347934.6195645
-http,139.162.84.172,1080,Japan,JP,Tokyo,elite,false,30.38,AS63949,"Akamai Technologies, Inc.",3904.5,1782347929.3231895
-http,8.221.138.111,9080,Japan,JP,Tokyo,elite,false,1.0,AS45102,"Alibaba (US) Technology Co., Ltd.",2456.5,1782347928.648501
-socks4,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,27.51,AS202422,G-Core Labs S.A.,10165.45,1782347924.6299787
-http,13.114.160.78,80,Japan,JP,Tokyo,elite,false,91.58,AS16509,Amazon Technologies Inc,3864.47,1782347923.4961097
-socks4,103.31.14.121,9050,Japan,JP,Minato-ku,elite,true,41.39,AS55902,"TS-NET of TOSET, Inc. in Japan",13336.29,1782347921.670796
-socks5,74.113.233.217,1080,Japan,JP,Tokyo,elite,true,69.56,AS36007,"Kamatera, Inc.",2572.57,1782347920.2024662
-socks5,139.162.91.253,1080,Japan,JP,Tokyo,elite,true,42.69,AS63949,"Akamai Technologies, Inc.",6640.81,1782347918.9728081
-http,43.163.223.251,18080,Japan,JP,Tokyo,elite,true,77.38,AS132203,Shenzhen Tencent Computer Systems Company Limited,2120.93,1782347914.9015095
-socks5,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,20.7,AS202422,G-Core Labs S.A.,14089.65,1782347908.413492
-socks5,150.230.194.118,555,Japan,JP,Tokyo,elite,true,57.07,AS31898,Oracle Corporation,1876.4,1782347870.7922347
-socks5,168.138.210.69,1080,Japan,JP,Tokyo,elite,true,68.28,AS31898,Oracle Corporation,11762.87,1782347856.8320673
-socks5,139.162.68.241,1080,Japan,JP,Tokyo,elite,true,35.03,AS63949,"Akamai Technologies, Inc.",13391.18,1782347839.330126
-socks5,198.13.63.73,1080,Japan,JP,Minamishinagawa,elite,true,76.14,AS20473,The Constant Company,11756.51,1782347803.6823673
-socks5,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,94.51,AS136258,BrainStorm Network,8511.25,1782347792.675937
-http,168.110.52.228,3128,Japan,JP,Tokyo,elite,true,78.42,AS31898,Oracle Corporation,1735.05,1782347969.9478674
+socks4,8.216.32.38,1080,Japan,JP,Tokyo,elite,true,89.75,AS45102,"Alibaba (US) Technology Co., Ltd.",1592.3,1782348593.7105513
+socks4,66.42.34.255,1080,Japan,JP,Minamishinagawa,elite,true,52.74,AS20473,"The Constant Company, LLC",2544.91,1782348590.2799563
+socks5,8.216.32.38,1080,Japan,JP,Tokyo,elite,true,87.77,AS45102,"Alibaba (US) Technology Co., Ltd.",3126.19,1782348589.6626515
+http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,76.93,AS45102,"Alibaba (US) Technology Co., Ltd.",1369.61,1782348585.5299866
+socks5,74.113.233.217,1080,Japan,JP,Tokyo,elite,true,69.56,AS36007,"Kamatera, Inc.",4600.66,1782348583.7997177
+http,13.114.160.78,80,Japan,JP,Tokyo,elite,false,91.58,AS16509,Amazon Technologies Inc,3387.18,1782348577.26727
+http,172.207.56.36,8561,Japan,JP,Tokyo,transparent,true,33.82,AS8075,Microsoft,6806.99,1782348575.8615115
+socks4,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,97.03,AS136258,BrainStorm Network,5992.85,1782348574.9986143
+http,168.138.202.218,3128,Japan,JP,Tokyo,transparent,true,11.04,AS31898,Oracle Corporation,721.26,1782348572.6698928
+socks4,31.57.172.220,10808,Japan,JP,Tokyo,elite,true,46.54,AS212336,ByteVirt LLC,18683.54,1782348572.4478405
+http,133.232.90.126,80,Japan,JP,Chiyoda City,elite,false,11.4,AS2514,"NTT PC Communications, Inc.",5970.79,1782348571.695456
+http,52.185.184.73,8561,Japan,JP,Tokyo,transparent,true,22.69,AS8075,Microsoft Corporation,739.71,1782348571.0152397
+socks4,198.13.63.73,1080,Japan,JP,Minamishinagawa,elite,true,80.79,AS20473,The Constant Company,10952.92,1782348570.275786
+http,160.248.7.177,80,Japan,JP,Ogura,elite,false,24.52,AS2514,"NTT PC Communications, Inc.",3785.32,1782348569.4435613
+socks5,198.13.63.73,1080,Japan,JP,Minamishinagawa,elite,true,76.16,AS20473,The Constant Company,12851.04,1782348563.8820643
+socks5,168.138.210.69,1080,Japan,JP,Tokyo,elite,true,68.29,AS31898,Oracle Corporation,3795.41,1782348563.5256228
+http,108.160.140.84,8118,Japan,JP,Minamishinagawa,elite,false,14.79,AS20473,The Constant Company,9231.53,1782348562.3562376
+http,172.104.89.145,1080,Japan,JP,Tokyo,elite,false,32.35,AS63949,Akamai Technologies,3761.95,1782348552.6853468
+http,43.163.223.251,18080,Japan,JP,Tokyo,elite,true,77.42,AS132203,Shenzhen Tencent Computer Systems Company Limited,4957.62,1782348546.4797635
+http,139.162.68.93,1080,Japan,JP,Tokyo,elite,false,21.45,AS63949,"Akamai Technologies, Inc.",10924.59,1782348542.906854
+socks4,8.221.141.88,548,Japan,JP,Tokyo,elite,true,0.66,AS45102,"Alibaba (US) Technology Co., Ltd.",3437.79,1782348538.253417
+socks5,139.162.68.93,1080,Japan,JP,Tokyo,elite,true,33.9,AS63949,"Akamai Technologies, Inc.",4528.06,1782348537.116606
+socks4,8.221.141.88,3260,Japan,JP,Tokyo,elite,true,0.67,AS45102,"Alibaba (US) Technology Co., Ltd.",5426.98,1782348535.0031834
+socks4,8.221.141.88,5060,Japan,JP,Tokyo,elite,true,0.74,AS45102,"Alibaba (US) Technology Co., Ltd.",5608.6,1782348534.8012443
+socks4,8.221.141.88,9044,Japan,JP,Tokyo,elite,true,0.57,AS45102,"Alibaba (US) Technology Co., Ltd.",6569.03,1782348533.881906
+socks4,8.221.141.88,2022,Japan,JP,Tokyo,elite,true,0.63,AS45102,"Alibaba (US) Technology Co., Ltd.",6966.16,1782348533.4745078
+socks4,8.221.141.88,92,Japan,JP,Tokyo,elite,true,0.64,AS45102,"Alibaba (US) Technology Co., Ltd.",7114.74,1782348533.3140259
+socks4,8.221.141.88,443,Japan,JP,Tokyo,elite,true,0.72,AS45102,"Alibaba (US) Technology Co., Ltd.",7605.32,1782348532.809149
+socks4,8.221.141.88,9500,Japan,JP,Tokyo,elite,true,0.74,AS45102,"Alibaba (US) Technology Co., Ltd.",10610.13,1782348531.224004
+socks4,8.221.141.88,4326,Japan,JP,Tokyo,elite,true,0.71,AS45102,"Alibaba (US) Technology Co., Ltd.",11641.18,1782348528.8048847
+socks4,103.31.14.121,9050,Japan,JP,Minato-ku,elite,true,41.39,AS55902,"TS-NET of TOSET, Inc. in Japan",14856.63,1782348517.4130898
+socks5,66.42.34.255,1080,Japan,JP,Minamishinagawa,elite,true,41.51,AS20473,"The Constant Company, LLC",13444.99,1782348513.6793141
+http,139.162.68.241,1080,Japan,JP,Tokyo,elite,false,22.42,AS63949,"Akamai Technologies, Inc.",2763.55,1782348512.2478058
+http,172.104.89.20,1080,Japan,JP,Tokyo,elite,false,32.65,AS63949,Akamai Technologies,2737.49,1782348511.7839012
+http,203.189.96.232,80,Japan,JP,Chiyoda City,anonymous,true,9.97,AS7506,"GMO Internet Group, Inc.",17174.88,1782348510.4037962
+socks5,8.221.141.88,1723,Japan,JP,Tokyo,elite,true,0.74,AS45102,"Alibaba (US) Technology Co., Ltd.",6486.11,1782348477.926374
+socks5,8.221.141.88,503,Japan,JP,Tokyo,elite,true,1.03,AS45102,"Alibaba (US) Technology Co., Ltd.",6505.2,1782348477.1694567
+socks5,8.221.141.88,43,Japan,JP,Tokyo,elite,true,0.65,AS45102,"Alibaba (US) Technology Co., Ltd.",10239.67,1782348473.8797076
+socks5,103.31.14.121,9050,Japan,JP,Minato-ku,elite,true,42.34,AS55902,"TS-NET of TOSET, Inc. in Japan",12738.95,1782348413.420075
+socks5,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,94.51,AS136258,BrainStorm Network,4746.11,1782348405.3451
+socks5,172.235.198.182,1080,Japan,JP,Osaka,elite,true,50.61,AS63949,"Akamai Technologies, Inc.",4206.84,1782348400.6593463
+socks5,139.162.68.241,1080,Japan,JP,Tokyo,elite,true,35.36,AS63949,"Akamai Technologies, Inc.",3044.38,1782348388.0380557
+socks4,209.182.234.151,40000,Japan,JP,Tokyo,elite,true,33.74,AS29802,"HIVELOCITY, Inc.",4085.33,1782348596.4210799
