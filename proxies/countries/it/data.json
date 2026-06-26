@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.11.179.26",
-    "port": 8443,
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Crispi Cavour",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.77,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 3308.86,
-    "last_checked": 1782448751.9834516
-  },
-  {
-    "protocol": "http",
-    "ip": "87.121.148.126",
-    "port": 49200,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Palazzago",
+    "city": "Milan",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 60.18,
-    "asn": "AS210218",
-    "isp": "Open Fiber S.P.A.",
-    "latency_ms": 59.35,
-    "last_checked": 1782448719.2184808
+    "ssl": true,
+    "uptime_percent": 87.61,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 264.67,
+    "last_checked": 1782449357.959076
   },
   {
     "protocol": "socks5",
@@ -41,23 +26,23 @@
     "uptime_percent": 26.6,
     "asn": "AS31034",
     "isp": "Aruba S.p.A. Network",
-    "latency_ms": 16429.13,
-    "last_checked": 1782448696.6772447
+    "latency_ms": 8438.12,
+    "last_checked": 1782449339.7590542
   },
   {
     "protocol": "http",
-    "ip": "85.235.150.219",
-    "port": 3128,
+    "ip": "87.121.148.126",
+    "port": 49200,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.33,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 7336.86,
-    "last_checked": 1782448689.3312142
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 60.2,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 125.91,
+    "last_checked": 1782449281.35502
   },
   {
     "protocol": "http",
@@ -71,7 +56,22 @@
     "uptime_percent": 9.05,
     "asn": "AS35612",
     "isp": "NGI",
-    "latency_ms": 14692.85,
-    "last_checked": 1782448677.0838633
+    "latency_ms": 5933.02,
+    "last_checked": 1782449156.7977455
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.9,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 208.55,
+    "last_checked": 1782449394.6595814
   }
 ]
