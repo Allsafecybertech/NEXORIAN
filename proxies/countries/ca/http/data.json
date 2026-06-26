@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "20.151.20.143",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Toronto",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 48.01,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 8237.43,
-    "last_checked": 1782514706.9988017
-  },
-  {
-    "protocol": "http",
-    "ip": "173.181.143.245",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Vancouver",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 33.09,
-    "asn": "AS852",
-    "isp": "TELUS Communications Inc.",
-    "latency_ms": 6978.7,
-    "last_checked": 1782514702.3643322
-  },
-  {
-    "protocol": "http",
     "ip": "96.1.101.113",
     "port": 80,
     "country": "Canada",
@@ -41,8 +11,53 @@
     "uptime_percent": 24.95,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 11406.24,
-    "last_checked": 1782514700.070377
+    "latency_ms": 11257.72,
+    "last_checked": 1782515351.0629215
+  },
+  {
+    "protocol": "http",
+    "ip": "173.181.143.245",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Vancouver",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 33.1,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 3898.94,
+    "last_checked": 1782515350.893222
+  },
+  {
+    "protocol": "http",
+    "ip": "20.151.20.143",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.83,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 3656.57,
+    "last_checked": 1782515337.3692071
+  },
+  {
+    "protocol": "http",
+    "ip": "51.222.142.44",
+    "port": 8080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.22,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 14764.82,
+    "last_checked": 1782515335.3239293
   },
   {
     "protocol": "http",
@@ -53,10 +68,10 @@
     "city": "Montreal",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 18.26,
+    "uptime_percent": 18.27,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 15534.7,
-    "last_checked": 1782514696.6552758
+    "latency_ms": 14529.12,
+    "last_checked": 1782515308.684655
   }
 ]
