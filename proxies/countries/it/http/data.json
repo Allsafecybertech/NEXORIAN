@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "194.183.1.205",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.38,
+    "asn": "AS5394",
+    "isp": "UNIDATA S.p.A.",
+    "latency_ms": 4927.0,
+    "last_checked": 1782500283.1174536
+  },
+  {
+    "protocol": "http",
     "ip": "87.121.148.126",
     "port": 49200,
     "country": "Italy",
@@ -8,11 +23,11 @@
     "city": "Palazzago",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 61.01,
+    "uptime_percent": 61.03,
     "asn": "AS210218",
     "isp": "Open Fiber S.P.A.",
-    "latency_ms": 369.76,
-    "last_checked": 1782499736.4603238
+    "latency_ms": 319.15,
+    "last_checked": 1782500251.9507546
   },
   {
     "protocol": "http",
@@ -22,26 +37,11 @@
     "country_code": "IT",
     "city": "Siena",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 31.44,
     "asn": "AS43960",
     "isp": "Consorzio Terrecablate",
-    "latency_ms": 9000.41,
-    "last_checked": 1782499680.441529
-  },
-  {
-    "protocol": "http",
-    "ip": "93.187.25.12",
-    "port": 58080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Siena",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 28.34,
-    "asn": "AS43960",
-    "isp": "Consorzio Terrecablate",
-    "latency_ms": 3987.51,
-    "last_checked": 1782499649.3159647
+    "latency_ms": 5339.18,
+    "last_checked": 1782500365.063576
   }
 ]
