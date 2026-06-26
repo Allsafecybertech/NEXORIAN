@@ -1,48 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "190.128.195.58",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Lambaré",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.1,
-    "asn": "AS23201",
-    "isp": "Telecel S.A.",
-    "latency_ms": 6087.87,
-    "last_checked": 1782436769.4676542
-  },
-  {
-    "protocol": "http",
-    "ip": "170.245.132.81",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Carapeguá",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.05,
-    "asn": "AS270096",
-    "isp": "MACHADO BAEZ, NERY JAVIER",
-    "latency_ms": 2308.1,
-    "last_checked": 1782436727.7798517
-  },
-  {
-    "protocol": "http",
     "ip": "170.245.132.86",
     "port": 999,
     "country": "Paraguay",
     "country_code": "PY",
     "city": "Carapeguá",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 15.26,
     "asn": "AS270096",
     "isp": "MACHADO BAEZ, NERY JAVIER",
-    "latency_ms": 983.58,
-    "last_checked": 1782436714.9527552
+    "latency_ms": 1677.38,
+    "last_checked": 1782437324.3461332
+  },
+  {
+    "protocol": "socks4",
+    "ip": "190.104.143.94",
+    "port": 4153,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Asunción",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.48,
+    "asn": "AS27895",
+    "isp": "Núcleo S.A.",
+    "latency_ms": 4294.25,
+    "last_checked": 1782437299.3664238
   },
   {
     "protocol": "http",
@@ -56,7 +41,22 @@
     "uptime_percent": 9.01,
     "asn": "AS270052",
     "isp": "Aranda Cardozo Lider Ramon",
-    "latency_ms": 6036.5,
-    "last_checked": 1782436689.9845219
+    "latency_ms": 3488.36,
+    "last_checked": 1782437298.2865295
+  },
+  {
+    "protocol": "http",
+    "ip": "190.110.226.122",
+    "port": 80,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Asunción",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 65.11,
+    "asn": "AS28103",
+    "isp": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
+    "latency_ms": 2573.79,
+    "last_checked": 1782437295.401177
   }
 ]
