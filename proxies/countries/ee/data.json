@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "5.101.120.25",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 88.66,
+    "asn": "AS198068",
+    "isp": "P.A.G.M. OU",
+    "latency_ms": 763.84,
+    "last_checked": 1782461966.320651
+  },
+  {
     "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
@@ -11,23 +26,38 @@
     "uptime_percent": 65.95,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 11528.18,
-    "last_checked": 1782461319.756817
+    "latency_ms": 2215.14,
+    "last_checked": 1782461955.8919928
   },
   {
-    "protocol": "socks5",
-    "ip": "5.45.125.201",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "95.85.242.7",
+    "port": 9050,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.61,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 13551.71,
+    "last_checked": 1782461921.805378
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 62.12,
+    "uptime_percent": 38.79,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 6832.71,
-    "last_checked": 1782461317.3465762
+    "latency_ms": 9393.82,
+    "last_checked": 1782461914.1719787
   },
   {
     "protocol": "socks5",
@@ -41,7 +71,22 @@
     "uptime_percent": 84.99,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 397.34,
-    "last_checked": 1782461170.5978484
+    "latency_ms": 514.53,
+    "last_checked": 1782461888.7310274
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.12,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 3551.19,
+    "last_checked": 1782461826.428075
   }
 ]
