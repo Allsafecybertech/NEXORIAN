@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "87.121.148.126",
-    "port": 49200,
+    "protocol": "socks4",
+    "ip": "5.59.248.134",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Palazzago",
+    "city": "Pomezia",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.72,
-    "asn": "AS210218",
-    "isp": "Open Fiber S.P.A.",
-    "latency_ms": 66.27,
-    "last_checked": 1782433795.9210432
+    "ssl": true,
+    "uptime_percent": 36.73,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 5368.47,
+    "last_checked": 1782434394.424025
   },
   {
     "protocol": "socks4",
@@ -26,23 +26,8 @@
     "uptime_percent": 87.65,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 320.0,
-    "last_checked": 1782433795.5955656
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.59.248.134",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pomezia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.73,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 6013.9,
-    "last_checked": 1782433762.9797525
+    "latency_ms": 568.1,
+    "last_checked": 1782434387.466542
   },
   {
     "protocol": "socks5",
@@ -56,8 +41,23 @@
     "uptime_percent": 84.92,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 782.0,
-    "last_checked": 1782433751.7482924
+    "latency_ms": 541.47,
+    "last_checked": 1782434384.420604
+  },
+  {
+    "protocol": "http",
+    "ip": "5.59.248.134",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 15.78,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 3123.72,
+    "last_checked": 1782434377.512115
   },
   {
     "protocol": "http",
@@ -71,22 +71,37 @@
     "uptime_percent": 12.75,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 7973.28,
-    "last_checked": 1782433687.757827
+    "latency_ms": 7145.03,
+    "last_checked": 1782434372.6817799
   },
   {
-    "protocol": "socks5",
-    "ip": "77.81.230.90",
-    "port": 9050,
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 59.74,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 1373.13,
+    "last_checked": 1782434313.3520093
+  },
+  {
+    "protocol": "http",
+    "ip": "85.235.150.219",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
     "city": "Arezzo",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 22.6,
+    "uptime_percent": 8.31,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 27787.29,
-    "last_checked": 1782433637.360651
+    "latency_ms": 11511.97,
+    "last_checked": 1782434312.5598729
   }
 ]
