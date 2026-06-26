@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.65.247.133",
-    "port": 48049,
+    "protocol": "socks5",
+    "ip": "185.210.85.26",
+    "port": 56981,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Rokytne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.15,
+    "asn": "AS205673",
+    "isp": "ISP UATEL",
+    "latency_ms": 412.96,
+    "last_checked": 1782458983.5226896
+  },
+  {
+    "protocol": "socks4",
+    "ip": "31.42.184.146",
+    "port": 57752,
     "country": "Ukraine",
     "country_code": "UA",
     "city": "Kyiv",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 6.84,
-    "asn": "AS200000",
-    "isp": "Hosting Ukraine LTD",
-    "latency_ms": 11639.13,
-    "last_checked": 1782458308.724915
+    "uptime_percent": 8.28,
+    "asn": "AS30860",
+    "isp": "Virtual Systems LLC",
+    "latency_ms": 7697.8,
+    "last_checked": 1782458978.4814248
   },
   {
     "protocol": "socks5",
-    "ip": "217.77.223.2",
-    "port": 9050,
+    "ip": "45.128.188.33",
+    "port": 35860,
     "country": "Ukraine",
     "country_code": "UA",
-    "city": "Mykolayiv",
+    "city": "Kyiv",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.82,
-    "asn": "AS31272",
-    "isp": "WildPark Co",
-    "latency_ms": 25293.29,
-    "last_checked": 1782458278.6679242
+    "uptime_percent": 42.82,
+    "asn": "AS43633",
+    "isp": "Gigabit-Online LLC",
+    "latency_ms": 2385.83,
+    "last_checked": 1782458963.2798066
   },
   {
     "protocol": "http",
@@ -41,8 +56,8 @@
     "uptime_percent": 92.99,
     "asn": "AS214743",
     "isp": "Cogento Backbone Limited",
-    "latency_ms": 154.86,
-    "last_checked": 1782458255.3742013
+    "latency_ms": 153.2,
+    "last_checked": 1782458951.2108285
   },
   {
     "protocol": "http",
@@ -52,12 +67,27 @@
     "country_code": "UA",
     "city": "Kyiv",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 23.46,
     "asn": "AS6849",
     "isp": "JSC \"Ukrtelecom\"",
-    "latency_ms": 6392.7,
-    "last_checked": 1782458212.831947
+    "latency_ms": 11799.18,
+    "last_checked": 1782458947.6578832
+  },
+  {
+    "protocol": "http",
+    "ip": "46.175.191.225",
+    "port": 9999,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Odesa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 25.99,
+    "asn": "AS44800",
+    "isp": "Belnet LTD",
+    "latency_ms": 5139.72,
+    "last_checked": 1782458939.727954
   },
   {
     "protocol": "http",
@@ -71,7 +101,22 @@
     "uptime_percent": 24.86,
     "asn": "AS15895",
     "isp": "Kyivstar UA",
-    "latency_ms": 14218.48,
-    "last_checked": 1782458197.4935198
+    "latency_ms": 7269.08,
+    "last_checked": 1782458932.5925531
+  },
+  {
+    "protocol": "http",
+    "ip": "176.32.2.193",
+    "port": 8080,
+    "country": "Ukraine",
+    "country_code": "UA",
+    "city": "Kamyanets-Podilskyi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.76,
+    "asn": "AS49332",
+    "isp": "Lanet Network",
+    "latency_ms": 4863.33,
+    "last_checked": 1782458840.5679042
   }
 ]
