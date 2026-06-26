@@ -1103,11 +1103,11 @@
     "city": "Moscow",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 43.37,
+    "uptime_percent": 43.38,
     "asn": "AS3216",
     "isp": "SOVINTEL/END broadband internet",
-    "latency_ms": 1287.17,
-    "last_checked": 1782445499.3974955
+    "latency_ms": 278.71,
+    "last_checked": 1782446102.101604
   },
   {
     "protocol": "socks4",
@@ -1118,14 +1118,14 @@
     "city": "Moscow",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.68,
+    "uptime_percent": 28.69,
     "asn": "AS12695",
     "isp": "Digital Network JSC",
-    "latency_ms": 1230.02,
-    "last_checked": 1782445477.640973
+    "latency_ms": 227.98,
+    "last_checked": 1782446101.0459452
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "213.171.15.146",
     "port": 1080,
     "country": "Russia",
@@ -1133,10 +1133,40 @@
     "city": "Novosibirsk",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.98,
+    "uptime_percent": 44.48,
     "asn": "AS57494",
     "isp": "Adman LLC",
-    "latency_ms": 12032.43,
-    "last_checked": 1782445449.0260777
+    "latency_ms": 10541.23,
+    "last_checked": 1782446072.3825305
+  },
+  {
+    "protocol": "socks5",
+    "ip": "212.119.236.86",
+    "port": 1080,
+    "country": "Russia",
+    "country_code": "RU",
+    "city": "Moscow",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.29,
+    "asn": "AS3216",
+    "isp": "JSC DirectNet Telecommunications",
+    "latency_ms": 1297.86,
+    "last_checked": 1782446021.7919104
+  },
+  {
+    "protocol": "http",
+    "ip": "212.67.31.235",
+    "port": 8080,
+    "country": "Russia",
+    "country_code": "RU",
+    "city": "Irkutsk",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.69,
+    "asn": "AS50187",
+    "isp": "BaikalWestCom",
+    "latency_ms": 12581.13,
+    "last_checked": 1782445951.4362233
   }
 ]
