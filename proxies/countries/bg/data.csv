@@ -1,5 +1,8 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,151.237.84.9,8080,Bulgaria,BG,Kardzhali,transparent,false,22.3,AS48233,Netroniks EOOD,2715.51,1782497306.6130404
-http,87.126.65.11,1388,Bulgaria,BG,Stara Zagora,transparent,false,5.87,AS8866,Vivacom Bulgaria EAD,12323.31,1782497305.4931962
-http,213.169.33.10,8001,Bulgaria,BG,Sofia,transparent,false,13.85,AS8717,A1 Bulgaria EAD,3960.13,1782497350.4198565
-http,213.169.33.8,8001,Bulgaria,BG,Sofia,transparent,true,13.94,AS8717,A1 Bulgaria EAD,13229.49,1782497340.7919161
+socks4,103.249.134.225,1080,Bulgaria,BG,Sofia,elite,true,33.24,AS200740,First Server Limited,3187.23,1782497951.4579458
+http,151.237.84.9,8080,Bulgaria,BG,Kardzhali,transparent,true,22.3,AS48233,Netroniks EOOD,2503.48,1782497936.229046
+socks4,93.123.121.3,8080,Bulgaria,BG,Pirdop,elite,true,27.22,AS44851,Retel JSC,6167.09,1782497926.1873443
+http,94.139.204.51,8081,Bulgaria,BG,Lukovit,elite,false,5.2,AS48747,Lukovitnet Ltd.,10612.4,1782497897.8469071
+socks5,93.123.121.3,8080,Bulgaria,BG,Pirdop,elite,true,24.7,AS44851,Retel JSC,6095.08,1782497677.3859046
+http,213.169.33.12,8001,Bulgaria,BG,Sofia,transparent,true,19.78,AS8717,A1 Bulgaria EAD,4223.18,1782497993.761333
+http,213.169.33.10,8001,Bulgaria,BG,Sofia,transparent,false,13.85,AS8717,A1 Bulgaria EAD,11904.05,1782497902.0754337
