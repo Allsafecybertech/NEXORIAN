@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 66.1,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 7355.49,
+    "last_checked": 1782513596.330568
+  },
+  {
+    "protocol": "socks4",
     "ip": "95.85.242.7",
     "port": 9050,
     "country": "Estonia",
@@ -8,26 +23,41 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.69,
+    "uptime_percent": 28.71,
     "asn": "AS209693",
     "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 14119.96,
-    "last_checked": 1782512979.5421515
+    "latency_ms": 12580.32,
+    "last_checked": 1782513589.830532
   },
   {
     "protocol": "socks5",
-    "ip": "5.101.120.25",
-    "port": 1080,
+    "ip": "95.85.242.7",
+    "port": 9050,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.96,
+    "asn": "AS209693",
+    "isp": "OC NETWORKS LIMITED",
+    "latency_ms": 13196.63,
+    "last_checked": 1782513578.3092587
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 88.87,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.63,
     "asn": "AS198068",
-    "isp": "P.A.G.M. OU",
-    "latency_ms": 4009.14,
-    "last_checked": 1782512973.9615848
+    "isp": "PAGM network",
+    "latency_ms": 10783.68,
+    "last_checked": 1782513441.6724167
   },
   {
     "protocol": "socks5",
@@ -41,22 +71,7 @@
     "uptime_percent": 85.06,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 342.08,
-    "last_checked": 1782512869.7449067
-  },
-  {
-    "protocol": "socks5",
-    "ip": "95.85.242.7",
-    "port": 9050,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 18.94,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 14558.95,
-    "last_checked": 1782512986.782668
+    "latency_ms": 263.17,
+    "last_checked": 1782513406.7184248
   }
 ]
