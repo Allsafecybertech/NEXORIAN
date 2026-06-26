@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "41.162.162.142",
+    "port": 4153,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Bloemfontein",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.84,
+    "asn": "AS36937",
+    "isp": "Neotel GAU",
+    "latency_ms": 8081.92,
+    "last_checked": 1782467621.2980995
+  },
+  {
+    "protocol": "http",
+    "ip": "169.239.208.70",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Cape Town",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.59,
+    "asn": "AS327983",
+    "isp": "Interworks Wireless Solutions",
+    "latency_ms": 2903.23,
+    "last_checked": 1782467524.45288
+  },
+  {
     "protocol": "socks5",
     "ip": "168.253.92.93",
     "port": 10808,
@@ -8,40 +38,10 @@
     "city": "Rustenburg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.16,
+    "uptime_percent": 36.17,
     "asn": "AS37650",
     "isp": "CM Value Added Services (Pty) Ltd",
-    "latency_ms": 2354.65,
-    "last_checked": 1782467035.4566884
-  },
-  {
-    "protocol": "http",
-    "ip": "196.251.223.54",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Brits",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 4.18,
-    "asn": "AS37403",
-    "isp": "Info-Gro (PTY) Ltd",
-    "latency_ms": 6256.99,
-    "last_checked": 1782467026.0000129
-  },
-  {
-    "protocol": "http",
-    "ip": "156.155.50.93",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Durban",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.22,
-    "asn": "AS37611",
-    "isp": "AxxessNetworks",
-    "latency_ms": 7738.98,
-    "last_checked": 1782466937.7461927
+    "latency_ms": 2499.78,
+    "last_checked": 1782467505.5149453
   }
 ]
