@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "5.59.248.134",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pomezia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.73,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 5368.47,
-    "last_checked": 1782434394.424025
-  },
-  {
-    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -26,8 +11,53 @@
     "uptime_percent": 87.65,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 568.1,
-    "last_checked": 1782434387.466542
+    "latency_ms": 249.94,
+    "last_checked": 1782434986.059093
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.72,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 13252.98,
+    "last_checked": 1782434967.5293884
+  },
+  {
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 59.77,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 86.03,
+    "last_checked": 1782434966.7573566
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.0",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.47,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 7755.03,
+    "last_checked": 1782434955.1237948
   },
   {
     "protocol": "socks5",
@@ -41,23 +71,38 @@
     "uptime_percent": 84.92,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 541.47,
-    "last_checked": 1782434384.420604
+    "latency_ms": 546.52,
+    "last_checked": 1782434954.870356
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.63,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 21580.07,
+    "last_checked": 1782434947.198074
   },
   {
     "protocol": "http",
-    "ip": "5.59.248.134",
-    "port": 8080,
+    "ip": "85.235.150.219",
+    "port": 3128,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Pomezia",
-    "anonymity": "elite",
+    "city": "Arezzo",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 15.78,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 3123.72,
-    "last_checked": 1782434377.512115
+    "uptime_percent": 8.32,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 11079.99,
+    "last_checked": 1782434945.5809631
   },
   {
     "protocol": "http",
@@ -71,37 +116,7 @@
     "uptime_percent": 12.75,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 7145.03,
-    "last_checked": 1782434372.6817799
-  },
-  {
-    "protocol": "http",
-    "ip": "87.121.148.126",
-    "port": 49200,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Palazzago",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 59.74,
-    "asn": "AS210218",
-    "isp": "Open Fiber S.P.A.",
-    "latency_ms": 1373.13,
-    "last_checked": 1782434313.3520093
-  },
-  {
-    "protocol": "http",
-    "ip": "85.235.150.219",
-    "port": 3128,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.31,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 11511.97,
-    "last_checked": 1782434312.5598729
+    "latency_ms": 5859.25,
+    "last_checked": 1782434912.727857
   }
 ]
