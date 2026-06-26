@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "197.253.23.4",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "176.97.192.158",
+    "port": 1081,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.29,
+    "asn": "AS8849",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 9359.05,
+    "last_checked": 1782445728.5734901
+  },
+  {
+    "protocol": "http",
+    "ip": "154.113.209.162",
+    "port": 8082,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Abuja",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 32.68,
+    "uptime_percent": 21.05,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 2243.8,
-    "last_checked": 1782445439.7561011
+    "latency_ms": 9844.33,
+    "last_checked": 1782445716.4654467
   },
   {
     "protocol": "http",
@@ -22,12 +37,12 @@
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 29.15,
     "asn": "AS14593",
     "isp": "Space Exploration Technologies Corporation",
-    "latency_ms": 3561.92,
-    "last_checked": 1782445436.8040495
+    "latency_ms": 8023.81,
+    "last_checked": 1782445695.201933
   },
   {
     "protocol": "socks5",
@@ -38,25 +53,10 @@
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.61,
+    "uptime_percent": 55.68,
     "asn": "AS8849",
     "isp": "Melbikomas UAB",
-    "latency_ms": 5015.53,
-    "last_checked": 1782445394.8119879
-  },
-  {
-    "protocol": "http",
-    "ip": "102.36.133.62",
-    "port": 8080,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Ebute-Metta",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 21.37,
-    "asn": "AS328556",
-    "isp": "Syscodes Communications",
-    "latency_ms": 2213.68,
-    "last_checked": 1782445276.0550256
+    "latency_ms": 2545.26,
+    "last_checked": 1782445686.1712139
   }
 ]

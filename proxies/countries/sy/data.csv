@@ -1,14 +1,24 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,185.235.16.12,80,Syria,SY,Damascus,elite,false,89.16,AS29256,Syrian Telecom,326.6,1782445448.1831386
-http,205.209.64.21,8080,Syria,SY,Al-Qamishli,transparent,false,27.38,AS214707,RCell LLC,1475.45,1782445442.1065903
-http,205.209.66.134,3128,Syria,SY,‘Ayn al ‘Arab,transparent,false,35.01,AS214707,RCell LLC,11230.04,1782445435.9110963
-http,78.155.67.224,8080,Syria,SY,Damascus,transparent,false,30.32,AS29256,ISP-TARASSUL,6133.99,1782445422.0677793
-http,131.222.210.185,8080,Syria,SY,Damascus,transparent,true,24.95,AS216472,High Speed For Internet Services L.L.C,8903.61,1782445419.9138412
-http,193.43.140.240,8080,Syria,SY,Dārayyā,transparent,false,24.28,AS29256,Syrian Telecom,2930.52,1782445418.5358152
-http,193.43.159.164,8080,Syria,SY,Al Mulayḩah,transparent,false,26.45,AS29256,Syrian Telecom,19977.83,1782445409.5718653
-http,89.43.135.106,8080,Syria,SY,Raqqa,transparent,false,28.55,AS216472,High Speed For Internet Services L.L.C,7156.53,1782445406.7592525
-http,131.222.210.41,8080,Syria,SY,Damascus,transparent,false,29.38,AS216472,High Speed For Internet Services L.L.C,8160.39,1782445406.1907704
-http,78.155.65.203,8080,Syria,SY,Babīlā,transparent,false,26.86,AS29256,ISP-TARASSUL,3351.81,1782445391.3373432
-http,193.43.140.222,7890,Syria,SY,Dārayyā,transparent,false,24.67,AS29256,Syrian Telecom,4095.58,1782445390.6748097
-http,89.43.135.182,8085,Syria,SY,Shuyūkh Taḩtānī,transparent,false,18.41,AS216472,High Speed For Internet Services L.L.C,7612.68,1782445351.1039817
-http,193.43.159.167,8080,Syria,SY,Al Mulayḩah,transparent,false,24.82,AS29256,Syrian Telecom,5232.72,1782445344.8372686
+socks4,193.43.159.161,1080,Syria,SY,Al Mulayḩah,elite,true,32.67,AS29256,Syrian Telecom,362.88,1782445752.3136947
+http,89.43.134.35,8080,Syria,SY,Aleppo,transparent,false,24.19,AS216472,High Speed For Internet Services L.L.C,790.57,1782445736.3688862
+http,193.43.140.240,8080,Syria,SY,Dārayyā,transparent,false,24.28,AS29256,Syrian Telecom,10822.84,1782445730.8367229
+http,128.0.7.182,8080,Syria,SY,Shuyūkh Taḩtānī,transparent,false,29.65,AS216472,High Speed For Internet Services L.L.C,5990.85,1782445728.4398339
+http,185.235.16.12,80,Syria,SY,Damascus,elite,false,89.16,AS29256,Syrian Telecom,333.26,1782445728.3428383
+http,131.222.210.39,8080,Syria,SY,Damascus,transparent,false,23.18,AS216472,High Speed For Internet Services L.L.C,8467.67,1782445726.8300421
+http,131.222.210.185,8080,Syria,SY,Damascus,transparent,true,24.95,AS216472,High Speed For Internet Services L.L.C,3128.81,1782445722.7588537
+http,131.222.210.41,8080,Syria,SY,Damascus,transparent,false,29.39,AS216472,High Speed For Internet Services L.L.C,1895.08,1782445722.3903773
+http,193.43.140.253,8080,Syria,SY,Dārayyā,transparent,false,16.64,AS29256,Syrian Telecom,4035.77,1782445721.0743604
+http,139.28.49.231,8080,Syria,SY,Aleppo,transparent,false,28.2,AS216472,High Speed For Internet Services L.L.C,1277.84,1782445720.1935039
+http,193.43.159.164,8080,Syria,SY,Al Mulayḩah,transparent,true,26.46,AS29256,Syrian Telecom,4340.84,1782445717.610125
+http,139.28.49.24,8080,Syria,SY,Aleppo,transparent,false,23.36,AS216472,High Speed For Internet Services L.L.C,7125.14,1782445709.8965611
+http,78.155.67.224,8080,Syria,SY,Damascus,transparent,true,30.38,AS29256,ISP-TARASSUL,2185.24,1782445694.7318594
+http,91.144.30.93,8080,Syria,SY,Damascus,transparent,false,20.69,AS29256,STE Public Data Network Backbone and LIR,2316.03,1782445694.6446612
+http,205.209.64.21,8080,Syria,SY,Al-Qamishli,transparent,false,27.39,AS214707,RCell LLC,8467.51,1782445692.9518125
+http,205.209.66.134,3128,Syria,SY,‘Ayn al ‘Arab,transparent,false,35.02,AS214707,RCell LLC,9472.53,1782445682.24314
+http,205.209.64.193,8080,Syria,SY,Al-Qamishli,transparent,true,25.6,AS214707,RCell LLC,9807.57,1782445673.2801926
+http,89.43.132.226,8080,Syria,SY,Arīḩā,transparent,false,22.66,AS216472,High Speed For Internet Services L.L.C,1149.79,1782445670.8085787
+http,89.43.135.106,8080,Syria,SY,Raqqa,transparent,true,28.56,AS216472,High Speed For Internet Services L.L.C,1326.15,1782445660.5525305
+http,89.43.133.235,8080,Syria,SY,Ḩīsh,transparent,true,24.63,AS216472,High Speed For Internet Services L.L.C,1338.11,1782445656.894771
+http,193.43.149.85,8080,Syria,SY,Al Mulayḩah,transparent,true,24.23,AS29256,Syrian Telecom,3380.89,1782445656.7038918
+http,193.43.159.165,8080,Syria,SY,Al Mulayḩah,transparent,true,23.66,AS29256,Syrian Telecom,3674.43,1782445648.916051
+http,139.28.49.23,8080,Syria,SY,Aleppo,transparent,false,21.16,AS216472,High Speed For Internet Services L.L.C,10034.36,1782445610.7078063
