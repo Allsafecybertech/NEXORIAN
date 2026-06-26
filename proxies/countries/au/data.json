@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.26,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 9256.9,
+    "last_checked": 1782481745.6348972
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.95,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 8536.8,
+    "last_checked": 1782481739.599342
+  },
+  {
     "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
@@ -11,8 +41,23 @@
     "uptime_percent": 94.32,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 503.43,
-    "last_checked": 1782481135.0057123
+    "latency_ms": 503.36,
+    "last_checked": 1782481736.2767549
+  },
+  {
+    "protocol": "http",
+    "ip": "4.237.213.197",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "The Rocks",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 17.6,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 611.98,
+    "last_checked": 1782481700.6170392
   },
   {
     "protocol": "socks5",
@@ -26,22 +71,7 @@
     "uptime_percent": 91.58,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1491.13,
-    "last_checked": 1782481069.9664335
-  },
-  {
-    "protocol": "http",
-    "ip": "51.161.142.97",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "North Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 32.19,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 11894.62,
-    "last_checked": 1782481039.2961862
+    "latency_ms": 1484.39,
+    "last_checked": 1782481690.3708947
   }
 ]
