@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "38.7.24.17",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.18,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 7841.73,
+    "last_checked": 1782453577.489704
+  },
+  {
+    "protocol": "http",
+    "ip": "181.78.44.63",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "La Unión",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 4.13,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 9092.94,
-    "last_checked": 1782452917.3078706
+    "uptime_percent": 53.48,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 4672.21,
+    "last_checked": 1782453562.6756773
   }
 ]
