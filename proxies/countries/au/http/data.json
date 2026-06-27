@@ -1,33 +1,63 @@
 [
   {
     "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.19,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 10327.01,
+    "last_checked": 1782523750.73592
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.35,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 3004.14,
+    "last_checked": 1782523716.6541107
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.6,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 4097.08,
+    "last_checked": 1782523682.9439728
+  },
+  {
+    "protocol": "http",
     "ip": "61.29.96.146",
     "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Albury",
     "anonymity": "anonymous",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.3,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 4331.11,
-    "last_checked": 1782523164.5083501
-  },
-  {
-    "protocol": "http",
-    "ip": "4.237.213.197",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "The Rocks",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 17.58,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 1010.41,
-    "last_checked": 1782523161.4002075
+    "latency_ms": 8376.34,
+    "last_checked": 1782523680.3719902
   },
   {
     "protocol": "http",
@@ -41,7 +71,22 @@
     "uptime_percent": 94.33,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 498.74,
-    "last_checked": 1782523093.4469602
+    "latency_ms": 501.46,
+    "last_checked": 1782523677.5514207
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 39.06,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 11778.59,
+    "last_checked": 1782523773.639732
   }
 ]
