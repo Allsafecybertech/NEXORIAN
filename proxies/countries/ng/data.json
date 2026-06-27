@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "41.184.92.219",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "154.113.196.17",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Abuja",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 56.0,
-    "asn": "AS29091",
-    "isp": "ipNX Nigeria Limited",
-    "latency_ms": 644.98,
-    "last_checked": 1782538460.6696692
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 7.86,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 7774.32,
+    "last_checked": 1782539031.981327
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.113.170.1",
+    "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Benin City",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.02,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 3625.28,
+    "last_checked": 1782539005.6253788
   },
   {
     "protocol": "socks5",
@@ -23,40 +38,10 @@
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.44,
+    "uptime_percent": 56.51,
     "asn": "AS8849",
     "isp": "Melbikomas UAB",
-    "latency_ms": 1860.35,
-    "last_checked": 1782538407.7501683
-  },
-  {
-    "protocol": "http",
-    "ip": "154.113.209.162",
-    "port": 8082,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Abuja",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 21.21,
-    "asn": "AS37282",
-    "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 9357.45,
-    "last_checked": 1782538392.2118838
-  },
-  {
-    "protocol": "socks5",
-    "ip": "176.97.192.158",
-    "port": 1081,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.08,
-    "asn": "AS8849",
-    "isp": "Melbikomas UAB",
-    "latency_ms": 1926.56,
-    "last_checked": 1782538361.759039
+    "latency_ms": 1135.14,
+    "last_checked": 1782538993.027927
   }
 ]
