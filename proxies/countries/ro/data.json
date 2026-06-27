@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "5.2.238.216",
+    "port": 8787,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Eforie Nord",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 21.67,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 2473.06,
+    "last_checked": 1782577139.1791832
+  },
+  {
+    "protocol": "http",
+    "ip": "85.121.179.217",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 91.68,
+    "asn": "",
+    "isp": "Interconnect Telecom SRL",
+    "latency_ms": 5325.96,
+    "last_checked": 1782577133.4461389
+  },
+  {
+    "protocol": "http",
     "ip": "86.127.175.42",
     "port": 8080,
     "country": "Romania",
@@ -8,11 +38,11 @@
     "city": "Baia Mare",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 48.16,
+    "uptime_percent": 48.21,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 195.43,
-    "last_checked": 1782576556.754229
+    "latency_ms": 129.9,
+    "last_checked": 1782577130.5478895
   },
   {
     "protocol": "http",
@@ -26,11 +56,11 @@
     "uptime_percent": 18.16,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 4751.88,
-    "last_checked": 1782576541.9999874
+    "latency_ms": 9023.5,
+    "last_checked": 1782577112.762589
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "85.121.179.217",
     "port": 1080,
     "country": "Romania",
@@ -38,25 +68,10 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.83,
+    "uptime_percent": 91.53,
     "asn": "",
     "isp": "Interconnect Telecom SRL",
-    "latency_ms": 7631.47,
-    "last_checked": 1782576526.4706204
-  },
-  {
-    "protocol": "http",
-    "ip": "5.2.238.216",
-    "port": 8787,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Eforie Nord",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 21.36,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 4423.77,
-    "last_checked": 1782576486.5667524
+    "latency_ms": 10228.05,
+    "last_checked": 1782577016.2181346
   }
 ]
