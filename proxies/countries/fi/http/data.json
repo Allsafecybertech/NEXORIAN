@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "65.109.179.84",
-    "port": 8443,
+    "ip": "65.108.103.19",
+    "port": 80,
     "country": "Finland",
     "country_code": "FI",
     "city": "Helsinki",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 98.3,
+    "ssl": false,
+    "uptime_percent": 45.78,
     "asn": "AS24940",
     "isp": "Hetzner Online GmbH",
-    "latency_ms": 258.21,
-    "last_checked": 1782578319.97117
+    "latency_ms": 172.49,
+    "last_checked": 1782579292.264678
+  },
+  {
+    "protocol": "http",
+    "ip": "103.85.112.115",
+    "port": 3128,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 20.63,
+    "asn": "AS200740",
+    "isp": "First Server Limited",
+    "latency_ms": 6034.54,
+    "last_checked": 1782579281.3942235
   },
   {
     "protocol": "http",
@@ -23,41 +38,11 @@
     "city": "Helsinki",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 62.01,
+    "uptime_percent": 62.02,
     "asn": "AS24940",
     "isp": "Hetzner Online GmbH",
-    "latency_ms": 11286.23,
-    "last_checked": 1782578313.6862872
-  },
-  {
-    "protocol": "http",
-    "ip": "185.88.101.232",
-    "port": 80,
-    "country": "Finland",
-    "country_code": "FI",
-    "city": "Helsinki",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 18.93,
-    "asn": "AS41745",
-    "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 10621.35,
-    "last_checked": 1782578305.680598
-  },
-  {
-    "protocol": "http",
-    "ip": "193.222.97.181",
-    "port": 80,
-    "country": "Finland",
-    "country_code": "FI",
-    "city": "Helsinki",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 75.14,
-    "asn": "AS50053",
-    "isp": "Anton Levin",
-    "latency_ms": 3726.78,
-    "last_checked": 1782578301.6332092
+    "latency_ms": 13132.22,
+    "last_checked": 1782579280.2877295
   },
   {
     "protocol": "http",
@@ -71,23 +56,53 @@
     "uptime_percent": 92.42,
     "asn": "AS215439",
     "isp": "Play2go International Limited",
-    "latency_ms": 7619.87,
-    "last_checked": 1782578261.697353
+    "latency_ms": 4967.8,
+    "last_checked": 1782579275.1540067
   },
   {
     "protocol": "http",
-    "ip": "65.108.203.36",
-    "port": 28080,
+    "ip": "65.109.179.84",
+    "port": 8443,
     "country": "Finland",
     "country_code": "FI",
     "city": "Helsinki",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 9.74,
+    "uptime_percent": 98.29,
     "asn": "AS24940",
     "isp": "Hetzner Online GmbH",
-    "latency_ms": 499.98,
-    "last_checked": 1782578243.3036785
+    "latency_ms": 247.77,
+    "last_checked": 1782579267.6229527
+  },
+  {
+    "protocol": "http",
+    "ip": "135.181.113.216",
+    "port": 16379,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 24.99,
+    "asn": "AS24940",
+    "isp": "Hetzner Online GmbH",
+    "latency_ms": 11732.79,
+    "last_checked": 1782579251.86087
+  },
+  {
+    "protocol": "http",
+    "ip": "193.222.97.181",
+    "port": 80,
+    "country": "Finland",
+    "country_code": "FI",
+    "city": "Helsinki",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.16,
+    "asn": "AS50053",
+    "isp": "Anton Levin",
+    "latency_ms": 10556.62,
+    "last_checked": 1782579230.7159486
   },
   {
     "protocol": "http",
@@ -97,27 +112,12 @@
     "country_code": "FI",
     "city": "Helsinki",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 71.53,
+    "ssl": true,
+    "uptime_percent": 71.67,
     "asn": "AS57043",
     "isp": "Hostkey B.V.",
-    "latency_ms": 13363.72,
-    "last_checked": 1782578239.387437
-  },
-  {
-    "protocol": "http",
-    "ip": "185.230.190.195",
-    "port": 3128,
-    "country": "Finland",
-    "country_code": "FI",
-    "city": "Helsinki",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 67.62,
-    "asn": "AS212706",
-    "isp": "Livi Hosting LTD",
-    "latency_ms": 13418.24,
-    "last_checked": 1782578221.4239304
+    "latency_ms": 939.62,
+    "last_checked": 1782579219.4375257
   },
   {
     "protocol": "http",
@@ -127,11 +127,11 @@
     "country_code": "FI",
     "city": "Helsinki",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 19.78,
     "asn": "AS215590",
     "isp": "DpkgSoft International Limited",
-    "latency_ms": 14382.68,
-    "last_checked": 1782578180.747866
+    "latency_ms": 11922.84,
+    "last_checked": 1782579179.4939618
   }
 ]
