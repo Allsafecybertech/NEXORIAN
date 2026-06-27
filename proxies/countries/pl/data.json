@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.212.144.7",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Sokółka",
+    "city": "Łęczyca",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 98.76,
-    "asn": "AS51436",
-    "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 47.48,
-    "last_checked": 1782573560.5030468
+    "ssl": true,
+    "uptime_percent": 71.6,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 5054.57,
+    "last_checked": 1782574197.9357486
   },
   {
     "protocol": "socks4",
@@ -26,23 +26,8 @@
     "uptime_percent": 60.44,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 179.39,
-    "last_checked": 1782573556.7409873
-  },
-  {
-    "protocol": "socks4",
-    "ip": "88.218.206.170",
-    "port": 5432,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 71.61,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 13476.16,
-    "last_checked": 1782573541.5692136
+    "latency_ms": 156.52,
+    "last_checked": 1782574186.7097008
   },
   {
     "protocol": "http",
@@ -52,26 +37,56 @@
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 78.09,
+    "ssl": false,
+    "uptime_percent": 78.07,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 88.74,
-    "last_checked": 1782573540.4577785
+    "latency_ms": 183.76,
+    "last_checked": 1782574181.629951
   },
   {
-    "protocol": "socks4",
-    "ip": "95.214.54.200",
+    "protocol": "http",
+    "ip": "178.212.144.7",
+    "port": 80,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Sokółka",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 98.76,
+    "asn": "AS51436",
+    "isp": "IDEALAN Spolka Jawna - Piekarski",
+    "latency_ms": 46.05,
+    "last_checked": 1782574165.554175
+  },
+  {
+    "protocol": "http",
+    "ip": "45.148.116.18",
+    "port": 28080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.44,
+    "asn": "",
+    "isp": "IT-TECHNOLOGY-VECTOR",
+    "latency_ms": 5575.6,
+    "last_checked": 1782574139.5600743
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.144.49.156",
     "port": 1080,
     "country": "Poland",
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.08,
-    "asn": "AS201814",
-    "isp": "MEVSPACE sp. z o.o.",
-    "latency_ms": 1168.12,
-    "last_checked": 1782573530.0531893
+    "uptime_percent": 55.5,
+    "asn": "AS49791",
+    "isp": "3hcloud",
+    "latency_ms": 516.44,
+    "last_checked": 1782573987.9405808
   }
 ]
