@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "195.158.10.99",
-    "port": 8080,
-    "country": "Uzbekistan",
-    "country_code": "UZ",
-    "city": "Tashkent",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 43.57,
-    "asn": "AS8193",
-    "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 3640.2,
-    "last_checked": 1782526160.7859948
-  },
-  {
-    "protocol": "http",
     "ip": "195.158.8.123",
     "port": 3128,
     "country": "Uzbekistan",
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 81.22,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 4029.61,
-    "last_checked": 1782526152.163445
+    "latency_ms": 657.37,
+    "last_checked": 1782526723.4351456
+  },
+  {
+    "protocol": "http",
+    "ip": "195.158.10.99",
+    "port": 8080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 43.57,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 619.98,
+    "last_checked": 1782526640.7524524
+  },
+  {
+    "protocol": "http",
+    "ip": "213.230.65.55",
+    "port": 8080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 32.18,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 8415.61,
+    "last_checked": 1782526726.793447
   },
   {
     "protocol": "socks5",
@@ -38,10 +53,10 @@
     "city": "Tashkent",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.36,
+    "uptime_percent": 55.37,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 1020.03,
-    "last_checked": 1782525864.1344655
+    "latency_ms": 3721.22,
+    "last_checked": 1782526393.6061335
   }
 ]
