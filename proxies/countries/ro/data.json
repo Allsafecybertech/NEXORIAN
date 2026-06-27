@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.18.90.43",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "85.121.179.217",
+    "port": 1080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Ploieşti",
+    "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 20.5,
+    "uptime_percent": 92.6,
+    "asn": "",
+    "isp": "Interconnect Telecom SRL",
+    "latency_ms": 3456.88,
+    "last_checked": 1782520165.4878201
+  },
+  {
+    "protocol": "http",
+    "ip": "86.121.33.98",
+    "port": 80,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Ocna Mureş",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 3.86,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 1190.17,
-    "last_checked": 1782519594.5657022
+    "latency_ms": 12769.49,
+    "last_checked": 1782520153.6448002
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,8 @@
     "uptime_percent": 59.51,
     "asn": "AS12302",
     "isp": "Vodafone RO",
-    "latency_ms": 3211.09,
-    "last_checked": 1782519589.6157262
-  },
-  {
-    "protocol": "http",
-    "ip": "85.121.179.217",
-    "port": 1080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 92.51,
-    "asn": "",
-    "isp": "Interconnect Telecom SRL",
-    "latency_ms": 5743.45,
-    "last_checked": 1782519532.7218895
-  },
-  {
-    "protocol": "http",
-    "ip": "92.86.207.198",
-    "port": 8080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.16,
-    "asn": "AS9050",
-    "isp": "Romtelecom",
-    "latency_ms": 10093.63,
-    "last_checked": 1782519478.8559377
+    "latency_ms": 7248.35,
+    "last_checked": 1782520139.817208
   },
   {
     "protocol": "socks5",
@@ -68,10 +53,10 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 93.25,
+    "uptime_percent": 93.29,
     "asn": "",
     "isp": "Interconnect Telecom SRL",
-    "latency_ms": 4289.33,
-    "last_checked": 1782519449.1494405
+    "latency_ms": 5271.27,
+    "last_checked": 1782520115.0327156
   }
 ]
