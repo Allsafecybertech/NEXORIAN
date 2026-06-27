@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.5,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 1190.17,
+    "last_checked": 1782519594.5657022
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.51,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 3211.09,
+    "last_checked": 1782519589.6157262
+  },
+  {
     "protocol": "http",
     "ip": "85.121.179.217",
     "port": 1080,
@@ -7,26 +37,41 @@
     "country_code": "RO",
     "city": "Bucharest",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 92.37,
+    "ssl": false,
+    "uptime_percent": 92.51,
     "asn": "",
     "isp": "Interconnect Telecom SRL",
-    "latency_ms": 4211.53,
-    "last_checked": 1782518870.6432285
+    "latency_ms": 5743.45,
+    "last_checked": 1782519532.7218895
   },
   {
     "protocol": "http",
-    "ip": "185.128.240.77",
+    "ip": "92.86.207.198",
     "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Drobeta-Turnu Severin",
+    "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 7.98,
-    "asn": "AS49052",
-    "isp": "Data ZYX SRL",
-    "latency_ms": 7017.0,
-    "last_checked": 1782518974.975948
+    "uptime_percent": 12.16,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 10093.63,
+    "last_checked": 1782519478.8559377
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.179.217",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 93.25,
+    "asn": "",
+    "isp": "Interconnect Telecom SRL",
+    "latency_ms": 4289.33,
+    "last_checked": 1782519449.1494405
   }
 ]
