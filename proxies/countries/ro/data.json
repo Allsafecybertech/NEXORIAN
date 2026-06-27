@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "85.121.179.217",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Bucharest",
+    "city": "Roșcani",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.56,
-    "asn": "",
-    "isp": "Interconnect Telecom SRL",
-    "latency_ms": 4915.41,
-    "last_checked": 1782558209.4675581
+    "uptime_percent": 59.53,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 189.37,
+    "last_checked": 1782558899.5524185
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.18.90.43",
+    "port": 4153,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Ploieşti",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.48,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 1203.33,
+    "last_checked": 1782558857.4167
   },
   {
     "protocol": "http",
@@ -23,10 +38,25 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 92.09,
+    "uptime_percent": 92.11,
     "asn": "",
     "isp": "Interconnect Telecom SRL",
-    "latency_ms": 1287.64,
-    "last_checked": 1782558191.888242
+    "latency_ms": 12431.17,
+    "last_checked": 1782558842.6719184
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.179.217",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 91.64,
+    "asn": "",
+    "isp": "Interconnect Telecom SRL",
+    "latency_ms": 14105.3,
+    "last_checked": 1782558836.3474014
   }
 ]
