@@ -1,18 +1,63 @@
 [
   {
     "protocol": "socks4",
-    "ip": "45.144.49.156",
-    "port": 1080,
+    "ip": "46.171.28.162",
+    "port": 59311,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Krzywa Góra",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.0,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 1133.69,
+    "last_checked": 1782561582.4689546
+  },
+  {
+    "protocol": "socks4",
+    "ip": "94.40.127.166",
+    "port": 4145,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Torun",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.38,
+    "asn": "AS20960",
+    "isp": "TK Telekom sp. z o.o.",
+    "latency_ms": 105.89,
+    "last_checked": 1782561577.0364876
+  },
+  {
+    "protocol": "http",
+    "ip": "185.32.6.131",
+    "port": 8070,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Ińsko",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.89,
+    "asn": "AS60645",
+    "isp": "AS Consulting Sp. z o. o.",
+    "latency_ms": 5429.62,
+    "last_checked": 1782561556.0543516
+  },
+  {
+    "protocol": "http",
+    "ip": "54.38.138.60",
+    "port": 3128,
     "country": "Poland",
     "country_code": "PL",
     "city": "Warsaw",
-    "anonymity": "elite",
+    "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 60.49,
-    "asn": "AS49791",
-    "isp": "3hcloud",
-    "latency_ms": 170.81,
-    "last_checked": 1782561260.2126937
+    "uptime_percent": 79.7,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 167.74,
+    "last_checked": 1782561526.6375666
   },
   {
     "protocol": "http",
@@ -26,8 +71,8 @@
     "uptime_percent": 98.76,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 170.37,
-    "last_checked": 1782561253.7243562
+    "latency_ms": 47.7,
+    "last_checked": 1782561518.5711148
   },
   {
     "protocol": "http",
@@ -37,41 +82,11 @@
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 12.85,
     "asn": "AS1887",
     "isp": "WAWPOLIP",
-    "latency_ms": 3137.96,
-    "last_checked": 1782561244.644763
-  },
-  {
-    "protocol": "socks4",
-    "ip": "88.218.206.170",
-    "port": 5432,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 71.76,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 476.98,
-    "last_checked": 1782561220.542932
-  },
-  {
-    "protocol": "http",
-    "ip": "54.38.138.60",
-    "port": 3128,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 79.2,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 80.46,
-    "last_checked": 1782561199.7007625
+    "latency_ms": 1102.32,
+    "last_checked": 1782561503.1569242
   }
 ]
