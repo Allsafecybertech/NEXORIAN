@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.2,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 740.16,
-    "last_checked": 1782523765.8335657
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 88.25,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 6296.99,
-    "last_checked": 1782523748.1291661
+    "latency_ms": 2915.52,
+    "last_checked": 1782524359.8597767
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.21,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 839.69,
+    "last_checked": 1782524337.6053693
   },
   {
     "protocol": "http",
@@ -38,25 +38,25 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.15,
+    "uptime_percent": 74.16,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4138.28,
-    "last_checked": 1782523741.7561321
+    "latency_ms": 6153.38,
+    "last_checked": 1782524331.8920827
   },
   {
     "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
+    "ip": "45.59.122.132",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
+    "city": "Bern",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.64,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 3727.77,
-    "last_checked": 1782523706.2155962
+    "uptime_percent": 69.21,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 204.67,
+    "last_checked": 1782524290.6710172
   }
 ]
