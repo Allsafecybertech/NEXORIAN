@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "188.121.168.60",
+    "ip": "91.217.33.161",
     "port": 8080,
     "country": "Slovakia",
     "country_code": "SK",
-    "city": "Pezinok",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.85,
-    "asn": "AS43451",
+    "city": "Trnava",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.2,
+    "asn": "AS201603",
+    "isp": "AIRNET s.r.o.",
+    "latency_ms": 3898.17,
+    "last_checked": 1782530889.8803878
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.165.36.136",
+    "port": 8889,
+    "country": "Slovakia",
+    "country_code": "SK",
+    "city": "Trenčianske Bohuslavice",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.59,
+    "asn": "AS31679",
     "isp": "Slovanet a.s.",
-    "latency_ms": 8794.69,
-    "last_checked": 1782530176.6042886
+    "latency_ms": 1083.14,
+    "last_checked": 1782530983.3449013
   }
 ]
