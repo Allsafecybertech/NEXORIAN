@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.45.125.201",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "5.181.23.213",
+    "port": 8443,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Jõhvi",
+    "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.04,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 212.4,
-    "last_checked": 1782555901.4313796
+    "uptime_percent": 79.02,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 5297.63,
+    "last_checked": 1782556454.4258602
   },
   {
     "protocol": "socks4",
@@ -26,11 +26,26 @@
     "uptime_percent": 66.09,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 11429.93,
-    "last_checked": 1782555887.0165105
+    "latency_ms": 4214.73,
+    "last_checked": 1782556442.520423
   },
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 57.0,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 7636.19,
+    "last_checked": 1782556432.5920312
+  },
+  {
+    "protocol": "socks5",
     "ip": "5.181.23.213",
     "port": 8443,
     "country": "Estonia",
@@ -38,26 +53,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.06,
+    "uptime_percent": 68.0,
     "asn": "",
     "isp": "WorkTitans B.V",
-    "latency_ms": 7222.29,
-    "last_checked": 1782555857.7145455
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.101.120.25",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 88.78,
-    "asn": "AS198068",
-    "isp": "P.A.G.M. OU",
-    "latency_ms": 1230.71,
-    "last_checked": 1782555757.4135082
+    "latency_ms": 9118.01,
+    "last_checked": 1782556333.6736033
   },
   {
     "protocol": "socks5",
@@ -71,7 +71,7 @@
     "uptime_percent": 85.38,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 353.24,
-    "last_checked": 1782555663.3920271
+    "latency_ms": 3285.03,
+    "last_checked": 1782556198.2620893
   }
 ]
