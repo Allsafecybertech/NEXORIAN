@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "82.132.19.108",
+    "port": 4153,
+    "country": "Croatia",
+    "country_code": "HR",
+    "city": "Zagreb",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.01,
+    "asn": "AS2108",
+    "isp": "Croatian Academic and Research Network",
+    "latency_ms": 7355.74,
+    "last_checked": 1782536636.8227828
+  },
+  {
+    "protocol": "http",
+    "ip": "188.129.8.242",
+    "port": 81,
+    "country": "Croatia",
+    "country_code": "HR",
+    "city": "Rijeka",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 41.35,
+    "asn": "AS29485",
+    "isp": "A1 Hrvatska d.o.o.",
+    "latency_ms": 3835.88,
+    "last_checked": 1782536592.560763
+  },
+  {
     "protocol": "http",
     "ip": "212.92.204.54",
     "port": 80,
@@ -7,26 +37,11 @@
     "country_code": "HR",
     "city": "Zagreb",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 5.92,
     "asn": "AS35549",
     "isp": "A1 Hrvatska d.o.o",
-    "latency_ms": 10781.4,
-    "last_checked": 1782536062.587943
-  },
-  {
-    "protocol": "http",
-    "ip": "212.92.204.54",
-    "port": 8080,
-    "country": "Croatia",
-    "country_code": "HR",
-    "city": "Zagreb",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.97,
-    "asn": "AS35549",
-    "isp": "A1 Hrvatska d.o.o",
-    "latency_ms": 1524.27,
-    "last_checked": 1782536004.7148335
+    "latency_ms": 5106.52,
+    "last_checked": 1782536580.391883
   }
 ]
