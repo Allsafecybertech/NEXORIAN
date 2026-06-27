@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "45.73.0.118",
+    "port": 5678,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.72,
+    "asn": "AS5769",
+    "isp": "Videotron Ltee",
+    "latency_ms": 3573.48,
+    "last_checked": 1782551363.3534381
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.95.38.57",
+    "port": 9050,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Winnipeg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.43,
+    "asn": "AS394352",
+    "isp": "Fastnet Communications",
+    "latency_ms": 6429.83,
+    "last_checked": 1782551355.8343825
+  },
+  {
     "protocol": "http",
     "ip": "20.151.20.143",
     "port": 3128,
@@ -8,26 +38,11 @@
     "city": "Toronto",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 52.65,
+    "uptime_percent": 52.63,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 14195.1,
-    "last_checked": 1782550721.8420339
-  },
-  {
-    "protocol": "http",
-    "ip": "51.222.142.44",
-    "port": 8080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Beauharnois",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 30.31,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 13677.61,
-    "last_checked": 1782550698.5479748
+    "latency_ms": 4312.15,
+    "last_checked": 1782551349.7571495
   },
   {
     "protocol": "http",
@@ -41,8 +56,38 @@
     "uptime_percent": 25.13,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 3293.98,
-    "last_checked": 1782550691.471917
+    "latency_ms": 11560.31,
+    "last_checked": 1782551333.7407615
+  },
+  {
+    "protocol": "http",
+    "ip": "173.181.143.245",
+    "port": 80,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Vancouver",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 33.17,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 8286.42,
+    "last_checked": 1782551318.9152253
+  },
+  {
+    "protocol": "socks5",
+    "ip": "15.235.50.91",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.1,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 717.4,
+    "last_checked": 1782551306.9351242
   },
   {
     "protocol": "socks5",
@@ -56,23 +101,23 @@
     "uptime_percent": 94.19,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 715.11,
-    "last_checked": 1782550655.3827941
+    "latency_ms": 773.09,
+    "last_checked": 1782551258.9648745
   },
   {
     "protocol": "socks5",
-    "ip": "185.196.61.251",
-    "port": 1080,
+    "ip": "45.95.38.57",
+    "port": 9050,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Toronto",
+    "city": "Winnipeg",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 38.7,
-    "asn": "AS136258",
-    "isp": "BrainStorm Network, Inc",
-    "latency_ms": 3503.9,
-    "last_checked": 1782550612.9852812
+    "uptime_percent": 23.61,
+    "asn": "AS394352",
+    "isp": "Fastnet Communications",
+    "latency_ms": 8678.08,
+    "last_checked": 1782551202.9925718
   },
   {
     "protocol": "socks5",
@@ -83,10 +128,25 @@
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.27,
+    "uptime_percent": 39.28,
     "asn": "AS22652",
     "isp": "Videotron Telecom Ltee",
-    "latency_ms": 1573.17,
-    "last_checked": 1782550464.9509716
+    "latency_ms": 3972.89,
+    "last_checked": 1782551162.5585346
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.196.61.251",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.69,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network, Inc",
+    "latency_ms": 1995.22,
+    "last_checked": 1782551141.4171371
   }
 ]
