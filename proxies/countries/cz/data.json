@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.93,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 7308.22,
+    "last_checked": 1782529190.6147473
+  },
+  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -11,38 +26,8 @@
     "uptime_percent": 83.78,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1106.25,
-    "last_checked": 1782528589.9821901
-  },
-  {
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Brno",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 65.12,
-    "asn": "AS24641",
-    "isp": "FASTER CZ spol. s r.o.",
-    "latency_ms": 12799.51,
-    "last_checked": 1782528533.749938
-  },
-  {
-    "protocol": "http",
-    "ip": "91.139.78.174",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 17.21,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 7366.2,
-    "last_checked": 1782528518.00633
+    "latency_ms": 2252.7,
+    "last_checked": 1782529154.988369
   },
   {
     "protocol": "http",
@@ -52,11 +37,26 @@
     "country_code": "CZ",
     "city": "Strážnice",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 11.83,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 5118.07,
-    "last_checked": 1782528442.9316475
+    "latency_ms": 2643.59,
+    "last_checked": 1782529012.0394757
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.18,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 2716.39,
+    "last_checked": 1782529083.8858538
   }
 ]
