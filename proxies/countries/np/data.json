@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "118.91.175.146",
-    "port": 5678,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Nanche Bazar",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.24,
-    "asn": "AS24550",
-    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
-    "latency_ms": 957.82,
-    "last_checked": 1782596396.970408
-  },
-  {
-    "protocol": "socks4",
-    "ip": "182.93.75.162",
-    "port": 1080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.52,
-    "asn": "AS4007",
-    "isp": "Subisu Cablenet",
-    "latency_ms": 7921.8,
-    "last_checked": 1782596346.4172235
-  },
-  {
     "protocol": "http",
     "ip": "139.5.75.83",
     "port": 8080,
@@ -37,11 +7,41 @@
     "country_code": "NP",
     "city": "Patan",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 24.41,
     "asn": "AS17501",
     "isp": "WLINK",
-    "latency_ms": 7825.61,
-    "last_checked": 1782596345.4696836
+    "latency_ms": 6175.75,
+    "last_checked": 1782596877.6003551
+  },
+  {
+    "protocol": "http",
+    "ip": "103.167.229.147",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Butwal",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.5,
+    "asn": "AS140072",
+    "isp": "Fiberworld Communication Pvt. Ltd",
+    "latency_ms": 1795.77,
+    "last_checked": 1782596855.8130727
+  },
+  {
+    "protocol": "http",
+    "ip": "43.245.85.46",
+    "port": 808,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Patan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.3,
+    "asn": "AS45650",
+    "isp": "Vianet",
+    "latency_ms": 4412.83,
+    "last_checked": 1782596795.2428324
   }
 ]
