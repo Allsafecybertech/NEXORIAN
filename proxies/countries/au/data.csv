@@ -1,3 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,103.18.205.162,8080,Australia,AU,Melbourne,transparent,false,30.64,AS134371,Circle Network,7729.95,1782564565.8001106
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.34,AS14061,"DigitalOcean, LLC",518.78,1782564564.4889858
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,37.05,AS31898,Oracle Corporation,2384.21,1782565147.5176709
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.34,AS14061,"DigitalOcean, LLC",551.14,1782565138.929966
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.61,AS14061,"DigitalOcean, LLC",1726.52,1782565132.4586086
+http,103.249.237.158,8888,Australia,AU,Sydney,transparent,true,37.88,AS133159,Mammoth Media Pty Ltd,18240.81,1782565057.9048164
+http,46.250.241.190,8080,Australia,AU,Sydney,transparent,true,31.79,AS141995,Contabo Asia Private Limited,12839.24,1782565031.543927
