@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.34,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 510.75,
-    "last_checked": 1782568734.7609363
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -26,22 +11,37 @@
     "uptime_percent": 91.61,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1633.11,
-    "last_checked": 1782568733.541272
+    "latency_ms": 1898.91,
+    "last_checked": 1782569319.4523797
   },
   {
     "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 80,
+    "ip": "103.106.231.75",
+    "port": 8081,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Albury",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 8.31,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 19092.2,
-    "last_checked": 1782568673.308421
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.06,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 1508.08,
+    "last_checked": 1782569298.616172
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.106.231.75",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.26,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 2485.46,
+    "last_checked": 1782569203.9024255
   }
 ]
