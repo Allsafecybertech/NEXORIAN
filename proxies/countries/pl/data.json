@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "54.38.138.60",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 77.98,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 93.9,
-    "last_checked": 1782587961.898707
+    "city": "Łęczyca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 71.5,
+    "asn": "AS215467",
+    "isp": "Skhron OU",
+    "latency_ms": 5100.22,
+    "last_checked": 1782588573.3082056
   },
   {
     "protocol": "socks4",
@@ -26,23 +26,23 @@
     "uptime_percent": 60.47,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 164.01,
-    "last_checked": 1782587959.7230158
+    "latency_ms": 165.45,
+    "last_checked": 1782588570.218438
   },
   {
     "protocol": "http",
-    "ip": "91.150.189.122",
-    "port": 30389,
+    "ip": "54.38.138.60",
+    "port": 3128,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Rzeszów",
-    "anonymity": "elite",
+    "city": "Warsaw",
+    "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 5.61,
-    "asn": "AS42673",
-    "isp": "Skyware Sp. z o.o.",
-    "latency_ms": 11470.77,
-    "last_checked": 1782587908.3466396
+    "uptime_percent": 78.3,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 81.92,
+    "last_checked": 1782588569.6144931
   },
   {
     "protocol": "http",
@@ -56,22 +56,52 @@
     "uptime_percent": 98.76,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 46.93,
-    "last_checked": 1782587906.352817
+    "latency_ms": 48.23,
+    "last_checked": 1782588553.295021
+  },
+  {
+    "protocol": "socks5",
+    "ip": "51.83.226.103",
+    "port": 9055,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.7,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 1335.81,
+    "last_checked": 1782588520.938647
   },
   {
     "protocol": "http",
-    "ip": "212.182.119.149",
+    "ip": "148.81.121.5",
     "port": 8080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Lublin",
+    "city": "Warsaw",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.73,
-    "asn": "AS12346",
-    "isp": "non-academic part of Lublin MAN",
-    "latency_ms": 11316.93,
-    "last_checked": 1782587902.4832196
+    "uptime_percent": 12.85,
+    "asn": "AS1887",
+    "isp": "WAWPOLIP",
+    "latency_ms": 3150.11,
+    "last_checked": 1782588504.3543682
+  },
+  {
+    "protocol": "http",
+    "ip": "91.150.189.122",
+    "port": 30389,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Rzeszów",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 5.61,
+    "asn": "AS42673",
+    "isp": "Skyware Sp. z o.o.",
+    "latency_ms": 7480.69,
+    "last_checked": 1782588504.062881
   }
 ]
