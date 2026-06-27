@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "5.2.238.216",
-    "port": 8787,
+    "ip": "85.122.120.119",
+    "port": 20016,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Eforie Nord",
-    "anonymity": "transparent",
+    "city": "Năvodari",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.51,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 1160.94,
-    "last_checked": 1782546559.4443696
+    "uptime_percent": 9.87,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 3346.01,
+    "last_checked": 1782547139.8398175
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.57,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 3237.73,
+    "last_checked": 1782547122.7148952
   },
   {
     "protocol": "http",
@@ -22,11 +37,26 @@
     "country_code": "RO",
     "city": "Bucharest",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 90.82,
+    "ssl": true,
+    "uptime_percent": 90.91,
     "asn": "",
     "isp": "Interconnect Telecom SRL",
-    "latency_ms": 8360.28,
-    "last_checked": 1782546553.8075788
+    "latency_ms": 4664.99,
+    "last_checked": 1782547111.5307765
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.121.179.217",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 90.87,
+    "asn": "",
+    "isp": "Interconnect Telecom SRL",
+    "latency_ms": 1483.88,
+    "last_checked": 1782546768.2774792
   }
 ]
