@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.35,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 505.36,
-    "last_checked": 1782605967.2837389
-  },
-  {
-    "protocol": "http",
-    "ip": "103.106.231.75",
-    "port": 8081,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 29.0,
-    "asn": "AS136258",
-    "isp": "BrainStorm Network",
-    "latency_ms": 1509.11,
-    "last_checked": 1782605938.1880052
-  },
-  {
-    "protocol": "http",
     "ip": "61.29.96.146",
     "port": 8000,
     "country": "Australia",
@@ -41,23 +11,53 @@
     "uptime_percent": 9.36,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 3624.24,
-    "last_checked": 1782605930.6113834
+    "latency_ms": 5672.77,
+    "last_checked": 1782606561.2013373
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.46,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 547.51,
+    "last_checked": 1782606541.3655527
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.35,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 499.97,
+    "last_checked": 1782606536.760566
   },
   {
     "protocol": "socks5",
-    "ip": "103.248.47.230",
+    "ip": "103.106.231.75",
     "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Kurnell",
+    "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.0,
-    "asn": "AS133417",
-    "isp": "Dicker Data Ltd",
-    "latency_ms": 5276.37,
-    "last_checked": 1782605820.5332136
+    "uptime_percent": 41.08,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 2324.4,
+    "last_checked": 1782606522.3245556
   },
   {
     "protocol": "socks5",
@@ -71,7 +71,22 @@
     "uptime_percent": 91.63,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1509.38,
-    "last_checked": 1782605583.0725238
+    "latency_ms": 1800.77,
+    "last_checked": 1782606448.1935854
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.0,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 1763.93,
+    "last_checked": 1782606415.8005002
   }
 ]
