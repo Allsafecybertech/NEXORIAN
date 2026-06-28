@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "41.184.92.219",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "154.113.220.1",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Abuja",
-    "anonymity": "anonymous",
+    "city": "Bonny",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.64,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 1584.84,
+    "last_checked": 1782617386.7043722
+  },
+  {
+    "protocol": "http",
+    "ip": "143.105.102.145",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 55.59,
-    "asn": "AS29091",
-    "isp": "ipNX Nigeria Limited",
-    "latency_ms": 928.9,
-    "last_checked": 1782616777.5642552
+    "uptime_percent": 25.84,
+    "asn": "AS14593",
+    "isp": "Space Exploration Technologies Corporation",
+    "latency_ms": 2557.71,
+    "last_checked": 1782617348.4758766
   },
   {
     "protocol": "socks5",
@@ -23,10 +38,10 @@
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.26,
+    "uptime_percent": 55.29,
     "asn": "AS8849",
     "isp": "Melbikomas UAB",
-    "latency_ms": 3407.83,
-    "last_checked": 1782616741.528485
+    "latency_ms": 3707.84,
+    "last_checked": 1782617327.643477
   }
 ]
