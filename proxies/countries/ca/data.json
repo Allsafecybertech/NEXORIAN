@@ -1,18 +1,63 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "24.37.245.42",
+    "port": 51056,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Laval",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.6,
+    "asn": "AS5769",
+    "isp": "Le Groupe Videotron Ltee",
+    "latency_ms": 1589.92,
+    "last_checked": 1782635646.7541997
+  },
+  {
     "protocol": "http",
-    "ip": "96.1.101.113",
+    "ip": "107.161.9.167",
+    "port": 8080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.85,
+    "asn": "AS22652",
+    "isp": "Videotron Ltee",
+    "latency_ms": 11285.59,
+    "last_checked": 1782635611.5057106
+  },
+  {
+    "protocol": "http",
+    "ip": "173.181.143.245",
     "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Calgary",
+    "city": "Vancouver",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 25.48,
+    "uptime_percent": 33.66,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 8662.52,
-    "last_checked": 1782635071.8046684
+    "latency_ms": 13767.5,
+    "last_checked": 1782635607.3796024
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.95.38.57",
+    "port": 9050,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Winnipeg",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.14,
+    "asn": "AS394352",
+    "isp": "Fastnet Communications",
+    "latency_ms": 3727.34,
+    "last_checked": 1782635598.4510107
   },
   {
     "protocol": "socks5",
@@ -26,7 +71,22 @@
     "uptime_percent": 94.34,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 586.71,
-    "last_checked": 1782635062.815235
+    "latency_ms": 587.06,
+    "last_checked": 1782635396.7851465
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.196.61.251",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.62,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network, Inc",
+    "latency_ms": 3700.15,
+    "last_checked": 1782635130.5680118
   }
 ]
