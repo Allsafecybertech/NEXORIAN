@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.231.69.203",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Ponte San Pietro",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.45,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 5179.48,
+    "last_checked": 1782658789.362828
+  },
+  {
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 84.74,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 4533.2,
+    "last_checked": 1782658770.5987244
+  },
+  {
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 67.37,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 1282.55,
-    "last_checked": 1782658425.3448057
+    "uptime_percent": 61.84,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 5478.3,
+    "last_checked": 1782658687.980493
   }
 ]
