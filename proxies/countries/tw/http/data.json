@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "118.163.120.181",
-    "port": 58837,
+    "ip": "219.84.152.155",
+    "port": 3128,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
+    "city": "New Taipei City",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 1.34,
+    "asn": "AS18182",
+    "isp": "Sony Network Taiwan Limited",
+    "latency_ms": 734.41,
+    "last_checked": 1782689362.5030544
+  },
+  {
+    "protocol": "http",
+    "ip": "59.124.62.9",
+    "port": 3128,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Bade District",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 4.57,
+    "uptime_percent": 13.38,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 19394.29,
-    "last_checked": 1782688755.825032
+    "latency_ms": 15427.81,
+    "last_checked": 1782689346.0240142
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 31.49,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 699.69,
-    "last_checked": 1782688728.212349
-  },
-  {
-    "protocol": "http",
-    "ip": "118.163.13.200",
-    "port": 8080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "New Taipei City",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 4.13,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 9572.41,
-    "last_checked": 1782688718.7554777
-  },
-  {
-    "protocol": "http",
-    "ip": "219.84.152.155",
-    "port": 3128,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "New Taipei City",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 0.67,
-    "asn": "AS18182",
-    "isp": "Sony Network Taiwan Limited",
-    "latency_ms": 749.4,
-    "last_checked": 1782688697.2016754
+    "latency_ms": 6864.79,
+    "last_checked": 1782689320.0327842
   }
 ]
