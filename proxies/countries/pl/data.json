@@ -1,50 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "178.212.144.7",
-    "port": 80,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Sokółka",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 98.77,
-    "asn": "AS51436",
-    "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 47.59,
-    "last_checked": 1782671398.2501817
-  },
-  {
-    "protocol": "socks4",
-    "ip": "194.59.186.35",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 79.51,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 1613.95,
-    "last_checked": 1782671396.2146327
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.126.5.245",
-    "port": 42344,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Poznan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 6.6,
-    "asn": "AS8364",
-    "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 7403.92,
-    "last_checked": 1782671389.4925313
-  },
-  {
     "protocol": "socks4",
     "ip": "185.32.4.65",
     "port": 4153,
@@ -56,23 +11,38 @@
     "uptime_percent": 10.97,
     "asn": "AS60645",
     "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 1113.44,
-    "last_checked": 1782671389.1544492
+    "latency_ms": 7175.21,
+    "last_checked": 1782671936.531258
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.214.54.200",
+    "port": 1080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.01,
+    "asn": "AS201814",
+    "isp": "MEVSPACE sp. z o.o.",
+    "latency_ms": 8031.97,
+    "last_checked": 1782671935.3832738
   },
   {
     "protocol": "socks4",
-    "ip": "212.126.5.249",
-    "port": 42344,
+    "ip": "45.144.49.156",
+    "port": 1080,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Poznan",
+    "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 19.64,
-    "asn": "AS8364",
-    "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-    "latency_ms": 91.8,
-    "last_checked": 1782671375.8582532
+    "uptime_percent": 60.22,
+    "asn": "AS49791",
+    "isp": "3hcloud",
+    "latency_ms": 283.18,
+    "last_checked": 1782671933.755085
   },
   {
     "protocol": "socks5",
@@ -83,11 +53,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 84.3,
+    "uptime_percent": 84.49,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 257.8,
-    "last_checked": 1782671359.3015125
+    "latency_ms": 3263.28,
+    "last_checked": 1782671931.3289673
   },
   {
     "protocol": "socks4",
@@ -101,23 +71,23 @@
     "uptime_percent": 33.86,
     "asn": "AS201814",
     "isp": "MEVSPACE sp. z o.o.",
-    "latency_ms": 2209.0,
-    "last_checked": 1782671346.7994454
+    "latency_ms": 709.86,
+    "last_checked": 1782671912.6373959
   },
   {
-    "protocol": "http",
-    "ip": "212.182.119.149",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "91.150.189.122",
+    "port": 60647,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Lublin",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.79,
-    "asn": "AS12346",
-    "isp": "non-academic part of Lublin MAN",
-    "latency_ms": 7683.66,
-    "last_checked": 1782671313.486545
+    "city": "Rzeszów",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.25,
+    "asn": "AS42673",
+    "isp": "Skyware Sp. z o.o.",
+    "latency_ms": 164.91,
+    "last_checked": 1782671909.6398878
   },
   {
     "protocol": "http",
@@ -127,11 +97,26 @@
     "country_code": "PL",
     "city": "Świnoujście",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.89,
     "asn": "AS12741",
     "isp": "Netia SA",
-    "latency_ms": 12607.49,
-    "last_checked": 1782671244.4456036
+    "latency_ms": 8404.25,
+    "last_checked": 1782671908.854354
+  },
+  {
+    "protocol": "http",
+    "ip": "178.212.144.7",
+    "port": 80,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Sokółka",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 98.77,
+    "asn": "AS51436",
+    "isp": "IDEALAN Spolka Jawna - Piekarski",
+    "latency_ms": 45.67,
+    "last_checked": 1782671868.402727
   }
 ]
