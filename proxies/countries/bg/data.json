@@ -1,33 +1,63 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.137.90.192",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Haskovo",
+    "city": "Rousse",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 48.25,
-    "asn": "AS8866",
-    "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 6481.7,
-    "last_checked": 1782649772.2563522
+    "ssl": true,
+    "uptime_percent": 13.66,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 7370.77,
+    "last_checked": 1782650363.4273515
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.15,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 132.66,
+    "last_checked": 1782650338.3651621
   },
   {
     "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
+    "ip": "93.123.121.3",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pleven",
+    "city": "Pirdop",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.69,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 3282.67,
-    "last_checked": 1782649757.6026046
+    "uptime_percent": 24.61,
+    "asn": "AS44851",
+    "isp": "Retel JSC",
+    "latency_ms": 4739.63,
+    "last_checked": 1782650303.236268
+  },
+  {
+    "protocol": "http",
+    "ip": "45.150.111.32",
+    "port": 5555,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 60.04,
+    "asn": "AS200019",
+    "isp": "Alexhost SRL",
+    "latency_ms": 13852.21,
+    "last_checked": 1782650256.611431
   },
   {
     "protocol": "http",
@@ -41,7 +71,7 @@
     "uptime_percent": 13.99,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 15561.81,
-    "last_checked": 1782649699.3832862
+    "latency_ms": 13090.15,
+    "last_checked": 1782650209.6039622
   }
 ]
