@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 84.77,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 3468.0,
-    "last_checked": 1782615593.8767607
-  },
-  {
     "protocol": "http",
     "ip": "87.121.148.126",
     "port": 49200,
@@ -23,11 +8,11 @@
     "city": "Palazzago",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 61.53,
+    "uptime_percent": 61.55,
     "asn": "AS210218",
     "isp": "Open Fiber S.P.A.",
-    "latency_ms": 66.14,
-    "last_checked": 1782615582.754741
+    "latency_ms": 57.49,
+    "last_checked": 1782616199.108503
   },
   {
     "protocol": "socks4",
@@ -41,11 +26,41 @@
     "uptime_percent": 87.48,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 1805.06,
-    "last_checked": 1782615578.8047643
+    "latency_ms": 2173.98,
+    "last_checked": 1782616188.365464
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.65,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 34398.68,
+    "last_checked": 1782616145.4689636
+  },
+  {
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 84.77,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 2844.88,
+    "last_checked": 1782615985.1015942
+  },
+  {
+    "protocol": "socks5",
     "ip": "77.81.230.90",
     "port": 9050,
     "country": "Italy",
@@ -53,25 +68,10 @@
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.61,
+    "uptime_percent": 22.67,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 11787.6,
-    "last_checked": 1782615574.7236118
-  },
-  {
-    "protocol": "http",
-    "ip": "188.11.179.26",
-    "port": 8443,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Crispi Cavour",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.93,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 3277.58,
-    "last_checked": 1782615507.319825
+    "latency_ms": 9579.43,
+    "last_checked": 1782615924.9350686
   }
 ]
