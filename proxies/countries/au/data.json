@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "170.64.170.204",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 94.35,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 511.32,
-    "last_checked": 1782652793.8825665
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.170.204",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 91.68,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1578.85,
-    "last_checked": 1782652783.5210629
+    "latency_ms": 1629.96,
+    "last_checked": 1782653370.5725996
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.82,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 9019.27,
+    "last_checked": 1782653368.3080173
   },
   {
     "protocol": "http",
@@ -41,7 +41,52 @@
     "uptime_percent": 27.01,
     "asn": "AS4764",
     "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 1882.32,
-    "last_checked": 1782652766.419103
+    "latency_ms": 10689.5,
+    "last_checked": 1782653354.4162457
+  },
+  {
+    "protocol": "http",
+    "ip": "170.64.170.204",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 94.35,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 503.59,
+    "last_checked": 1782653334.547216
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.56,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 6041.17,
+    "last_checked": 1782653308.8495042
+  },
+  {
+    "protocol": "http",
+    "ip": "139.99.238.95",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.35,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 559.2,
+    "last_checked": 1782653296.0170467
   }
 ]
