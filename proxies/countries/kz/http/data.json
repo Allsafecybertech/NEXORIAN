@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "2.78.60.10",
-    "port": 3129,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 98.55,
-    "asn": "AS29355",
-    "isp": "Kcell JSC",
-    "latency_ms": 1405.76,
-    "last_checked": 1782682175.8843176
-  },
-  {
-    "protocol": "http",
-    "ip": "91.229.151.118",
-    "port": 8080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Shymkent",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 26.48,
-    "asn": "AS202293",
-    "isp": "D-Cloud LLC",
-    "latency_ms": 4544.44,
-    "last_checked": 1782682169.059872
-  },
-  {
-    "protocol": "http",
     "ip": "176.12.73.250",
     "port": 3128,
     "country": "Kazakhstan",
@@ -38,11 +8,11 @@
     "city": "Almaty",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 21.61,
+    "uptime_percent": 21.63,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 21272.46,
-    "last_checked": 1782682146.4097836
+    "latency_ms": 10256.85,
+    "last_checked": 1782682758.7969534
   },
   {
     "protocol": "http",
@@ -52,27 +22,12 @@
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.5,
+    "ssl": true,
+    "uptime_percent": 24.52,
     "asn": "AS41798",
     "isp": "JSC Transtelecom",
-    "latency_ms": 12613.83,
-    "last_checked": 1782682126.946288
-  },
-  {
-    "protocol": "http",
-    "ip": "194.110.55.211",
-    "port": 3130,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 9.88,
-    "asn": "AS48716",
-    "isp": "PS Internet Company LLP",
-    "latency_ms": 376.82,
-    "last_checked": 1782682093.0491323
+    "latency_ms": 12952.17,
+    "last_checked": 1782682746.483128
   },
   {
     "protocol": "http",
@@ -83,10 +38,40 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 43.86,
+    "uptime_percent": 44.34,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 7955.37,
-    "last_checked": 1782682090.4949608
+    "latency_ms": 11334.67,
+    "last_checked": 1782682744.5519748
+  },
+  {
+    "protocol": "http",
+    "ip": "2.78.60.10",
+    "port": 3129,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 98.55,
+    "asn": "AS29355",
+    "isp": "Kcell JSC",
+    "latency_ms": 5725.07,
+    "last_checked": 1782682743.3124795
+  },
+  {
+    "protocol": "http",
+    "ip": "91.229.151.118",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Shymkent",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.49,
+    "asn": "AS202293",
+    "isp": "D-Cloud LLC",
+    "latency_ms": 2751.06,
+    "last_checked": 1782682577.819068
   }
 ]
