@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
@@ -8,11 +8,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.79,
+    "uptime_percent": 61.73,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 3188.08,
-    "last_checked": 1782608988.6510887
+    "latency_ms": 4386.55,
+    "last_checked": 1782609571.5029786
   },
   {
     "protocol": "socks5",
@@ -26,7 +26,22 @@
     "uptime_percent": 85.3,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1740.79,
-    "last_checked": 1782608778.2471797
+    "latency_ms": 1988.65,
+    "last_checked": 1782609495.4088476
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.68,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 16322.89,
+    "last_checked": 1782609457.141021
   }
 ]
