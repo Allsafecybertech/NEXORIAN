@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.2.238.216",
-    "port": 8787,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Eforie Nord",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.24,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 1319.29,
+    "last_checked": 1782668361.2693584
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.12,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 10264.37,
-    "last_checked": 1782667940.9712794
+    "uptime_percent": 12.17,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 11995.05,
+    "last_checked": 1782668173.3296998
   }
 ]
