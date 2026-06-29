@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "182.93.75.162",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "116.90.224.50",
+    "port": 8080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.28,
-    "asn": "AS4007",
-    "isp": "Subisu Cablenet",
-    "latency_ms": 3895.44,
-    "last_checked": 1782737651.670959
-  },
-  {
-    "protocol": "socks4",
-    "ip": "118.91.175.146",
-    "port": 5678,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Nanche Bazar",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.2,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.67,
     "asn": "AS24550",
     "isp": "Websurfer Nepal Communication System Pvt. Ltd",
-    "latency_ms": 3930.42,
-    "last_checked": 1782737621.6506572
+    "latency_ms": 4091.7,
+    "last_checked": 1782737969.647064
   },
   {
     "protocol": "http",
@@ -37,11 +22,11 @@
     "country_code": "NP",
     "city": "Pokhara",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 12.38,
     "asn": "AS138388",
     "isp": "Pokhara Internet Pvt. Ltd",
-    "latency_ms": 3375.01,
-    "last_checked": 1782737598.421007
+    "latency_ms": 4070.54,
+    "last_checked": 1782737938.7812176
   }
 ]
