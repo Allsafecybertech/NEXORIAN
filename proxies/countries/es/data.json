@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "San Fernando de Henares",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 28.56,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 194.86,
-    "last_checked": 1782751177.8131402
-  },
-  {
-    "protocol": "socks4",
     "ip": "82.223.151.29",
     "port": 1080,
     "country": "Spain",
@@ -26,11 +11,11 @@
     "uptime_percent": 67.88,
     "asn": "AS8560",
     "isp": "arsys.es",
-    "latency_ms": 182.1,
-    "last_checked": 1782751165.9962993
+    "latency_ms": 188.77,
+    "last_checked": 1782751776.521971
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "65.20.105.241",
     "port": 10001,
     "country": "Spain",
@@ -38,11 +23,26 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.76,
+    "uptime_percent": 42.35,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 3198.38,
-    "last_checked": 1782751157.5930789
+    "latency_ms": 1132.57,
+    "last_checked": 1782751763.6516056
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.97.79.114",
+    "port": 8443,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.53,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 14373.95,
+    "last_checked": 1782751757.5730863
   },
   {
     "protocol": "http",
@@ -56,7 +56,22 @@
     "uptime_percent": 65.87,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5193.54,
-    "last_checked": 1782751156.9742205
+    "latency_ms": 5129.42,
+    "last_checked": 1782751727.2485814
+  },
+  {
+    "protocol": "http",
+    "ip": "187.33.151.110",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Barcelona",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 29.63,
+    "asn": "AS49635",
+    "isp": "Cloudi Nextgen SL",
+    "latency_ms": 17184.69,
+    "last_checked": 1782751668.9635608
   }
 ]
