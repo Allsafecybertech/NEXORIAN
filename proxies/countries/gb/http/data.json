@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "104.194.146.9",
-    "port": 80,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 73.46,
-    "asn": "AS198983",
-    "isp": "FranTech Solutions",
-    "latency_ms": 3712.5,
-    "last_checked": 1782750276.5434494
-  },
-  {
-    "protocol": "http",
-    "ip": "18.169.141.215",
-    "port": 3128,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 42.9,
-    "asn": "AS16509",
-    "isp": "Amazon Technologies Inc.",
-    "latency_ms": 7549.76,
-    "last_checked": 1782750272.7705848
-  },
-  {
-    "protocol": "http",
     "ip": "212.58.132.5",
     "port": 8888,
     "country": "United Kingdom",
@@ -41,8 +11,8 @@
     "uptime_percent": 79.13,
     "asn": "AS8757",
     "isp": "NSFOCUS, Inc.",
-    "latency_ms": 3400.35,
-    "last_checked": 1782750260.3247366
+    "latency_ms": 734.39,
+    "last_checked": 1782750527.3214202
   },
   {
     "protocol": "http",
@@ -52,12 +22,12 @@
     "country_code": "GB",
     "city": "Maidenhead",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 82.78,
     "asn": "AS20860",
     "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 7895.43,
-    "last_checked": 1782750254.1043847
+    "latency_ms": 991.23,
+    "last_checked": 1782750499.1645317
   },
   {
     "protocol": "http",
@@ -67,11 +37,26 @@
     "country_code": "GB",
     "city": "London",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 90.01,
+    "ssl": true,
+    "uptime_percent": 89.99,
     "asn": "AS198983",
     "isp": "FranTech Solutions",
-    "latency_ms": 15698.57,
-    "last_checked": 1782750170.9022737
+    "latency_ms": 10742.57,
+    "last_checked": 1782750483.619584
+  },
+  {
+    "protocol": "http",
+    "ip": "18.169.141.215",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 42.91,
+    "asn": "AS16509",
+    "isp": "Amazon Technologies Inc.",
+    "latency_ms": 15856.85,
+    "last_checked": 1782750481.3433552
   }
 ]
