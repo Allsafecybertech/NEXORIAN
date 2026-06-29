@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "104.194.148.188",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 90.53,
+    "asn": "AS198983",
+    "isp": "FranTech Solutions",
+    "latency_ms": 494.48,
+    "last_checked": 1782697776.5538487
+  },
+  {
+    "protocol": "http",
+    "ip": "51.195.190.172",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Blackburn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.02,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 14652.08,
+    "last_checked": 1782697745.4038637
+  },
+  {
+    "protocol": "http",
     "ip": "212.58.132.5",
     "port": 8888,
     "country": "United Kingdom",
@@ -11,38 +41,8 @@
     "uptime_percent": 78.96,
     "asn": "AS8757",
     "isp": "NSFOCUS, Inc.",
-    "latency_ms": 786.54,
-    "last_checked": 1782697160.8753824
-  },
-  {
-    "protocol": "http",
-    "ip": "104.194.148.188",
-    "port": 3128,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 90.5,
-    "asn": "AS198983",
-    "isp": "FranTech Solutions",
-    "latency_ms": 2607.41,
-    "last_checked": 1782697130.9565222
-  },
-  {
-    "protocol": "http",
-    "ip": "81.168.119.85",
-    "port": 443,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "Maidenhead",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 82.96,
-    "asn": "AS20860",
-    "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 10601.65,
-    "last_checked": 1782697124.2623463
+    "latency_ms": 806.22,
+    "last_checked": 1782697731.8819492
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "GB",
     "city": "London",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 44.18,
+    "ssl": false,
+    "uptime_percent": 44.26,
     "asn": "AS16509",
     "isp": "Amazon Technologies Inc.",
-    "latency_ms": 7334.03,
-    "last_checked": 1782697102.3529804
+    "latency_ms": 12752.86,
+    "last_checked": 1782697708.079993
+  },
+  {
+    "protocol": "http",
+    "ip": "81.168.119.85",
+    "port": 443,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Maidenhead",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 82.95,
+    "asn": "AS20860",
+    "isp": "Iomart Cloud Services Limited",
+    "latency_ms": 2633.93,
+    "last_checked": 1782697663.6552882
   }
 ]
