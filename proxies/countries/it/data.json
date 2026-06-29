@@ -1,18 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "5.59.248.134",
-    "port": 8081,
+    "ip": "2.115.212.62",
+    "port": 48293,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Pomezia",
+    "city": "Furnari",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.04,
-    "asn": "AS212271",
-    "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 1630.52,
-    "last_checked": 1782706183.3795989
+    "uptime_percent": 50.16,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 2423.73,
+    "last_checked": 1782706777.948339
   },
   {
     "protocol": "socks4",
@@ -26,11 +26,11 @@
     "uptime_percent": 87.51,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2118.17,
-    "last_checked": 1782706176.7491574
+    "latency_ms": 6282.72,
+    "last_checked": 1782706777.3947191
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "45.92.70.239",
     "port": 1081,
     "country": "Italy",
@@ -38,11 +38,41 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.15,
+    "uptime_percent": 77.07,
     "asn": "AS202422",
     "isp": "G-Core Labs S.A.",
-    "latency_ms": 8165.1,
-    "last_checked": 1782706176.2732832
+    "latency_ms": 10330.95,
+    "last_checked": 1782706768.4222467
+  },
+  {
+    "protocol": "http",
+    "ip": "85.208.200.185",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.64,
+    "asn": "AS44092",
+    "isp": "HAL Service SpA",
+    "latency_ms": 9259.83,
+    "last_checked": 1782706762.7078087
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.04,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 10035.78,
+    "last_checked": 1782706752.5532262
   },
   {
     "protocol": "socks5",
@@ -53,25 +83,55 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.09,
+    "uptime_percent": 85.1,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 7523.59,
-    "last_checked": 1782706158.3623044
+    "latency_ms": 5593.11,
+    "last_checked": 1782706751.9091282
   },
   {
     "protocol": "http",
-    "ip": "93.187.26.134",
-    "port": 58080,
+    "ip": "188.11.179.26",
+    "port": 8443,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Siena",
+    "city": "Crispi Cavour",
     "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.98,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+    "latency_ms": 3530.28,
+    "last_checked": 1782706733.5359647
+  },
+  {
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 30.52,
-    "asn": "AS43960",
-    "isp": "Consorzio Terrecablate",
-    "latency_ms": 13191.77,
-    "last_checked": 1782706132.2268152
+    "uptime_percent": 62.36,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 58.85,
+    "last_checked": 1782706714.3090568
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 24.95,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 698.24,
+    "last_checked": 1782706769.453071
   }
 ]
