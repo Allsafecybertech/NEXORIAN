@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "139.99.238.95",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.35,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 531.68,
+    "last_checked": 1782701096.6354184
+  },
+  {
+    "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
     "country": "Australia",
@@ -11,23 +26,8 @@
     "uptime_percent": 94.36,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 509.42,
-    "last_checked": 1782700494.306667
-  },
-  {
-    "protocol": "socks5",
-    "ip": "103.248.47.230",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Kurnell",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 46.07,
-    "asn": "AS133417",
-    "isp": "Dicker Data Ltd",
-    "latency_ms": 4699.61,
-    "last_checked": 1782700480.0078433
+    "latency_ms": 493.57,
+    "last_checked": 1782701088.16019
   },
   {
     "protocol": "socks5",
@@ -41,22 +41,37 @@
     "uptime_percent": 91.81,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1476.62,
-    "last_checked": 1782700465.5210545
+    "latency_ms": 1667.27,
+    "last_checked": 1782701083.544319
   },
   {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "103.106.231.75",
-    "port": 8081,
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 29.15,
+    "ssl": true,
+    "uptime_percent": 41.54,
     "asn": "AS136258",
     "isp": "BrainStorm Network",
-    "latency_ms": 513.08,
-    "last_checked": 1782700410.7240458
+    "latency_ms": 8283.46,
+    "last_checked": 1782701067.787133
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.1,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 3320.93,
+    "last_checked": 1782701048.1191206
   }
 ]
