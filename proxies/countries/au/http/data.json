@@ -1,6 +1,21 @@
 [
   {
     "protocol": "http",
+    "ip": "103.106.231.75",
+    "port": 8081,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.96,
+    "asn": "AS136258",
+    "isp": "BrainStorm Network",
+    "latency_ms": 1502.05,
+    "last_checked": 1782766778.1199672
+  },
+  {
+    "protocol": "http",
     "ip": "170.64.170.204",
     "port": 8080,
     "country": "Australia",
@@ -11,23 +26,8 @@
     "uptime_percent": 94.36,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 494.7,
-    "last_checked": 1782766128.9866283
-  },
-  {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Albury",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 8.34,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 10185.58,
-    "last_checked": 1782766128.8448164
+    "latency_ms": 509.09,
+    "last_checked": 1782766753.5308056
   },
   {
     "protocol": "http",
@@ -37,12 +37,12 @@
     "country_code": "AU",
     "city": "North Sydney",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 30.15,
+    "ssl": false,
+    "uptime_percent": 30.25,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11465.9,
-    "last_checked": 1782766117.548162
+    "latency_ms": 14072.27,
+    "last_checked": 1782766753.0559404
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.64,
+    "ssl": true,
+    "uptime_percent": 35.69,
     "asn": "AS133159",
     "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 14620.11,
-    "last_checked": 1782766059.5239744
+    "latency_ms": 8705.2,
+    "last_checked": 1782766749.1769907
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.137.166",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "North Sydney",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.18,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 21535.32,
+    "last_checked": 1782766718.238217
   }
 ]
