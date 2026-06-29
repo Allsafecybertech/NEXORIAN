@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "181.78.27.38",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "190.104.143.94",
+    "port": 4153,
     "country": "Paraguay",
     "country_code": "PY",
     "city": "Asunción",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 8.72,
+    "asn": "AS27895",
+    "isp": "Núcleo S.A.",
+    "latency_ms": 1249.0,
+    "last_checked": 1782718168.5811837
+  },
+  {
+    "protocol": "http",
+    "ip": "181.94.197.37",
+    "port": 8080,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Fernando de la Mora",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 8.38,
-    "asn": "AS52468",
-    "isp": "Ufinet Paraguay S.A",
-    "latency_ms": 13745.18,
-    "last_checked": 1782717857.9882216
+    "uptime_percent": 12.21,
+    "asn": "AS27895",
+    "isp": "Núcleo S.A.",
+    "latency_ms": 4049.99,
+    "last_checked": 1782718158.6375806
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 65.01,
     "asn": "AS28103",
     "isp": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-    "latency_ms": 11884.8,
-    "last_checked": 1782717852.8413935
+    "latency_ms": 14300.24,
+    "last_checked": 1782718128.9080708
   },
   {
     "protocol": "http",
-    "ip": "190.52.165.120",
-    "port": 8080,
+    "ip": "170.83.242.76",
+    "port": 999,
     "country": "Paraguay",
     "country_code": "PY",
-    "city": "San Lorenzo",
+    "city": "Asunción",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.59,
-    "asn": "AS27866",
-    "isp": "CO.PA.CO.",
-    "latency_ms": 9809.54,
-    "last_checked": 1782717798.415944
+    "uptime_percent": 15.65,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 12879.08,
+    "last_checked": 1782718043.960855
+  },
+  {
+    "protocol": "http",
+    "ip": "170.83.242.77",
+    "port": 999,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Asunción",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.34,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 2451.74,
+    "last_checked": 1782718037.0119207
   }
 ]
