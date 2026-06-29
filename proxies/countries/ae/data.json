@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "74.162.65.56",
-    "port": 1080,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 95.16,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 1000.36,
-    "last_checked": 1782747594.8980598
-  },
-  {
     "protocol": "socks5",
     "ip": "74.162.65.56",
     "port": 1080,
@@ -26,8 +11,23 @@
     "uptime_percent": 94.91,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 1273.08,
-    "last_checked": 1782747590.9111552
+    "latency_ms": 1495.67,
+    "last_checked": 1782747838.9426494
+  },
+  {
+    "protocol": "socks4",
+    "ip": "74.162.65.56",
+    "port": 1080,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 95.16,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 770.65,
+    "last_checked": 1782747838.9280176
   },
   {
     "protocol": "socks5",
@@ -38,11 +38,56 @@
     "city": "Fujairah",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.12,
+    "uptime_percent": 36.13,
     "asn": "AS59878",
     "isp": "BFB ONE FZ-LLC",
-    "latency_ms": 647.0,
-    "last_checked": 1782747573.5575976
+    "latency_ms": 677.36,
+    "last_checked": 1782747830.9792728
+  },
+  {
+    "protocol": "http",
+    "ip": "47.91.121.127",
+    "port": 8888,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 1.03,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 2281.21,
+    "last_checked": 1782747819.7192636
+  },
+  {
+    "protocol": "http",
+    "ip": "47.91.121.127",
+    "port": 8118,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 0.71,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 2272.0,
+    "last_checked": 1782747795.9304893
+  },
+  {
+    "protocol": "http",
+    "ip": "91.73.223.206",
+    "port": 3128,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.4,
+    "asn": "AS15802",
+    "isp": "Emirates Integrated Telecommunications Company PJSC",
+    "latency_ms": 10026.99,
+    "last_checked": 1782747795.4576895
   },
   {
     "protocol": "http",
@@ -52,11 +97,11 @@
     "country_code": "AE",
     "city": "Dubai",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 79.6,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 7579.08,
-    "last_checked": 1782747489.2128255
+    "latency_ms": 17706.51,
+    "last_checked": 1782747738.942345
   }
 ]
