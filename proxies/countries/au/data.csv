@@ -1,10 +1,10 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.37,AS14061,"DigitalOcean, LLC",502.49,1782769752.726462
-http,103.106.231.75,8081,Australia,AU,Sydney,elite,false,28.98,AS136258,BrainStorm Network,1508.88,1782769722.035972
-http,51.161.142.97,8080,Australia,AU,North Sydney,elite,false,30.41,AS16276,OVH SAS,19561.0,1782769698.577642
-http,51.161.137.166,8080,Australia,AU,North Sydney,elite,false,30.45,AS16276,OVH SAS,12689.33,1782769698.4521282
-http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,false,26.83,AS4764,Wideband Networks Pty Ltd,11635.42,1782769606.4683988
-http,103.131.232.9,8080,Australia,AU,Goulburn,transparent,false,22.97,AS45447,YLess4U Pty Ltd,17534.53,1782769599.680713
-http,103.18.205.162,8080,Australia,AU,Melbourne,transparent,false,29.95,AS134371,Circle Network,8080.95,1782769596.1126373
-http,103.249.237.158,8888,Australia,AU,Sydney,transparent,true,36.17,AS133159,Mammoth Media Pty Ltd,521.71,1782769802.5367146
-socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,41.45,AS31898,Oracle Corporation,18339.98,1782769761.706104
+http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.37,AS14061,"DigitalOcean, LLC",495.0,1782770356.3475418
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,91.91,AS14061,"DigitalOcean, LLC",1513.81,1782770355.4023056
+http,103.106.231.75,8081,Australia,AU,Sydney,elite,false,28.99,AS136258,BrainStorm Network,1503.75,1782770352.783858
+socks4,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,41.45,AS31898,Oracle Corporation,10390.43,1782770349.2947865
+socks5,103.106.231.75,1080,Australia,AU,Sydney,elite,true,40.67,AS136258,BrainStorm Network,8324.78,1782770317.5949361
+http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,true,26.82,AS4764,Wideband Networks Pty Ltd,4940.63,1782770278.525163
+http,103.131.232.9,8080,Australia,AU,Goulburn,transparent,true,22.98,AS45447,YLess4U Pty Ltd,7861.94,1782770254.8772697
+http,51.161.142.97,8080,Australia,AU,North Sydney,elite,false,30.43,AS16276,OVH SAS,11131.62,1782770245.0766351
+http,61.29.96.146,8000,Australia,AU,Albury,anonymous,false,9.39,AS2764,AAPT Limited,5578.85,1782770240.863641
