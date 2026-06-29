@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks5",
+    "ip": "193.168.140.245",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.61,
+    "asn": "AS39622",
+    "isp": "Zergrush SRL",
+    "latency_ms": 1488.17,
+    "last_checked": 1782750280.80273
+  },
+  {
+    "protocol": "socks5",
     "ip": "193.168.140.213",
     "port": 1080,
     "country": "Romania",
@@ -8,11 +23,26 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 64.23,
+    "uptime_percent": 64.04,
     "asn": "AS39622",
     "isp": "Zergrush SRL",
-    "latency_ms": 6083.38,
-    "last_checked": 1782749654.3927784
+    "latency_ms": 3752.9,
+    "last_checked": 1782750277.846679
+  },
+  {
+    "protocol": "http",
+    "ip": "5.2.238.216",
+    "port": 8787,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Eforie Nord",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.33,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 4321.23,
+    "last_checked": 1782750269.7159529
   },
   {
     "protocol": "http",
@@ -26,22 +56,7 @@
     "uptime_percent": 12.2,
     "asn": "AS9050",
     "isp": "Romtelecom",
-    "latency_ms": 5631.79,
-    "last_checked": 1782749638.848054
-  },
-  {
-    "protocol": "http",
-    "ip": "185.128.240.2",
-    "port": 3128,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Drobeta-Turnu Severin",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.28,
-    "asn": "AS49052",
-    "isp": "Data ZYX SRL",
-    "latency_ms": 2903.57,
-    "last_checked": 1782749623.4238932
+    "latency_ms": 9214.09,
+    "last_checked": 1782750164.6680193
   }
 ]
