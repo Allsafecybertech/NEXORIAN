@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Roșcani",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.2,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 5039.76,
+    "last_checked": 1782725936.9327304
+  },
+  {
+    "protocol": "http",
+    "ip": "85.122.120.119",
+    "port": 20016,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Năvodari",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 59.33,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 3249.29,
-    "last_checked": 1782725331.4634275
+    "ssl": false,
+    "uptime_percent": 9.85,
+    "asn": "AS39347",
+    "isp": "STYLISH BY A&L SRL",
+    "latency_ms": 5203.14,
+    "last_checked": 1782725923.5838869
   },
   {
     "protocol": "http",
@@ -26,7 +41,7 @@
     "uptime_percent": 18.26,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 5494.82,
-    "last_checked": 1782725289.3714855
+    "latency_ms": 8532.89,
+    "last_checked": 1782725877.756719
   }
 ]
