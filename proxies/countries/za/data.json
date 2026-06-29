@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "41.162.162.142",
-    "port": 4153,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Bloemfontein",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.99,
-    "asn": "AS36937",
-    "isp": "Neotel GAU",
-    "latency_ms": 8108.03,
-    "last_checked": 1782715476.3945577
-  },
-  {
     "protocol": "socks5",
     "ip": "168.253.92.93",
     "port": 10808,
@@ -26,23 +11,38 @@
     "uptime_percent": 38.51,
     "asn": "AS37650",
     "isp": "CM Value Added Services (Pty) Ltd",
-    "latency_ms": 8338.18,
-    "last_checked": 1782715447.8418617
+    "latency_ms": 3900.04,
+    "last_checked": 1782716082.0249057
   },
   {
     "protocol": "http",
-    "ip": "196.6.115.165",
+    "ip": "196.216.134.71",
+    "port": 8865,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Mahikeng",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.33,
+    "asn": "AS328471",
+    "isp": "HERO TELECOMS (PTY) LTD",
+    "latency_ms": 3796.08,
+    "last_checked": 1782716064.666851
+  },
+  {
+    "protocol": "http",
+    "ip": "165.0.136.30",
     "port": 8080,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Tzaneen",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 20.51,
-    "asn": "AS328638",
-    "isp": "LWIC",
-    "latency_ms": 10931.42,
-    "last_checked": 1782715443.3477967
+    "city": "Cape Town",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 6.8,
+    "asn": "AS37053",
+    "isp": "RSAWEB (PTY) LTD",
+    "latency_ms": 7280.54,
+    "last_checked": 1782716060.4519389
   },
   {
     "protocol": "http",
@@ -56,22 +56,37 @@
     "uptime_percent": 9.69,
     "asn": "AS327907",
     "isp": "Session Telecoms(PTY) Ltd",
-    "latency_ms": 14983.65,
-    "last_checked": 1782715441.2121596
+    "latency_ms": 13926.16,
+    "last_checked": 1782716026.1678748
   },
   {
     "protocol": "http",
-    "ip": "217.29.208.206",
-    "port": 9999,
+    "ip": "196.223.129.21",
+    "port": 80,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Potchefstroom",
-    "anonymity": "transparent",
+    "city": "Stellenbosch",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 23.61,
+    "uptime_percent": 29.13,
     "asn": "AS328471",
     "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 13185.42,
-    "last_checked": 1782715422.5004096
+    "latency_ms": 11281.45,
+    "last_checked": 1782715956.3871262
+  },
+  {
+    "protocol": "http",
+    "ip": "102.217.139.31",
+    "port": 8180,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Cape Town",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.83,
+    "asn": "AS329181",
+    "isp": "Bluedog Technology",
+    "latency_ms": 6780.5,
+    "last_checked": 1782715953.4517505
   }
 ]
