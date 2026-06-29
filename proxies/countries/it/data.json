@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,29 +8,29 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.24,
+    "uptime_percent": 87.52,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2674.73,
-    "last_checked": 1782735288.0726092
+    "latency_ms": 720.63,
+    "last_checked": 1782735890.984527
   },
   {
     "protocol": "http",
-    "ip": "194.183.1.205",
-    "port": 8080,
+    "ip": "87.121.148.126",
+    "port": 49200,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Rome",
-    "anonymity": "transparent",
+    "city": "Palazzago",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 21.82,
-    "asn": "AS5394",
-    "isp": "UNIDATA S.p.A.",
-    "latency_ms": 3224.39,
-    "last_checked": 1782735278.1270213
+    "uptime_percent": 62.22,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 80.36,
+    "last_checked": 1782735858.842933
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "77.81.230.90",
     "port": 9050,
     "country": "Italy",
@@ -38,10 +38,40 @@
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 22.89,
+    "uptime_percent": 29.39,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 9138.85,
-    "last_checked": 1782735225.3265367
+    "latency_ms": 10414.96,
+    "last_checked": 1782735847.527023
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.05,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 16000.33,
+    "last_checked": 1782735799.7574198
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.41",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.6,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 10579.16,
+    "last_checked": 1782735799.539953
   }
 ]
