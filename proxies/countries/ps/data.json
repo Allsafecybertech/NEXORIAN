@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "93.184.5.121",
-    "port": 1080,
-    "country": "Palestinian Territory",
-    "country_code": "PS",
-    "city": "Ramallah",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.63,
-    "asn": "AS47253",
-    "isp": "BCI Telecommunication & Advanced Technology Company",
-    "latency_ms": 1848.51,
-    "last_checked": 1782851668.1677012
-  },
-  {
     "protocol": "http",
     "ip": "46.60.15.72",
     "port": 8082,
@@ -22,11 +7,26 @@
     "country_code": "PS",
     "city": "Brūqīn",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 13.55,
     "asn": "AS197350",
     "isp": "AL Zaytona Company For Communication Ltd.",
-    "latency_ms": 4511.25,
-    "last_checked": 1782851632.4879425
+    "latency_ms": 2675.18,
+    "last_checked": 1782852199.7085543
+  },
+  {
+    "protocol": "http",
+    "ip": "213.244.95.175",
+    "port": 8080,
+    "country": "Palestine",
+    "country_code": "PS",
+    "city": "Gaza",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.32,
+    "asn": "AS12975",
+    "isp": "PALTEL (Palestine Telecommunications Co.).",
+    "latency_ms": 10949.1,
+    "last_checked": 1782852150.0001602
   }
 ]
