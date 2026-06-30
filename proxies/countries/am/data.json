@@ -1,36 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "45.142.195.110",
-    "port": 995,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.2,
-    "asn": "AS215929",
-    "isp": "Data Campus Limited",
-    "latency_ms": 1363.38,
-    "last_checked": 1782844781.6676788
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.142.195.110",
-    "port": 995,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 35.48,
-    "asn": "AS215929",
-    "isp": "Data Campus Limited",
-    "latency_ms": 1865.49,
-    "last_checked": 1782844778.4912813
-  },
-  {
-    "protocol": "socks4",
     "ip": "130.193.123.34",
     "port": 5678,
     "country": "Armenia",
@@ -41,8 +11,38 @@
     "uptime_percent": 21.59,
     "asn": "AS49800",
     "isp": "GNC",
-    "latency_ms": 3311.1,
-    "last_checked": 1782844773.7442307
+    "latency_ms": 7460.01,
+    "last_checked": 1782845340.8545108
+  },
+  {
+    "protocol": "http",
+    "ip": "5.77.252.202",
+    "port": 8080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.48,
+    "asn": "AS44395",
+    "isp": "Ucom Mobile Network",
+    "latency_ms": 318.4,
+    "last_checked": 1782845260.6194985
+  },
+  {
+    "protocol": "http",
+    "ip": "91.204.190.140",
+    "port": 81,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.34,
+    "asn": "AS42991",
+    "isp": "BioNet LLC",
+    "latency_ms": 434.19,
+    "last_checked": 1782845242.1278594
   },
   {
     "protocol": "http",
@@ -52,11 +52,11 @@
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 40.62,
+    "ssl": true,
+    "uptime_percent": 40.61,
     "asn": "AS201884",
     "isp": "ISP SUPPORT LLC",
-    "latency_ms": 16844.15,
-    "last_checked": 1782844665.3518624
+    "latency_ms": 15001.94,
+    "last_checked": 1782845217.8293936
   }
 ]
