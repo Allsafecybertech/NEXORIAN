@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "190.14.5.164",
+    "port": 5678,
+    "country": "Guatemala",
+    "country_code": "GT",
+    "city": "El Chol",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.36,
+    "asn": "AS26617",
+    "isp": "Navega.com S.A.",
+    "latency_ms": 1809.22,
+    "last_checked": 1782777545.0175195
+  },
+  {
     "protocol": "http",
     "ip": "186.33.5.13",
     "port": 8080,
@@ -7,12 +22,27 @@
     "country_code": "GT",
     "city": "Guatemala City",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 11.21,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 5291.61,
-    "last_checked": 1782776978.4359221
+    "latency_ms": 11938.95,
+    "last_checked": 1782777538.4199376
+  },
+  {
+    "protocol": "http",
+    "ip": "148.230.17.253",
+    "port": 999,
+    "country": "Guatemala",
+    "country_code": "GT",
+    "city": "Guatemala City",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.51,
+    "asn": "AS26617",
+    "isp": "Navega.com S.A.",
+    "latency_ms": 6581.84,
+    "last_checked": 1782777523.868602
   },
   {
     "protocol": "http",
@@ -23,26 +53,11 @@
     "city": "Guatemala City",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 22.88,
+    "uptime_percent": 22.89,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 4571.89,
-    "last_checked": 1782776962.9400215
-  },
-  {
-    "protocol": "http",
-    "ip": "181.119.103.237",
-    "port": 999,
-    "country": "Guatemala",
-    "country_code": "GT",
-    "city": "San José Acatempa",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.66,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 3899.55,
-    "last_checked": 1782776944.000898
+    "latency_ms": 7238.79,
+    "last_checked": 1782777520.687828
   },
   {
     "protocol": "http",
@@ -56,22 +71,37 @@
     "uptime_percent": 6.75,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 9574.47,
-    "last_checked": 1782776943.3158119
+    "latency_ms": 8098.72,
+    "last_checked": 1782777504.2469187
   },
   {
     "protocol": "http",
-    "ip": "181.119.105.155",
+    "ip": "181.119.111.59",
     "port": 999,
     "country": "Guatemala",
     "country_code": "GT",
     "city": "Guatemala City",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 20.06,
+    "uptime_percent": 16.79,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 5202.75,
-    "last_checked": 1782776942.4130797
+    "latency_ms": 5469.58,
+    "last_checked": 1782777492.7094653
+  },
+  {
+    "protocol": "http",
+    "ip": "45.5.119.17",
+    "port": 999,
+    "country": "Guatemala",
+    "country_code": "GT",
+    "city": "Guatemala City",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 25.64,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 5571.02,
+    "last_checked": 1782777484.9440165
   }
 ]

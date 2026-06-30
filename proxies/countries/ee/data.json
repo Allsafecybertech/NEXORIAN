@@ -1,36 +1,6 @@
 [
   {
     "protocol": "socks5",
-    "ip": "5.45.118.209",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 89.0,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 200.98,
-    "last_checked": 1782776990.2867794
-  },
-  {
-    "protocol": "socks5",
-    "ip": "95.85.242.7",
-    "port": 9050,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 19.89,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 6313.4,
-    "last_checked": 1782776973.0347757
-  },
-  {
-    "protocol": "socks5",
     "ip": "5.181.23.213",
     "port": 8443,
     "country": "Estonia",
@@ -38,25 +8,40 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.31,
+    "uptime_percent": 39.36,
     "asn": "",
     "isp": "WorkTitans B.V",
-    "latency_ms": 8379.06,
-    "last_checked": 1782776969.5320902
+    "latency_ms": 1222.53,
+    "last_checked": 1782777564.8033328
   },
   {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
+    "protocol": "socks4",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.31,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 4306.93,
+    "last_checked": 1782777564.1412117
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.118.209",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 39.04,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 89.01,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 10133.2,
-    "last_checked": 1782776908.1015131
+    "latency_ms": 299.75,
+    "last_checked": 1782777552.3875122
   }
 ]
