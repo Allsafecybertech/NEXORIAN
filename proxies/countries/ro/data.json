@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.18.90.43",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "86.127.175.42",
+    "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Ploieşti",
-    "anonymity": "elite",
+    "city": "Baia Mare",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 20.36,
+    "uptime_percent": 47.58,
     "asn": "AS8708",
     "isp": "RCS & RDS",
-    "latency_ms": 3218.8,
-    "last_checked": 1782815385.5240016
+    "latency_ms": 162.6,
+    "last_checked": 1782816001.7867622
+  },
+  {
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.26,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 3229.92,
+    "last_checked": 1782815981.4614663
   },
   {
     "protocol": "http",
@@ -26,22 +41,22 @@
     "uptime_percent": 18.37,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 5862.29,
-    "last_checked": 1782815352.9856427
+    "latency_ms": 142.81,
+    "last_checked": 1782815949.8839886
   },
   {
     "protocol": "http",
-    "ip": "86.127.175.42",
+    "ip": "92.86.207.198",
     "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Baia Mare",
+    "city": "Bucharest",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 47.52,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 153.14,
-    "last_checked": 1782815297.5736022
+    "ssl": false,
+    "uptime_percent": 12.22,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 7289.84,
+    "last_checked": 1782815882.4210906
   }
 ]
