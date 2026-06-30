@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.01,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 3188.85,
+    "last_checked": 1782849595.86494
+  },
+  {
     "protocol": "socks5",
     "ip": "45.137.188.234",
     "port": 1080,
@@ -11,23 +26,38 @@
     "uptime_percent": 100.0,
     "asn": "AS9002",
     "isp": "RETN Limited",
-    "latency_ms": 5283.4,
-    "last_checked": 1782848965.1475618
+    "latency_ms": 2269.91,
+    "last_checked": 1782849587.2369924
   },
   {
     "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
+    "ip": "31.170.17.141",
+    "port": 4153,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Saldus",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.0,
+    "asn": "AS42099",
+    "isp": "DNET ITRisinajumi Ltd.",
+    "latency_ms": 7419.41,
+    "last_checked": 1782849581.6526365
+  },
+  {
+    "protocol": "http",
+    "ip": "13.140.17.206",
+    "port": 3128,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 59.0,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 153.14,
-    "last_checked": 1782848944.4662385
+    "uptime_percent": 38.91,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 10001.58,
+    "last_checked": 1782849572.9736605
   },
   {
     "protocol": "http",
@@ -37,11 +67,11 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 32.93,
+    "ssl": true,
+    "uptime_percent": 32.99,
     "asn": "AS56630",
     "isp": "Melbikomas UAB",
-    "latency_ms": 11546.6,
-    "last_checked": 1782848937.4956203
+    "latency_ms": 16267.93,
+    "last_checked": 1782849570.3898833
   }
 ]
