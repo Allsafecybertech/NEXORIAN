@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.97,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 7212.56,
+    "last_checked": 1782863034.5811894
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 83.89,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 7414.85,
-    "last_checked": 1782862424.8070073
+    "uptime_percent": 28.35,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 57.98,
+    "last_checked": 1782862992.6485724
   }
 ]
