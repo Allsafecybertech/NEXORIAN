@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "190.13.147.241",
-    "port": 5678,
-    "country": "Chile",
-    "country_code": "CL",
-    "city": "Osorno",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 53.71,
-    "asn": "AS14117",
-    "isp": "Telefonica del Sur S.A",
-    "latency_ms": 2163.12,
-    "last_checked": 1782836946.3126016
-  },
-  {
     "protocol": "http",
     "ip": "38.7.195.51",
     "port": 999,
@@ -26,12 +11,27 @@
     "uptime_percent": 27.47,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 3682.38,
-    "last_checked": 1782836932.3943868
+    "latency_ms": 5275.69,
+    "last_checked": 1782837505.5559478
   },
   {
     "protocol": "http",
-    "ip": "38.7.195.52",
+    "ip": "177.128.115.198",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Melipilla",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.61,
+    "asn": "AS269988",
+    "isp": "Binet Networking Data Limitada",
+    "latency_ms": 5482.37,
+    "last_checked": 1782837491.8563719
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.195.50",
     "port": 999,
     "country": "Chile",
     "country_code": "CL",
@@ -41,8 +41,8 @@
     "uptime_percent": 27.54,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 7720.05,
-    "last_checked": 1782836904.1329653
+    "latency_ms": 4374.98,
+    "last_checked": 1782837486.155942
   },
   {
     "protocol": "http",
@@ -52,11 +52,56 @@
     "country_code": "CL",
     "city": "Santiago",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.56,
+    "ssl": true,
+    "uptime_percent": 27.57,
     "asn": "AS263702",
     "isp": "Grupo ZGH SpA",
-    "latency_ms": 10997.87,
-    "last_checked": 1782836881.727894
+    "latency_ms": 6641.64,
+    "last_checked": 1782837475.852261
+  },
+  {
+    "protocol": "http",
+    "ip": "179.61.101.9",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Molina",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.19,
+    "asn": "AS266900",
+    "isp": "SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.",
+    "latency_ms": 3748.85,
+    "last_checked": 1782837452.6288314
+  },
+  {
+    "protocol": "http",
+    "ip": "204.199.139.76",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Isla de Maipo",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.67,
+    "asn": "AS273237",
+    "isp": "Ingbell Chile SPA",
+    "latency_ms": 7538.97,
+    "last_checked": 1782837452.0773487
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.223.130",
+    "port": 999,
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Santiago",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.89,
+    "asn": "AS272891",
+    "isp": "Grupo ZGH SPA",
+    "latency_ms": 3470.24,
+    "last_checked": 1782837431.3918512
   }
 ]
