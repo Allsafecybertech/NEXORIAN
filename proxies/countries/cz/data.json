@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Kryry",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.35,
-    "asn": "AS47232",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 1082.22,
-    "last_checked": 1782812349.0041509
-  },
-  {
     "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
@@ -26,8 +11,23 @@
     "uptime_percent": 83.86,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 41.49,
-    "last_checked": 1782812306.7934036
+    "latency_ms": 1043.75,
+    "last_checked": 1782812677.3386667
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.35,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 1074.77,
+    "last_checked": 1782812660.8770304
   },
   {
     "protocol": "http",
@@ -37,11 +37,11 @@
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 16.89,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 13011.72,
-    "last_checked": 1782812291.8919384
+    "latency_ms": 16882.07,
+    "last_checked": 1782812601.8886044
   }
 ]
