@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.209.219.244",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "138.249.246.158",
+    "port": 1080,
     "country": "Belarus",
     "country_code": "BY",
     "city": "Minsk",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.27,
-    "asn": "AS6697",
-    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "latency_ms": 3882.42,
-    "last_checked": 1782782626.8725502
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.06,
+    "asn": "AS35594",
+    "isp": "Reliable Software, Ltd.",
+    "latency_ms": 484.68,
+    "last_checked": 1782783247.2560728
+  },
+  {
+    "protocol": "socks5",
+    "ip": "138.249.246.158",
+    "port": 1080,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.47,
+    "asn": "AS35594",
+    "isp": "Reliable Software, Ltd.",
+    "latency_ms": 454.98,
+    "last_checked": 1782783245.7628605
+  },
+  {
+    "protocol": "socks4",
+    "ip": "80.249.81.179",
+    "port": 9050,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.33,
+    "asn": "AS12406",
+    "isp": "Business network jv",
+    "latency_ms": 1610.34,
+    "last_checked": 1782783231.7172294
   },
   {
     "protocol": "socks5",
@@ -23,25 +53,10 @@
     "city": "Minsk",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 25.62,
+    "uptime_percent": 25.65,
     "asn": "AS12406",
     "isp": "Business network jv",
-    "latency_ms": 1722.8,
-    "last_checked": 1782782599.3867886
-  },
-  {
-    "protocol": "http",
-    "ip": "93.125.3.22",
-    "port": 8080,
-    "country": "Belarus",
-    "country_code": "BY",
-    "city": "Minsk",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.85,
-    "asn": "AS42772",
-    "isp": "Unitary enterprise A1",
-    "latency_ms": 4122.26,
-    "last_checked": 1782782472.823913
+    "latency_ms": 9013.67,
+    "last_checked": 1782783217.8228803
   }
 ]
