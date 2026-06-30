@@ -1,33 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
+    "protocol": "socks4",
+    "ip": "109.160.97.49",
+    "port": 4145,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pleven",
+    "city": "Rousse",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.56,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 315.99,
-    "last_checked": 1782848346.9452512
+    "uptime_percent": 13.87,
+    "asn": "AS205352",
+    "isp": "Kabelnet LTD",
+    "latency_ms": 269.54,
+    "last_checked": 1782848959.4785514
   },
   {
     "protocol": "http",
-    "ip": "213.169.33.12",
+    "ip": "94.139.204.51",
+    "port": 8081,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Lukovit",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 5.28,
+    "asn": "AS48747",
+    "isp": "Lukovitnet Ltd.",
+    "latency_ms": 1917.33,
+    "last_checked": 1782848940.5239506
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.8",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 19.99,
+    "ssl": true,
+    "uptime_percent": 14.05,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 3891.15,
-    "last_checked": 1782848286.4885404
+    "latency_ms": 4671.68,
+    "last_checked": 1782848899.121345
   },
   {
     "protocol": "http",
@@ -41,22 +56,7 @@
     "uptime_percent": 47.99,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 7034.12,
-    "last_checked": 1782848260.625856
-  },
-  {
-    "protocol": "http",
-    "ip": "151.237.84.9",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Kardzhali",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.13,
-    "asn": "AS48233",
-    "isp": "Netroniks EOOD",
-    "latency_ms": 3670.86,
-    "last_checked": 1782848206.739935
+    "latency_ms": 9683.96,
+    "last_checked": 1782848763.8198304
   }
 ]
