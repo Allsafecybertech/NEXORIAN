@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "62.90.70.144",
-    "port": 7443,
+    "protocol": "socks5",
+    "ip": "93.184.4.254",
+    "port": 1080,
     "country": "Israel",
     "country_code": "IL",
-    "city": "Ramat Gan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 82.14,
-    "asn": "AS1680",
-    "isp": "013 Netvision Network",
-    "latency_ms": 1290.65,
-    "last_checked": 1782914076.5971146
+    "city": "Dolev",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.87,
+    "asn": "AS47253",
+    "isp": "BCI Telecommunication & Advanced Technology Company",
+    "latency_ms": 7731.64,
+    "last_checked": 1782914645.723767
   },
   {
     "protocol": "socks5",
@@ -23,10 +23,25 @@
     "city": "Giv'on HaHadasha",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.94,
+    "uptime_percent": 27.93,
     "asn": "AS47253",
     "isp": "BCI Telecommunication & Advanced Technology Company",
-    "latency_ms": 382.75,
-    "last_checked": 1782914036.8378582
+    "latency_ms": 3640.97,
+    "last_checked": 1782914608.4218037
+  },
+  {
+    "protocol": "http",
+    "ip": "62.90.70.144",
+    "port": 7443,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Ramat Gan",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 82.3,
+    "asn": "AS1680",
+    "isp": "013 Netvision Network",
+    "latency_ms": 353.71,
+    "last_checked": 1782914582.0726812
   }
 ]
