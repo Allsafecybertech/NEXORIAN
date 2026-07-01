@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "80.72.180.122",
-    "port": 1080,
-    "country": "Kyrgyzstan",
-    "country_code": "KG",
-    "city": "Bishkek",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.68,
-    "asn": "AS12997",
-    "isp": "OJSC Kyrgyztelecom",
-    "latency_ms": 8007.13,
-    "last_checked": 1782946125.9752364
-  },
-  {
     "protocol": "http",
     "ip": "80.72.176.54",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "KG",
     "city": "Bishkek",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 16.01,
+    "ssl": true,
+    "uptime_percent": 16.02,
     "asn": "AS12997",
     "isp": "OJSC Kyrgyztelecom",
-    "latency_ms": 13155.04,
-    "last_checked": 1782945989.290016
+    "latency_ms": 3124.4,
+    "last_checked": 1782946771.122908
+  },
+  {
+    "protocol": "http",
+    "ip": "178.217.168.164",
+    "port": 55443,
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "city": "Bishkek",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 13.75,
+    "asn": "AS197119",
+    "isp": "KRENA - Kyrgyz research and education network association",
+    "latency_ms": 632.34,
+    "last_checked": 1782946733.4919553
   }
 ]
