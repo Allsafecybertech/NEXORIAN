@@ -1,48 +1,63 @@
 [
   {
     "protocol": "http",
-    "ip": "198.244.254.77",
-    "port": 3128,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 11.26,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 2939.99,
-    "last_checked": 1782944981.2412505
-  },
-  {
-    "protocol": "http",
-    "ip": "104.194.148.204",
-    "port": 80,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 71.07,
-    "asn": "AS198983",
-    "isp": "FranTech Solutions",
-    "latency_ms": 1151.66,
-    "last_checked": 1782944954.9176412
-  },
-  {
-    "protocol": "http",
     "ip": "81.168.119.85",
     "port": 443,
     "country": "United Kingdom",
     "country_code": "GB",
     "city": "Maidenhead",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 82.15,
     "asn": "AS20860",
     "isp": "Iomart Cloud Services Limited",
-    "latency_ms": 8530.3,
-    "last_checked": 1782944917.6720834
+    "latency_ms": 3726.4,
+    "last_checked": 1782945548.734486
+  },
+  {
+    "protocol": "http",
+    "ip": "46.33.11.26",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "Slough",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 39.51,
+    "asn": "AS204044",
+    "isp": "Packet Star Networks Limited",
+    "latency_ms": 10141.91,
+    "last_checked": 1782945519.7115784
+  },
+  {
+    "protocol": "http",
+    "ip": "18.169.141.215",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 48.41,
+    "asn": "AS16509",
+    "isp": "Amazon Technologies Inc.",
+    "latency_ms": 20048.03,
+    "last_checked": 1782945490.4719157
+  },
+  {
+    "protocol": "http",
+    "ip": "104.194.148.188",
+    "port": 3128,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 88.85,
+    "asn": "AS198983",
+    "isp": "FranTech Solutions",
+    "latency_ms": 62.77,
+    "last_checked": 1782945569.473243
   },
   {
     "protocol": "http",
@@ -56,23 +71,8 @@
     "uptime_percent": 70.38,
     "asn": "AS198983",
     "isp": "FranTech Solutions",
-    "latency_ms": 78.08,
-    "last_checked": 1782944879.3450146
-  },
-  {
-    "protocol": "http",
-    "ip": "185.80.196.126",
-    "port": 3128,
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "city": "London",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 18.53,
-    "asn": "AS212552",
-    "isp": "BitCommand LLC",
-    "latency_ms": 15077.88,
-    "last_checked": 1782944813.9731255
+    "latency_ms": 2782.9,
+    "last_checked": 1782945561.9782252
   },
   {
     "protocol": "http",
@@ -86,7 +86,22 @@
     "uptime_percent": 79.68,
     "asn": "AS8757",
     "isp": "NSFOCUS, Inc.",
-    "latency_ms": 8022.45,
-    "last_checked": 1782944926.3024664
+    "latency_ms": 1327.71,
+    "last_checked": 1782945525.6590374
+  },
+  {
+    "protocol": "http",
+    "ip": "104.194.148.204",
+    "port": 80,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 71.08,
+    "asn": "AS198983",
+    "isp": "FranTech Solutions",
+    "latency_ms": 10150.97,
+    "last_checked": 1782945499.6531575
   }
 ]
