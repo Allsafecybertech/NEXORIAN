@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.103.248.58",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "45.142.195.110",
+    "port": 995,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.66,
-    "asn": "AS201884",
-    "isp": "ISP SUPPORT LLC",
-    "latency_ms": 863.2,
-    "last_checked": 1782902968.3427012
+    "uptime_percent": 36.15,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 12995.15,
+    "last_checked": 1782903260.9141862
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "AM",
     "city": "Gavar Municipality",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 75.0,
+    "ssl": true,
+    "uptime_percent": 69.23,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 6553.13,
-    "last_checked": 1782902873.9684048
+    "latency_ms": 409.83,
+    "last_checked": 1782903225.188105
+  },
+  {
+    "protocol": "http",
+    "ip": "91.103.248.58",
+    "port": 3128,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.65,
+    "asn": "AS201884",
+    "isp": "ISP SUPPORT LLC",
+    "latency_ms": 15517.93,
+    "last_checked": 1782903220.845097
   }
 ]
