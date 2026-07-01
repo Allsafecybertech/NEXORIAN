@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 85.61,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 3132.12,
+    "last_checked": 1782878359.328988
+  },
+  {
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 62.11,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 87.07,
+    "last_checked": 1782878353.933611
+  },
+  {
     "protocol": "socks4",
     "ip": "2.115.212.62",
     "port": 48293,
@@ -11,8 +41,8 @@
     "uptime_percent": 49.93,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A",
-    "latency_ms": 1190.73,
-    "last_checked": 1782877761.4053955
+    "latency_ms": 4194.81,
+    "last_checked": 1782878353.7586935
   },
   {
     "protocol": "socks4",
@@ -26,53 +56,23 @@
     "uptime_percent": 87.53,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 8259.73,
-    "last_checked": 1782877753.6733935
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 85.6,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 8683.79,
-    "last_checked": 1782877741.2423162
+    "latency_ms": 4531.11,
+    "last_checked": 1782878344.9509869
   },
   {
     "protocol": "http",
-    "ip": "85.235.150.219",
-    "port": 3128,
+    "ip": "185.191.106.41",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Arezzo",
+    "city": "Milan",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.53,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 14542.72,
-    "last_checked": 1782877725.376807
-  },
-  {
-    "protocol": "socks4",
-    "ip": "77.81.230.90",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 29.72,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A.",
-    "latency_ms": 13408.73,
-    "last_checked": 1782877723.8936048
+    "uptime_percent": 22.66,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 5047.62,
+    "last_checked": 1782878340.6760664
   },
   {
     "protocol": "http",
@@ -82,27 +82,12 @@
     "country_code": "IT",
     "city": "Chiaramonte Gulfi",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 35.72,
+    "ssl": false,
+    "uptime_percent": 35.84,
     "asn": "AS198380",
     "isp": "Blunova S.R.L.",
-    "latency_ms": 2187.31,
-    "last_checked": 1782877722.5148165
-  },
-  {
-    "protocol": "http",
-    "ip": "185.191.106.0",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 22.53,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 3324.71,
-    "last_checked": 1782877705.715176
+    "latency_ms": 4618.38,
+    "last_checked": 1782878335.8593512
   },
   {
     "protocol": "socks5",
@@ -116,7 +101,52 @@
     "uptime_percent": 99.93,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 229.89,
-    "last_checked": 1782877796.7914476
+    "latency_ms": 304.49,
+    "last_checked": 1782878331.7194505
+  },
+  {
+    "protocol": "socks4",
+    "ip": "77.81.230.90",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.72,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 7597.01,
+    "last_checked": 1782878330.8881733
+  },
+  {
+    "protocol": "socks5",
+    "ip": "77.81.230.90",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.47,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 16399.98,
+    "last_checked": 1782878318.2635283
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.26.134",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.36,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 11753.3,
+    "last_checked": 1782878298.6771655
   }
 ]

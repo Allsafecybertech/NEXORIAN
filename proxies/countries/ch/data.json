@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "45.85.93.15",
-    "port": 4567,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Geneva",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 25.25,
-    "asn": "AS199058",
-    "isp": "Serva ONE LTD",
-    "latency_ms": 14112.14,
-    "last_checked": 1782877753.2453125
-  },
-  {
     "protocol": "socks5",
     "ip": "5.101.85.133",
     "port": 9050,
@@ -23,26 +8,26 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.55,
+    "uptime_percent": 53.6,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 12335.51,
-    "last_checked": 1782877746.3965583
+    "latency_ms": 448.86,
+    "last_checked": 1782878356.5196133
   },
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "5.101.85.133",
+    "port": 9050,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Bern",
+    "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.51,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 3119.57,
-    "last_checked": 1782877745.3318996
+    "ssl": true,
+    "uptime_percent": 52.79,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 13335.45,
+    "last_checked": 1782878339.3257089
   },
   {
     "protocol": "http",
@@ -56,7 +41,22 @@
     "uptime_percent": 73.4,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 13040.34,
-    "last_checked": 1782877743.7449775
+    "latency_ms": 4813.01,
+    "last_checked": 1782878326.1402445
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.51,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 13145.05,
+    "last_checked": 1782878304.3624034
   }
 ]
