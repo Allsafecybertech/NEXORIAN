@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.23,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 1304.77,
+    "last_checked": 1782882287.6556783
+  },
+  {
     "protocol": "socks4",
     "ip": "149.62.230.50",
     "port": 1080,
@@ -11,22 +26,37 @@
     "uptime_percent": 43.63,
     "asn": "AS29244",
     "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 7341.73,
-    "last_checked": 1782881673.9063158
+    "latency_ms": 3214.37,
+    "last_checked": 1782882267.4118705
   },
   {
     "protocol": "http",
-    "ip": "213.169.33.8",
-    "port": 8001,
+    "ip": "82.137.90.192",
+    "port": 80,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Haskovo",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 48.04,
+    "asn": "AS8866",
+    "isp": "Bulgarian Telecommunications Company Plc.",
+    "latency_ms": 6254.68,
+    "last_checked": 1782882253.8919342
+  },
+  {
+    "protocol": "http",
+    "ip": "149.62.230.50",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 14.05,
-    "asn": "AS8717",
-    "isp": "A1 Bulgaria EAD",
-    "latency_ms": 9296.38,
-    "last_checked": 1782881645.6359227
+    "uptime_percent": 24.89,
+    "asn": "AS29244",
+    "isp": "CETIN Bulgaria EAD",
+    "latency_ms": 1640.77,
+    "last_checked": 1782882204.6400023
   }
 ]
