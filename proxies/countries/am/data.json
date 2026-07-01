@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "130.193.123.34",
-    "port": 5678,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.68,
-    "asn": "AS49800",
-    "isp": "GNC",
-    "latency_ms": 7507.88,
-    "last_checked": 1782887633.293936
-  },
-  {
     "protocol": "http",
     "ip": "87.121.47.93",
     "port": 8080,
@@ -22,11 +7,26 @@
     "country_code": "AM",
     "city": "Gavar Municipality",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 98.96,
+    "ssl": true,
+    "uptime_percent": 99.07,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 344.92,
-    "last_checked": 1782887631.435167
+    "latency_ms": 7558.19,
+    "last_checked": 1782888191.021312
+  },
+  {
+    "protocol": "http",
+    "ip": "5.77.252.205",
+    "port": 8080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.49,
+    "asn": "AS44395",
+    "isp": "Ucom Mobile Network",
+    "latency_ms": 4396.84,
+    "last_checked": 1782888144.5282288
   }
 ]
