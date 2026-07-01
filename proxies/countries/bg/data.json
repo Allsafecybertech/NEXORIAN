@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "149.62.230.50",
+    "port": 1080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.62,
+    "asn": "AS29244",
+    "isp": "CETIN Bulgaria EAD",
+    "latency_ms": 7439.28,
+    "last_checked": 1782883475.2812107
+  },
+  {
     "protocol": "socks5",
     "ip": "31.211.142.115",
     "port": 8192,
@@ -8,40 +23,25 @@
     "city": "Pleven",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.24,
+    "uptime_percent": 54.25,
     "asn": "AS197897",
     "isp": "5KOM",
-    "latency_ms": 257.87,
-    "last_checked": 1782882861.555375
+    "latency_ms": 1314.36,
+    "last_checked": 1782883450.8892741
   },
   {
     "protocol": "http",
-    "ip": "149.62.230.50",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 24.89,
-    "asn": "AS29244",
-    "isp": "CETIN Bulgaria EAD",
-    "latency_ms": 8601.28,
-    "last_checked": 1782882814.350153
-  },
-  {
-    "protocol": "http",
-    "ip": "213.169.33.10",
+    "ip": "213.169.33.7",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 13.96,
+    "ssl": true,
+    "uptime_percent": 10.65,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 10695.48,
-    "last_checked": 1782882798.8491108
+    "latency_ms": 3639.67,
+    "last_checked": 1782883384.742117
   }
 ]
