@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.57,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 398.48,
-    "last_checked": 1782899962.2942736
-  },
-  {
     "protocol": "socks5",
     "ip": "212.77.75.25",
     "port": 1088,
@@ -26,8 +11,23 @@
     "uptime_percent": 99.94,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 227.59,
-    "last_checked": 1782899953.3255472
+    "latency_ms": 294.45,
+    "last_checked": 1782900561.146543
+  },
+  {
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.57,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 1410.65,
+    "last_checked": 1782900560.4614317
   },
   {
     "protocol": "socks5",
@@ -41,37 +41,22 @@
     "uptime_percent": 85.84,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 1276.44,
-    "last_checked": 1782899950.1336799
+    "latency_ms": 5400.56,
+    "last_checked": 1782900554.8718264
   },
   {
     "protocol": "http",
-    "ip": "149.86.206.27",
-    "port": 8080,
+    "ip": "212.77.75.25",
+    "port": 3129,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Figline Valdarno",
-    "anonymity": "transparent",
+    "city": "Empoli",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 5.7,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 7350.81,
-    "last_checked": 1782899922.237278
-  },
-  {
-    "protocol": "http",
-    "ip": "78.134.20.48",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pitigliano",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.08,
-    "asn": "AS35612",
-    "isp": "NGI",
-    "latency_ms": 8045.32,
-    "last_checked": 1782899918.5331855
+    "uptime_percent": 23.83,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 14296.47,
+    "last_checked": 1782900405.454512
   }
 ]
