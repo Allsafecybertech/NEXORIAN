@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "186.33.20.48",
+    "ip": "186.33.21.133",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 53.19,
+    "ssl": false,
+    "uptime_percent": 55.22,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 427.42,
-    "last_checked": 1782889745.2638836
+    "latency_ms": 9034.02,
+    "last_checked": 1782890328.228698
   },
   {
     "protocol": "http",
@@ -22,11 +22,56 @@
     "country_code": "HN",
     "city": "La Unión",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 53.44,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 3306.14,
-    "last_checked": 1782889735.486065
+    "latency_ms": 5344.57,
+    "last_checked": 1782890318.2171953
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Ciudad Choluteca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.46,
+    "asn": "AS27884",
+    "isp": "Cablecolor S.A.",
+    "latency_ms": 1924.87,
+    "last_checked": 1782890314.3711283
+  },
+  {
+    "protocol": "http",
+    "ip": "186.33.20.48",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 53.57,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 9089.08,
+    "last_checked": 1782890299.6373293
+  },
+  {
+    "protocol": "http",
+    "ip": "45.182.22.249",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.95,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 11890.85,
+    "last_checked": 1782890286.5955658
   }
 ]

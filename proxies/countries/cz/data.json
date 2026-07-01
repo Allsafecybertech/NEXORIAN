@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "188.119.98.126",
-    "port": 9999,
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Strážnice",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.11,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 1122.12,
+    "last_checked": 1782890364.8875256
+  },
+  {
+    "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 12.01,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 6962.34,
-    "last_checked": 1782889752.553831
+    "uptime_percent": 7.91,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 4202.58,
+    "last_checked": 1782890358.9245431
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 83.91,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3780.08,
-    "last_checked": 1782889721.8669786
+    "latency_ms": 10411.51,
+    "last_checked": 1782890345.4456637
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 5.99,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 1169.75,
+    "last_checked": 1782890344.084344
   }
 ]
