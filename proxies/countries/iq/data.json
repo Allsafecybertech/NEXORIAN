@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.135.69.34",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "176.241.82.149",
+    "port": 5678,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Al Mansour",
+    "city": "Baghdad",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 96.8,
-    "asn": "AS205889",
-    "isp": "Giganet Telecom",
-    "latency_ms": 742.14,
-    "last_checked": 1782941351.7127144
+    "ssl": true,
+    "uptime_percent": 34.63,
+    "asn": "AS57588",
+    "isp": "Hayat ISP",
+    "latency_ms": 3462.8,
+    "last_checked": 1782941991.3224113
   },
   {
     "protocol": "socks4",
@@ -26,38 +26,68 @@
     "uptime_percent": 14.17,
     "asn": "AS203214",
     "isp": "Hulum",
-    "latency_ms": 7500.19,
-    "last_checked": 1782941348.8808181
+    "latency_ms": 452.32,
+    "last_checked": 1782941982.1225722
   },
   {
     "protocol": "http",
-    "ip": "185.166.24.221",
+    "ip": "185.166.24.191",
+    "port": 1981,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Erbil",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 11.07,
+    "asn": "AS207097",
+    "isp": "Online Company Ltd",
+    "latency_ms": 10325.98,
+    "last_checked": 1782941960.8805413
+  },
+  {
+    "protocol": "http",
+    "ip": "185.166.24.191",
     "port": 1976,
     "country": "Iraq",
     "country_code": "IQ",
     "city": "Erbil",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 7.21,
+    "uptime_percent": 11.71,
     "asn": "AS207097",
     "isp": "Online Company Ltd",
-    "latency_ms": 15043.73,
-    "last_checked": 1782941310.484793
+    "latency_ms": 8567.86,
+    "last_checked": 1782941959.2242522
   },
   {
-    "protocol": "socks5",
-    "ip": "31.25.139.82",
-    "port": 21,
+    "protocol": "http",
+    "ip": "185.135.69.34",
+    "port": 80,
     "country": "Iraq",
     "country_code": "IQ",
-    "city": "Erbil",
+    "city": "Al Mansour",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.69,
-    "asn": "AS197882",
-    "isp": "Tarin General Trading and Setting Up Internet Device LTD",
-    "latency_ms": 1438.71,
-    "last_checked": 1782941307.6937044
+    "ssl": false,
+    "uptime_percent": 96.8,
+    "asn": "AS205889",
+    "isp": "Giganet Telecom",
+    "latency_ms": 640.6,
+    "last_checked": 1782941956.3413887
+  },
+  {
+    "protocol": "http",
+    "ip": "37.239.47.74",
+    "port": 8080,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Baghdad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 6.1,
+    "asn": "AS203214",
+    "isp": "BROADBAND-SUBSCRIBERS",
+    "latency_ms": 1685.5,
+    "last_checked": 1782941925.2983613
   },
   {
     "protocol": "http",
@@ -71,7 +101,7 @@
     "uptime_percent": 21.56,
     "asn": "AS209193",
     "isp": "Super Cell Network for Internet Services LTD",
-    "latency_ms": 6124.39,
-    "last_checked": 1782941268.5543811
+    "latency_ms": 3714.59,
+    "last_checked": 1782941855.9121852
   }
 ]
