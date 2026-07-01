@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.38,
+    "uptime_percent": 88.4,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8343.8,
-    "last_checked": 1782900540.3183942
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.101.85.133",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 52.72,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 6304.95,
-    "last_checked": 1782900539.0765247
+    "latency_ms": 2172.18,
+    "last_checked": 1782901191.4388795
   },
   {
     "protocol": "socks5",
@@ -38,14 +23,14 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.84,
+    "uptime_percent": 87.83,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8446.85,
-    "last_checked": 1782900536.694886
+    "latency_ms": 960.57,
+    "last_checked": 1782901171.565081
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.101.85.133",
     "port": 9050,
     "country": "Switzerland",
@@ -53,11 +38,26 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 53.64,
+    "uptime_percent": 52.73,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 5434.65,
-    "last_checked": 1782900533.2488472
+    "latency_ms": 12998.1,
+    "last_checked": 1782901143.6035364
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.37,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2530.29,
+    "last_checked": 1782901114.5697105
   },
   {
     "protocol": "http",
@@ -67,11 +67,11 @@
     "country_code": "CH",
     "city": "Bern",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 69.52,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 14507.42,
-    "last_checked": 1782900495.7207735
+    "latency_ms": 1956.25,
+    "last_checked": 1782901112.5207448
   }
 ]
