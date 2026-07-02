@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "5.101.85.133",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.2,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 1398.82,
+    "last_checked": 1783034369.9323807
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -11,23 +26,8 @@
     "uptime_percent": 88.37,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3768.68,
-    "last_checked": 1783033755.2711484
-  },
-  {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.98,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 59.27,
-    "last_checked": 1783033691.4467812
+    "latency_ms": 7970.38,
+    "last_checked": 1783034368.3073027
   },
   {
     "protocol": "socks5",
@@ -41,7 +41,37 @@
     "uptime_percent": 54.44,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 10672.36,
-    "last_checked": 1783033667.2631261
+    "latency_ms": 7003.66,
+    "last_checked": 1783034360.0377045
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.98,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 55.6,
+    "last_checked": 1783034326.3458784
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 73.53,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2834.09,
+    "last_checked": 1783034311.812652
   }
 ]
