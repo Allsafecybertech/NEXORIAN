@@ -1,6 +1,36 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 62.64,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 697.6,
+    "last_checked": 1783015172.9373357
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.211.131.230",
+    "port": 9050,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 30.4,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A. Network",
+    "latency_ms": 12194.91,
+    "last_checked": 1783015159.0094795
+  },
+  {
+    "protocol": "socks5",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -8,41 +38,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.62,
+    "uptime_percent": 86.07,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 1469.79,
-    "last_checked": 1783014535.2465436
-  },
-  {
-    "protocol": "http",
-    "ip": "93.187.26.218",
-    "port": 58080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Siena",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 25.94,
-    "asn": "AS43960",
-    "isp": "Consorzio Terrecablate",
-    "latency_ms": 3264.69,
-    "last_checked": 1783014521.9718988
-  },
-  {
-    "protocol": "http",
-    "ip": "212.77.75.25",
-    "port": 3129,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 23.43,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 7450.06,
-    "last_checked": 1783014584.478159
+    "latency_ms": 695.73,
+    "last_checked": 1783015069.4544134
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,7 @@
     "uptime_percent": 99.93,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 399.2,
-    "last_checked": 1783014558.3281357
+    "latency_ms": 238.4,
+    "last_checked": 1783015117.9374247
   }
 ]
