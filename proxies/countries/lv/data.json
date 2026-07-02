@@ -1,6 +1,36 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "http",
+    "ip": "45.130.212.97",
+    "port": 8119,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 14.21,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 4338.58,
+    "last_checked": 1782991755.8536725
+  },
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 59.09,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 7302.09,
+    "last_checked": 1782991749.3491986
+  },
+  {
+    "protocol": "socks4",
     "ip": "185.236.22.192",
     "port": 9050,
     "country": "Latvia",
@@ -8,10 +38,10 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.42,
+    "uptime_percent": 35.29,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 11022.42,
-    "last_checked": 1782991091.3402767
+    "latency_ms": 20697.38,
+    "last_checked": 1782991742.7001593
   }
 ]
