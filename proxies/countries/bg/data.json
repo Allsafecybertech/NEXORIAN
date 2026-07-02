@@ -1,17 +1,47 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "94.156.128.11",
+    "port": 9050,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.44,
+    "asn": "AS44901",
+    "isp": "Belcloud LTD",
+    "latency_ms": 13855.62,
+    "last_checked": 1782974337.8277647
+  },
+  {
     "protocol": "http",
-    "ip": "5.104.183.25",
+    "ip": "5.104.183.41",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Svoge",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 16.42,
+    "ssl": false,
+    "uptime_percent": 16.4,
     "asn": "AS205331",
     "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 4812.43,
-    "last_checked": 1782973981.3901165
+    "latency_ms": 3193.85,
+    "last_checked": 1782974306.8498063
+  },
+  {
+    "protocol": "http",
+    "ip": "193.68.115.14",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Ablanitsa",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 7.6,
+    "asn": "AS48584",
+    "isp": "Sarnica-Net LTD",
+    "latency_ms": 11470.08,
+    "last_checked": 1782974252.4558585
   }
 ]
