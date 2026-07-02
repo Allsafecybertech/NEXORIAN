@@ -1,4 +1,6 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,41.203.76.166,8080,Nigeria,NG,Lagos,transparent,true,10.36,AS37148,GLO,485.65,1782996885.851445
-http,155.93.96.210,8080,Nigeria,NG,Abuja,transparent,true,12.19,AS16284,Vodacom Business Nigeria,3279.55,1782996882.897687
-http,197.253.23.4,8080,Nigeria,NG,Lagos,transparent,true,30.49,AS37282,Main one Cable Company Nigeria Limited,474.49,1782996880.6278503
+socks4,154.113.170.1,5678,Nigeria,NG,Benin City,elite,true,11.85,AS37282,Main one Cable Company Nigeria Limited,586.57,1782997193.7973645
+socks4,154.113.167.70,5678,Nigeria,NG,Lagos,elite,true,12.46,AS37282,Main one Cable Company Nigeria Limited,7767.96,1782997182.38154
+http,197.253.23.4,8080,Nigeria,NG,Lagos,transparent,false,30.5,AS37282,Main one Cable Company Nigeria Limited,5241.93,1782997174.0474653
+socks4,154.113.201.145,5678,Nigeria,NG,Alimosho,elite,true,6.6,AS37282,Main one Cable Company Nigeria Limited,7680.81,1782997167.6142004
+http,154.113.209.162,8082,Nigeria,NG,Abuja,transparent,false,21.54,AS37282,Main one Cable Company Nigeria Limited,9040.49,1782997092.93296
