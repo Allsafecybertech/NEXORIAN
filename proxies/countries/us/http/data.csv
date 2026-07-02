@@ -1,38 +1,85 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,137.66.1.45,80,United States,US,San Francisco,transparent,false,97.25,AS40509,"Fly.io, Inc.",888.12,1783009778.9834404
-http,12.50.107.217,80,United States,US,Tequesta,anonymous,false,78.58,AS7018,"AT&T Enterprises, LLC",463.71,1783009773.9072714
-http,12.50.107.220,80,United States,US,Tequesta,anonymous,false,78.58,AS7018,"AT&T Enterprises, LLC",549.68,1783009773.8017724
-http,12.50.107.219,80,United States,US,Tequesta,anonymous,false,78.74,AS7018,"AT&T Enterprises, LLC",708.3,1783009771.486696
-http,138.91.159.185,80,United States,US,San Francisco,elite,false,25.5,AS8075,Microsoft Corporation,2825.58,1783009765.705846
-http,104.152.50.252,8000,United States,US,Los Angeles,elite,true,99.49,AS18450,"WebNX, Inc.",320.89,1783009764.3120444
-http,174.138.119.88,80,United States,US,Clifton,elite,false,70.53,AS14061,"DigitalOcean, LLC",199.96,1783009757.1537306
-http,34.43.46.91,80,United States,US,Mountain View,elite,true,94.75,AS396982,Google LLC,341.37,1783009756.7874882
-http,104.225.220.233,80,United States,US,Dallas,elite,false,30.04,AS29802,"HIVELOCITY, Inc.",7626.59,1783009755.751876
-http,45.153.4.154,3128,United States,US,Columbus,transparent,true,95.61,AS211826,Istqrar for Servers Services Ltd,127.42,1783009753.4695077
-http,167.99.236.14,80,United States,US,North Bergen,elite,false,28.72,AS14061,"DigitalOcean, LLC",11659.3,1783009751.5310473
-http,150.136.163.51,80,United States,US,Ashburn,elite,false,48.32,AS31898,Oracle Corporation,538.72,1783009749.3217084
-http,20.242.117.250,3128,United States,US,Boydton,transparent,true,52.97,AS8075,Microsoft Corporation,13443.35,1783009748.5480142
-http,167.99.124.118,80,United States,US,Clifton,anonymous,false,22.46,AS14061,"DigitalOcean, LLC",13197.06,1783009746.6230521
-http,12.50.107.222,80,United States,US,Tequesta,anonymous,false,78.56,AS7018,"AT&T Enterprises, LLC",728.78,1783009745.3132205
-http,142.93.202.130,3128,United States,US,North Bergen,elite,false,67.32,AS14061,"DigitalOcean, LLC",187.64,1783009745.2875042
-http,12.50.107.221,80,United States,US,Tequesta,anonymous,false,78.61,AS7018,"AT&T Enterprises, LLC",568.95,1783009744.7054317
-http,69.75.140.157,8080,United States,US,San Fernando,transparent,true,7.25,AS20001,Spectrum,2293.45,1783009744.2070026
-http,43.110.40.117,8888,United States,US,Minkler,elite,false,51.82,AS45102,"Alibaba (US) Technology Co., Ltd.",8925.97,1783009743.3682137
-http,75.84.71.14,80,United States,US,Inglewood,elite,false,44.49,AS20001,Spectrum,9506.4,1783009741.3684325
-http,92.118.112.25,1081,United States,US,Atlanta,elite,false,60.66,AS215540,Global Connectivity Solutions LLP,1373.14,1783009740.137475
-http,49.51.228.35,81,United States,US,Santa Clara,elite,false,97.23,AS132203,OPHL,7412.22,1783009739.8244925
-http,38.145.218.142,3128,United States,US,Redondo Beach,elite,false,22.78,AS18978,Enzu Inc,8306.77,1783009737.4637756
-http,34.43.46.91,443,United States,US,Mountain View,elite,true,94.76,AS396982,Google LLC,199.7,1783009736.3297565
-http,34.44.49.215,80,United States,US,Council Bluffs,elite,false,98.2,AS396982,Google LLC,301.45,1783009735.3200517
-http,67.43.112.129,8080,United States,US,Russellville,transparent,false,20.35,AS22926,"Wisper ISP, Inc.",8260.97,1783009732.1380727
-http,205.215.247.164,3128,United States,US,Baltimore,transparent,true,73.72,AS32829,"Port Networks, Inc.",4391.46,1783009731.721142
-http,34.122.187.196,80,United States,US,Council Bluffs,elite,false,29.47,AS396982,Google LLC,370.51,1783009727.5740874
-http,92.118.112.32,1082,United States,US,Atlanta,elite,false,61.23,AS215540,Global Connectivity Solutions LLP,1348.97,1783009723.5802178
-http,38.125.100.6,3128,United States,US,North Canton,transparent,false,30.88,AS174,Cogent Communications,11851.18,1783009705.8607962
-http,204.48.29.137,3129,United States,US,North Bergen,elite,false,25.05,AS14061,"DigitalOcean, LLC",1281.29,1783009697.604517
-http,47.254.36.213,808,United States,US,Minkler,elite,false,0.69,AS45102,Alibaba Cloud LLC,2305.16,1783009690.6954105
-http,47.254.36.213,999,United States,US,Minkler,elite,false,0.81,AS45102,Alibaba Cloud LLC,3305.67,1783009688.0833318
-http,144.24.41.48,9999,United States,US,Phoenix,elite,false,9.57,AS31898,Oracle Corporation,8724.73,1783009685.0844285
-http,92.118.112.25,1082,United States,US,Atlanta,elite,false,61.07,AS215540,Global Connectivity Solutions LLP,4556.96,1783009684.5508654
-http,195.26.243.76,3128,United States,US,St Louis,transparent,false,25.61,AS40021,Contabo Inc.,18530.44,1783009681.657654
-http,208.82.61.64,3128,United States,US,Ashburn,elite,true,100.0,AS399296,Bernardi Sounds,204.66,1783009784.1031547
+http,174.138.119.88,80,United States,US,Clifton,elite,false,70.53,AS14061,"DigitalOcean, LLC",1015.23,1783010399.3850486
+http,138.197.68.35,4857,United States,US,Clifton,elite,true,8.09,AS14061,"DigitalOcean, LLC",168.79,1783010395.5947683
+http,34.43.46.91,80,United States,US,Mountain View,elite,true,94.75,AS396982,Google LLC,214.69,1783010395.1860871
+http,159.65.230.46,8888,United States,US,North Bergen,elite,false,55.93,AS14061,"DigitalOcean, LLC",202.26,1783010394.5671704
+http,12.50.107.221,80,United States,US,Tequesta,anonymous,false,78.61,AS7018,"AT&T Enterprises, LLC",466.73,1783010393.6048822
+http,12.50.107.220,80,United States,US,Tequesta,anonymous,false,78.58,AS7018,"AT&T Enterprises, LLC",733.68,1783010385.8270671
+http,47.89.184.18,3128,United States,US,Charlottesville,elite,true,81.75,AS45102,Alibaba.com LLC,241.11,1783010383.4142725
+http,142.93.195.158,80,United States,US,North Bergen,elite,true,10.68,AS14061,"DigitalOcean, LLC",6820.5,1783010382.6131938
+http,97.76.251.138,8080,United States,US,Riverview,transparent,false,7.23,AS33363,Spectrum,3170.8,1783010380.9819686
+http,66.175.236.184,1080,United States,US,Sulphur Springs,elite,false,37.56,AS8560,IONOS SE,783.21,1783010380.3627915
+http,45.153.4.154,3128,United States,US,Columbus,transparent,true,95.61,AS211826,Istqrar for Servers Services Ltd,146.81,1783010380.2754996
+http,96.227.245.221,999,United States,US,Philadelphia,transparent,true,8.44,AS701,Verizon Business,3695.99,1783010372.6253893
+http,38.127.172.34,37234,United States,US,Washington,elite,false,17.48,AS174,Cogent Communications,12615.59,1783010368.5575554
+http,192.9.144.181,3128,United States,US,San Jose,elite,true,26.8,AS31898,Oracle Corporation,11062.29,1783010366.8547935
+http,48.214.144.194,8888,United States,US,Des Moines,anonymous,false,12.26,AS8075,Microsoft Corporation,14248.0,1783010365.868071
+http,199.182.135.85,3128,United States,US,Chicago,elite,false,78.43,AS54110,Modulis,3417.81,1783010365.4976497
+http,49.51.186.8,3128,United States,US,Santa Clara,elite,false,27.11,AS132203,OPHL,18372.97,1783010364.868077
+http,43.135.130.18,808,United States,US,Santa Clara,elite,true,0.6,AS132203,Shenzhen Tencent Computer Systems Company Limited,377.69,1783010364.5070858
+http,20.120.225.109,3128,United States,US,Quincy,transparent,false,7.1,AS8075,Microsoft Corporation,12531.11,1783010360.7959466
+http,195.26.243.76,3128,United States,US,St Louis,transparent,true,25.62,AS40021,Contabo Inc.,6348.41,1783010360.1693983
+http,5.161.50.82,8118,United States,US,Ashburn,elite,true,54.23,AS213230,Hetzner Online GmbH,15757.06,1783010358.8064132
+http,216.106.179.216,49152,United States,US,Dallas,elite,false,9.72,AS63023,GTHost,454.67,1783010358.6639483
+http,34.43.46.91,443,United States,US,Mountain View,elite,true,94.75,AS396982,Google LLC,240.79,1783010358.3191454
+http,23.224.193.43,3128,United States,US,Los Angeles,transparent,true,26.24,AS40065,Cnservers LLC,14877.83,1783010358.2484915
+http,192.73.243.98,3128,United States,US,Miami,transparent,true,10.46,AS36236,"NetActuate, Inc",10826.64,1783010356.5424867
+http,150.136.163.51,80,United States,US,Ashburn,elite,false,48.32,AS31898,Oracle Corporation,5071.12,1783010356.3989067
+http,34.44.49.215,80,United States,US,Council Bluffs,elite,false,98.2,AS396982,Google LLC,379.11,1783010355.7600791
+http,137.66.1.45,80,United States,US,San Francisco,transparent,false,97.25,AS40509,"Fly.io, Inc.",454.61,1783010355.3356707
+http,23.224.193.46,3128,United States,US,Los Angeles,transparent,true,26.54,AS40065,Cnservers LLC,13467.62,1783010354.6920056
+http,170.9.224.115,3128,United States,US,Chicago,transparent,true,5.97,AS31898,Oracle Corporation,11928.15,1783010352.3242247
+http,12.50.107.217,80,United States,US,Tequesta,anonymous,false,78.58,AS7018,"AT&T Enterprises, LLC",544.82,1783010352.217396
+http,67.20.129.199,8080,United States,US,Okatie,transparent,false,24.01,AS22646,"Hargray Communications Group, Inc.",3419.57,1783010351.9342928
+http,178.156.206.253,8118,United States,US,Ashburn,elite,true,64.64,AS213230,Hetzner Online GmbH,10074.07,1783010351.9059935
+http,70.35.196.194,8088,United States,US,Sulphur Springs,elite,false,63.92,AS8560,IONOS SE,12405.08,1783010349.8783402
+http,40.90.208.80,3128,United States,US,Quincy,transparent,true,35.35,AS8075,Microsoft Corporation,8352.51,1783010349.4444277
+http,23.224.193.44,3128,United States,US,Los Angeles,transparent,true,24.59,AS40065,Cnservers LLC,15580.22,1783010346.5759304
+http,92.118.112.25,1081,United States,US,Atlanta,elite,false,60.66,AS215540,Global Connectivity Solutions LLP,2957.3,1783010345.348572
+http,12.50.107.219,80,United States,US,Tequesta,anonymous,false,78.74,AS7018,"AT&T Enterprises, LLC",876.51,1783010342.4927545
+http,47.90.167.27,60000,United States,US,Charlottesville,elite,false,0.81,AS45102,Alibaba.com LLC,2184.4,1783010340.6476402
+http,138.91.159.185,80,United States,US,San Francisco,elite,false,25.5,AS8075,Microsoft Corporation,6722.03,1783010338.6182697
+http,144.24.41.48,9999,United States,US,Phoenix,elite,false,9.57,AS31898,Oracle Corporation,7502.18,1783010338.3932426
+http,34.122.187.196,80,United States,US,Council Bluffs,elite,false,29.47,AS396982,Google LLC,10646.14,1783010335.609807
+http,70.35.196.194,8081,United States,US,Sulphur Springs,elite,true,57.96,AS8560,IONOS SE,10264.52,1783010334.5982816
+http,205.215.247.164,3128,United States,US,Baltimore,transparent,true,73.72,AS32829,"Port Networks, Inc.",1941.98,1783010332.7684176
+http,167.71.245.33,3128,United States,US,Clifton,elite,false,10.38,AS14061,"DigitalOcean, LLC",5217.12,1783010329.878564
+http,38.125.100.6,3128,United States,US,North Canton,transparent,true,30.92,AS174,Cogent Communications,12027.48,1783010328.0572474
+http,68.183.60.51,3129,United States,US,Clifton,elite,false,21.35,AS14061,"DigitalOcean, LLC",177.07,1783010327.831987
+http,70.35.196.194,8087,United States,US,Sulphur Springs,elite,true,57.93,AS8560,IONOS SE,5560.98,1783010327.4281096
+http,12.50.107.222,80,United States,US,Tequesta,anonymous,false,78.57,AS7018,"AT&T Enterprises, LLC",554.01,1783010327.1892805
+http,47.90.167.27,8080,United States,US,Charlottesville,elite,true,0.94,AS45102,Alibaba.com LLC,9266.92,1783010326.23291
+http,151.243.153.157,8118,United States,US,Seattle,elite,true,39.77,AS400506,Black Apple,672.65,1783010325.7632494
+http,47.253.185.151,3128,United States,US,Charlottesville,transparent,true,37.13,AS45102,Alibaba Cloud LLC,5137.17,1783010320.5409648
+http,70.35.196.194,8089,United States,US,Sulphur Springs,elite,true,63.65,AS8560,IONOS SE,10028.4,1783010312.848755
+http,70.35.196.194,8084,United States,US,Sulphur Springs,elite,false,60.77,AS8560,IONOS SE,14601.68,1783010310.3741634
+http,49.51.244.112,8888,United States,US,Santa Clara,anonymous,true,9.87,AS132203,OPHL,18121.25,1783010300.9297805
+http,108.170.12.11,80,United States,US,Phoenix,elite,false,8.14,AS20454,Secured Servers LLC,349.88,1783010300.2813208
+http,49.51.228.35,81,United States,US,Santa Clara,elite,true,97.11,AS132203,OPHL,306.95,1783010297.2843819
+http,159.65.221.25,80,United States,US,North Bergen,anonymous,false,27.88,AS14061,"DigitalOcean, LLC",242.56,1783010296.9167717
+http,149.28.87.103,8888,United States,US,Los Angeles,elite,false,42.99,AS20473,The Constant Company,11694.9,1783010293.7588809
+http,154.17.8.103,1680,United States,US,Los Angeles,elite,false,16.22,AS906,DMIT Cloud Services,6165.31,1783010291.4956217
+http,34.73.100.77,3129,United States,US,North Charleston,elite,true,35.38,AS396982,Google LLC,940.27,1783010288.5478857
+http,102.129.170.99,37234,United States,US,Detroit,elite,false,12.83,AS7029,networld communications SRL,5226.89,1783010284.6284003
+http,92.118.112.25,1082,United States,US,Atlanta,elite,false,61.06,AS215540,Global Connectivity Solutions LLP,17545.38,1783010284.4125211
+http,38.127.179.174,37234,United States,US,Washington,elite,false,15.99,AS174,Cogent Communications,2030.53,1783010278.3878722
+http,15.204.151.145,3128,United States,US,Reston,transparent,false,9.64,AS16276,OVH SAS,990.46,1783010276.7648
+http,38.127.179.83,37234,United States,US,Washington,elite,false,18.19,AS174,Cogent Communications,7929.01,1783010265.6649802
+http,3.15.131.190,3128,United States,US,Dublin,transparent,true,48.12,AS16509,"Amazon.com, Inc.",300.8,1783010264.5663502
+http,45.77.185.216,443,United States,US,Santa Clara,elite,false,15.27,AS20473,Choopa,6481.63,1783010256.4528897
+http,20.242.117.250,3128,United States,US,Boydton,transparent,true,52.73,AS8075,Microsoft Corporation,220.66,1783010255.5651133
+http,92.118.112.32,1082,United States,US,Atlanta,elite,true,61.22,AS215540,Global Connectivity Solutions LLP,3445.1,1783010246.4078724
+http,23.224.193.45,3128,United States,US,Los Angeles,transparent,false,26.8,AS40065,Cnservers LLC,13981.16,1783010238.7124074
+http,75.84.71.14,80,United States,US,Inglewood,elite,false,44.49,AS20001,Spectrum,3921.93,1783010229.5663881
+http,172.93.101.178,3128,United States,US,Piscataway,transparent,false,32.47,AS23470,ReliableSite.Net LLC,15060.38,1783010199.8360794
+http,104.250.138.236,3128,United States,US,Pleasant View,elite,true,46.73,AS53850,"GorillaServers, Inc.",8978.0,1783010377.8719501
+http,98.154.21.253,4228,United States,US,Whittier,transparent,true,9.32,AS20001,Charter Communications Inc,6333.63,1783010374.9751565
+http,167.99.236.14,80,United States,US,North Bergen,elite,false,28.72,AS14061,"DigitalOcean, LLC",11217.88,1783010367.3879545
+http,104.250.138.235,3128,United States,US,Pleasant View,elite,true,44.04,AS53850,"GorillaServers, Inc.",11892.59,1783010362.525125
+http,207.246.234.115,4669,United States,US,Clovis,elite,false,9.45,AS21782,Plateau Telecommunications Incorporated,9298.2,1783010356.742769
+http,208.67.28.27,58090,United States,US,Eagle River,transparent,false,3.82,AS22436,SonicNet Inc.,14206.18,1783010349.8520763
+http,104.250.138.237,3128,United States,US,Pleasant View,elite,true,46.18,AS53850,"GorillaServers, Inc.",14672.36,1783010344.2559702
+http,208.82.61.64,3128,United States,US,Ashburn,elite,true,100.0,AS399296,Bernardi Sounds,203.85,1783010335.9544973
+http,207.177.122.144,8080,United States,US,Burlington,transparent,false,13.52,AS5056,Aureon Network Services,10869.34,1783010322.3119655
+http,107.155.87.251,3128,United States,US,Los Angeles,transparent,false,41.92,AS29802,HIVELOCITY,5387.45,1783010312.4590235
+http,104.152.50.252,8000,United States,US,Los Angeles,elite,true,99.46,AS18450,"WebNX, Inc.",325.25,1783010298.6880543
