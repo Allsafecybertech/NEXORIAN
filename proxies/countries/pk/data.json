@@ -1,33 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "110.93.206.62",
-    "port": 5678,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Karachi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 16.26,
-    "asn": "AS38193",
-    "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-    "latency_ms": 1766.23,
-    "last_checked": 1782979196.4820952
-  },
-  {
-    "protocol": "socks4",
-    "ip": "103.146.137.13",
+    "ip": "103.146.137.161",
     "port": 1081,
     "country": "Pakistan",
     "country_code": "PK",
     "city": "Karachi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 5.34,
+    "uptime_percent": 3.91,
     "asn": "AS139879",
     "isp": "Galaxy Broadband (pvt.) Ltd.",
-    "latency_ms": 659.49,
-    "last_checked": 1782979193.511279
+    "latency_ms": 4082.61,
+    "last_checked": 1782979797.2675145
   },
   {
     "protocol": "socks5",
@@ -41,23 +26,8 @@
     "uptime_percent": 51.96,
     "asn": "AS17557",
     "isp": "Pakistan Telecommuication company limited",
-    "latency_ms": 3886.07,
-    "last_checked": 1782979176.076729
-  },
-  {
-    "protocol": "socks5",
-    "ip": "103.121.120.242",
-    "port": 1080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Karachi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 73.26,
-    "asn": "AS131275",
-    "isp": "Logon Broadband Pvt. Limited",
-    "latency_ms": 1967.42,
-    "last_checked": 1782979169.69058
+    "latency_ms": 8023.04,
+    "last_checked": 1782979776.8621614
   },
   {
     "protocol": "socks5",
@@ -71,23 +41,23 @@
     "uptime_percent": 74.04,
     "asn": "AS38193",
     "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-    "latency_ms": 8050.3,
-    "last_checked": 1782979162.0731874
+    "latency_ms": 8046.81,
+    "last_checked": 1782979739.8372607
   },
   {
-    "protocol": "socks5",
-    "ip": "103.150.206.77",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "119.73.125.55",
+    "port": 8080,
     "country": "Pakistan",
     "country_code": "PK",
-    "city": "Faisalabad",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 56.78,
-    "asn": "AS140594",
-    "isp": "Nadeem Abbas and Shayufta Rani",
-    "latency_ms": 3928.26,
-    "last_checked": 1782979134.4020734
+    "city": "Islamabad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.5,
+    "asn": "AS138655",
+    "isp": "LDNPK",
+    "latency_ms": 4679.24,
+    "last_checked": 1782979728.8451371
   },
   {
     "protocol": "http",
@@ -101,52 +71,22 @@
     "uptime_percent": 29.97,
     "asn": "AS138590",
     "isp": "Prime Networks",
-    "latency_ms": 4235.2,
-    "last_checked": 1782979107.0801518
+    "latency_ms": 15431.5,
+    "last_checked": 1782979688.487911
   },
   {
-    "protocol": "http",
-    "ip": "103.255.66.109",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "103.121.120.242",
+    "port": 1080,
     "country": "Pakistan",
     "country_code": "PK",
-    "city": "Islamabad",
-    "anonymity": "transparent",
+    "city": "Karachi",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 11.89,
-    "asn": "AS150683",
-    "isp": "Transworld Enterprise Services",
-    "latency_ms": 4998.0,
-    "last_checked": 1782979096.6758957
-  },
-  {
-    "protocol": "http",
-    "ip": "202.165.232.238",
-    "port": 8080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Lahore",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 24.88,
-    "asn": "AS136384",
-    "isp": "Optix Pakistan (Pvt.) Limited",
-    "latency_ms": 5768.53,
-    "last_checked": 1782979091.3438535
-  },
-  {
-    "protocol": "http",
-    "ip": "43.251.253.40",
-    "port": 8080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Lahore",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.97,
-    "asn": "AS136384",
-    "isp": "Optix Pakistan (Pvt.) Limited",
-    "latency_ms": 7130.97,
-    "last_checked": 1782979033.3722727
+    "uptime_percent": 73.27,
+    "asn": "AS131275",
+    "isp": "Logon Broadband Pvt. Limited",
+    "latency_ms": 882.15,
+    "last_checked": 1782979681.2127795
   }
 ]
