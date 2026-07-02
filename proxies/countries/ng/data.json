@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "102.69.146.59",
-    "port": 7080,
+    "protocol": "socks4",
+    "ip": "154.113.170.1",
+    "port": 5678,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Benin City",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.89,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 1617.7,
+    "last_checked": 1782959945.3658774
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.113.17.106",
+    "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.29,
-    "asn": "AS328451",
-    "isp": "IP Express Ltd",
-    "latency_ms": 3723.22,
-    "last_checked": 1782959661.1753218
+    "uptime_percent": 4.26,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 3601.45,
+    "last_checked": 1782959942.794474
+  },
+  {
+    "protocol": "http",
+    "ip": "129.222.204.27",
+    "port": 10000,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.77,
+    "asn": "AS14593",
+    "isp": "Space Exploration Technologies Corporation",
+    "latency_ms": 2115.79,
+    "last_checked": 1782959940.8398669
   },
   {
     "protocol": "http",
@@ -23,11 +53,11 @@
     "city": "Abuja",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 54.68,
+    "uptime_percent": 54.69,
     "asn": "AS29091",
     "isp": "ipNX Nigeria Limited",
-    "latency_ms": 631.56,
-    "last_checked": 1782959659.866563
+    "latency_ms": 697.06,
+    "last_checked": 1782959937.2374015
   },
   {
     "protocol": "http",
@@ -41,7 +71,37 @@
     "uptime_percent": 30.76,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 6065.15,
-    "last_checked": 1782959596.8543668
+    "latency_ms": 5598.22,
+    "last_checked": 1782959928.7479014
+  },
+  {
+    "protocol": "http",
+    "ip": "41.203.76.166",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 10.33,
+    "asn": "AS37148",
+    "isp": "GLO",
+    "latency_ms": 3601.29,
+    "last_checked": 1782959887.879239
+  },
+  {
+    "protocol": "http",
+    "ip": "154.113.147.14",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 35.94,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 1741.15,
+    "last_checked": 1782959837.4172196
   }
 ]
