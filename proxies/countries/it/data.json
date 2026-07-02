@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.61,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 2922.96,
-    "last_checked": 1783024473.9436812
-  },
-  {
-    "protocol": "socks5",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 86.06,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 4004.95,
-    "last_checked": 1783024450.2987726
-  },
-  {
     "protocol": "http",
     "ip": "87.121.148.126",
     "port": 49200,
@@ -41,8 +11,38 @@
     "uptime_percent": 62.7,
     "asn": "AS210218",
     "isp": "Open Fiber S.P.A.",
-    "latency_ms": 146.12,
-    "last_checked": 1783024447.4592052
+    "latency_ms": 76.04,
+    "last_checked": 1783025055.778215
+  },
+  {
+    "protocol": "http",
+    "ip": "85.235.150.219",
+    "port": 3128,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Arezzo",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.56,
+    "asn": "AS31034",
+    "isp": "Aruba S.p.A.",
+    "latency_ms": 17079.57,
+    "last_checked": 1783025045.9039505
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.25.12",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.69,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 3211.84,
+    "last_checked": 1783025008.704028
   },
   {
     "protocol": "http",
@@ -52,12 +52,12 @@
     "country_code": "IT",
     "city": "Figline Valdarno",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 5.72,
     "asn": "AS60501",
     "isp": "Sirius Technology SRL",
-    "latency_ms": 3127.29,
-    "last_checked": 1783024374.4007823
+    "latency_ms": 1757.32,
+    "last_checked": 1783025001.87354
   },
   {
     "protocol": "socks5",
@@ -71,7 +71,22 @@
     "uptime_percent": 99.93,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 316.02,
-    "last_checked": 1783024425.7979918
+    "latency_ms": 3266.86,
+    "last_checked": 1783025080.0137057
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.5,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 5287.08,
+    "last_checked": 1783025048.629363
   }
 ]
