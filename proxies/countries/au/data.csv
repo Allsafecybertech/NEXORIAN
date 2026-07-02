@@ -1,5 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,172.105.177.180,3128,Australia,AU,Sydney,transparent,true,88.81,AS63949,Akamai Technologies,598.31,1782970173.4905467
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,32.48,AS4764,Wideband Networks Pty Ltd,1393.29,1782970163.4282222
-http,61.29.96.146,8000,Australia,AU,Albury,anonymous,true,9.43,AS2764,AAPT Limited,9896.44,1782970137.0318263
-http,170.64.170.204,8080,Australia,AU,Sydney,elite,false,94.33,AS14061,"DigitalOcean, LLC",613.86,1782970103.9057906
+socks5,170.64.170.204,1080,Australia,AU,Sydney,elite,true,92.04,AS14061,"DigitalOcean, LLC",4885.81,1782970711.734981
+http,61.29.96.146,80,Australia,AU,Albury,anonymous,false,8.4,AS2764,AAPT Limited,6612.5,1782970676.4658809
+http,61.29.96.146,8000,Australia,AU,Albury,anonymous,false,9.43,AS2764,AAPT Limited,17458.51,1782970672.3558846
+http,103.131.232.9,8080,Australia,AU,Goulburn,transparent,false,22.88,AS45447,YLess4U Pty Ltd,8524.6,1782970657.6200445
+http,172.105.177.180,3128,Australia,AU,Sydney,transparent,true,88.88,AS63949,Akamai Technologies,600.14,1782970655.5062737
+http,103.18.205.162,8080,Australia,AU,Melbourne,transparent,false,30.0,AS134371,Circle Network,4626.21,1782970619.6051102

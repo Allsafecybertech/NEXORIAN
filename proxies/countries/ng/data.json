@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "154.113.17.107",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "143.105.102.145",
+    "port": 8080,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 4.69,
-    "asn": "AS37282",
-    "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 3608.22,
-    "last_checked": 1782970173.933405
+    "ssl": false,
+    "uptime_percent": 25.88,
+    "asn": "AS14593",
+    "isp": "Space Exploration Technologies Corporation",
+    "latency_ms": 5089.83,
+    "last_checked": 1782970739.791829
   },
   {
     "protocol": "http",
@@ -23,11 +23,11 @@
     "city": "Abuja",
     "anonymity": "anonymous",
     "ssl": false,
-    "uptime_percent": 54.77,
+    "uptime_percent": 54.76,
     "asn": "AS29091",
     "isp": "ipNX Nigeria Limited",
-    "latency_ms": 627.72,
-    "last_checked": 1782970136.5491736
+    "latency_ms": 3767.42,
+    "last_checked": 1782970734.3514717
   },
   {
     "protocol": "http",
@@ -38,10 +38,40 @@
     "city": "Abuja",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 12.15,
+    "uptime_percent": 12.16,
     "asn": "AS16284",
     "isp": "Vodacom Business Nigeria",
-    "latency_ms": 11815.6,
-    "last_checked": 1782970064.018371
+    "latency_ms": 14778.77,
+    "last_checked": 1782970731.9333746
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.69.146.59",
+    "port": 7080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.43,
+    "asn": "AS328451",
+    "isp": "IP Express Ltd",
+    "latency_ms": 5070.55,
+    "last_checked": 1782970692.2025008
+  },
+  {
+    "protocol": "http",
+    "ip": "102.36.133.62",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Ebute-Metta",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 22.08,
+    "asn": "AS328556",
+    "isp": "Syscodes Communications",
+    "latency_ms": 6420.71,
+    "last_checked": 1782970627.5572221
   }
 ]
