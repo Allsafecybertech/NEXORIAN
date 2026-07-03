@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.204.190.140",
-    "port": 81,
+    "protocol": "socks4",
+    "ip": "45.142.195.110",
+    "port": 995,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 9.43,
-    "asn": "AS42991",
-    "isp": "BioNet LLC",
-    "latency_ms": 1411.97,
-    "last_checked": 1783052672.8636773
+    "uptime_percent": 42.03,
+    "asn": "AS215929",
+    "isp": "Data Campus Limited",
+    "latency_ms": 550.71,
+    "last_checked": 1783052973.7996957
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 39.86,
     "asn": "AS201884",
     "isp": "ISP SUPPORT LLC",
-    "latency_ms": 13022.74,
-    "last_checked": 1783052592.7642696
+    "latency_ms": 14192.26,
+    "last_checked": 1783052884.5239482
+  },
+  {
+    "protocol": "http",
+    "ip": "5.77.252.202",
+    "port": 8080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.1,
+    "asn": "AS44395",
+    "isp": "Ucom Mobile Network",
+    "latency_ms": 3357.0,
+    "last_checked": 1783052823.4923806
   }
 ]
