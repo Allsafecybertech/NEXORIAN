@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "74.162.65.56",
-    "port": 1080,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 96.71,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 485.44,
-    "last_checked": 1783090796.6905024
-  },
-  {
     "protocol": "socks5",
     "ip": "74.162.65.56",
     "port": 1080,
@@ -26,23 +11,23 @@
     "uptime_percent": 97.36,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 586.59,
-    "last_checked": 1783090766.1392677
+    "latency_ms": 879.83,
+    "last_checked": 1783091392.665947
   },
   {
-    "protocol": "http",
-    "ip": "129.151.130.247",
-    "port": 1111,
+    "protocol": "socks4",
+    "ip": "74.162.65.56",
+    "port": 1080,
     "country": "United Arab Emirates",
     "country_code": "AE",
-    "city": "Masdar City",
+    "city": "Dubai",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 4.95,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 370.91,
-    "last_checked": 1783090757.0942843
+    "uptime_percent": 96.72,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 876.99,
+    "last_checked": 1783091386.9490001
   },
   {
     "protocol": "http",
@@ -53,11 +38,26 @@
     "city": "Dubai",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 69.67,
+    "uptime_percent": 69.69,
     "asn": "AS15802",
     "isp": "Emirates Integrated Telecommunications Company PJSC",
-    "latency_ms": 13382.14,
-    "last_checked": 1783090725.8151934
+    "latency_ms": 13446.78,
+    "last_checked": 1783091361.6664314
+  },
+  {
+    "protocol": "socks4",
+    "ip": "47.91.121.127",
+    "port": 8083,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.07,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 10308.58,
+    "last_checked": 1783091349.553122
   },
   {
     "protocol": "http",
@@ -71,7 +71,22 @@
     "uptime_percent": 79.66,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 13120.44,
-    "last_checked": 1783090711.8407085
+    "latency_ms": 697.91,
+    "last_checked": 1783091320.3455293
+  },
+  {
+    "protocol": "http",
+    "ip": "129.151.130.247",
+    "port": 1111,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Masdar City",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.95,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 1406.8,
+    "last_checked": 1783091310.9480166
   }
 ]
