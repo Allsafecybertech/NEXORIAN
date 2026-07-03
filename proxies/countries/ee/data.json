@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "5.181.23.213",
     "port": 8443,
     "country": "Estonia",
@@ -8,11 +8,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.24,
+    "uptime_percent": 45.61,
     "asn": "",
     "isp": "WorkTitans B.V",
-    "latency_ms": 1192.12,
-    "last_checked": 1783045781.4091961
+    "latency_ms": 8418.92,
+    "last_checked": 1783046333.5004396
   },
   {
     "protocol": "socks5",
@@ -26,8 +26,38 @@
     "uptime_percent": 90.0,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 250.15,
-    "last_checked": 1783045736.9651866
+    "latency_ms": 371.1,
+    "last_checked": 1783046333.3833644
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.26,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 3194.17,
+    "last_checked": 1783046319.0640652
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 65.93,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 311.04,
+    "last_checked": 1783046316.5698469
   },
   {
     "protocol": "http",
@@ -37,11 +67,11 @@
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 39.49,
+    "ssl": false,
+    "uptime_percent": 39.5,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 8590.81,
-    "last_checked": 1783045710.2551215
+    "latency_ms": 13931.6,
+    "last_checked": 1783046301.9082868
   }
 ]
