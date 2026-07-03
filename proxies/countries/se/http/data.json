@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "138.124.26.19",
-    "port": 1080,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 80.26,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 2025.64,
-    "last_checked": 1783075137.2906716
-  },
-  {
-    "protocol": "http",
     "ip": "147.45.76.207",
     "port": 3128,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 75.97,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 5307.23,
-    "last_checked": 1783075126.355748
+    "latency_ms": 2757.23,
+    "last_checked": 1783075720.9679618
+  },
+  {
+    "protocol": "http",
+    "ip": "2.26.124.123",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 37.65,
+    "asn": "AS198550",
+    "isp": "Node Host Limited",
+    "latency_ms": 14908.1,
+    "last_checked": 1783075718.800538
   },
   {
     "protocol": "http",
@@ -38,10 +38,40 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 72.55,
+    "uptime_percent": 72.57,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 1627.2,
-    "last_checked": 1783075030.8223133
+    "latency_ms": 291.15,
+    "last_checked": 1783075714.381153
+  },
+  {
+    "protocol": "http",
+    "ip": "138.124.26.19",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 80.27,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 918.84,
+    "last_checked": 1783075713.9938006
+  },
+  {
+    "protocol": "http",
+    "ip": "147.45.74.135",
+    "port": 1234,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.13,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 156.04,
+    "last_checked": 1783075698.3638973
   }
 ]
