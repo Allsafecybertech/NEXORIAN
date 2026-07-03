@@ -1,6 +1,36 @@
 [
   {
     "protocol": "socks4",
+    "ip": "46.171.28.162",
+    "port": 59311,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Krzywa Góra",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.7,
+    "asn": "AS5617",
+    "isp": "Orange Polska Spolka Akcyjna",
+    "latency_ms": 121.99,
+    "last_checked": 1783090161.9197469
+  },
+  {
+    "protocol": "socks4",
+    "ip": "194.59.186.35",
+    "port": 1080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.62,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 2161.03,
+    "last_checked": 1783090155.9048717
+  },
+  {
+    "protocol": "socks4",
     "ip": "88.218.206.170",
     "port": 5432,
     "country": "Poland",
@@ -11,8 +41,23 @@
     "uptime_percent": 68.47,
     "asn": "AS215467",
     "isp": "Skhron OU",
-    "latency_ms": 533.27,
-    "last_checked": 1783089551.6018708
+    "latency_ms": 4327.69,
+    "last_checked": 1783090145.6424296
+  },
+  {
+    "protocol": "socks4",
+    "ip": "94.40.127.166",
+    "port": 4145,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Torun",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.43,
+    "asn": "AS20960",
+    "isp": "TK Telekom sp. z o.o.",
+    "latency_ms": 7254.87,
+    "last_checked": 1783090139.8545978
   },
   {
     "protocol": "http",
@@ -22,12 +67,27 @@
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 66.91,
+    "ssl": true,
+    "uptime_percent": 66.94,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 82.85,
-    "last_checked": 1783089549.352415
+    "latency_ms": 195.4,
+    "last_checked": 1783090132.0695822
+  },
+  {
+    "protocol": "socks5",
+    "ip": "95.214.54.200",
+    "port": 1080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.5,
+    "asn": "AS201814",
+    "isp": "MEVSPACE sp. z o.o.",
+    "latency_ms": 9261.27,
+    "last_checked": 1783090123.3027112
   },
   {
     "protocol": "http",
@@ -41,53 +101,8 @@
     "uptime_percent": 98.8,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 48.06,
-    "last_checked": 1783089536.2511847
-  },
-  {
-    "protocol": "socks5",
-    "ip": "194.177.28.66",
-    "port": 10808,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Ustroń",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.26,
-    "asn": "AS48790",
-    "isp": "(USTRONET ) INVICOM Sp. z o.o",
-    "latency_ms": 390.53,
-    "last_checked": 1783089530.2746584
-  },
-  {
-    "protocol": "http",
-    "ip": "54.38.138.60",
-    "port": 3128,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "anonymous",
-    "ssl": true,
-    "uptime_percent": 66.76,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 5981.24,
-    "last_checked": 1783089518.3983023
-  },
-  {
-    "protocol": "socks5",
-    "ip": "95.214.54.200",
-    "port": 1080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.49,
-    "asn": "AS201814",
-    "isp": "MEVSPACE sp. z o.o.",
-    "latency_ms": 7559.96,
-    "last_checked": 1783089476.058476
+    "latency_ms": 45.38,
+    "last_checked": 1783090116.6178932
   },
   {
     "protocol": "socks5",
@@ -98,10 +113,25 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.44,
+    "uptime_percent": 89.41,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 9546.83,
-    "last_checked": 1783089403.479807
+    "latency_ms": 3198.62,
+    "last_checked": 1783090113.7076442
+  },
+  {
+    "protocol": "http",
+    "ip": "217.113.235.181",
+    "port": 443,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lodz",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 6.52,
+    "asn": "AS16342",
+    "isp": "Toya sp. z o.o.",
+    "latency_ms": 3774.2,
+    "last_checked": 1783090077.7580373
   }
 ]
