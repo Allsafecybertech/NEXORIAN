@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "219.93.101.62",
-    "port": 80,
-    "country": "Malaysia",
-    "country_code": "MY",
-    "city": "Kota Kinabalu",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 90.27,
-    "asn": "AS4788",
-    "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 1631.44,
-    "last_checked": 1783040100.4472244
-  },
-  {
-    "protocol": "http",
     "ip": "219.93.101.63",
     "port": 80,
     "country": "Malaysia",
@@ -26,8 +11,8 @@
     "uptime_percent": 81.46,
     "asn": "AS4788",
     "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 681.62,
-    "last_checked": 1783040061.252959
+    "latency_ms": 1218.28,
+    "last_checked": 1783040378.3304162
   },
   {
     "protocol": "http",
@@ -37,12 +22,27 @@
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.65,
+    "ssl": false,
+    "uptime_percent": 31.66,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 14251.35,
-    "last_checked": 1783040023.9353764
+    "latency_ms": 10699.65,
+    "last_checked": 1783040361.2141445
+  },
+  {
+    "protocol": "socks5",
+    "ip": "47.250.11.111",
+    "port": 111,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 1.75,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 6366.7,
+    "last_checked": 1783040354.3391845
   },
   {
     "protocol": "http",
@@ -56,37 +56,82 @@
     "uptime_percent": 82.29,
     "asn": "AS4788",
     "isp": "ADSL Streamyx Telekom Malaysia",
-    "latency_ms": 608.95,
-    "last_checked": 1783039993.7225575
+    "latency_ms": 605.46,
+    "last_checked": 1783040345.9595869
+  },
+  {
+    "protocol": "http",
+    "ip": "219.93.101.62",
+    "port": 80,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kota Kinabalu",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 90.27,
+    "asn": "AS4788",
+    "isp": "ADSL Streamyx Telekom Malaysia",
+    "latency_ms": 1669.2,
+    "last_checked": 1783040342.8784673
+  },
+  {
+    "protocol": "http",
+    "ip": "58.84.16.214",
+    "port": 1231,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Putrajaya",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.67,
+    "asn": "AS38182",
+    "isp": "Extreme Broadband",
+    "latency_ms": 10193.0,
+    "last_checked": 1783040331.6478577
   },
   {
     "protocol": "socks5",
-    "ip": "47.250.177.202",
-    "port": 20000,
+    "ip": "47.250.11.111",
+    "port": 8181,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 1.51,
+    "uptime_percent": 1.62,
     "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 13945.15,
-    "last_checked": 1783039945.361805
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 6374.58,
+    "last_checked": 1783040324.065356
   },
   {
-    "protocol": "socks5",
-    "ip": "47.250.155.254",
-    "port": 1000,
+    "protocol": "http",
+    "ip": "47.250.51.110",
+    "port": 80,
     "country": "Malaysia",
     "country_code": "MY",
     "city": "Kuala Lumpur",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 1.75,
+    "ssl": false,
+    "uptime_percent": 0.93,
     "asn": "AS45102",
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "latency_ms": 13659.09,
-    "last_checked": 1783039934.9041717
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 5408.79,
+    "last_checked": 1783040299.3792336
+  },
+  {
+    "protocol": "http",
+    "ip": "47.250.51.110",
+    "port": 138,
+    "country": "Malaysia",
+    "country_code": "MY",
+    "city": "Kuala Lumpur",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 1.36,
+    "asn": "AS45102",
+    "isp": "Alibaba Cloud LLC",
+    "latency_ms": 5408.91,
+    "last_checked": 1783040298.822076
   }
 ]
