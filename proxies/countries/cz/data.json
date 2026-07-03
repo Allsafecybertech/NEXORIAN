@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "185.73.103.23",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Karlovy Vary",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.92,
+    "asn": "AS201476",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 1714.83,
+    "last_checked": 1783054754.9624875
+  },
+  {
+    "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.05,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 80.38,
+    "last_checked": 1783054734.91048
+  },
+  {
+    "protocol": "http",
     "ip": "147.231.163.133",
     "port": 80,
     "country": "Czechia",
@@ -11,7 +41,22 @@
     "uptime_percent": 84.08,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 40.21,
-    "last_checked": 1783054147.4620626
+    "latency_ms": 42.89,
+    "last_checked": 1783054676.0966172
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Šebetov",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.25,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 8649.83,
+    "last_checked": 1783054566.5836143
   }
 ]
