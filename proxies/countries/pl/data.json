@@ -1,5 +1,50 @@
 [
   {
+    "protocol": "http",
+    "ip": "54.38.138.60",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 67.04,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 84.24,
+    "last_checked": 1783110898.36616
+  },
+  {
+    "protocol": "http",
+    "ip": "54.38.139.182",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 67.02,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 96.83,
+    "last_checked": 1783110895.9383943
+  },
+  {
+    "protocol": "socks4",
+    "ip": "194.59.186.35",
+    "port": 1080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.04,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 7721.87,
+    "last_checked": 1783110894.4462082
+  },
+  {
     "protocol": "socks4",
     "ip": "45.144.49.156",
     "port": 1080,
@@ -11,26 +56,11 @@
     "uptime_percent": 59.69,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 196.5,
-    "last_checked": 1783110302.61417
+    "latency_ms": 158.25,
+    "last_checked": 1783110891.697759
   },
   {
-    "protocol": "socks4",
-    "ip": "88.218.206.170",
-    "port": 5432,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Łęczyca",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 68.47,
-    "asn": "AS215467",
-    "isp": "Skhron OU",
-    "latency_ms": 2102.63,
-    "last_checked": 1783110298.0980651
-  },
-  {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "194.59.186.35",
     "port": 1080,
     "country": "Poland",
@@ -38,26 +68,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.05,
+    "uptime_percent": 88.96,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 186.14,
-    "last_checked": 1783110293.9844816
-  },
-  {
-    "protocol": "http",
-    "ip": "54.38.138.60",
-    "port": 3128,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 67.03,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 111.19,
-    "last_checked": 1783110265.940104
+    "latency_ms": 3180.07,
+    "last_checked": 1783110885.7998013
   },
   {
     "protocol": "socks5",
@@ -68,41 +83,11 @@
     "city": "Warsaw",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.89,
+    "uptime_percent": 56.9,
     "asn": "AS49791",
     "isp": "3hcloud",
-    "latency_ms": 279.48,
-    "last_checked": 1783110262.8517172
-  },
-  {
-    "protocol": "socks4",
-    "ip": "94.40.127.166",
-    "port": 4145,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Torun",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 4.43,
-    "asn": "AS20960",
-    "isp": "TK Telekom sp. z o.o.",
-    "latency_ms": 7344.65,
-    "last_checked": 1783110254.1960938
-  },
-  {
-    "protocol": "http",
-    "ip": "178.212.144.7",
-    "port": 80,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Sokółka",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 98.8,
-    "asn": "AS51436",
-    "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 46.87,
-    "last_checked": 1783110226.5555902
+    "latency_ms": 210.52,
+    "last_checked": 1783110871.3385773
   },
   {
     "protocol": "http",
@@ -116,7 +101,22 @@
     "uptime_percent": 9.14,
     "asn": "AS60645",
     "isp": "AS Consulting Sp. z o. o.",
-    "latency_ms": 4621.88,
-    "last_checked": 1783110208.332829
+    "latency_ms": 3504.07,
+    "last_checked": 1783110822.3798518
+  },
+  {
+    "protocol": "http",
+    "ip": "178.212.144.7",
+    "port": 80,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Sokółka",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 98.8,
+    "asn": "AS51436",
+    "isp": "IDEALAN Spolka Jawna - Piekarski",
+    "latency_ms": 45.35,
+    "last_checked": 1783110822.298208
   }
 ]
