@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "45.13.38.213",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Timișoara",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 99.77,
-    "asn": "AS47890",
-    "isp": "Unmanaged LTD",
-    "latency_ms": 256.98,
-    "last_checked": 1783120142.1627336
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.34,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 136.01,
+    "last_checked": 1783120729.7548041
+  },
+  {
+    "protocol": "http",
+    "ip": "5.2.238.216",
+    "port": 8787,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Eforie Nord",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.91,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 6213.62,
+    "last_checked": 1783120713.4065542
   },
   {
     "protocol": "http",
@@ -26,7 +41,22 @@
     "uptime_percent": 18.61,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 1671.06,
-    "last_checked": 1783120112.063755
+    "latency_ms": 141.89,
+    "last_checked": 1783120710.2102056
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.13.38.213",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Timișoara",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 99.77,
+    "asn": "AS47890",
+    "isp": "Unmanaged LTD",
+    "latency_ms": 320.14,
+    "last_checked": 1783120667.722713
   }
 ]
