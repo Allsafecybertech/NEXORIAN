@@ -1,36 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "151.115.60.148",
-    "port": 3128,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 9.71,
-    "asn": "AS12876",
-    "isp": "Scaleway SAS",
-    "latency_ms": 3222.29,
-    "last_checked": 1783065574.4478848
-  },
-  {
-    "protocol": "http",
-    "ip": "148.81.121.5",
-    "port": 8080,
-    "country": "Poland",
-    "country_code": "PL",
-    "city": "Warsaw",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 12.96,
-    "asn": "AS1887",
-    "isp": "WAWPOLIP",
-    "latency_ms": 712.56,
-    "last_checked": 1783065547.714002
-  },
-  {
-    "protocol": "http",
     "ip": "178.212.144.7",
     "port": 80,
     "country": "Poland",
@@ -41,23 +11,23 @@
     "uptime_percent": 98.79,
     "asn": "AS51436",
     "isp": "IDEALAN Spolka Jawna - Piekarski",
-    "latency_ms": 51.1,
-    "last_checked": 1783065541.3929691
+    "latency_ms": 46.16,
+    "last_checked": 1783066186.4574258
   },
   {
     "protocol": "http",
-    "ip": "217.113.235.181",
-    "port": 443,
+    "ip": "54.38.138.60",
+    "port": 3128,
     "country": "Poland",
     "country_code": "PL",
-    "city": "Lodz",
+    "city": "Warsaw",
     "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 6.49,
-    "asn": "AS16342",
-    "isp": "Toya sp. z o.o.",
-    "latency_ms": 10013.48,
-    "last_checked": 1783065539.777572
+    "uptime_percent": 66.32,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 83.79,
+    "last_checked": 1783066120.0216024
   },
   {
     "protocol": "http",
@@ -67,11 +37,41 @@
     "country_code": "PL",
     "city": "Warsaw",
     "anonymity": "anonymous",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 66.47,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 106.91,
-    "last_checked": 1783065523.441069
+    "latency_ms": 80.44,
+    "last_checked": 1783066043.4661036
+  },
+  {
+    "protocol": "http",
+    "ip": "151.115.60.148",
+    "port": 3128,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Warsaw",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 9.71,
+    "asn": "AS12876",
+    "isp": "Scaleway SAS",
+    "latency_ms": 12879.64,
+    "last_checked": 1783066038.504674
+  },
+  {
+    "protocol": "http",
+    "ip": "212.182.119.149",
+    "port": 8080,
+    "country": "Poland",
+    "country_code": "PL",
+    "city": "Lublin",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.03,
+    "asn": "AS12346",
+    "isp": "non-academic part of Lublin MAN",
+    "latency_ms": 3245.51,
+    "last_checked": 1783066146.8478076
   }
 ]
