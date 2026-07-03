@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.128.240.2",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Drobeta-Turnu Severin",
+    "city": "Roșcani",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.77,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 3217.9,
+    "last_checked": 1783043985.6389675
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.54,
-    "asn": "AS49052",
-    "isp": "Data ZYX SRL",
-    "latency_ms": 8301.55,
-    "last_checked": 1783043314.5599463
+    "ssl": true,
+    "uptime_percent": 12.31,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 1245.0,
+    "last_checked": 1783043944.578515
   }
 ]
