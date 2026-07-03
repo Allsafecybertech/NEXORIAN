@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "5.101.85.133",
+    "port": 9050,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.65,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3229.59,
-    "last_checked": 1783115048.551923
+    "uptime_percent": 54.0,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 2787.12,
+    "last_checked": 1783115628.9171019
   },
   {
     "protocol": "http",
@@ -26,8 +26,23 @@
     "uptime_percent": 70.26,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 1817.76,
-    "last_checked": 1783115048.4536612
+    "latency_ms": 2167.42,
+    "last_checked": 1783115614.524803
+  },
+  {
+    "protocol": "socks4",
+    "ip": "45.95.232.35",
+    "port": 1080,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 88.37,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 9173.43,
+    "last_checked": 1783115601.9881487
   },
   {
     "protocol": "http",
@@ -37,26 +52,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.16,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 13182.32,
-    "last_checked": 1783115028.4871855
+    "latency_ms": 6482.16,
+    "last_checked": 1783115540.9921925
   },
   {
-    "protocol": "socks5",
+    "protocol": "http",
     "ip": "45.95.232.35",
-    "port": 1080,
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.61,
+    "ssl": false,
+    "uptime_percent": 73.65,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2805.96,
-    "last_checked": 1783115024.0859199
+    "latency_ms": 12568.77,
+    "last_checked": 1783115531.2800176
   }
 ]
