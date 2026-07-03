@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Roșcani",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 58.54,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 191.84,
-    "last_checked": 1783115625.2208974
-  },
-  {
     "protocol": "socks5",
     "ip": "45.13.38.213",
     "port": 1080,
@@ -23,10 +8,25 @@
     "city": "Timișoara",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.75,
+    "uptime_percent": 99.76,
     "asn": "AS47890",
     "isp": "Unmanaged LTD",
-    "latency_ms": 144.95,
-    "last_checked": 1783115617.7126467
+    "latency_ms": 132.42,
+    "last_checked": 1783116268.9700763
+  },
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.34,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 4315.98,
+    "last_checked": 1783116215.530162
   }
 ]
