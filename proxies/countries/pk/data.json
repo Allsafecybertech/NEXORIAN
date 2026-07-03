@@ -1,18 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "103.146.137.69",
+    "ip": "103.146.137.161",
     "port": 1081,
     "country": "Pakistan",
     "country_code": "PK",
     "city": "Karachi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 2.54,
+    "uptime_percent": 3.86,
     "asn": "AS139879",
     "isp": "Galaxy Broadband (pvt.) Ltd.",
-    "latency_ms": 644.25,
-    "last_checked": 1783044600.593921
+    "latency_ms": 612.69,
+    "last_checked": 1783045165.5045123
   },
   {
     "protocol": "socks5",
@@ -26,8 +26,8 @@
     "uptime_percent": 74.12,
     "asn": "AS38193",
     "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-    "latency_ms": 2105.55,
-    "last_checked": 1783044555.7914162
+    "latency_ms": 817.75,
+    "last_checked": 1783045130.919591
   },
   {
     "protocol": "http",
@@ -37,11 +37,26 @@
     "country_code": "PK",
     "city": "Lahore",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.86,
+    "ssl": true,
+    "uptime_percent": 30.87,
     "asn": "AS136384",
     "isp": "Optix Pakistan (Pvt.) Limited",
-    "latency_ms": 816.94,
-    "last_checked": 1783044473.712481
+    "latency_ms": 6462.74,
+    "last_checked": 1783045087.64719
+  },
+  {
+    "protocol": "http",
+    "ip": "103.115.196.98",
+    "port": 8080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Lahore",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 19.36,
+    "asn": "AS152605",
+    "isp": "AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED",
+    "latency_ms": 2058.33,
+    "last_checked": 1783045084.4858074
   }
 ]
