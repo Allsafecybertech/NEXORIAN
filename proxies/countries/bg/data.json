@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "84.43.132.32",
-    "port": 777,
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Varna",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.07,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 287.17,
+    "last_checked": 1783139102.728691
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.174.199",
+    "port": 23500,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Dobrich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 5.51,
-    "asn": "AS21230",
-    "isp": "MNET BG",
-    "latency_ms": 5353.47,
-    "last_checked": 1783138414.4689152
+    "uptime_percent": 4.66,
+    "asn": "AS57344",
+    "isp": "DobrudjaCable Ltd.",
+    "latency_ms": 11340.37,
+    "last_checked": 1783139006.123315
   },
   {
     "protocol": "http",
@@ -26,37 +41,37 @@
     "uptime_percent": 47.89,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 12444.31,
-    "last_checked": 1783138403.2858827
+    "latency_ms": 12603.79,
+    "last_checked": 1783138960.711164
   },
   {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Pleven",
+    "city": "Sofia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.06,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 7460.5,
-    "last_checked": 1783138395.1564608
+    "uptime_percent": 13.84,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 130.48,
+    "last_checked": 1783139082.3733158
   },
   {
     "protocol": "http",
-    "ip": "213.169.33.10",
+    "ip": "213.169.33.7",
     "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 14.07,
+    "ssl": false,
+    "uptime_percent": 10.73,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 5804.73,
-    "last_checked": 1783138452.6123443
+    "latency_ms": 13465.08,
+    "last_checked": 1783139076.2226977
   }
 ]
