@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "185.226.195.249",
+    "port": 2222,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Dos Hermanas",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 21.64,
+    "asn": "AS211141",
+    "isp": "Pinkbear SLU",
+    "latency_ms": 685.96,
+    "last_checked": 1783205093.5073576
+  },
+  {
     "protocol": "socks4",
     "ip": "82.223.151.29",
     "port": 1080,
@@ -8,11 +23,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 72.5,
+    "uptime_percent": 72.51,
     "asn": "AS8560",
     "isp": "arsys.es",
-    "latency_ms": 196.52,
-    "last_checked": 1783204496.3367934
+    "latency_ms": 250.06,
+    "last_checked": 1783205091.7625573
   },
   {
     "protocol": "socks4",
@@ -26,38 +41,8 @@
     "uptime_percent": 29.41,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 204.49,
-    "last_checked": 1783204480.0003104
-  },
-  {
-    "protocol": "socks5",
-    "ip": "82.223.151.29",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 74.97,
-    "asn": "AS8560",
-    "isp": "arsys.es",
-    "latency_ms": 422.3,
-    "last_checked": 1783204465.637173
-  },
-  {
-    "protocol": "socks4",
-    "ip": "154.62.226.187",
-    "port": 9051,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.75,
-    "asn": "AS214036",
-    "isp": "Ultahost, Inc.",
-    "latency_ms": 1670.22,
-    "last_checked": 1783204459.9636881
+    "latency_ms": 7379.6,
+    "last_checked": 1783205085.6401029
   },
   {
     "protocol": "http",
@@ -71,8 +56,68 @@
     "uptime_percent": 66.07,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 8668.62,
-    "last_checked": 1783204448.8348708
+    "latency_ms": 6773.92,
+    "last_checked": 1783205076.4882975
+  },
+  {
+    "protocol": "socks4",
+    "ip": "154.62.226.187",
+    "port": 9051,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.76,
+    "asn": "AS214036",
+    "isp": "Ultahost, Inc.",
+    "latency_ms": 14440.17,
+    "last_checked": 1783205072.9813898
+  },
+  {
+    "protocol": "socks5",
+    "ip": "154.62.226.187",
+    "port": 9051,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.72,
+    "asn": "AS214036",
+    "isp": "Ultahost, Inc.",
+    "latency_ms": 7570.15,
+    "last_checked": 1783205065.2382345
+  },
+  {
+    "protocol": "http",
+    "ip": "188.227.140.181",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "A Coruña",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.12,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 9346.08,
+    "last_checked": 1783205047.2758937
+  },
+  {
+    "protocol": "socks5",
+    "ip": "82.223.151.29",
+    "port": 1080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 74.97,
+    "asn": "AS8560",
+    "isp": "arsys.es",
+    "latency_ms": 262.8,
+    "last_checked": 1783205009.9396696
   },
   {
     "protocol": "http",
@@ -86,53 +131,38 @@
     "uptime_percent": 26.54,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 11945.39,
-    "last_checked": 1783204442.798081
-  },
-  {
-    "protocol": "socks5",
-    "ip": "154.62.226.187",
-    "port": 9051,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.7,
-    "asn": "AS214036",
-    "isp": "Ultahost, Inc.",
-    "latency_ms": 19626.99,
-    "last_checked": 1783204426.8934581
-  },
-  {
-    "protocol": "socks5",
-    "ip": "83.97.79.114",
-    "port": 8443,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.45,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 455.78,
-    "last_checked": 1783204416.341503
+    "latency_ms": 3879.76,
+    "last_checked": 1783204983.6490352
   },
   {
     "protocol": "http",
-    "ip": "185.44.232.30",
-    "port": 53281,
+    "ip": "141.227.128.55",
+    "port": 3128,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Fuengirola",
-    "anonymity": "elite",
+    "city": "Madrid",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 4.4,
-    "asn": "AS200845",
-    "isp": "AVATEL TELECOM, SA",
-    "latency_ms": 10288.95,
-    "last_checked": 1783204345.4778938
+    "uptime_percent": 32.99,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 8128.37,
+    "last_checked": 1783204958.2191956
+  },
+  {
+    "protocol": "socks4",
+    "ip": "65.20.105.241",
+    "port": 10001,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.34,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 4193.01,
+    "last_checked": 1783205093.3996677
   },
   {
     "protocol": "socks5",
@@ -143,11 +173,11 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.78,
+    "uptime_percent": 24.17,
     "asn": "AS26383",
     "isp": "Baxet Group Inc.",
-    "latency_ms": 225.17,
-    "last_checked": 1783204491.0192797
+    "latency_ms": 190.94,
+    "last_checked": 1783205071.460526
   },
   {
     "protocol": "http",
@@ -161,7 +191,7 @@
     "uptime_percent": 72.17,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 11756.68,
-    "last_checked": 1783204376.271824
+    "latency_ms": 6665.44,
+    "last_checked": 1783205043.070605
   }
 ]
