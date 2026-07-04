@@ -1,33 +1,37 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-socks4,154.88.189.22,5678,Dominican Republic,DO,Santiago de los Caballeros,elite,true,43.52,AS272011,Telemarch S.R.L,720.66,1783200855.3404937
-http,38.156.235.236,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,19.75,AS272882,"BITNET DOMINICANA, S.R.L",444.19,1783200849.908016
-http,181.214.29.6,999,Dominican Republic,DO,Santo Domingo,transparent,true,29.79,AS271799,"TELERY NETWORKS, S.R.L",1664.88,1783200841.045162
-http,38.156.235.171,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,15.1,AS272882,"BITNET DOMINICANA, S.R.L",8953.37,1783200836.9518244
-http,177.52.221.6,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,24.68,AS271799,"TELERY NETWORKS, S.R.L",1388.66,1783200834.4377742
-http,38.57.65.108,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,21.67,AS272911,"FALCO TELECOM, S.R.L.",9094.77,1783200831.3376074
-http,38.75.82.213,999,Dominican Republic,DO,Santo Domingo,transparent,false,25.49,AS273217,Cogent Communications,7238.26,1783200823.7341256
-http,190.110.36.195,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,7.87,AS271968,Centric Mobility,3552.94,1783200816.4014575
-http,38.156.14.132,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,62.82,AS273224,Cogent Communications,4978.53,1783200814.535081
-http,38.75.81.12,999,Dominican Republic,DO,Santo Domingo,transparent,false,9.03,AS273217,Cogent Communications,7000.51,1783200810.1033962
-http,38.156.235.174,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,18.27,AS272882,"BITNET DOMINICANA, S.R.L",5039.13,1783200809.1518545
-http,38.50.165.124,999,Dominican Republic,DO,El Pino,transparent,false,41.15,AS273009,"NEXTELECOM, S.R.L",14674.89,1783200808.3279026
-http,38.156.236.90,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,49.24,AS272882,"BITNET DOMINICANA, S.R.L",14017.28,1783200808.161773
-http,38.253.85.3,999,Dominican Republic,DO,Maimón,transparent,false,15.95,AS273048,Cogent Communications,10009.61,1783200804.6271553
-http,38.253.95.80,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,19.86,AS272027,Cogent Communications,2347.89,1783200800.0053327
-http,38.156.233.172,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,25.88,AS272882,"BITNET DOMINICANA, S.R.L",9670.71,1783200794.3739853
-http,170.80.202.216,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,6.38,AS271819,"RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",3393.58,1783200788.374716
-http,38.156.238.68,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,3.94,AS272882,"BITNET DOMINICANA, S.R.L",11625.97,1783200786.3278246
-http,38.156.233.74,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,1.83,AS272882,"BITNET DOMINICANA, S.R.L",12163.43,1783200780.471917
-http,38.156.246.129,999,Dominican Republic,DO,El Factor,transparent,false,19.13,AS272868,Sequre Networks SRL,2955.56,1783200777.5037959
-http,38.75.82.218,999,Dominican Republic,DO,Santo Domingo,transparent,false,25.35,AS273217,Cogent Communications,6274.02,1783200774.348054
-http,149.2.82.196,999,Dominican Republic,DO,Santo Domingo,transparent,false,15.39,AS272112,"TELECABLE DOMINICANO, S.A.",10924.59,1783200762.7182276
-http,38.156.236.87,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,48.77,AS272882,"BITNET DOMINICANA, S.R.L",9594.78,1783200739.9124947
-http,38.253.86.185,999,Dominican Republic,DO,Maimón,transparent,false,6.51,AS273048,Cogent Communications,10368.56,1783200734.7058537
-http,177.52.221.100,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,true,6.41,AS271799,"TELERY NETWORKS, S.R.L",9299.27,1783200696.5749907
-http,38.156.236.88,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,50.85,AS272882,"BITNET DOMINICANA, S.R.L",4202.21,1783200695.945312
-http,45.176.99.58,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,81.06,AS267846,"Cable Onda Oriental, SRL",414.46,1783200872.679353
-http,38.75.82.220,999,Dominican Republic,DO,Santo Domingo,transparent,false,25.25,AS273217,Cogent Communications,10371.74,1783200869.7692645
-http,200.125.170.221,999,Dominican Republic,DO,Mejía de Navarrete,transparent,false,5.82,AS269931,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",7580.62,1783200856.5678382
-http,168.243.77.190,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,24.23,AS271968,"CENTRIC MOBILITY (CEMO), S.R.L",6018.31,1783200844.6599436
-http,200.125.169.51,999,Dominican Republic,DO,Mejía de Navarrete,transparent,false,13.51,AS269931,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",2668.78,1783200844.3707454
-http,200.125.169.112,999,Dominican Republic,DO,Mejía de Navarrete,transparent,false,7.89,AS269931,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",6378.75,1783200819.3278205
+http,38.50.165.125,999,Dominican Republic,DO,El Pino,transparent,true,42.37,AS273009,"NEXTELECOM, S.R.L",3939.53,1783201472.1064932
+http,38.156.235.173,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,16.84,AS272882,"BITNET DOMINICANA, S.R.L",5864.37,1783201462.9211996
+http,38.156.235.171,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,15.19,AS272882,"BITNET DOMINICANA, S.R.L",3472.55,1783201462.5077846
+http,149.2.82.196,999,Dominican Republic,DO,Santo Domingo,transparent,false,15.67,AS272112,"TELECABLE DOMINICANO, S.A.",3481.79,1783201461.3055322
+http,38.156.89.76,999,Dominican Republic,DO,Esperanza,transparent,true,15.81,AS272943,Openconnection Fernandez s.r.l,2134.31,1783201459.0459006
+http,38.75.81.10,999,Dominican Republic,DO,Santo Domingo,transparent,false,8.82,AS273217,Cogent Communications,5029.19,1783201453.316338
+http,38.156.238.76,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,5.37,AS272882,"BITNET DOMINICANA, S.R.L",6590.19,1783201449.3159206
+http,38.50.165.124,999,Dominican Republic,DO,El Pino,transparent,false,41.06,AS273009,"NEXTELECOM, S.R.L",9491.03,1783201448.516369
+http,38.75.82.219,999,Dominican Republic,DO,Santo Domingo,transparent,false,25.26,AS273217,Cogent Communications,7281.97,1783201446.6125677
+http,38.156.233.219,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,16.49,AS272882,"BITNET DOMINICANA, S.R.L",3603.14,1783201442.7195616
+http,149.2.83.82,999,Dominican Republic,DO,Santo Domingo,transparent,false,32.11,AS272112,"TELECABLE DOMINICANO, S.A.",9200.25,1783201440.9516828
+http,177.52.221.6,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,24.68,AS271799,"TELERY NETWORKS, S.R.L",9656.36,1783201428.5678964
+http,38.156.235.34,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,6.38,AS272882,"BITNET DOMINICANA, S.R.L",6351.19,1783201428.2777522
+http,38.156.14.131,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,69.83,AS273224,Cogent Communications,2974.79,1783201423.3167775
+http,38.156.235.237,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,11.83,AS272882,"BITNET DOMINICANA, S.R.L",1833.98,1783201409.3899257
+http,38.156.236.87,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,48.76,AS272882,"BITNET DOMINICANA, S.R.L",10160.36,1783201402.9799688
+http,38.50.165.122,999,Dominican Republic,DO,El Pino,transparent,true,42.84,AS273009,"NEXTELECOM, S.R.L",7118.44,1783201402.447847
+http,38.57.65.108,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,21.85,AS272911,"FALCO TELECOM, S.R.L.",2925.36,1783201398.372857
+http,190.93.191.20,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,4.51,AS269908,Jose Digital Media Dominicana SRL,2278.68,1783201396.2135582
+http,38.156.23.41,999,Dominican Republic,DO,Puerto Plata,transparent,true,9.54,AS64134,Visnetwork SRL,716.6,1783201395.8558307
+http,38.253.95.80,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,true,19.86,AS272027,Cogent Communications,1405.96,1783201395.5398889
+http,38.156.23.250,999,Dominican Republic,DO,Puerto Plata,transparent,false,9.77,AS64134,Visnetwork SRL,2601.36,1783201393.77991
+http,38.156.236.83,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,16.39,AS272882,"BITNET DOMINICANA, S.R.L",9717.91,1783201391.5838187
+http,38.156.14.132,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,62.92,AS273224,Cogent Communications,439.34,1783201391.4484262
+http,38.156.246.1,999,Dominican Republic,DO,El Factor,transparent,true,19.44,AS272868,Sequre Networks SRL,454.21,1783201362.1198828
+http,38.159.37.17,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,11.9,AS271965,Orbitek SRL,3966.12,1783201349.7068498
+http,38.75.81.174,999,Dominican Republic,DO,Santo Domingo,transparent,false,14.89,AS273217,Cogent Communications,7815.94,1783201346.2652943
+http,38.156.233.172,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,26.0,AS272882,"BITNET DOMINICANA, S.R.L",1935.1,1783201329.8118503
+http,38.156.236.90,999,Dominican Republic,DO,Santo Domingo Este,transparent,false,49.22,AS272882,"BITNET DOMINICANA, S.R.L",6690.93,1783201305.9602976
+http,170.80.203.46,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,3.52,AS271819,"RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",2150.68,1783201278.3878603
+http,168.243.77.190,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,true,24.31,AS271968,"CENTRIC MOBILITY (CEMO), S.R.L",1680.25,1783201488.4318876
+http,200.125.169.118,999,Dominican Republic,DO,Mejía de Navarrete,transparent,false,7.69,AS269931,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",4759.43,1783201478.3751338
+http,45.176.99.58,999,Dominican Republic,DO,Santo Domingo Este,transparent,true,81.08,AS267846,"Cable Onda Oriental, SRL",408.97,1783201424.1238077
+http,200.125.169.117,999,Dominican Republic,DO,Mejía de Navarrete,transparent,false,8.54,AS269931,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",8570.26,1783201408.566641
+http,168.243.77.202,999,Dominican Republic,DO,Santiago de los Caballeros,transparent,false,12.35,AS271968,"CENTRIC MOBILITY (CEMO), S.R.L",10671.44,1783201408.374551
+http,200.125.169.116,999,Dominican Republic,DO,Mejía de Navarrete,transparent,true,9.46,AS269931,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",2285.68,1783201400.6716611
