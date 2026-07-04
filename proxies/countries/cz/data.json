@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "185.82.238.42",
-    "port": 8888,
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Šebetov",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.28,
-    "asn": "AS42908",
-    "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 3599.25,
-    "last_checked": 1783130639.7921634
+    "city": "Klatovy",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 6.01,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 57.79,
+    "last_checked": 1783131229.6813416
   },
   {
     "protocol": "http",
@@ -26,7 +26,22 @@
     "uptime_percent": 84.15,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 58.03,
-    "last_checked": 1783130635.0845048
+    "latency_ms": 6521.92,
+    "last_checked": 1783131218.7409139
+  },
+  {
+    "protocol": "http",
+    "ip": "185.82.238.42",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Šebetov",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.28,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 5059.57,
+    "last_checked": 1783131107.3600786
   }
 ]
