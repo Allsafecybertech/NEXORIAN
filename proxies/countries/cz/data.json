@@ -1,17 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "ip": "91.139.78.174",
+    "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
+    "city": "Pilsen",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 84.12,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 1044.41,
-    "last_checked": 1783185493.5260873
+    "uptime_percent": 16.15,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 17616.76,
+    "last_checked": 1783186162.7744899
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.184.250.2",
+    "port": 9050,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 23.64,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 10348.96,
+    "last_checked": 1783186138.548903
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 28.12,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 1168.25,
+    "last_checked": 1783186131.7670712
   }
 ]
