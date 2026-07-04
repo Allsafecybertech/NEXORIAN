@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Rousse",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 14.32,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 263.81,
-    "last_checked": 1783154074.8675482
-  },
-  {
-    "protocol": "socks5",
-    "ip": "31.211.142.115",
-    "port": 8192,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Pleven",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.14,
-    "asn": "AS197897",
-    "isp": "5KOM",
-    "latency_ms": 1268.85,
-    "last_checked": 1783154050.456879
-  },
-  {
     "protocol": "http",
     "ip": "5.104.183.25",
     "port": 8080,
@@ -37,12 +7,57 @@
     "country_code": "BG",
     "city": "Svoge",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 16.41,
     "asn": "AS205331",
     "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 7506.16,
-    "last_checked": 1783154009.8636284
+    "latency_ms": 12399.28,
+    "last_checked": 1783154672.9505754
+  },
+  {
+    "protocol": "http",
+    "ip": "87.126.65.11",
+    "port": 1388,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Stara Zagora",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.92,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 5721.2,
+    "last_checked": 1783154630.5248914
+  },
+  {
+    "protocol": "http",
+    "ip": "78.130.246.65",
+    "port": 1881,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Plovdiv",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.17,
+    "asn": "AS9070",
+    "isp": "\"Cooolbox\" AD",
+    "latency_ms": 4988.68,
+    "last_checked": 1783154630.203116
+  },
+  {
+    "protocol": "http",
+    "ip": "5.104.174.199",
+    "port": 23500,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Dobrich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.66,
+    "asn": "AS57344",
+    "isp": "DobrudjaCable Ltd.",
+    "latency_ms": 9453.78,
+    "last_checked": 1783154620.607602
   },
   {
     "protocol": "http",
@@ -56,22 +71,7 @@
     "uptime_percent": 10.74,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 6270.5,
-    "last_checked": 1783154092.3380194
-  },
-  {
-    "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 13.88,
-    "asn": "AS8717",
-    "isp": "Spectrum NET",
-    "latency_ms": 3174.24,
-    "last_checked": 1783154091.6997135
+    "latency_ms": 4700.86,
+    "last_checked": 1783154550.7923136
   }
 ]
