@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "203.23.238.21",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Canberra",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 30.4,
+    "asn": "AS18390",
+    "isp": "Spintel Pty Ltd",
+    "latency_ms": 6846.67,
+    "last_checked": 1783124994.2739177
+  },
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 26.65,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 3769.28,
+    "last_checked": 1783124975.4577723
+  },
+  {
+    "protocol": "http",
     "ip": "103.249.237.158",
     "port": 8888,
     "country": "Australia",
@@ -8,40 +38,25 @@
     "city": "Sydney",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 33.58,
+    "uptime_percent": 33.65,
     "asn": "AS133159",
     "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 537.29,
-    "last_checked": 1783124354.9613974
+    "latency_ms": 4281.29,
+    "last_checked": 1783124949.6100287
   },
   {
     "protocol": "http",
     "ip": "61.29.96.146",
-    "port": 8000,
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
     "city": "Albury",
     "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 9.46,
+    "ssl": true,
+    "uptime_percent": 8.44,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 13614.48,
-    "last_checked": 1783124315.319843
-  },
-  {
-    "protocol": "http",
-    "ip": "46.250.241.190",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.16,
-    "asn": "AS141995",
-    "isp": "Contabo Asia Private Limited",
-    "latency_ms": 13019.87,
-    "last_checked": 1783124262.1759353
+    "latency_ms": 7744.48,
+    "last_checked": 1783124839.7308931
   }
 ]
