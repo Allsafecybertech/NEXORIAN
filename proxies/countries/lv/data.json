@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 58.71,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 7452.25,
-    "last_checked": 1783198749.2895906
-  },
-  {
     "protocol": "socks5",
     "ip": "37.128.207.56",
     "port": 8443,
@@ -26,8 +11,23 @@
     "uptime_percent": 100.0,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 201.83,
-    "last_checked": 1783198724.7565937
+    "latency_ms": 179.85,
+    "last_checked": 1783199367.7110605
+  },
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.71,
+    "asn": "AS2588",
+    "isp": "SIA \"BITE Latvija\"",
+    "latency_ms": 3199.22,
+    "last_checked": 1783199353.6410208
   },
   {
     "protocol": "http",
@@ -38,40 +38,10 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 30.8,
+    "uptime_percent": 30.79,
     "asn": "AS56630",
     "isp": "Melbikomas UAB",
-    "latency_ms": 14453.3,
-    "last_checked": 1783198707.087814
-  },
-  {
-    "protocol": "http",
-    "ip": "45.130.212.97",
-    "port": 8119,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 14.25,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 2563.19,
-    "last_checked": 1783198699.3042145
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.130.212.97",
-    "port": 8119,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 14.53,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 4592.61,
-    "last_checked": 1783198685.9201193
+    "latency_ms": 16000.57,
+    "last_checked": 1783199324.98969
   }
 ]
