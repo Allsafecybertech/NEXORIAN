@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -8,11 +8,11 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.68,
+    "uptime_percent": 88.48,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1756.22,
-    "last_checked": 1783200248.4183755
+    "latency_ms": 1221.17,
+    "last_checked": 1783200844.9508867
   },
   {
     "protocol": "http",
@@ -26,23 +26,23 @@
     "uptime_percent": 100.0,
     "asn": "AS3303",
     "isp": "Swisscom (Schweiz) AG",
-    "latency_ms": 148.19,
-    "last_checked": 1783200245.7145984
+    "latency_ms": 63.34,
+    "last_checked": 1783200844.345929
   },
   {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 15.23,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 15470.66,
-    "last_checked": 1783200225.560849
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.68,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 298.42,
+    "last_checked": 1783200843.8096766
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 73.96,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3394.31,
-    "last_checked": 1783200135.3817658
+    "latency_ms": 11075.99,
+    "last_checked": 1783200802.8638332
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 70.34,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 14023.71,
+    "last_checked": 1783200755.9734654
   }
 ]
