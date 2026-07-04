@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "83.229.73.113",
-    "port": 13554,
+    "ip": "185.28.155.163",
+    "port": 1433,
     "country": "Israel",
     "country_code": "IL",
-    "city": "Haifa",
+    "city": "Petach Tikva",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.56,
+    "ssl": true,
+    "uptime_percent": 100.0,
     "asn": "AS44709",
     "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "latency_ms": 21772.58,
-    "last_checked": 1783178941.445796
+    "latency_ms": 265.93,
+    "last_checked": 1783179515.2776413
+  },
+  {
+    "protocol": "socks5",
+    "ip": "93.184.4.37",
+    "port": 1080,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Giv'on HaHadasha",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 26.92,
+    "asn": "AS47253",
+    "isp": "BCI Telecommunication & Advanced Technology Company",
+    "latency_ms": 7519.07,
+    "last_checked": 1783179471.3941863
   },
   {
     "protocol": "http",
@@ -23,10 +38,10 @@
     "city": "Ramat Gan",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 80.03,
+    "uptime_percent": 80.04,
     "asn": "AS1680",
     "isp": "013 Netvision Network",
-    "latency_ms": 1595.15,
-    "last_checked": 1783178919.547129
+    "latency_ms": 289.27,
+    "last_checked": 1783179466.8308089
   }
 ]
