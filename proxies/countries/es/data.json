@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "82.223.151.29",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 73.47,
-    "asn": "AS8560",
-    "isp": "arsys.es",
-    "latency_ms": 1219.6,
-    "last_checked": 1783294772.3423393
-  },
-  {
     "protocol": "socks5",
     "ip": "82.223.151.29",
     "port": 1080,
@@ -26,38 +11,23 @@
     "uptime_percent": 75.69,
     "asn": "AS8560",
     "isp": "arsys.es",
-    "latency_ms": 240.92,
-    "last_checked": 1783294759.355064
+    "latency_ms": 251.29,
+    "last_checked": 1783295095.630448
   },
   {
-    "protocol": "http",
-    "ip": "185.226.195.249",
-    "port": 2222,
+    "protocol": "socks4",
+    "ip": "82.223.151.29",
+    "port": 1080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Dos Hermanas",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 21.76,
-    "asn": "AS211141",
-    "isp": "Pinkbear SLU",
-    "latency_ms": 2019.51,
-    "last_checked": 1783294754.4083517
-  },
-  {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Alcobendas",
+    "city": "Madrid",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.1,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 10491.98,
-    "last_checked": 1783294748.129335
+    "ssl": true,
+    "uptime_percent": 73.47,
+    "asn": "AS8560",
+    "isp": "arsys.es",
+    "latency_ms": 261.23,
+    "last_checked": 1783295092.8017259
   },
   {
     "protocol": "socks4",
@@ -71,53 +41,23 @@
     "uptime_percent": 29.7,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 201.18,
-    "last_checked": 1783294741.5504057
+    "latency_ms": 435.49,
+    "last_checked": 1783295077.2292664
   },
   {
     "protocol": "http",
-    "ip": "90.161.186.147",
-    "port": 3128,
+    "ip": "188.227.140.181",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Puerto de Santiago",
+    "city": "A Coruña",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.45,
-    "asn": "AS12479",
-    "isp": "UNI2-ABI",
-    "latency_ms": 5188.9,
-    "last_checked": 1783294711.513795
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.117.248.36",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Olot",
-    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.01,
-    "asn": "AS210086",
-    "isp": "Connecta 1876 SLU",
-    "latency_ms": 7794.69,
-    "last_checked": 1783294706.3151298
-  },
-  {
-    "protocol": "socks5",
-    "ip": "154.62.226.187",
-    "port": 9051,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 18.01,
-    "asn": "AS214036",
-    "isp": "Ultahost, Inc.",
-    "latency_ms": 2024.85,
-    "last_checked": 1783294701.2233114
+    "uptime_percent": 8.13,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 7884.29,
+    "last_checked": 1783295074.880917
   },
   {
     "protocol": "http",
@@ -131,8 +71,38 @@
     "uptime_percent": 4.47,
     "asn": "AS200845",
     "isp": "AVATEL TELECOM, SA",
-    "latency_ms": 5086.84,
-    "last_checked": 1783294667.5529635
+    "latency_ms": 17383.59,
+    "last_checked": 1783295048.3879642
+  },
+  {
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Alcobendas",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 66.1,
+    "asn": "AS57286",
+    "isp": "Gigas Hosting SL",
+    "latency_ms": 17249.77,
+    "last_checked": 1783295036.8079734
+  },
+  {
+    "protocol": "http",
+    "ip": "185.226.195.249",
+    "port": 2222,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Dos Hermanas",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.77,
+    "asn": "AS211141",
+    "isp": "Pinkbear SLU",
+    "latency_ms": 17216.79,
+    "last_checked": 1783295020.639462
   },
   {
     "protocol": "http",
@@ -142,12 +112,27 @@
     "country_code": "ES",
     "city": "Valencia",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 15.5,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 8005.11,
-    "last_checked": 1783294617.671905
+    "latency_ms": 3267.49,
+    "last_checked": 1783294970.8012702
+  },
+  {
+    "protocol": "http",
+    "ip": "90.174.128.42",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 10.81,
+    "asn": "AS12479",
+    "isp": "Uni2",
+    "latency_ms": 2700.09,
+    "last_checked": 1783294970.4211469
   },
   {
     "protocol": "http",
@@ -161,22 +146,7 @@
     "uptime_percent": 72.38,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 183.57,
-    "last_checked": 1783294797.9975402
-  },
-  {
-    "protocol": "http",
-    "ip": "103.240.146.107",
-    "port": 6443,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 10.49,
-    "asn": "AS36007",
-    "isp": "Kamatera, Inc.",
-    "latency_ms": 301.87,
-    "last_checked": 1783294782.5326598
+    "latency_ms": 134.59,
+    "last_checked": 1783295040.9328895
   }
 ]
