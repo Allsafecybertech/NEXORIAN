@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "45.4.85.210",
+    "ip": "186.33.20.193",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "Rancho Grande",
+    "city": "San Pedro Sula",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.16,
-    "asn": "AS262234",
-    "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 2295.98,
-    "last_checked": 1783213093.8638613
+    "ssl": true,
+    "uptime_percent": 26.65,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 6772.65,
+    "last_checked": 1783213769.3801033
+  },
+  {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.18,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 3793.02,
+    "last_checked": 1783213768.5973845
   },
   {
     "protocol": "http",
@@ -26,22 +41,37 @@
     "uptime_percent": 14.7,
     "asn": "AS7727",
     "isp": "Hondutel",
-    "latency_ms": 11003.48,
-    "last_checked": 1783213083.8711889
+    "latency_ms": 4990.9,
+    "last_checked": 1783213631.2401855
   },
   {
     "protocol": "http",
-    "ip": "38.7.24.17",
-    "port": 8080,
+    "ip": "45.182.22.249",
+    "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 4.2,
+    "uptime_percent": 8.3,
     "asn": "AS263725",
     "isp": "Multicable De Honduras",
-    "latency_ms": 5585.73,
-    "last_checked": 1783213071.507172
+    "latency_ms": 949.29,
+    "last_checked": 1783213773.8438041
+  },
+  {
+    "protocol": "http",
+    "ip": "200.106.236.142",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 29.97,
+    "asn": "AS23383",
+    "isp": "Metrored S.a. De C.V.",
+    "latency_ms": 14303.48,
+    "last_checked": 1783213654.02253
   }
 ]
