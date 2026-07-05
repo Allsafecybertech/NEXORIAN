@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.222.59.163",
-    "port": 443,
+    "protocol": "socks5",
+    "ip": "45.95.232.35",
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "St. Gallen",
+    "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 100.0,
-    "asn": "AS3303",
-    "isp": "Swisscom (Schweiz) AG",
-    "latency_ms": 40.17,
-    "last_checked": 1783284300.792311
+    "ssl": true,
+    "uptime_percent": 87.9,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 1679.21,
+    "last_checked": 1783284886.4543457
   },
   {
     "protocol": "socks4",
@@ -26,23 +26,38 @@
     "uptime_percent": 88.64,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8142.97,
-    "last_checked": 1783284288.586258
+    "latency_ms": 3960.61,
+    "last_checked": 1783284873.9858603
   },
   {
-    "protocol": "socks5",
-    "ip": "45.95.232.35",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Bern",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.9,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1414.25,
-    "last_checked": 1783284271.1722531
+    "uptime_percent": 70.09,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 3759.51,
+    "last_checked": 1783284868.3207536
+  },
+  {
+    "protocol": "http",
+    "ip": "193.222.59.163",
+    "port": 443,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "St. Gallen",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 100.0,
+    "asn": "AS3303",
+    "isp": "Swisscom (Schweiz) AG",
+    "latency_ms": 31.65,
+    "last_checked": 1783284864.7698486
   },
   {
     "protocol": "http",
@@ -53,10 +68,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 74.26,
+    "uptime_percent": 74.27,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4807.0,
-    "last_checked": 1783284244.7884517
+    "latency_ms": 14297.21,
+    "last_checked": 1783284820.1603005
   }
 ]
