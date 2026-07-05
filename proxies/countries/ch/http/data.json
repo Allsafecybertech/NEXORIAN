@@ -11,8 +11,8 @@
     "uptime_percent": 100.0,
     "asn": "AS3303",
     "isp": "Swisscom (Schweiz) AG",
-    "latency_ms": 32.46,
-    "last_checked": 1783210199.3486373
+    "latency_ms": 1014.31,
+    "last_checked": 1783210734.8770716
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 74.01,
+    "ssl": true,
+    "uptime_percent": 74.02,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1749.99,
-    "last_checked": 1783210078.7100205
+    "latency_ms": 29.81,
+    "last_checked": 1783210690.4611845
+  },
+  {
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.25,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 10634.7,
+    "last_checked": 1783210655.332312
   }
 ]
