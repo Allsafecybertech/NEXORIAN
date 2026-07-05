@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "2.56.204.180",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
     "country": "Armenia",
     "country_code": "AM",
-    "city": "Arinj",
+    "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 82.28,
-    "asn": "AS216058",
-    "isp": "Proitlab LLC",
-    "latency_ms": 12172.87,
-    "last_checked": 1783292311.3501318
+    "ssl": true,
+    "uptime_percent": 22.09,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 288.32,
+    "last_checked": 1783292959.3961835
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,41 @@
     "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.72,
+    "uptime_percent": 91.73,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 12765.02,
-    "last_checked": 1783292304.6010718
+    "latency_ms": 914.06,
+    "last_checked": 1783292949.1200607
+  },
+  {
+    "protocol": "http",
+    "ip": "5.77.252.204",
+    "port": 8080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.37,
+    "asn": "AS44395",
+    "isp": "Ucom Mobile Network",
+    "latency_ms": 1592.89,
+    "last_checked": 1783292850.2809064
+  },
+  {
+    "protocol": "http",
+    "ip": "2.56.204.180",
+    "port": 1080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Arinj",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.26,
+    "asn": "AS216058",
+    "isp": "Proitlab LLC",
+    "latency_ms": 12712.59,
+    "last_checked": 1783292916.62659
   },
   {
     "protocol": "socks5",
@@ -38,10 +68,10 @@
     "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.72,
+    "uptime_percent": 89.76,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 13263.11,
-    "last_checked": 1783292250.7705917
+    "latency_ms": 7473.96,
+    "last_checked": 1783292909.2452178
   }
 ]
