@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Roșcani",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 58.78,
-    "asn": "AS12302",
-    "isp": "Vodafone RO",
-    "latency_ms": 214.82,
-    "last_checked": 1783263300.937122
-  },
-  {
     "protocol": "socks5",
     "ip": "45.13.38.213",
     "port": 1080,
@@ -26,23 +11,23 @@
     "uptime_percent": 99.82,
     "asn": "AS47890",
     "isp": "Unmanaged LTD",
-    "latency_ms": 136.29,
-    "last_checked": 1783263294.3662677
+    "latency_ms": 143.77,
+    "last_checked": 1783263569.619353
   },
   {
-    "protocol": "http",
-    "ip": "86.122.222.35",
-    "port": 8118,
+    "protocol": "socks5",
+    "ip": "185.247.224.99",
+    "port": 39997,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Iași",
+    "city": "Bucharest",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 19.49,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 2753.7,
-    "last_checked": 1783263281.2912393
+    "ssl": true,
+    "uptime_percent": 14.97,
+    "asn": "AS200651",
+    "isp": "FlokiNET ehf",
+    "latency_ms": 1860.73,
+    "last_checked": 1783263557.0808725
   },
   {
     "protocol": "http",
@@ -56,37 +41,37 @@
     "uptime_percent": 18.74,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 396.42,
-    "last_checked": 1783263253.8237715
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.247.224.99",
-    "port": 39997,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 14.94,
-    "asn": "AS200651",
-    "isp": "FlokiNET ehf",
-    "latency_ms": 2130.23,
-    "last_checked": 1783263249.7372165
+    "latency_ms": 1038.39,
+    "last_checked": 1783263556.1763813
   },
   {
     "protocol": "http",
-    "ip": "85.122.120.119",
-    "port": 20016,
+    "ip": "92.86.207.198",
+    "port": 8080,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Năvodari",
-    "anonymity": "elite",
+    "city": "Bucharest",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.4,
+    "asn": "AS9050",
+    "isp": "Romtelecom",
+    "latency_ms": 2221.58,
+    "last_checked": 1783263421.8838542
+  },
+  {
+    "protocol": "http",
+    "ip": "185.128.240.77",
+    "port": 8080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Drobeta-Turnu Severin",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.91,
-    "asn": "AS39347",
-    "isp": "STYLISH BY A&L SRL",
-    "latency_ms": 6557.58,
-    "last_checked": 1783263108.9438708
+    "uptime_percent": 8.07,
+    "asn": "AS49052",
+    "isp": "Data ZYX SRL",
+    "latency_ms": 7642.42,
+    "last_checked": 1783263415.691878
   }
 ]
