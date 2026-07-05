@@ -1,18 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "85.132.139.45",
-    "port": 4153,
+    "ip": "109.108.126.166",
+    "port": 1080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Slavkov u Brna",
+    "city": "Lanškroun",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.63,
-    "asn": "AS205400",
-    "isp": "GIN's network",
-    "latency_ms": 64.71,
-    "last_checked": 1783264486.443328
+    "uptime_percent": 82.61,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 300.05,
+    "last_checked": 1783264798.1848
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,26 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.38,
+    "uptime_percent": 34.34,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 8542.76,
-    "last_checked": 1783264465.5214655
+    "latency_ms": 12681.64,
+    "last_checked": 1783264780.441484
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
+    "port": 4153,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Slavkov u Brna",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 67.65,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 94.05,
+    "last_checked": 1783264777.3691633
   },
   {
     "protocol": "http",
@@ -41,22 +56,22 @@
     "uptime_percent": 84.17,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 333.37,
-    "last_checked": 1783264445.849061
+    "latency_ms": 39.93,
+    "last_checked": 1783264766.3323712
   },
   {
-    "protocol": "socks5",
-    "ip": "91.184.250.2",
-    "port": 9050,
+    "protocol": "http",
+    "ip": "90.181.120.18",
+    "port": 8082,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Veselí nad Lužnicí",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.77,
-    "asn": "AS62212",
-    "isp": "SmartApe OU",
-    "latency_ms": 13271.82,
-    "last_checked": 1783264388.5314867
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 43.7,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 3327.02,
+    "last_checked": 1783264734.5794616
   }
 ]
