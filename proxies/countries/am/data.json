@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "130.193.123.34",
-    "port": 5678,
-    "country": "Armenia",
-    "country_code": "AM",
-    "city": "Yerevan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.99,
-    "asn": "AS49800",
-    "isp": "GNC",
-    "latency_ms": 7557.69,
-    "last_checked": 1783254889.5532737
-  },
-  {
-    "protocol": "socks4",
     "ip": "2.56.204.180",
     "port": 1080,
     "country": "Armenia",
@@ -23,11 +8,11 @@
     "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 95.84,
+    "uptime_percent": 95.87,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 4406.01,
-    "last_checked": 1783254887.92699
+    "latency_ms": 1475.39,
+    "last_checked": 1783255440.3788745
   },
   {
     "protocol": "socks5",
@@ -38,11 +23,26 @@
     "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 93.14,
+    "uptime_percent": 93.2,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 5354.89,
-    "last_checked": 1783254886.4860034
+    "latency_ms": 7182.67,
+    "last_checked": 1783255433.771046
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.215.53.193",
+    "port": 3629,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.44,
+    "asn": "AS205368",
+    "isp": "Fnet LLC",
+    "latency_ms": 7728.61,
+    "last_checked": 1783255433.3532095
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "AM",
     "city": "Arinj",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 90.02,
+    "ssl": true,
+    "uptime_percent": 90.09,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 7826.19,
-    "last_checked": 1783254839.0422006
+    "latency_ms": 12999.62,
+    "last_checked": 1783255399.4519196
+  },
+  {
+    "protocol": "http",
+    "ip": "91.204.190.140",
+    "port": 81,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.55,
+    "asn": "AS42991",
+    "isp": "BioNet LLC",
+    "latency_ms": 12981.68,
+    "last_checked": 1783255369.5091777
   }
 ]
