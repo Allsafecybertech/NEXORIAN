@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "87.121.148.126",
+    "port": 49200,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Palazzago",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 63.78,
+    "asn": "AS210218",
+    "isp": "Open Fiber S.P.A.",
+    "latency_ms": 156.23,
+    "last_checked": 1783247371.4393044
+  },
+  {
     "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
@@ -11,8 +26,38 @@
     "uptime_percent": 87.41,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 118.97,
-    "last_checked": 1783246747.1692529
+    "latency_ms": 138.03,
+    "last_checked": 1783247370.9702787
+  },
+  {
+    "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Furnari",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.7,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 2039.75,
+    "last_checked": 1783247364.3288298
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 32.73,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 6050.48,
+    "last_checked": 1783247325.8065388
   },
   {
     "protocol": "socks5",
@@ -26,38 +71,8 @@
     "uptime_percent": 85.72,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 140.08,
-    "last_checked": 1783246737.707484
-  },
-  {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Arezzo",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 31.18,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 15281.15,
-    "last_checked": 1783246727.198897
-  },
-  {
-    "protocol": "socks4",
-    "ip": "2.115.212.62",
-    "port": 48293,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Furnari",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 49.69,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A",
-    "latency_ms": 16486.06,
-    "last_checked": 1783246726.59721
+    "latency_ms": 138.6,
+    "last_checked": 1783247322.9884815
   },
   {
     "protocol": "socks4",
@@ -68,71 +83,41 @@
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.72,
+    "uptime_percent": 29.73,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 19562.61,
-    "last_checked": 1783246713.846766
+    "latency_ms": 10501.27,
+    "last_checked": 1783247322.553287
   },
   {
     "protocol": "http",
-    "ip": "149.86.206.27",
-    "port": 8080,
+    "ip": "93.187.26.134",
+    "port": 58080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Figline Valdarno",
+    "city": "Siena",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 5.76,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 8914.91,
-    "last_checked": 1783246699.6079376
+    "uptime_percent": 30.47,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 4796.42,
+    "last_checked": 1783247274.6797786
   },
   {
     "protocol": "http",
-    "ip": "188.11.179.26",
-    "port": 8443,
+    "ip": "185.191.106.0",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Crispi Cavour",
+    "city": "Milan",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 13.34,
-    "asn": "AS3269",
-    "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-    "latency_ms": 5371.35,
-    "last_checked": 1783246691.3560064
-  },
-  {
-    "protocol": "http",
-    "ip": "149.86.203.217",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Santa Margherita d'Adige",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.58,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 5894.13,
-    "last_checked": 1783246688.3558874
-  },
-  {
-    "protocol": "http",
-    "ip": "194.183.1.205",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Rome",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 22.24,
-    "asn": "AS5394",
-    "isp": "UNIDATA S.p.A.",
-    "latency_ms": 9425.87,
-    "last_checked": 1783246672.7838266
+    "uptime_percent": 22.64,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 12316.46,
+    "last_checked": 1783247253.5854886
   },
   {
     "protocol": "socks5",
@@ -146,7 +131,7 @@
     "uptime_percent": 99.87,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 411.8,
-    "last_checked": 1783246793.7163582
+    "latency_ms": 640.63,
+    "last_checked": 1783247367.658092
   }
 ]
