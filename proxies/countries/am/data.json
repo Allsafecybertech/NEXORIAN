@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.02,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 292.83,
+    "last_checked": 1783265959.4061015
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.142.195.110",
     "port": 995,
     "country": "Armenia",
@@ -11,23 +26,23 @@
     "uptime_percent": 41.85,
     "asn": "AS215929",
     "isp": "Data Campus Limited",
-    "latency_ms": 3180.23,
-    "last_checked": 1783265386.3294566
+    "latency_ms": 11277.64,
+    "last_checked": 1783265958.544729
   },
   {
-    "protocol": "socks5",
-    "ip": "45.142.195.110",
-    "port": 995,
+    "protocol": "socks4",
+    "ip": "2.56.204.180",
+    "port": 1080,
     "country": "Armenia",
     "country_code": "AM",
-    "city": "Yerevan",
+    "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 35.34,
-    "asn": "AS215929",
-    "isp": "Data Campus Limited",
-    "latency_ms": 7661.64,
-    "last_checked": 1783265367.9433856
+    "uptime_percent": 93.78,
+    "asn": "AS216058",
+    "isp": "Proitlab LLC",
+    "latency_ms": 1775.81,
+    "last_checked": 1783265950.8683898
   },
   {
     "protocol": "socks5",
@@ -38,11 +53,26 @@
     "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.39,
+    "uptime_percent": 91.41,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 12420.53,
-    "last_checked": 1783265355.484268
+    "latency_ms": 2835.51,
+    "last_checked": 1783265950.3286574
+  },
+  {
+    "protocol": "http",
+    "ip": "5.77.252.205",
+    "port": 8080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.47,
+    "asn": "AS44395",
+    "isp": "Ucom Mobile Network",
+    "latency_ms": 3011.6,
+    "last_checked": 1783265912.9138262
   },
   {
     "protocol": "http",
@@ -53,10 +83,10 @@
     "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.69,
+    "uptime_percent": 86.61,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 18488.37,
-    "last_checked": 1783265334.577552
+    "latency_ms": 9507.59,
+    "last_checked": 1783265867.071892
   }
 ]
