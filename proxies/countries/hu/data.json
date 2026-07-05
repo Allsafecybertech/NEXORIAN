@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "79.172.212.71",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "178.48.13.177",
+    "port": 80,
     "country": "Hungary",
     "country_code": "HU",
     "city": "Budapest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 16.41,
-    "asn": "AS61998",
-    "isp": "Szerverplex Kft",
-    "latency_ms": 101.57,
-    "last_checked": 1783235374.5130398
+    "uptime_percent": 44.82,
+    "asn": "AS21334",
+    "isp": "UPC",
+    "latency_ms": 183.99,
+    "last_checked": 1783235944.8839736
   },
   {
     "protocol": "http",
@@ -22,12 +22,27 @@
     "country_code": "HU",
     "city": "Miskolc",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 66.39,
+    "ssl": true,
+    "uptime_percent": 66.94,
     "asn": "AS20845",
     "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-    "latency_ms": 5598.17,
-    "last_checked": 1783235311.6118965
+    "latency_ms": 2350.09,
+    "last_checked": 1783235944.2943485
+  },
+  {
+    "protocol": "socks5",
+    "ip": "79.172.212.71",
+    "port": 1080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.43,
+    "asn": "AS61998",
+    "isp": "Szerverplex Kft",
+    "latency_ms": 96.98,
+    "last_checked": 1783235888.6608067
   },
   {
     "protocol": "http",
@@ -37,11 +52,11 @@
     "country_code": "HU",
     "city": "Budapest",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 26.21,
     "asn": "AS47169",
     "isp": "Pro-M Zrt.",
-    "latency_ms": 6669.97,
-    "last_checked": 1783235267.091859
+    "latency_ms": 4735.07,
+    "last_checked": 1783235941.3178997
   }
 ]
