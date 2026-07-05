@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Arezzo",
+    "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.35,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 16142.79,
-    "last_checked": 1783272223.455345
+    "uptime_percent": 87.45,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 1695.75,
+    "last_checked": 1783272881.7487488
   },
   {
     "protocol": "socks5",
@@ -23,11 +23,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.82,
+    "uptime_percent": 85.83,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2687.13,
-    "last_checked": 1783272221.3836696
+    "latency_ms": 708.88,
+    "last_checked": 1783272867.5494025
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.59.248.134",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.46,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 2120.27,
+    "last_checked": 1783272860.8346026
   },
   {
     "protocol": "http",
@@ -37,27 +52,12 @@
     "country_code": "IT",
     "city": "Arezzo",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 8.71,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 13875.9,
-    "last_checked": 1783272192.2119076
-  },
-  {
-    "protocol": "http",
-    "ip": "185.211.83.248",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Ragusa",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 53.7,
-    "asn": "AS198380",
-    "isp": "NOVAQUADRI-PRT",
-    "latency_ms": 5497.57,
-    "last_checked": 1783272156.125637
+    "latency_ms": 8668.13,
+    "last_checked": 1783272846.3128235
   },
   {
     "protocol": "socks5",
@@ -71,7 +71,7 @@
     "uptime_percent": 99.86,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 222.33,
-    "last_checked": 1783272205.5466516
+    "latency_ms": 220.71,
+    "last_checked": 1783272844.7157629
   }
 ]
