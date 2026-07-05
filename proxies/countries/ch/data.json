@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "195.225.116.14",
-    "port": 4145,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Wädenswil",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.5,
-    "asn": "AS48971",
-    "isp": "netz116",
-    "latency_ms": 3123.38,
-    "last_checked": 1783252444.889715
-  },
-  {
-    "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
     "country": "Switzerland",
@@ -26,8 +11,8 @@
     "uptime_percent": 88.61,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1546.19,
-    "last_checked": 1783252431.6657398
+    "latency_ms": 1279.28,
+    "last_checked": 1783252760.9124372
   },
   {
     "protocol": "socks4",
@@ -38,11 +23,11 @@
     "city": "Geneva",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.44,
+    "uptime_percent": 24.45,
     "asn": "AS199058",
     "isp": "Serva ONE LTD",
-    "latency_ms": 9453.58,
-    "last_checked": 1783252431.2296526
+    "latency_ms": 787.98,
+    "last_checked": 1783252756.3976967
   },
   {
     "protocol": "http",
@@ -56,23 +41,23 @@
     "uptime_percent": 100.0,
     "asn": "AS3303",
     "isp": "Swisscom (Schweiz) AG",
-    "latency_ms": 484.35,
-    "last_checked": 1783252395.8414607
+    "latency_ms": 55.4,
+    "last_checked": 1783252733.9817321
   },
   {
-    "protocol": "http",
-    "ip": "45.95.232.35",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Zurich",
+    "city": "Wädenswil",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.23,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3857.6,
-    "last_checked": 1783252373.2454622
+    "uptime_percent": 44.58,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 77.2,
+    "last_checked": 1783252727.6322742
   },
   {
     "protocol": "socks5",
@@ -86,7 +71,37 @@
     "uptime_percent": 87.88,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 8532.12,
-    "last_checked": 1783252313.8267486
+    "latency_ms": 1513.78,
+    "last_checked": 1783252722.9683912
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.03,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 848.33,
+    "last_checked": 1783252722.9512267
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 74.23,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 4357.08,
+    "last_checked": 1783252684.7521462
   }
 ]
