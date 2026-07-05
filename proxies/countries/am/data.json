@@ -1,33 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.103.248.58",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
     "country": "Armenia",
     "country_code": "AM",
     "city": "Yerevan",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 38.62,
-    "asn": "AS201884",
-    "isp": "ISP SUPPORT LLC",
-    "latency_ms": 10633.23,
-    "last_checked": 1783232835.5780737
+    "ssl": true,
+    "uptime_percent": 21.94,
+    "asn": "AS49800",
+    "isp": "GNC",
+    "latency_ms": 3323.23,
+    "last_checked": 1783233592.669657
   },
   {
-    "protocol": "socks5",
-    "ip": "2.56.204.180",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "91.204.190.140",
+    "port": 81,
     "country": "Armenia",
     "country_code": "AM",
-    "city": "Arinj",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 92.7,
-    "asn": "AS216058",
-    "isp": "Proitlab LLC",
-    "latency_ms": 361.04,
-    "last_checked": 1783232993.5896053
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.53,
+    "asn": "AS42991",
+    "isp": "BioNet LLC",
+    "latency_ms": 11247.0,
+    "last_checked": 1783233481.5709326
   },
   {
     "protocol": "socks4",
@@ -41,8 +41,8 @@
     "uptime_percent": 95.74,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 241.43,
-    "last_checked": 1783232990.3269055
+    "latency_ms": 5833.18,
+    "last_checked": 1783233589.8056865
   },
   {
     "protocol": "http",
@@ -53,10 +53,40 @@
     "city": "Arinj",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.96,
+    "uptime_percent": 90.08,
     "asn": "AS216058",
     "isp": "Proitlab LLC",
-    "latency_ms": 332.25,
-    "last_checked": 1783232865.9779625
+    "latency_ms": 11211.26,
+    "last_checked": 1783233585.607335
+  },
+  {
+    "protocol": "socks5",
+    "ip": "2.56.204.180",
+    "port": 1080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Arinj",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 92.79,
+    "asn": "AS216058",
+    "isp": "Proitlab LLC",
+    "latency_ms": 10416.65,
+    "last_checked": 1783233552.7656128
+  },
+  {
+    "protocol": "http",
+    "ip": "5.77.252.205",
+    "port": 8080,
+    "country": "Armenia",
+    "country_code": "AM",
+    "city": "Yerevan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.34,
+    "asn": "AS44395",
+    "isp": "Ucom Mobile Network",
+    "latency_ms": 3657.77,
+    "last_checked": 1783233480.6518104
   }
 ]
