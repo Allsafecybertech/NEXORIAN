@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "90.178.216.215",
+    "ip": "109.108.126.166",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Lanškroun",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 82.6,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 189.12,
+    "last_checked": 1783266576.945791
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.40.80.143",
     "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
+    "city": "Klatovy",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.48,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 449.91,
-    "last_checked": 1783265957.9560175
+    "uptime_percent": 6.03,
+    "asn": "AS210712",
+    "isp": "Airweb",
+    "latency_ms": 7287.76,
+    "last_checked": 1783266563.9664216
   },
   {
     "protocol": "http",
@@ -26,7 +41,37 @@
     "uptime_percent": 84.17,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 625.96,
-    "last_checked": 1783265885.5450711
+    "latency_ms": 4474.87,
+    "last_checked": 1783266541.6223104
+  },
+  {
+    "protocol": "http",
+    "ip": "109.164.35.23",
+    "port": 8888,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Humpolec",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 21.23,
+    "asn": "AS44489",
+    "isp": "STARNET, s.r.o.",
+    "latency_ms": 3202.18,
+    "last_checked": 1783266517.76988
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.03,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 7087.04,
+    "last_checked": 1783266506.346174
   }
 ]
