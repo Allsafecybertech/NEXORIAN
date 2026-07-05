@@ -1,6 +1,21 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.67,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 2729.1,
+    "last_checked": 1783265386.7357872
+  },
+  {
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +23,41 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.58,
+    "uptime_percent": 41.34,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 27439.25,
-    "last_checked": 1783264768.9001179
+    "latency_ms": 9508.58,
+    "last_checked": 1783265355.3042119
+  },
+  {
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.83,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 12983.03,
+    "last_checked": 1783265272.1400769
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 32.71,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 2998.19,
+    "last_checked": 1783265254.3018425
   },
   {
     "protocol": "http",
@@ -26,7 +71,7 @@
     "uptime_percent": 27.1,
     "asn": "AS4764",
     "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 938.15,
-    "last_checked": 1783264634.354011
+    "latency_ms": 12192.69,
+    "last_checked": 1783265239.3351002
   }
 ]
