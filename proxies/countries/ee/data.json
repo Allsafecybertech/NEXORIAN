@@ -1,18 +1,18 @@
 [
   {
     "protocol": "socks4",
-    "ip": "5.181.23.213",
-    "port": 8443,
+    "ip": "185.157.111.3",
+    "port": 5678,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
+    "city": "Parksepa",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.46,
-    "asn": "",
-    "isp": "WorkTitans B.V",
-    "latency_ms": 3167.32,
-    "last_checked": 1783212558.5449357
+    "uptime_percent": 83.72,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 3619.23,
+    "last_checked": 1783213164.4511251
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 66.37,
+    "uptime_percent": 66.38,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 160.65,
-    "last_checked": 1783212556.7739422
+    "latency_ms": 163.79,
+    "last_checked": 1783213155.592443
   },
   {
     "protocol": "http",
@@ -37,57 +37,12 @@
     "country_code": "EE",
     "city": "Tallinn",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 16.71,
+    "ssl": true,
+    "uptime_percent": 16.76,
     "asn": "",
     "isp": "WorkTitans B.V",
-    "latency_ms": 3180.46,
-    "last_checked": 1783212547.5901208
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.101.181.130",
-    "port": 1081,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.08,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 198.7,
-    "last_checked": 1783212547.5204055
-  },
-  {
-    "protocol": "http",
-    "ip": "5.45.127.203",
-    "port": 9090,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 21.73,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 3389.43,
-    "last_checked": 1783212471.8205676
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.45.125.201",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 64.16,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 458.74,
-    "last_checked": 1783212437.9439123
+    "latency_ms": 1151.36,
+    "last_checked": 1783213152.5111103
   },
   {
     "protocol": "socks5",
@@ -101,7 +56,52 @@
     "uptime_percent": 90.64,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 240.45,
-    "last_checked": 1783212432.6921434
+    "latency_ms": 195.23,
+    "last_checked": 1783213111.4846382
+  },
+  {
+    "protocol": "http",
+    "ip": "5.101.114.63",
+    "port": 8880,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 23.85,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 13359.43,
+    "last_checked": 1783213105.8420815
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.101.181.130",
+    "port": 1081,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.87,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 2055.42,
+    "last_checked": 1783213091.3415656
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.17,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 212.88,
+    "last_checked": 1783213058.38914
   }
 ]
