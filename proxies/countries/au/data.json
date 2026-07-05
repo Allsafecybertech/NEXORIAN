@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Albury",
-    "anonymity": "anonymous",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.67,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 2252.53,
+    "last_checked": 1783250062.240729
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.52,
-    "asn": "AS2764",
-    "isp": "AAPT Limited",
-    "latency_ms": 5700.74,
-    "last_checked": 1783249735.777995
+    "uptime_percent": 32.69,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 4160.86,
+    "last_checked": 1783250048.7366333
+  },
+  {
+    "protocol": "http",
+    "ip": "103.131.232.9",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Goulburn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.97,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 12712.09,
+    "last_checked": 1783250047.6678982
   },
   {
     "protocol": "http",
@@ -22,12 +52,12 @@
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 30.79,
     "asn": "AS134371",
     "isp": "Circle Network",
-    "latency_ms": 4695.62,
-    "last_checked": 1783249694.7093334
+    "latency_ms": 8393.71,
+    "last_checked": 1783250029.3982308
   },
   {
     "protocol": "http",
@@ -41,22 +71,7 @@
     "uptime_percent": 42.1,
     "asn": "AS141995",
     "isp": "Contabo Asia Private Limited",
-    "latency_ms": 12374.04,
-    "last_checked": 1783249693.3329482
-  },
-  {
-    "protocol": "http",
-    "ip": "103.249.237.158",
-    "port": 8888,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 35.2,
-    "asn": "AS133159",
-    "isp": "Mammoth Media Pty Ltd",
-    "latency_ms": 14611.42,
-    "last_checked": 1783249656.5892286
+    "latency_ms": 20647.72,
+    "last_checked": 1783249928.5064962
   }
 ]
