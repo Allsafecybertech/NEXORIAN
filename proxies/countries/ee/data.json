@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Parksepa",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.13,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 3635.76,
-    "last_checked": 1783278848.5412757
-  },
-  {
     "protocol": "socks5",
     "ip": "5.45.118.209",
     "port": 1080,
@@ -26,23 +11,23 @@
     "uptime_percent": 90.37,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 189.76,
-    "last_checked": 1783278837.36092
+    "latency_ms": 199.51,
+    "last_checked": 1783279486.685475
   },
   {
-    "protocol": "socks5",
-    "ip": "95.85.242.7",
-    "port": 9050,
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Tallinn",
+    "city": "Parksepa",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 24.84,
-    "asn": "AS209693",
-    "isp": "OC NETWORKS LIMITED",
-    "latency_ms": 21111.75,
-    "last_checked": 1783278829.5375733
+    "uptime_percent": 78.04,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 7364.02,
+    "last_checked": 1783279473.3630962
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,25 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.49,
+    "uptime_percent": 49.43,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 5131.73,
-    "last_checked": 1783278817.7619169
+    "latency_ms": 228.54,
+    "last_checked": 1783279430.2670739
+  },
+  {
+    "protocol": "http",
+    "ip": "5.45.126.165",
+    "port": 13215,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 39.72,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 21456.41,
+    "last_checked": 1783279401.9239495
   }
 ]
