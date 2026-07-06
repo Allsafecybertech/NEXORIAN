@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "91.235.234.226",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.67,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 3971.96,
-    "last_checked": 1783320593.4849908
-  },
-  {
-    "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
@@ -26,11 +11,11 @@
     "uptime_percent": 66.88,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 5240.67,
-    "last_checked": 1783320590.6189668
+    "latency_ms": 3186.69,
+    "last_checked": 1783321186.250891
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "91.235.234.226",
     "port": 1080,
     "country": "Estonia",
@@ -38,11 +23,26 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 83.33,
+    "uptime_percent": 72.15,
     "asn": "AS62005",
     "isp": "BlueVPS OU",
-    "latency_ms": 9442.94,
-    "last_checked": 1783320572.2697954
+    "latency_ms": 12471.55,
+    "last_checked": 1783321171.001185
+  },
+  {
+    "protocol": "http",
+    "ip": "5.101.114.63",
+    "port": 8880,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 15.62,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 10151.7,
+    "last_checked": 1783321162.6478183
   },
   {
     "protocol": "socks5",
@@ -53,25 +53,10 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.58,
+    "uptime_percent": 90.59,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 421.0,
-    "last_checked": 1783320557.4660144
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Parksepa",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 75.72,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 1240.24,
-    "last_checked": 1783320600.245325
+    "latency_ms": 414.17,
+    "last_checked": 1783321145.1971827
   }
 ]
