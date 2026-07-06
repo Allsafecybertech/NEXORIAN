@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.68,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 5555.4,
+    "last_checked": 1783362563.0384796
+  },
+  {
+    "protocol": "http",
+    "ip": "103.131.232.9",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Goulburn",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 23.06,
+    "asn": "AS45447",
+    "isp": "YLess4U Pty Ltd",
+    "latency_ms": 5777.64,
+    "last_checked": 1783362548.3038871
+  },
+  {
     "protocol": "http",
     "ip": "159.196.182.72",
     "port": 8080,
@@ -8,10 +38,25 @@
     "city": "Melbourne",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.1,
+    "uptime_percent": 27.11,
     "asn": "AS4764",
     "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 3819.65,
-    "last_checked": 1783361949.426131
+    "latency_ms": 1563.47,
+    "last_checked": 1783362546.817431
+  },
+  {
+    "protocol": "http",
+    "ip": "103.249.237.158",
+    "port": 8888,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 34.37,
+    "asn": "AS133159",
+    "isp": "Mammoth Media Pty Ltd",
+    "latency_ms": 7531.28,
+    "last_checked": 1783362490.9522722
   }
 ]
