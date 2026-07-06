@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.68,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 1210.55,
+    "last_checked": 1783304073.546735
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Parksepa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 76.68,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 189.02,
+    "last_checked": 1783304062.058038
+  },
+  {
     "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
@@ -11,8 +41,8 @@
     "uptime_percent": 66.78,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 2217.46,
-    "last_checked": 1783303493.0280466
+    "latency_ms": 9416.95,
+    "last_checked": 1783304053.8868601
   },
   {
     "protocol": "socks5",
@@ -26,22 +56,37 @@
     "uptime_percent": 90.5,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 186.87,
-    "last_checked": 1783303486.8675601
+    "latency_ms": 251.67,
+    "last_checked": 1783304049.5918534
   },
   {
-    "protocol": "socks5",
-    "ip": "5.45.125.201",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "5.45.127.203",
+    "port": 9090,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 64.68,
+    "uptime_percent": 21.33,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 8634.11,
-    "last_checked": 1783303449.335228
+    "latency_ms": 9197.94,
+    "last_checked": 1783304041.1011686
+  },
+  {
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 16.23,
+    "asn": "AS211211",
+    "isp": "IT-Develop DOO",
+    "latency_ms": 3430.05,
+    "last_checked": 1783303893.2669775
   }
 ]
