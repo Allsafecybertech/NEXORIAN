@@ -1,32 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "52.214.254.156",
-    "port": 3128,
-    "country": "Ireland",
-    "country_code": "IE",
-    "city": "Dublin",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 85.14,
-    "asn": "AS16509",
-    "isp": "Amazon.com, Inc.",
-    "latency_ms": 13703.06,
-    "last_checked": 1783324763.7119017
-  },
-  {
-    "protocol": "http",
     "ip": "40.127.188.42",
     "port": 8089,
     "country": "Ireland",
     "country_code": "IE",
     "city": "Dublin",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 99.59,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 153.99,
-    "last_checked": 1783324751.9290164
+    "latency_ms": 143.95,
+    "last_checked": 1783325379.9692657
+  },
+  {
+    "protocol": "http",
+    "ip": "172.205.123.178",
+    "port": 3128,
+    "country": "Ireland",
+    "country_code": "IE",
+    "city": "Dublin",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 38.32,
+    "asn": "AS8075",
+    "isp": "Microsoft",
+    "latency_ms": 10909.84,
+    "last_checked": 1783325376.9601233
   }
 ]
