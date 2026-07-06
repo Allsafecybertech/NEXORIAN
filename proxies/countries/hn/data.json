@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Ciudad Choluteca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.3,
+    "asn": "AS27884",
+    "isp": "Cablecolor S.A.",
+    "latency_ms": 5183.58,
+    "last_checked": 1783357474.204087
+  },
+  {
     "protocol": "http",
     "ip": "181.78.44.63",
     "port": 999,
@@ -7,26 +22,41 @@
     "country_code": "HN",
     "city": "La Unión",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 53.47,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 8494.76,
-    "last_checked": 1783356855.9458811
+    "latency_ms": 4793.38,
+    "last_checked": 1783357470.8763828
   },
   {
     "protocol": "http",
-    "ip": "80.80.91.132",
+    "ip": "179.49.113.230",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "Tegucigalpa",
+    "city": "Comayagua",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 19.74,
+    "asn": "AS262234",
+    "isp": "Asociacion De Servicio De Internet S. De RL",
+    "latency_ms": 6356.9,
+    "last_checked": 1783357463.9381456
+  },
+  {
+    "protocol": "http",
+    "ip": "181.115.65.196",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 43.2,
-    "asn": "AS273189",
-    "isp": "CA NETWORKS S.A. DE C.V.",
-    "latency_ms": 9413.08,
-    "last_checked": 1783356841.1808093
+    "uptime_percent": 4.73,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 16878.35,
+    "last_checked": 1783357435.2892644
   }
 ]
