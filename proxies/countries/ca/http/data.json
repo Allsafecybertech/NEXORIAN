@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "54.39.28.106",
+    "port": 8082,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 39.04,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 2423.44,
+    "last_checked": 1783308558.9800792
+  },
+  {
+    "protocol": "http",
     "ip": "54.39.154.107",
     "port": 8082,
     "country": "Canada",
     "country_code": "CA",
     "city": "Beauharnois",
     "anonymity": "anonymous",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 21.36,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11457.34,
-    "last_checked": 1783307936.4198923
+    "latency_ms": 5721.91,
+    "last_checked": 1783308518.3016722
   },
   {
     "protocol": "http",
@@ -22,27 +37,12 @@
     "country_code": "CA",
     "city": "Toronto",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 32.14,
+    "ssl": false,
+    "uptime_percent": 32.16,
     "asn": "AS136258",
     "isp": "BrainStorm Network, Inc",
-    "latency_ms": 250.17,
-    "last_checked": 1783307929.6805646
-  },
-  {
-    "protocol": "http",
-    "ip": "158.69.60.88",
-    "port": 3128,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 9.01,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 2399.04,
-    "last_checked": 1783307806.9475727
+    "latency_ms": 1256.52,
+    "last_checked": 1783308517.0401301
   },
   {
     "protocol": "http",
@@ -56,7 +56,22 @@
     "uptime_percent": 26.94,
     "asn": "AS852",
     "isp": "TELUS Communications Inc.",
-    "latency_ms": 15246.88,
-    "last_checked": 1783307921.535902
+    "latency_ms": 13462.45,
+    "last_checked": 1783308554.1252224
+  },
+  {
+    "protocol": "http",
+    "ip": "20.151.20.143",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Toronto",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.09,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 9785.34,
+    "last_checked": 1783308548.3339412
   }
 ]

@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 84.19,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 38.59,
+    "last_checked": 1783308596.8132677
+  },
+  {
+    "protocol": "http",
     "ip": "109.164.35.23",
     "port": 8888,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Humpolec",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 22.08,
+    "ssl": false,
+    "uptime_percent": 22.87,
     "asn": "AS44489",
     "isp": "STARNET, s.r.o.",
-    "latency_ms": 66.54,
-    "last_checked": 1783307934.821468
+    "latency_ms": 3068.02,
+    "last_checked": 1783308560.4279294
   },
   {
     "protocol": "http",
@@ -26,8 +41,23 @@
     "uptime_percent": 7.98,
     "asn": "AS201476",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 4464.51,
-    "last_checked": 1783307909.3271148
+    "latency_ms": 13059.02,
+    "last_checked": 1783308544.9370058
+  },
+  {
+    "protocol": "http",
+    "ip": "193.179.52.197",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.86,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 1766.13,
+    "last_checked": 1783308544.4124515
   },
   {
     "protocol": "http",
@@ -37,26 +67,41 @@
     "country_code": "CZ",
     "city": "Pilsen",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 15.99,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 16834.82,
-    "last_checked": 1783307888.93574
+    "latency_ms": 6921.65,
+    "last_checked": 1783308509.4441159
   },
   {
     "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "ip": "185.82.238.42",
+    "port": 8888,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
+    "city": "Šebetov",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 8.36,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 8222.13,
+    "last_checked": 1783308484.3470902
+  },
+  {
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Pilsen",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 84.19,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 9345.41,
-    "last_checked": 1783307835.3631504
+    "uptime_percent": 28.15,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 6668.77,
+    "last_checked": 1783308582.7005136
   }
 ]
