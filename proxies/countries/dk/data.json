@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "194.150.110.134",
+    "port": 80,
+    "country": "Denmark",
+    "country_code": "DK",
+    "city": "Taastrup",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 68.32,
+    "asn": "AS31590",
+    "isp": "Modulweb ApS",
+    "latency_ms": 53.18,
+    "last_checked": 1783351766.5857444
+  },
+  {
     "protocol": "socks4",
     "ip": "168.222.43.82",
     "port": 9090,
@@ -8,10 +23,25 @@
     "city": "Copenhagen",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.76,
+    "uptime_percent": 71.46,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 10586.69,
-    "last_checked": 1783351165.275481
+    "latency_ms": 14468.7,
+    "last_checked": 1783351758.6168394
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.222.43.82",
+    "port": 9090,
+    "country": "Denmark",
+    "country_code": "DK",
+    "city": "Copenhagen",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 77.63,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 14364.4,
+    "last_checked": 1783351696.5756705
   }
 ]
