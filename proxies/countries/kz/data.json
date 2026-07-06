@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "46.8.31.104",
+    "ip": "91.246.81.230",
     "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Karaganda",
+    "city": "Astana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 36.04,
-    "asn": "AS203087",
-    "isp": "PE Fedinyak Sergey Vyacheslavovich",
-    "latency_ms": 1666.19,
-    "last_checked": 1783358976.5349715
+    "uptime_percent": 53.1,
+    "asn": "AS41798",
+    "isp": "JSC Transtelecom",
+    "latency_ms": 460.37,
+    "last_checked": 1783359579.9857845
+  },
+  {
+    "protocol": "socks5",
+    "ip": "199.189.255.230",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.12,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 7926.5,
+    "last_checked": 1783359574.486922
   },
   {
     "protocol": "socks4",
@@ -23,11 +38,11 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 56.42,
+    "uptime_percent": 56.43,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 8708.23,
-    "last_checked": 1783358967.9412653
+    "latency_ms": 16640.21,
+    "last_checked": 1783359567.2925313
   },
   {
     "protocol": "http",
@@ -38,11 +53,26 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 51.71,
+    "uptime_percent": 51.75,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 7749.41,
-    "last_checked": 1783358945.5690932
+    "latency_ms": 6489.71,
+    "last_checked": 1783359545.599876
+  },
+  {
+    "protocol": "http",
+    "ip": "178.170.221.75",
+    "port": 8443,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 22.77,
+    "asn": "AS48096",
+    "isp": "ALM",
+    "latency_ms": 14127.12,
+    "last_checked": 1783359544.435816
   },
   {
     "protocol": "http",
@@ -56,68 +86,8 @@
     "uptime_percent": 98.65,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 956.5,
-    "last_checked": 1783358943.7345936
-  },
-  {
-    "protocol": "socks4",
-    "ip": "176.12.72.62",
-    "port": 1080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 34.9,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 4393.9,
-    "last_checked": 1783358937.731278
-  },
-  {
-    "protocol": "http",
-    "ip": "91.229.151.118",
-    "port": 8080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Shymkent",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 26.28,
-    "asn": "AS202293",
-    "isp": "D-Cloud LLC",
-    "latency_ms": 711.32,
-    "last_checked": 1783358927.7245622
-  },
-  {
-    "protocol": "http",
-    "ip": "176.12.72.62",
-    "port": 3128,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 20.27,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 966.16,
-    "last_checked": 1783358922.403229
-  },
-  {
-    "protocol": "socks5",
-    "ip": "213.148.6.12",
-    "port": 7777,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 47.92,
-    "asn": "AS48988",
-    "isp": "Modern Server Solutions LLP",
-    "latency_ms": 8053.01,
-    "last_checked": 1783358982.1961436
+    "latency_ms": 901.12,
+    "last_checked": 1783359490.7311997
   },
   {
     "protocol": "socks5",
@@ -128,10 +98,10 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 46.63,
+    "uptime_percent": 46.67,
     "asn": "AS48988",
     "isp": "Modern Server Solutions LLP",
-    "latency_ms": 708.05,
-    "last_checked": 1783358952.1199787
+    "latency_ms": 3718.64,
+    "last_checked": 1783359532.263611
   }
 ]
