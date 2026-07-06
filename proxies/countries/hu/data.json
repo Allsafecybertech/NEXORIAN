@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "46.107.113.182",
-    "port": 18080,
+    "protocol": "socks4",
+    "ip": "81.183.231.55",
+    "port": 80,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Dunaújváros",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 31.93,
+    "city": "Budapest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 46.78,
     "asn": "AS5483",
     "isp": "Magyar Telekom",
-    "latency_ms": 6856.56,
-    "last_checked": 1783319602.5645697
+    "latency_ms": 184.31,
+    "last_checked": 1783320285.5373373
+  },
+  {
+    "protocol": "http",
+    "ip": "84.236.28.215",
+    "port": 8080,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Miskolc",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 42.02,
+    "asn": "AS20845",
+    "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+    "latency_ms": 6417.01,
+    "last_checked": 1783320223.8481739
   }
 ]
