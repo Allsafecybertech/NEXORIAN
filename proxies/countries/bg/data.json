@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "78.130.246.65",
-    "port": 1881,
+    "protocol": "socks4",
+    "ip": "77.85.229.100",
+    "port": 4153,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Plovdiv",
+    "city": "Gŭlŭbovo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.49,
+    "asn": "AS8866",
+    "isp": "BERGON",
+    "latency_ms": 1230.19,
+    "last_checked": 1783376691.629642
+  },
+  {
+    "protocol": "http",
+    "ip": "87.126.65.11",
+    "port": 1388,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Stara Zagora",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 7.2,
-    "asn": "AS9070",
-    "isp": "\"Cooolbox\" AD",
-    "latency_ms": 6258.92,
-    "last_checked": 1783376017.7984684
+    "uptime_percent": 5.94,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 11621.07,
+    "last_checked": 1783376666.7598925
   },
   {
     "protocol": "socks5",
@@ -23,26 +38,11 @@
     "city": "Pleven",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.63,
+    "uptime_percent": 54.64,
     "asn": "AS197897",
     "isp": "5KOM",
-    "latency_ms": 7356.18,
-    "last_checked": 1783376008.806672
-  },
-  {
-    "protocol": "http",
-    "ip": "46.10.209.230",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.46,
-    "asn": "AS8866",
-    "isp": "BTC-BROADBAND",
-    "latency_ms": 10021.81,
-    "last_checked": 1783375999.7447517
+    "latency_ms": 231.45,
+    "last_checked": 1783376663.7755601
   },
   {
     "protocol": "http",
@@ -56,22 +56,37 @@
     "uptime_percent": 47.6,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 4368.21,
-    "last_checked": 1783375990.7139971
+    "latency_ms": 5274.37,
+    "last_checked": 1783376651.5601926
   },
   {
     "protocol": "http",
-    "ip": "85.196.179.34",
+    "ip": "193.68.115.14",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
+    "city": "Ablanitsa",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 11.18,
-    "asn": "AS29580",
-    "isp": "Mobiltel BNG",
-    "latency_ms": 7555.72,
-    "last_checked": 1783375838.6986318
+    "uptime_percent": 7.71,
+    "asn": "AS48584",
+    "isp": "Sarnica-Net LTD",
+    "latency_ms": 5405.54,
+    "last_checked": 1783376501.1559668
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.12",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.43,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 5771.17,
+    "last_checked": 1783376575.4164567
   }
 ]
