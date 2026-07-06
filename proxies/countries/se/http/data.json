@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
+    "ip": "195.72.61.78",
+    "port": 3128,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 72.71,
-    "asn": "AS206170",
-    "isp": "Yelles AB",
-    "latency_ms": 3391.61,
-    "last_checked": 1783357750.2048025
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.52,
+    "asn": "AS215960",
+    "isp": "Hollander & Jacobsen UG (haftungsbeschraenkt)",
+    "latency_ms": 20924.17,
+    "last_checked": 1783358349.6535957
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 80.21,
+    "uptime_percent": 80.22,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 15847.73,
-    "last_checked": 1783357708.4802742
+    "latency_ms": 10865.19,
+    "last_checked": 1783358308.9463844
+  },
+  {
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 80,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 72.71,
+    "asn": "AS206170",
+    "isp": "Yelles AB",
+    "latency_ms": 6923.66,
+    "last_checked": 1783358246.6219623
   }
 ]
