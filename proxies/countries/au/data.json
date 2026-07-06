@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "159.196.182.72",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 27.11,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 10825.84,
-    "last_checked": 1783379634.2625313
-  },
-  {
-    "protocol": "http",
-    "ip": "203.23.238.21",
-    "port": 80,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Canberra",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 29.77,
-    "asn": "AS18390",
-    "isp": "Spintel Pty Ltd",
-    "latency_ms": 702.78,
-    "last_checked": 1783379603.3797562
-  },
-  {
     "protocol": "socks5",
     "ip": "103.248.47.230",
     "port": 1080,
@@ -41,7 +11,22 @@
     "uptime_percent": 44.36,
     "asn": "AS133417",
     "isp": "Dicker Data Ltd",
-    "latency_ms": 8813.88,
-    "last_checked": 1783379590.97161
+    "latency_ms": 8906.46,
+    "last_checked": 1783380268.3504057
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.54,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 2752.1,
+    "last_checked": 1783380225.5026958
   }
 ]
