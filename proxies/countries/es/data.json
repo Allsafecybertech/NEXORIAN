@@ -1,18 +1,48 @@
 [
   {
     "protocol": "socks4",
-    "ip": "83.56.15.57",
-    "port": 5678,
+    "ip": "65.20.105.241",
+    "port": 10001,
     "country": "Spain",
     "country_code": "ES",
-    "city": "San Fernando de Henares",
+    "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.78,
-    "asn": "AS3352",
-    "isp": "Telefonica de Espana SAU",
-    "latency_ms": 1222.49,
-    "last_checked": 1783336798.4233718
+    "uptime_percent": 42.42,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 3218.17,
+    "last_checked": 1783337044.272191
+  },
+  {
+    "protocol": "socks5",
+    "ip": "65.20.105.241",
+    "port": 10001,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.24,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 175.09,
+    "last_checked": 1783337043.0362573
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.97.79.114",
+    "port": 8443,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 37.01,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 1924.75,
+    "last_checked": 1783337006.6363463
   },
   {
     "protocol": "socks4",
@@ -26,8 +56,8 @@
     "uptime_percent": 73.68,
     "asn": "AS8560",
     "isp": "arsys.es",
-    "latency_ms": 192.26,
-    "last_checked": 1783336794.6840577
+    "latency_ms": 242.9,
+    "last_checked": 1783337006.542093
   },
   {
     "protocol": "socks5",
@@ -38,41 +68,56 @@
     "city": "Madrid",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.79,
+    "uptime_percent": 75.8,
     "asn": "AS8560",
     "isp": "arsys.es",
-    "latency_ms": 301.38,
-    "last_checked": 1783336786.3650212
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.117.248.36",
-    "port": 1080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Olot",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.02,
-    "asn": "AS210086",
-    "isp": "Connecta 1876 SLU",
-    "latency_ms": 3212.47,
-    "last_checked": 1783336783.1972904
+    "latency_ms": 1508.95,
+    "last_checked": 1783337004.1834357
   },
   {
     "protocol": "http",
-    "ip": "91.126.244.112",
-    "port": 8080,
+    "ip": "81.0.49.104",
+    "port": 20500,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Sant Adrià de Besòs",
+    "city": "Valencia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.69,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 5501.17,
+    "last_checked": 1783337000.8217824
+  },
+  {
+    "protocol": "http",
+    "ip": "187.33.151.110",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Barcelona",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.38,
+    "asn": "AS49635",
+    "isp": "Cloudi Nextgen SL",
+    "latency_ms": 12075.25,
+    "last_checked": 1783336948.8490927
+  },
+  {
+    "protocol": "http",
+    "ip": "95.60.60.204",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Ibiza Town",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 54.9,
-    "asn": "AS35699",
-    "isp": "Adamo Telecom Iberia S.A Catalonia",
-    "latency_ms": 4648.85,
-    "last_checked": 1783336778.4359097
+    "uptime_percent": 50.45,
+    "asn": "AS12430",
+    "isp": "Vodafone Espana S.A.U.",
+    "latency_ms": 9795.33,
+    "last_checked": 1783336947.2292457
   },
   {
     "protocol": "http",
@@ -86,8 +131,23 @@
     "uptime_percent": 66.11,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 13505.55,
-    "last_checked": 1783336672.3717606
+    "latency_ms": 15343.89,
+    "last_checked": 1783336909.5879352
+  },
+  {
+    "protocol": "http",
+    "ip": "103.240.146.107",
+    "port": 6443,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 11.42,
+    "asn": "AS36007",
+    "isp": "Kamatera, Inc.",
+    "latency_ms": 3445.55,
+    "last_checked": 1783336905.5486724
   },
   {
     "protocol": "http",
@@ -101,7 +161,7 @@
     "uptime_percent": 72.57,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 129.46,
-    "last_checked": 1783336731.2955675
+    "latency_ms": 138.9,
+    "last_checked": 1783337077.270428
   }
 ]
