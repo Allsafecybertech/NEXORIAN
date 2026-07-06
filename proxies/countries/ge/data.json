@@ -1,23 +1,8 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.117.32.166",
-    "port": 4153,
-    "country": "Georgia",
-    "country_code": "GE",
-    "city": "Tbilisi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.88,
-    "asn": "AS20771",
-    "isp": "Caucasus Online Ltd.",
-    "latency_ms": 1275.29,
-    "last_checked": 1783367987.9459467
-  },
-  {
     "protocol": "http",
     "ip": "188.129.255.58",
-    "port": 80,
+    "port": 8080,
     "country": "Georgia",
     "country_code": "GE",
     "city": "Tbilisi",
@@ -26,23 +11,38 @@
     "uptime_percent": 8.47,
     "asn": "AS16010",
     "isp": "Caucasus Online LLC",
-    "latency_ms": 3704.59,
-    "last_checked": 1783367955.973992
+    "latency_ms": 5773.46,
+    "last_checked": 1783368575.3325796
   },
   {
     "protocol": "http",
-    "ip": "80.241.251.54",
+    "ip": "45.143.108.114",
     "port": 8080,
     "country": "Georgia",
     "country_code": "GE",
     "city": "Tbilisi",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 16.36,
-    "asn": "AS16010",
-    "isp": "Corporate",
-    "latency_ms": 1284.45,
-    "last_checked": 1783367932.9743352
+    "uptime_percent": 8.83,
+    "asn": "AS208320",
+    "isp": "Airmax LLC",
+    "latency_ms": 6475.31,
+    "last_checked": 1783368573.7089117
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.117.32.166",
+    "port": 4153,
+    "country": "Georgia",
+    "country_code": "GE",
+    "city": "Tbilisi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.83,
+    "asn": "AS20771",
+    "isp": "Caucasus Online Ltd.",
+    "latency_ms": 1282.83,
+    "last_checked": 1783368561.9021552
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "GE",
     "city": "Tbilisi",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.58,
+    "ssl": true,
+    "uptime_percent": 17.59,
     "asn": "AS20771",
     "isp": "Caucasus Online Ltd.",
-    "latency_ms": 11353.5,
-    "last_checked": 1783367841.2840955
+    "latency_ms": 4686.59,
+    "last_checked": 1783368545.9343095
+  },
+  {
+    "protocol": "http",
+    "ip": "45.143.108.118",
+    "port": 8080,
+    "country": "Georgia",
+    "country_code": "GE",
+    "city": "Tbilisi",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.42,
+    "asn": "AS208320",
+    "isp": "Airmax LLC",
+    "latency_ms": 4543.68,
+    "last_checked": 1783368489.1862388
   }
 ]
