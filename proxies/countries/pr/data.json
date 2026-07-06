@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "192.203.0.250",
+    "ip": "192.203.0.166",
     "port": 999,
     "country": "Puerto Rico",
     "country_code": "PR",
     "city": "Comunas",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 16.77,
+    "ssl": false,
+    "uptime_percent": 18.3,
     "asn": "AS63393",
     "isp": "Boom NET",
-    "latency_ms": 384.79,
-    "last_checked": 1783306796.4467847
+    "latency_ms": 3087.76,
+    "last_checked": 1783307358.7158518
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "PR",
     "city": "Guaynabo",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.76,
+    "ssl": true,
+    "uptime_percent": 25.96,
     "asn": "AS21559",
     "isp": "OSNET Wireless",
-    "latency_ms": 7473.59,
-    "last_checked": 1783306635.9970827
+    "latency_ms": 1403.53,
+    "last_checked": 1783307309.6990912
+  },
+  {
+    "protocol": "http",
+    "ip": "204.77.11.13",
+    "port": 999,
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "city": "Carolina",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.52,
+    "asn": "AS21559",
+    "isp": "FiberX",
+    "latency_ms": 13854.76,
+    "last_checked": 1783307313.787855
   }
 ]
