@@ -1,18 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "147.231.163.133",
-    "port": 80,
+    "ip": "91.139.78.174",
+    "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 84.28,
-    "asn": "AS2852",
-    "isp": "CESNET z.s.p.o.",
-    "latency_ms": 8198.83,
-    "last_checked": 1783444157.5162196
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 15.86,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 9974.53,
+    "last_checked": 1783444462.4278476
   },
   {
     "protocol": "http",
@@ -23,11 +23,26 @@
     "city": "Pilsen",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 27.92,
+    "uptime_percent": 27.93,
     "asn": "AS197296",
     "isp": "United Networks SE",
-    "latency_ms": 4108.42,
-    "last_checked": 1783444149.7327623
+    "latency_ms": 10008.8,
+    "last_checked": 1783444423.0119486
+  },
+  {
+    "protocol": "http",
+    "ip": "147.231.163.133",
+    "port": 80,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 84.29,
+    "asn": "AS2852",
+    "isp": "CESNET z.s.p.o.",
+    "latency_ms": 4003.63,
+    "last_checked": 1783444396.8678505
   },
   {
     "protocol": "http",
@@ -37,26 +52,11 @@
     "country_code": "CZ",
     "city": "Strážnice",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 12.22,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 8386.69,
-    "last_checked": 1783444142.9688108
-  },
-  {
-    "protocol": "http",
-    "ip": "90.181.120.18",
-    "port": 8082,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 29.07,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 9251.94,
-    "last_checked": 1783444101.9179676
+    "latency_ms": 1884.89,
+    "last_checked": 1783444395.0420623
   }
 ]
