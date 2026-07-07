@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.58,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 200.18,
-    "last_checked": 1783400097.6417196
-  },
-  {
-    "protocol": "socks4",
     "ip": "2.115.212.62",
     "port": 48293,
     "country": "Italy",
@@ -26,11 +11,11 @@
     "uptime_percent": 49.54,
     "asn": "AS3269",
     "isp": "Telecom Italia S.p.A",
-    "latency_ms": 9825.5,
-    "last_checked": 1783400093.6891837
+    "latency_ms": 2038.4,
+    "last_checked": 1783400667.6645498
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "149.62.186.244",
     "port": 1080,
     "country": "Italy",
@@ -38,11 +23,26 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.1,
+    "uptime_percent": 87.58,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 267.06,
-    "last_checked": 1783400079.9751115
+    "latency_ms": 2889.71,
+    "last_checked": 1783400658.5018747
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.25.12",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.24,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 10434.27,
+    "last_checked": 1783400649.9628675
   },
   {
     "protocol": "http",
@@ -53,11 +53,11 @@
     "city": "Palazzago",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 63.46,
+    "uptime_percent": 63.47,
     "asn": "AS210218",
     "isp": "Open Fiber S.P.A.",
-    "latency_ms": 1193.64,
-    "last_checked": 1783400064.9855125
+    "latency_ms": 1103.34,
+    "last_checked": 1783400646.4777772
   },
   {
     "protocol": "http",
@@ -71,38 +71,23 @@
     "uptime_percent": 8.8,
     "asn": "AS44092",
     "isp": "HAL Service SpA",
-    "latency_ms": 6505.95,
-    "last_checked": 1783400034.6475873
+    "latency_ms": 4922.07,
+    "last_checked": 1783400638.3198743
   },
   {
     "protocol": "socks5",
-    "ip": "80.211.131.230",
-    "port": 9050,
+    "ip": "149.62.186.244",
+    "port": 1080,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Arezzo",
+    "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 32.08,
-    "asn": "AS31034",
-    "isp": "Aruba S.p.A. Network",
-    "latency_ms": 6140.92,
-    "last_checked": 1783400016.0249517
-  },
-  {
-    "protocol": "http",
-    "ip": "149.86.206.27",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Figline Valdarno",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.78,
-    "asn": "AS60501",
-    "isp": "Sirius Technology SRL",
-    "latency_ms": 4898.63,
-    "last_checked": 1783399999.324749
+    "uptime_percent": 86.1,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 4217.82,
+    "last_checked": 1783400631.7276146
   },
   {
     "protocol": "socks5",
@@ -113,11 +98,41 @@
     "city": "Arezzo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.19,
+    "uptime_percent": 27.2,
     "asn": "AS31034",
     "isp": "Aruba S.p.A.",
-    "latency_ms": 9911.84,
-    "last_checked": 1783399956.3291998
+    "latency_ms": 10171.17,
+    "last_checked": 1783400599.4545076
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.26.134",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.59,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 7913.84,
+    "last_checked": 1783400550.3158152
+  },
+  {
+    "protocol": "http",
+    "ip": "194.183.1.205",
+    "port": 8080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Rome",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.18,
+    "asn": "AS5394",
+    "isp": "UNIDATA S.p.A.",
+    "latency_ms": 5222.75,
+    "last_checked": 1783400543.2978616
   },
   {
     "protocol": "socks5",
@@ -131,7 +146,22 @@
     "uptime_percent": 99.87,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 266.27,
-    "last_checked": 1783400040.3469996
+    "latency_ms": 1152.15,
+    "last_checked": 1783400663.7793026
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.43.119.1",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Teramo",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.37,
+    "asn": "AS21034",
+    "isp": "Micso S.r.l.",
+    "latency_ms": 7371.37,
+    "last_checked": 1783400633.7826204
   }
 ]

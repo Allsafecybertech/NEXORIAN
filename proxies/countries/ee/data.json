@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.45.118.209",
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.3,
+    "uptime_percent": 67.03,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 293.93,
-    "last_checked": 1783400097.6561036
+    "latency_ms": 163.42,
+    "last_checked": 1783400675.541761
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Parksepa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 68.83,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 228.17,
+    "last_checked": 1783400665.7901618
   },
   {
     "protocol": "socks5",
@@ -26,23 +41,23 @@
     "uptime_percent": 64.92,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 203.36,
-    "last_checked": 1783400084.8922782
+    "latency_ms": 438.69,
+    "last_checked": 1783400664.8419478
   },
   {
-    "protocol": "socks4",
-    "ip": "5.45.125.201",
+    "protocol": "socks5",
+    "ip": "5.45.118.209",
     "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 67.02,
+    "uptime_percent": 90.3,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 6248.02,
-    "last_checked": 1783400076.5890193
+    "latency_ms": 319.78,
+    "last_checked": 1783400577.450741
   },
   {
     "protocol": "http",
@@ -52,11 +67,11 @@
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 39.6,
+    "ssl": true,
+    "uptime_percent": 39.61,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 10006.34,
-    "last_checked": 1783399917.3016922
+    "latency_ms": 11709.99,
+    "last_checked": 1783400551.6444864
   }
 ]
