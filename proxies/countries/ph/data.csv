@@ -1,32 +1,56 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,120.28.216.197,8082,Philippines,PH,Cagayan de Oro,transparent,false,12.36,AS132199,Globe Telecom,3662.88,1783461533.6098566
-http,120.28.192.179,5050,Philippines,PH,Cagayan de Oro,transparent,false,19.08,AS132199,Globe Telecom,973.58,1783461531.2794912
-http,180.191.32.166,8081,Philippines,PH,Cabanatuan City,transparent,false,9.68,AS132199,Globe Telecom,1078.93,1783461529.3692124
-http,180.191.16.9,8085,Philippines,PH,Cabanatuan City,transparent,true,11.48,AS132199,Globe Telecom,10477.57,1783461529.3394318
-http,160.250.73.234,8087,Philippines,PH,Tumauini,transparent,false,19.71,AS142285,KEITH.NET INCORPORATED,563.75,1783461526.8718326
-http,161.49.215.28,10101,Philippines,PH,Clark,transparent,false,6.98,AS17639,Converge Information and Communications Technology Solutions,10704.9,1783461525.3221142
-http,124.83.43.145,8080,Philippines,PH,Cebu City,elite,false,13.52,AS9299,Philippine Long Distance Telephone Co.,7817.45,1783461522.9371197
-http,124.106.223.156,9999,Philippines,PH,Makati City,transparent,false,11.47,AS9299,Philippine Long Distance Telephone Co.,8231.47,1783461521.6855977
-http,115.147.61.241,8082,Philippines,PH,Makati City,elite,false,19.25,AS9299,Philippine Long Distance Telephone Co.,5323.98,1783461520.4359424
-http,222.127.206.145,8085,Philippines,PH,Makati City,transparent,false,10.09,AS132199,GLBB,10603.29,1783461515.216136
-http,160.30.141.131,8088,Philippines,PH,San Jose del Monte,transparent,false,14.12,AS134216,Glercimor Network and Data Solution,1426.88,1783461511.9438825
-http,119.95.188.3,8082,Philippines,PH,Manila,transparent,true,48.68,AS9299,Philippine Long Distance Telephone Co.,794.08,1783461503.2519085
-http,161.49.219.181,8082,Philippines,PH,Magalang,transparent,false,23.23,AS17639,Converge Information and Communications Technology Solutions,4221.94,1783461502.781475
-http,124.106.83.244,8083,Philippines,PH,Quezon City,transparent,false,9.93,AS9299,Philippine Long Distance Telephone Co.,7048.81,1783461502.761775
-http,152.32.77.213,8095,Philippines,PH,Marikina City,transparent,false,17.05,AS17639,ComClark Network & Technology Corp,4842.98,1783461498.9008722
-http,120.28.152.190,8082,Philippines,PH,San Juan,transparent,false,8.33,AS132199,Globe Telecom,9709.26,1783461493.5961437
-http,122.52.234.54,8081,Philippines,PH,Makati City,transparent,false,10.89,AS9299,Philippine Long Distance Telephone Co.,9661.57,1783461492.4175646
-http,222.127.54.60,8080,Philippines,PH,Lahug,transparent,false,12.74,AS132199,INNOVE,8706.58,1783461485.9878695
-http,180.191.52.90,5050,Philippines,PH,Tarlac City,transparent,false,21.3,AS132199,Globe Telecom,5507.67,1783461481.67651
-http,122.52.157.209,8081,Philippines,PH,Malolos,transparent,true,14.88,AS9299,Philippine Long Distance Telephone Co.,3731.24,1783461476.7079291
-http,139.135.182.132,8081,Philippines,PH,Masaya Sur,transparent,false,14.59,AS17639,ComClark Network & Technology Corp,4719.72,1783461476.3773272
-http,120.28.135.76,8082,Philippines,PH,San Juan,transparent,false,22.28,AS132199,Globe Telecom,3491.74,1783461467.2706892
-http,103.84.176.98,8083,Philippines,PH,San Jose,transparent,false,3.83,AS136244,"Panay Broadband / Buenavista Cable TV., Inc.",8169.02,1783461462.418434
-http,203.177.139.13,8082,Philippines,PH,Taguig,transparent,false,14.2,AS4775,SUPERCAT,3919.17,1783461461.5882304
-http,126.209.45.27,5050,Philippines,PH,Manila,transparent,false,25.31,AS135607,Infinivan Incoporated,4760.26,1783461443.6648242
-http,180.191.136.47,8082,Philippines,PH,Makati City,transparent,false,33.26,AS4775,Globe Telecom,3780.42,1783461431.1918538
-http,160.250.6.67,8085,Philippines,PH,Taytay,transparent,false,7.01,AS153455,G Links Solution,3853.55,1783461417.751492
-http,120.28.220.169,8080,Philippines,PH,Cagayan de Oro,transparent,false,15.0,AS132199,Globe Telecom,16928.85,1783461415.945674
-http,119.93.94.108,8080,Philippines,PH,Pasig,transparent,false,24.71,AS9299,Philippine Long Distance Telephone Co.,738.55,1783461400.6297183
-http,126.209.3.199,5050,Philippines,PH,Marawi City,transparent,false,28.47,AS135607,Infinivan Incorporated,8881.41,1783461377.7369244
-http,119.93.170.95,8085,Philippines,PH,Makati City,transparent,true,8.54,AS9299,Philippine Long Distance Telephone Co.,1723.53,1783461366.2659404
+http,120.28.216.166,8082,Philippines,PH,Cagayan de Oro,transparent,true,11.67,AS132199,Globe Telecom,1914.08,1783462198.9042153
+http,119.93.139.196,8082,Philippines,PH,Rodriguez,transparent,true,11.46,AS9299,Philippine Long Distance Telephone Co.,1596.01,1783462197.7006822
+http,61.245.30.163,5050,Philippines,PH,Manila,transparent,true,28.81,AS135607,Infinivan Incorporated,674.95,1783462191.5438626
+http,122.3.30.128,8081,Philippines,PH,Quezon City,transparent,true,29.73,AS9299,Philippine Long Distance Telephone Co.,4382.47,1783462185.4297278
+http,124.217.5.100,5050,Philippines,PH,Cebu City,transparent,false,24.54,AS9299,Philippine Long Distance Telephone Co.,2358.81,1783462184.943877
+http,49.151.189.147,8082,Philippines,PH,Clark Freeport Zone,transparent,true,26.04,AS9299,Philippine Long Distance Telephone Co.,8288.3,1783462184.4469397
+http,165.101.102.253,8083,Philippines,PH,Quezon City,transparent,true,12.62,AS154002,iRateNet Solutions,4503.07,1783462183.609106
+http,165.101.102.30,8081,Philippines,PH,Quezon City,transparent,true,13.91,AS154002,iRateNet Solutions,2391.39,1783462183.564878
+http,103.84.177.30,8083,Philippines,PH,Tiring,transparent,false,7.45,AS136244,"Panay Broadband / Buenavista Cable TV., Inc.",4014.44,1783462179.9838014
+http,152.32.64.43,8095,Philippines,PH,Marikina City,transparent,false,8.62,AS17639,Converge ICT Solution Inc,4459.04,1783462179.5438554
+http,222.127.169.27,8086,Philippines,PH,Iloilo City,transparent,true,25.21,AS132199,Globe Telecom Inc.,10075.01,1783462179.3046136
+http,49.145.53.14,8080,Philippines,PH,Mandaue City,transparent,true,68.57,AS9299,Philippine Long Distance Telephone Co.,9674.2,1783462179.1416848
+http,27.49.68.66,9999,Philippines,PH,Cebu City,transparent,false,20.84,AS17639,Converge ICT,3245.37,1783462178.8462331
+http,180.191.233.68,9090,Philippines,PH,Pangantocan,transparent,false,20.21,AS4775,Globe Telecom,9627.19,1783462178.378185
+http,203.20.42.57,8082,Philippines,PH,Valenzuela,transparent,true,13.61,AS154180,RNDS Network,8577.02,1783462177.991874
+http,115.147.61.241,8082,Philippines,PH,Makati City,elite,false,19.26,AS9299,Philippine Long Distance Telephone Co.,9317.87,1783462172.4719741
+http,119.93.64.216,8082,Philippines,PH,Makati City,transparent,false,17.58,AS9299,Philippine Long Distance Telephone Co.,11122.82,1783462171.9079206
+http,122.52.157.209,8081,Philippines,PH,Malolos,transparent,true,14.88,AS9299,Philippine Long Distance Telephone Co.,3336.87,1783462168.8846192
+http,123.253.137.172,8082,Philippines,PH,Tigbinan,transparent,false,21.3,AS17639,ComClark Network & Technology Corp,14228.42,1783462167.4559007
+http,165.101.102.206,8088,Philippines,PH,Quezon City,transparent,false,4.61,AS154002,iRateNet Solutions,7472.21,1783462165.1078858
+http,180.191.23.171,8081,Philippines,PH,Cabanatuan City,transparent,false,11.02,AS132199,Globe Telecom,8881.42,1783462159.784515
+http,180.191.230.53,8082,Philippines,PH,Palompon,transparent,false,21.32,AS4775,Globe Telecom,4441.06,1783462158.9537234
+http,115.147.171.114,8082,Philippines,PH,Makati City,transparent,false,20.67,AS9299,Philippine Long Distance Telephone Co.,7088.21,1783462155.9765742
+http,180.191.14.210,8081,Philippines,PH,Cabanatuan City,transparent,false,11.76,AS132199,Globe Telecom,8069.18,1783462155.695868
+http,180.191.120.72,8082,Philippines,PH,Cagayan de Oro,transparent,false,10.2,AS4775,Globe Telecom,648.23,1783462151.4118276
+http,120.28.220.169,8080,Philippines,PH,Cagayan de Oro,transparent,false,15.0,AS132199,Globe Telecom,11400.89,1783462148.7580156
+http,124.105.79.237,8080,Philippines,PH,Makati City,transparent,false,6.8,AS9299,Philippine Long Distance Telephone Co.,7086.54,1783462147.4838293
+http,122.52.108.244,8082,Philippines,PH,Makati City,transparent,false,13.9,AS9299,Philippine Long Distance Telephone Co.,13990.86,1783462146.5967016
+http,180.232.171.210,8080,Philippines,PH,Quezon City,transparent,false,10.96,AS9658,"Eastern Telecommunications Philippines, Inc.",3115.81,1783462144.2557986
+http,119.93.87.65,8080,Philippines,PH,Pasig,transparent,true,8.94,AS9299,Philippine Long Distance Telephone Co.,8191.67,1783462140.163968
+http,38.10.90.130,8084,Philippines,PH,Iloilo City,transparent,false,7.83,AS136244,Cogent Communications,11541.68,1783462137.8303955
+http,120.28.218.160,5050,Philippines,PH,Cagayan de Oro,transparent,true,9.08,AS132199,Globe Telecom,3794.62,1783462137.671017
+http,119.93.170.95,8085,Philippines,PH,Makati City,transparent,false,8.54,AS9299,Philippine Long Distance Telephone Co.,10213.73,1783462131.8163738
+http,122.54.226.216,8082,Philippines,PH,Pasay,transparent,false,10.41,AS9299,Philippine Long Distance Telephone Co.,5392.57,1783462130.2822275
+http,119.95.188.3,8082,Philippines,PH,Manila,transparent,true,48.7,AS9299,Philippine Long Distance Telephone Co.,770.42,1783462126.3239262
+http,119.94.122.89,8081,Philippines,PH,Bocaue,transparent,false,22.91,AS9299,Philippine Long Distance Telephone Co.,2677.07,1783462124.4359183
+http,126.209.3.199,5050,Philippines,PH,Marawi City,transparent,false,28.46,AS135607,Infinivan Incorporated,5879.04,1783462119.1838024
+http,49.146.145.189,8082,Philippines,PH,Bacolod City,transparent,false,21.67,AS9299,Philippine Long Distance Telephone Co.,3347.47,1783462114.7790124
+http,120.28.169.31,5050,Philippines,PH,Iloilo City,transparent,true,27.01,AS132199,Globe Telecom,15336.81,1783462107.919009
+http,180.191.52.42,8081,Philippines,PH,Tarlac City,transparent,true,27.48,AS132199,Globe Telecom,3033.81,1783462105.156933
+http,139.135.77.166,8085,Philippines,PH,Bachauan,transparent,true,13.36,AS139831,Dito Telecommunity Corp.,3761.86,1783462101.6687138
+http,122.3.127.68,8080,Philippines,PH,Paranaque City,transparent,false,21.85,AS9299,Philippine Long Distance Telephone Co.,7182.82,1783462083.3558445
+http,222.127.76.123,8082,Philippines,PH,Lahug,transparent,false,11.39,AS132199,INNOVE,3345.23,1783462080.939818
+http,120.28.216.101,8080,Philippines,PH,Cagayan de Oro,transparent,false,10.12,AS132199,Globe Telecom,12727.8,1783462078.444178
+http,180.191.23.221,8081,Philippines,PH,Cabanatuan City,transparent,false,6.91,AS132199,Globe Telecom,3949.37,1783462077.3243546
+http,49.149.196.26,8081,Philippines,PH,Cagayan de Oro,transparent,true,27.26,AS9299,Philippine Long Distance Telephone Co.,10469.46,1783462071.1517415
+http,124.107.182.184,8088,Philippines,PH,Bulacan,transparent,false,19.79,AS9299,Philippine Long Distance Telephone Co.,2422.02,1783462065.1438308
+http,165.101.102.252,8083,Philippines,PH,Quezon City,transparent,false,12.37,AS154002,iRateNet Solutions,8381.38,1783462055.0514982
+http,180.191.137.150,8082,Philippines,PH,Makati City,transparent,false,23.05,AS4775,Globe Telecom,2491.47,1783462048.461179
+http,120.28.152.190,8082,Philippines,PH,San Juan,transparent,false,8.33,AS132199,Globe Telecom,12880.98,1783462046.7705562
+http,124.105.69.124,8081,Philippines,PH,Makati City,transparent,true,7.26,AS9299,Philippine Long Distance Telephone Co.,8301.2,1783462044.8059785
+http,119.93.119.191,8081,Philippines,PH,Makati City,transparent,true,18.97,AS9299,Philippine Long Distance Telephone Co.,5435.31,1783462044.0381212
+http,126.209.13.13,8085,Philippines,PH,Manila,transparent,false,17.87,AS135607,Infinivan Incorporated,7410.87,1783462000.4526331
+http,180.191.136.47,8082,Philippines,PH,Makati City,transparent,false,33.25,AS4775,Globe Telecom,4812.92,1783461986.4917834
+http,210.213.99.36,8081,Philippines,PH,Makati City,transparent,false,27.77,AS9299,Philippine Long Distance Telephone Co.,4889.08,1783462181.917216
