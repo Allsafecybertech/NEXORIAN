@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Parksepa",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.47,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 3249.18,
-    "last_checked": 1783411759.473634
-  },
-  {
-    "protocol": "socks4",
-    "ip": "91.235.234.226",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.99,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 4213.08,
-    "last_checked": 1783411758.7390301
-  },
-  {
     "protocol": "socks5",
     "ip": "77.83.198.35",
     "port": 8888,
@@ -41,22 +11,52 @@
     "uptime_percent": 100.0,
     "asn": "AS59711",
     "isp": "HZ Hosting Ltd",
-    "latency_ms": 8176.44,
-    "last_checked": 1783411722.4678292
+    "latency_ms": 2408.94,
+    "last_checked": 1783412348.1878393
   },
   {
-    "protocol": "http",
-    "ip": "5.45.126.165",
-    "port": 13215,
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Parksepa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.52,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 201.7,
+    "last_checked": 1783412341.3498707
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 39.6,
+    "uptime_percent": 66.99,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 21258.94,
-    "last_checked": 1783411689.854848
+    "latency_ms": 7306.1,
+    "last_checked": 1783412294.4743092
+  },
+  {
+    "protocol": "http",
+    "ip": "77.83.198.35",
+    "port": 8888,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 75.0,
+    "asn": "AS59711",
+    "isp": "HZ Hosting Ltd",
+    "latency_ms": 2714.47,
+    "last_checked": 1783412283.6824963
   }
 ]
