@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "109.160.97.49",
-    "port": 4145,
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Rousse",
+    "city": "Pleven",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.74,
-    "asn": "AS205352",
-    "isp": "Kabelnet LTD",
-    "latency_ms": 1631.1,
-    "last_checked": 1783400655.6226656
+    "uptime_percent": 54.61,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 1460.18,
+    "last_checked": 1783401243.1162083
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,26 @@
     "city": "Gŭlŭbovo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.72,
+    "uptime_percent": 44.74,
     "asn": "AS8866",
     "isp": "BERGON",
-    "latency_ms": 14444.22,
-    "last_checked": 1783400624.676198
+    "latency_ms": 180.4,
+    "last_checked": 1783401228.3272882
+  },
+  {
+    "protocol": "http",
+    "ip": "46.10.209.230",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 5.47,
+    "asn": "AS8866",
+    "isp": "BTC-BROADBAND",
+    "latency_ms": 1395.87,
+    "last_checked": 1783401183.3869288
   },
   {
     "protocol": "http",
@@ -41,37 +56,52 @@
     "uptime_percent": 47.56,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 13358.24,
-    "last_checked": 1783400597.6681447
+    "latency_ms": 12427.67,
+    "last_checked": 1783401179.2677824
   },
   {
     "protocol": "http",
-    "ip": "151.237.84.9",
+    "ip": "85.196.179.34",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Kardzhali",
-    "anonymity": "transparent",
+    "city": "Sofia",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 22.03,
-    "asn": "AS48233",
-    "isp": "Netroniks EOOD",
-    "latency_ms": 1757.7,
-    "last_checked": 1783400574.5640554
+    "uptime_percent": 11.19,
+    "asn": "AS29580",
+    "isp": "Mobiltel BNG",
+    "latency_ms": 2503.67,
+    "last_checked": 1783401170.8198879
   },
   {
     "protocol": "http",
-    "ip": "85.187.224.21",
-    "port": 8080,
+    "ip": "213.169.33.12",
+    "port": 8001,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Kardzhali",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 20.45,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 11241.08,
+    "last_checked": 1783401274.55577
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 16.73,
-    "asn": "AS199173",
-    "isp": "Technolux Ltd",
-    "latency_ms": 175.75,
-    "last_checked": 1783400573.7040424
+    "uptime_percent": 14.35,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 4542.51,
+    "last_checked": 1783401269.9920695
   }
 ]
