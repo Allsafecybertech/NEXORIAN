@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "196.1.182.130",
+    "port": 1080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.92,
+    "asn": "AS37629",
+    "isp": "eStream Networks",
+    "latency_ms": 669.95,
+    "last_checked": 1783465166.9686306
+  },
+  {
     "protocol": "http",
     "ip": "154.113.147.14",
     "port": 8080,
@@ -7,12 +22,27 @@
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.04,
+    "ssl": true,
+    "uptime_percent": 34.06,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 9623.79,
-    "last_checked": 1783464824.471557
+    "latency_ms": 2915.08,
+    "last_checked": 1783465158.7556903
+  },
+  {
+    "protocol": "http",
+    "ip": "197.253.23.4",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 30.11,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 13383.73,
+    "last_checked": 1783465130.5878584
   },
   {
     "protocol": "http",
@@ -23,25 +53,40 @@
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 26.01,
+    "uptime_percent": 26.02,
     "asn": "AS14593",
     "isp": "Space Exploration Technologies Corporation",
-    "latency_ms": 2761.8,
-    "last_checked": 1783464812.6398964
+    "latency_ms": 4612.0,
+    "last_checked": 1783465123.8565786
   },
   {
     "protocol": "http",
-    "ip": "41.203.83.242",
+    "ip": "154.113.209.162",
+    "port": 8082,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Abuja",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.65,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 721.18,
+    "last_checked": 1783465120.5639067
+  },
+  {
+    "protocol": "http",
+    "ip": "154.113.208.190",
     "port": 8080,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Lagos",
+    "city": "Abuja",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 7.95,
-    "asn": "AS37148",
-    "isp": "Globacom Limited",
-    "latency_ms": 13661.36,
-    "last_checked": 1783464685.111846
+    "uptime_percent": 56.02,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 11167.22,
+    "last_checked": 1783465010.6036503
   }
 ]
