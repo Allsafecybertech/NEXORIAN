@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,false,74.4,AS215540,Global Connectivity Solutions LLP,3216.99,1783411173.52882
-http,193.222.59.163,443,Switzerland,CH,St. Gallen,elite,false,99.8,AS3303,Swisscom (Schweiz) AG,1631.99,1783411122.0569088
+socks4,45.95.232.35,1080,Switzerland,CH,Zurich,elite,true,88.66,AS215540,Global Connectivity Solutions LLP,1917.3,1783411762.8949711
+socks4,5.101.85.133,9050,Switzerland,CH,Zurich,elite,true,54.91,AS63023,GTHost,9122.09,1783411748.1856155
+http,45.95.232.35,3128,Switzerland,CH,Zurich,elite,true,74.41,AS215540,Global Connectivity Solutions LLP,6192.09,1783411726.3838239
+socks5,5.101.85.133,9050,Switzerland,CH,Zurich,elite,true,54.9,AS63023,GTHost,9231.15,1783411675.1779702
