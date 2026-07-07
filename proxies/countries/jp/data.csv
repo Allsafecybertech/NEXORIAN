@@ -1,36 +1,47 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,124.156.230.244,3128,Japan,JP,Tokyo,transparent,true,93.12,AS132203,Tencent Cloud Computing (Beijing) Co,999.81,1783428898.4491282
-http,43.167.245.99,3128,Japan,JP,Tokyo,transparent,true,96.48,AS132203,Shenzhen Tencent Computer Systems Company Limited,732.45,1783428898.3561308
-http,43.133.187.166,3128,Japan,JP,Tokyo,transparent,true,95.95,AS132203,Shenzhen Tencent Computer Systems Company Limited,2154.24,1783428897.363578
-http,43.167.16.253,3128,Japan,JP,Tokyo,transparent,true,96.5,AS132203,Shenzhen Tencent Computer Systems Company Limited,762.09,1783428896.3499863
-http,43.167.171.85,3128,Japan,JP,Tokyo,transparent,true,96.45,AS132203,Shenzhen Tencent Computer Systems Company Limited,1771.34,1783428895.558247
-socks5,172.234.84.48,1080,Japan,JP,Osaka,elite,true,36.19,AS63949,"Akamai Technologies, Inc.",2486.68,1783428895.4934318
-http,43.133.30.18,3128,Japan,JP,Tokyo,transparent,true,97.14,AS132203,Aceville Pte.ltd,783.11,1783428894.320197
-http,43.167.213.156,3128,Japan,JP,Tokyo,transparent,true,94.86,AS132203,Shenzhen Tencent Computer Systems Company Limited,1674.2,1783428893.9813707
-http,43.167.187.107,3128,Japan,JP,Tokyo,transparent,true,96.86,AS132203,Shenzhen Tencent Computer Systems Company Limited,861.46,1783428893.4196792
-http,180.34.117.197,8080,Japan,JP,Yokohama,transparent,true,93.44,AS4713,NTT Communications Corporation,765.38,1783428891.7258742
-http,8.209.255.13,3128,Japan,JP,Tokyo,elite,true,77.37,AS45102,"Alibaba (US) Technology Co., Ltd.",885.09,1783428888.374272
-http,43.167.165.123,10808,Japan,JP,Tokyo,elite,true,99.39,AS132203,Shenzhen Tencent Computer Systems Company Limited,768.33,1783428887.6683784
-socks4,198.13.63.73,1080,Japan,JP,Minamishinagawa,elite,true,73.95,AS20473,The Constant Company,13157.7,1783428887.1676466
-socks4,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,97.05,AS136258,BrainStorm Network,1119.44,1783428886.9603674
-socks4,66.42.34.255,1080,Japan,JP,Minamishinagawa,elite,true,51.89,AS20473,"The Constant Company, LLC",8388.39,1783428881.433426
-socks5,198.13.63.73,1080,Japan,JP,Minamishinagawa,elite,true,70.45,AS20473,The Constant Company,15631.39,1783428875.50475
-http,43.167.27.118,3128,Japan,JP,Tokyo,transparent,true,96.46,AS132203,Shenzhen Tencent Computer Systems Company Limited,1322.93,1783428872.5131402
-socks5,45.76.223.103,1080,Japan,JP,Minamishinagawa,elite,true,26.68,AS20473,The Constant Company,2389.77,1783428872.4356441
-socks5,150.230.194.118,555,Japan,JP,Tokyo,elite,true,59.41,AS31898,Oracle Corporation,2616.86,1783428870.8708806
-http,43.167.187.233,3128,Japan,JP,Tokyo,transparent,true,96.16,AS132203,Shenzhen Tencent Computer Systems Company Limited,1899.96,1783428870.575003
-http,43.167.199.44,3128,Japan,JP,Tokyo,transparent,true,96.39,AS132203,Shenzhen Tencent Computer Systems Company Limited,760.13,1783428869.2796476
-socks5,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,95.36,AS136258,BrainStorm Network,1817.78,1783428865.283932
-http,43.133.15.47,3128,Japan,JP,Tokyo,transparent,true,96.42,AS132203,Aceville Pte.ltd,744.77,1783428864.935252
-http,43.133.169.167,3128,Japan,JP,Tokyo,transparent,true,96.68,AS132203,Shenzhen Tencent Computer Systems Company Limited,740.88,1783428857.9641013
-http,13.114.160.78,80,Japan,JP,Tokyo,elite,false,91.74,AS16509,Amazon Technologies Inc,4804.26,1783428853.431909
-http,43.167.214.133,3128,Japan,JP,Tokyo,transparent,true,94.67,AS132203,Shenzhen Tencent Computer Systems Company Limited,745.78,1783428851.0688367
-http,140.227.61.201,3128,Japan,JP,Chiyoda City,transparent,false,11.82,AS2514,InfoSphere,7820.2,1783428850.1369991
-socks4,8.216.32.38,1080,Japan,JP,Tokyo,elite,true,89.57,AS45102,"Alibaba (US) Technology Co., Ltd.",9029.3,1783428846.8227444
-http,43.153.182.147,3128,Japan,JP,Tokyo,transparent,true,96.78,AS132203,Shenzhen Tencent Computer Systems Company Limited,820.63,1783428844.4934726
-http,140.238.32.108,3128,Japan,JP,Tokyo,elite,false,80.91,AS31898,Oracle Corporation,697.59,1783428843.1771996
-http,43.165.179.193,8118,Japan,JP,Tokyo,elite,false,8.17,AS132203,Shenzhen Tencent Computer Systems Company Limited,14984.87,1783428792.473468
-socks5,152.70.107.226,1080,Japan,JP,Tokyo,elite,true,57.26,AS31898,Oracle Corporation,9797.9,1783428769.4147305
-socks5,8.221.141.88,5357,Japan,JP,Tokyo,elite,true,0.92,AS45102,"Alibaba (US) Technology Co., Ltd.",15678.91,1783428725.8384342
-socks5,47.74.46.81,1080,Japan,JP,Tokyo,elite,true,1.07,AS45102,Alibaba Cloud LLC,7209.78,1783428637.2472968
-socks5,213.188.203.54,1080,Japan,JP,Chiyoda City,elite,true,68.7,AS40509,"Fly.io, Inc.",2863.69,1783428880.8475351
+http,43.167.214.133,3128,Japan,JP,Tokyo,transparent,true,94.68,AS132203,Shenzhen Tencent Computer Systems Company Limited,816.78,1783429499.1598861
+http,43.167.13.115,3128,Japan,JP,Tokyo,transparent,true,95.8,AS132203,Shenzhen Tencent Computer Systems Company Limited,776.1,1783429497.4328241
+http,180.34.117.197,8080,Japan,JP,Yokohama,transparent,true,93.46,AS4713,NTT Communications Corporation,779.4,1783429496.7974854
+http,13.114.160.78,80,Japan,JP,Tokyo,elite,false,91.74,AS16509,Amazon Technologies Inc,1055.07,1783429494.975009
+socks4,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,97.05,AS136258,BrainStorm Network,1182.4,1783429493.5930705
+http,43.133.169.167,3128,Japan,JP,Tokyo,transparent,true,96.67,AS132203,Shenzhen Tencent Computer Systems Company Limited,2006.13,1783429491.6716435
+http,43.167.187.233,3128,Japan,JP,Tokyo,transparent,true,96.17,AS132203,Shenzhen Tencent Computer Systems Company Limited,4946.42,1783429490.61615
+http,43.167.165.123,10808,Japan,JP,Tokyo,elite,true,99.13,AS132203,Shenzhen Tencent Computer Systems Company Limited,767.5,1783429486.9946125
+socks4,126.208.95.250,9050,Japan,JP,Shimo'ochiai,elite,true,37.15,AS17676,SoftBank Corp.,6935.72,1783429483.86313
+http,43.167.245.99,3128,Japan,JP,Tokyo,transparent,false,96.48,AS132203,Shenzhen Tencent Computer Systems Company Limited,807.48,1783429483.00572
+http,43.167.213.156,3128,Japan,JP,Tokyo,transparent,true,94.86,AS132203,Shenzhen Tencent Computer Systems Company Limited,768.66,1783429478.5699382
+http,43.167.187.107,3128,Japan,JP,Tokyo,transparent,true,96.86,AS132203,Shenzhen Tencent Computer Systems Company Limited,15067.17,1783429476.9750676
+socks4,31.57.172.220,10808,Japan,JP,Tokyo,elite,true,45.38,AS212336,ByteVirt LLC,21639.09,1783429476.2974207
+http,8.209.255.13,3128,Japan,JP,Tokyo,elite,false,77.37,AS45102,"Alibaba (US) Technology Co., Ltd.",934.63,1783429475.8457818
+socks4,45.76.223.103,1080,Japan,JP,Minamishinagawa,elite,true,31.4,AS20473,The Constant Company,12183.17,1783429474.5773113
+http,133.232.90.126,80,Japan,JP,Chiyoda City,elite,false,13.34,AS2514,"NTT PC Communications, Inc.",5913.44,1783429474.5281308
+http,43.167.199.44,3128,Japan,JP,Tokyo,transparent,true,96.38,AS132203,Shenzhen Tencent Computer Systems Company Limited,763.85,1783429471.3311262
+http,160.248.7.177,80,Japan,JP,Ogura,elite,false,25.11,AS2514,"NTT PC Communications, Inc.",1758.04,1783429469.9533844
+socks4,8.216.32.38,1080,Japan,JP,Tokyo,elite,true,89.57,AS45102,"Alibaba (US) Technology Co., Ltd.",12224.11,1783429466.7875495
+socks5,103.75.118.84,1080,Japan,JP,Tokyo,elite,true,95.36,AS136258,BrainStorm Network,2612.7,1783429465.711414
+socks5,138.3.218.141,54261,Japan,JP,Tokyo,elite,true,32.01,AS31898,Oracle Corporation,3314.1,1783429465.702056
+http,43.153.182.147,3128,Japan,JP,Tokyo,transparent,true,96.78,AS132203,Shenzhen Tencent Computer Systems Company Limited,1470.2,1783429463.0876777
+http,43.133.30.18,3128,Japan,JP,Tokyo,transparent,true,97.14,AS132203,Aceville Pte.ltd,750.56,1783429462.9086561
+http,43.133.187.166,3128,Japan,JP,Tokyo,transparent,true,95.95,AS132203,Shenzhen Tencent Computer Systems Company Limited,741.96,1783429456.8284173
+http,43.167.171.85,3128,Japan,JP,Tokyo,transparent,true,96.46,AS132203,Shenzhen Tencent Computer Systems Company Limited,740.21,1783429456.8115292
+http,124.156.230.244,3128,Japan,JP,Tokyo,transparent,true,93.13,AS132203,Tencent Cloud Computing (Beijing) Co,7442.45,1783429453.3493636
+http,47.245.30.253,8080,Japan,JP,Tokyo,elite,false,6.2,AS45102,Alibaba Cloud LLC,16835.63,1783429453.0179763
+socks5,34.84.162.206,38081,Japan,JP,Tokyo,elite,true,72.53,AS396982,Google LLC,1342.68,1783429444.3412986
+socks4,66.42.34.255,1080,Japan,JP,Minamishinagawa,elite,true,51.89,AS20473,"The Constant Company, LLC",11683.49,1783429442.9447894
+http,47.91.29.151,6379,Japan,JP,Tokyo,elite,false,0.79,AS45102,Alibaba.com LLC,3521.14,1783429441.9784427
+http,43.167.16.253,3128,Japan,JP,Tokyo,transparent,true,96.5,AS132203,Shenzhen Tencent Computer Systems Company Limited,737.84,1783429441.7627213
+socks5,141.147.146.174,1080,Japan,JP,Osaka,elite,true,51.55,AS31898,Oracle Corporation,3631.54,1783429436.2188127
+http,43.133.15.47,3128,Japan,JP,Tokyo,transparent,true,96.42,AS132203,Aceville Pte.ltd,2589.8,1783429435.6737938
+http,47.91.29.151,81,Japan,JP,Tokyo,elite,false,0.76,AS45102,Alibaba.com LLC,9949.16,1783429435.4817176
+http,43.133.1.198,3128,Japan,JP,Tokyo,transparent,true,95.25,AS132203,Aceville Pte.ltd,736.28,1783429433.372142
+http,43.167.27.118,3128,Japan,JP,Tokyo,transparent,true,96.47,AS132203,Shenzhen Tencent Computer Systems Company Limited,1676.67,1783429430.7490797
+socks5,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,28.46,AS202422,G-Core Labs S.A.,12679.0,1783429420.2579474
+socks4,202.78.167.58,9050,Japan,JP,Tokyo,elite,true,29.49,AS202422,G-Core Labs S.A.,7547.03,1783429415.8908865
+http,222.228.194.131,8080,Japan,JP,Shiki,anonymous,false,74.1,AS2519,ARTERIA Networks Corporation,3708.56,1783429397.8530662
+http,8.221.141.88,7500,Japan,JP,Tokyo,elite,false,0.5,AS45102,"Alibaba (US) Technology Co., Ltd.",3933.89,1783429393.4148602
+http,8.221.141.88,8084,Japan,JP,Tokyo,elite,false,0.52,AS45102,"Alibaba (US) Technology Co., Ltd.",5404.06,1783429392.0013957
+http,141.147.151.116,3128,Japan,JP,Osaka,elite,true,63.01,AS31898,Oracle Corporation,6809.6,1783429365.4694974
+socks5,198.13.63.73,1080,Japan,JP,Minamishinagawa,elite,true,70.45,AS20473,The Constant Company,15864.3,1783429351.8546236
+socks5,150.230.194.118,555,Japan,JP,Tokyo,elite,true,59.41,AS31898,Oracle Corporation,10803.27,1783429338.8309777
+socks5,132.226.7.23,30277,Japan,JP,Tokyo,elite,true,46.62,AS31898,Oracle Corporation,16385.55,1783429282.726675
+socks5,213.188.203.54,1080,Japan,JP,Chiyoda City,elite,true,68.74,AS40509,"Fly.io, Inc.",4089.23,1783429381.2097802
