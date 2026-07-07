@@ -1,32 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 57.91,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 1793.32,
-    "last_checked": 1783456955.9536448
-  },
-  {
-    "protocol": "http",
+    "protocol": "socks4",
     "ip": "188.190.10.47",
     "port": 1080,
     "country": "Belgium",
     "country_code": "BE",
     "city": "Brussels",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 79.08,
+    "ssl": true,
+    "uptime_percent": 87.02,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 25486.48,
-    "last_checked": 1783456910.2875354
+    "latency_ms": 16958.2,
+    "last_checked": 1783457673.949944
+  },
+  {
+    "protocol": "socks5",
+    "ip": "188.190.10.47",
+    "port": 1080,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.66,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 23116.39,
+    "last_checked": 1783457511.6998425
   }
 ]
