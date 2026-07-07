@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Parksepa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.72,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 1227.48,
+    "last_checked": 1783387189.2513237
+  },
+  {
+    "protocol": "socks4",
     "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
@@ -11,8 +26,38 @@
     "uptime_percent": 66.99,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 161.98,
-    "last_checked": 1783386600.9012163
+    "latency_ms": 7282.43,
+    "last_checked": 1783387181.5966113
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.45.125.201",
+    "port": 1080,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Jõhvi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 64.92,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 266.66,
+    "last_checked": 1783387163.485281
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.92,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 1789.32,
+    "last_checked": 1783387124.6881437
   },
   {
     "protocol": "socks5",
@@ -26,37 +71,7 @@
     "uptime_percent": 90.25,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 216.78,
-    "last_checked": 1783386539.5173714
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.45.125.201",
-    "port": 1080,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Jõhvi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 64.91,
-    "asn": "AS198068",
-    "isp": "PAGM network",
-    "latency_ms": 1207.28,
-    "last_checked": 1783386477.3512826
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.181.23.213",
-    "port": 8443,
-    "country": "Estonia",
-    "country_code": "EE",
-    "city": "Tallinn",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.61,
-    "asn": "",
-    "isp": "WorkTitans B.V",
-    "latency_ms": 11318.62,
-    "last_checked": 1783386421.9566004
+    "latency_ms": 358.89,
+    "last_checked": 1783387078.293507
   }
 ]
