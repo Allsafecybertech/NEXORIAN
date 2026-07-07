@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "46.10.198.10",
-    "port": 4153,
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Pleven",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.63,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 483.45,
+    "last_checked": 1783383289.0074074
+  },
+  {
+    "protocol": "http",
+    "ip": "46.55.143.145",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Plovdiv",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.56,
+    "asn": "AS51582",
+    "isp": "DCC",
+    "latency_ms": 5889.86,
+    "last_checked": 1783383269.745423
+  },
+  {
+    "protocol": "http",
+    "ip": "85.196.179.34",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 52.93,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 7288.23,
-    "last_checked": 1783382977.0134761
+    "ssl": false,
+    "uptime_percent": 11.19,
+    "asn": "AS29580",
+    "isp": "Mobiltel BNG",
+    "latency_ms": 1627.05,
+    "last_checked": 1783383263.5918834
   },
   {
     "protocol": "http",
@@ -22,11 +52,11 @@
     "country_code": "BG",
     "city": "Kardzhali",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 16.73,
     "asn": "AS199173",
     "isp": "Technolux Ltd",
-    "latency_ms": 4055.06,
-    "last_checked": 1783382938.7078457
+    "latency_ms": 501.66,
+    "last_checked": 1783383260.3484888
   }
 ]
