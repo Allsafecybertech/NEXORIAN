@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "193.222.59.163",
+    "port": 443,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "St. Gallen",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 99.77,
+    "asn": "AS3303",
+    "isp": "Swisscom (Schweiz) AG",
+    "latency_ms": 66.55,
+    "last_checked": 1783387743.387941
+  },
+  {
+    "protocol": "socks4",
+    "ip": "5.101.85.133",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.94,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 4992.81,
+    "last_checked": 1783387733.898201
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -11,23 +41,8 @@
     "uptime_percent": 88.67,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 1015.92,
-    "last_checked": 1783387194.548179
-  },
-  {
-    "protocol": "socks4",
-    "ip": "5.101.85.133",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.93,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 4498.19,
-    "last_checked": 1783387189.264939
+    "latency_ms": 4083.92,
+    "last_checked": 1783387727.983486
   },
   {
     "protocol": "http",
@@ -37,12 +52,12 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 74.39,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 9753.52,
-    "last_checked": 1783387172.4543622
+    "latency_ms": 6188.18,
+    "last_checked": 1783387691.5717988
   },
   {
     "protocol": "socks5",
@@ -56,37 +71,7 @@
     "uptime_percent": 87.88,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 720.26,
-    "last_checked": 1783387170.659476
-  },
-  {
-    "protocol": "http",
-    "ip": "193.222.59.163",
-    "port": 443,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "St. Gallen",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 99.77,
-    "asn": "AS3303",
-    "isp": "Swisscom (Schweiz) AG",
-    "latency_ms": 56.03,
-    "last_checked": 1783387135.714234
-  },
-  {
-    "protocol": "socks5",
-    "ip": "5.101.85.133",
-    "port": 9050,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 54.98,
-    "asn": "AS63023",
-    "isp": "GTHost",
-    "latency_ms": 11382.08,
-    "last_checked": 1783387096.883471
+    "latency_ms": 2085.37,
+    "last_checked": 1783387601.342683
   }
 ]
