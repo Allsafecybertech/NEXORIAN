@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.137.90.192",
-    "port": 80,
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Haskovo",
+    "city": "Pleven",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.61,
+    "asn": "AS197897",
+    "isp": "5KOM",
+    "latency_ms": 7352.04,
+    "last_checked": 1783406663.2595541
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.3",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 47.55,
-    "asn": "AS8866",
-    "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 4513.73,
-    "last_checked": 1783406075.8085206
+    "uptime_percent": 14.35,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 9997.17,
+    "last_checked": 1783406679.018761
   },
   {
     "protocol": "socks4",
@@ -26,7 +41,7 @@
     "uptime_percent": 14.39,
     "asn": "AS8717",
     "isp": "Spectrum NET",
-    "latency_ms": 145.5,
-    "last_checked": 1783406104.4638228
+    "latency_ms": 7286.76,
+    "last_checked": 1783406669.246642
   }
 ]
