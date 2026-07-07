@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "109.111.242.134",
-    "port": 6666,
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.43,
-    "asn": "AS28964",
-    "isp": "ORIONTELEKOM",
-    "latency_ms": 6368.79,
-    "last_checked": 1783433333.8452904
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.86,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 192.93,
+    "last_checked": 1783433992.6612337
+  },
+  {
+    "protocol": "http",
+    "ip": "109.198.22.61",
+    "port": 808,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Pazar",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 92.11,
+    "asn": "AS8400",
+    "isp": "MadNet ISP",
+    "latency_ms": 134.87,
+    "last_checked": 1783433987.3722339
   }
 ]
