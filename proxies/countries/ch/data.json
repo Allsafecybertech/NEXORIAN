@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "193.222.59.163",
+    "port": 443,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "St. Gallen",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 99.49,
+    "asn": "AS3303",
+    "isp": "Swisscom (Schweiz) AG",
+    "latency_ms": 962.89,
+    "last_checked": 1783416862.7949212
+  },
+  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -11,23 +26,8 @@
     "uptime_percent": 88.66,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 983.96,
-    "last_checked": 1783416244.5014274
-  },
-  {
-    "protocol": "http",
-    "ip": "193.222.59.163",
-    "port": 443,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "St. Gallen",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 99.48,
-    "asn": "AS3303",
-    "isp": "Swisscom (Schweiz) AG",
-    "latency_ms": 507.49,
-    "last_checked": 1783416225.351391
+    "latency_ms": 1237.83,
+    "last_checked": 1783416861.1520798
   },
   {
     "protocol": "http",
@@ -41,11 +41,11 @@
     "uptime_percent": 74.4,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 7645.22,
-    "last_checked": 1783416124.367877
+    "latency_ms": 4958.98,
+    "last_checked": 1783416826.1598895
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.101.85.133",
     "port": 9050,
     "country": "Switzerland",
@@ -53,25 +53,10 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.9,
+    "uptime_percent": 54.92,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 9631.61,
-    "last_checked": 1783416110.441726
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.95.232.35",
-    "port": 1080,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.81,
-    "asn": "AS215540",
-    "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3176.97,
-    "last_checked": 1783416104.9169064
+    "latency_ms": 7785.89,
+    "last_checked": 1783416821.1687665
   }
 ]
