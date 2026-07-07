@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "58.65.202.159",
-    "port": 808,
+    "protocol": "socks4",
+    "ip": "110.93.206.62",
+    "port": 5678,
     "country": "Pakistan",
     "country_code": "PK",
-    "city": "Islamabad",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.58,
-    "asn": "AS9541",
-    "isp": "Cyber Internet Services Pakistan",
-    "latency_ms": 9942.06,
-    "last_checked": 1783418662.5890071
+    "city": "Karachi",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 16.96,
+    "asn": "AS38193",
+    "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+    "latency_ms": 1801.27,
+    "last_checked": 1783419298.524429
+  },
+  {
+    "protocol": "socks4",
+    "ip": "103.115.198.39",
+    "port": 5678,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Lahore",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.11,
+    "asn": "AS152605",
+    "isp": "AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED",
+    "latency_ms": 1772.03,
+    "last_checked": 1783419295.7741597
   },
   {
     "protocol": "socks4",
@@ -23,41 +38,11 @@
     "city": "Lahore",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 72.69,
+    "uptime_percent": 72.65,
     "asn": "AS38264",
     "isp": "Wateen Telecom (Pvt.) Ltd",
-    "latency_ms": 7856.49,
-    "last_checked": 1783418655.2371984
-  },
-  {
-    "protocol": "http",
-    "ip": "203.124.40.245",
-    "port": 8080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Islamabad",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 40.67,
-    "asn": "AS7590",
-    "isp": "COMSATS",
-    "latency_ms": 9647.79,
-    "last_checked": 1783418625.9398549
-  },
-  {
-    "protocol": "socks5",
-    "ip": "72.255.9.24",
-    "port": 1080,
-    "country": "Pakistan",
-    "country_code": "PK",
-    "city": "Karachi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 47.73,
-    "asn": "AS9541",
-    "isp": "Cyber Internet Services Pakistan",
-    "latency_ms": 759.06,
-    "last_checked": 1783418625.7626143
+    "latency_ms": 3745.95,
+    "last_checked": 1783419277.1814911
   },
   {
     "protocol": "socks5",
@@ -71,8 +56,8 @@
     "uptime_percent": 70.38,
     "asn": "AS131275",
     "isp": "Logon Broadband Pvt. Limited",
-    "latency_ms": 2168.47,
-    "last_checked": 1783418617.3808846
+    "latency_ms": 2045.95,
+    "last_checked": 1783419274.810806
   },
   {
     "protocol": "socks5",
@@ -86,7 +71,52 @@
     "uptime_percent": 74.1,
     "asn": "AS38193",
     "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-    "latency_ms": 8085.58,
-    "last_checked": 1783418609.1138368
+    "latency_ms": 1458.79,
+    "last_checked": 1783419229.6408803
+  },
+  {
+    "protocol": "http",
+    "ip": "119.159.234.101",
+    "port": 8080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Gujrat",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.54,
+    "asn": "AS17557",
+    "isp": "PTCL Triple Play Project",
+    "latency_ms": 7941.2,
+    "last_checked": 1783419214.7188861
+  },
+  {
+    "protocol": "http",
+    "ip": "203.124.40.245",
+    "port": 8080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Islamabad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 40.8,
+    "asn": "AS7590",
+    "isp": "COMSATS",
+    "latency_ms": 18897.95,
+    "last_checked": 1783419207.727241
+  },
+  {
+    "protocol": "socks5",
+    "ip": "206.42.122.162",
+    "port": 1080,
+    "country": "Pakistan",
+    "country_code": "PK",
+    "city": "Lahore",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.21,
+    "asn": "AS136030",
+    "isp": "AGIS",
+    "latency_ms": 4373.66,
+    "last_checked": 1783419059.668692
   }
 ]
