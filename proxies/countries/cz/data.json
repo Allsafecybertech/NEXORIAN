@@ -1,18 +1,48 @@
 [
   {
     "protocol": "socks4",
-    "ip": "90.178.216.215",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.03,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 101.4,
+    "last_checked": 1783460102.5894284
+  },
+  {
+    "protocol": "socks4",
+    "ip": "85.132.139.45",
     "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
+    "city": "Slavkov u Brna",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 48.54,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 1146.74,
-    "last_checked": 1783459494.8290563
+    "uptime_percent": 50.62,
+    "asn": "AS205400",
+    "isp": "GIN's network",
+    "latency_ms": 66.0,
+    "last_checked": 1783460097.9884117
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.108.126.166",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Lanškroun",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 68.07,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 139.18,
+    "last_checked": 1783460096.9403996
   },
   {
     "protocol": "http",
@@ -26,23 +56,8 @@
     "uptime_percent": 84.29,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4511.63,
-    "last_checked": 1783459486.476898
-  },
-  {
-    "protocol": "socks4",
-    "ip": "85.132.139.45",
-    "port": 4153,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Slavkov u Brna",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.64,
-    "asn": "AS205400",
-    "isp": "GIN's network",
-    "latency_ms": 7326.68,
-    "last_checked": 1783459470.6853244
+    "latency_ms": 3396.95,
+    "last_checked": 1783460064.9342215
   },
   {
     "protocol": "http",
@@ -52,26 +67,11 @@
     "country_code": "CZ",
     "city": "Strážnice",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 12.24,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 1120.16,
-    "last_checked": 1783459464.4094105
-  },
-  {
-    "protocol": "http",
-    "ip": "109.164.35.23",
-    "port": 8888,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Humpolec",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 15.05,
-    "asn": "AS44489",
-    "isp": "STARNET, s.r.o.",
-    "latency_ms": 54.42,
-    "last_checked": 1783459376.9098148
+    "latency_ms": 6907.21,
+    "last_checked": 1783460059.851385
   }
 ]
