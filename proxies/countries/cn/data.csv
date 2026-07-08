@@ -1,38 +1,48 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,183.162.197.197,8060,China,CN,Hefei,elite,false,22.45,AS4134,Chinanet,1221.74,1783472999.3335185
-socks4,218.90.167.205,1080,China,CN,Wuxi,elite,true,9.15,AS4134,Chinanet,2468.05,1783472998.4570096
-socks4,124.16.111.16,7890,China,CN,Haidian,elite,true,41.24,AS7497,CNIC-CAS,996.33,1783472996.4177494
-http,61.158.175.38,9002,China,CN,Zhengzhou,elite,false,98.07,AS4837,CNC Group CHINA169 Henan Province Network,1049.46,1783472991.5506144
-http,123.138.24.114,8800,China,CN,Xi'an,elite,true,98.52,AS4837,CNC Group CHINA169 Shanni Province Network,985.77,1783472989.456784
-http,153.0.171.163,8085,China,CN,Haikou,elite,false,97.96,AS4837,China Unicom Hainan Province Network,1043.32,1783472988.3271124
-socks4,180.158.166.144,4145,China,CN,Shanghai,elite,true,39.51,AS4812,China Telecom (Group),8377.9,1783472987.8415806
-socks4,125.76.110.48,1080,China,CN,Zhangyelu,elite,true,84.1,AS147038,China Telecom,2271.32,1783472987.3998046
-socks5,221.176.85.228,1080,China,CN,Guangzhou,elite,true,28.71,AS9808,China Mobile communications corporation,8036.45,1783472984.852438
-socks5,59.37.168.32,2000,China,CN,Guangzhou,elite,true,67.57,AS136199,CHINANET Guangdong province Yuedong MAN network,9110.21,1783472979.8650506
-http,220.197.44.36,3128,China,CN,Jinrongjie,transparent,true,59.85,AS4837,China Unicom Network,4021.66,1783472969.5119443
-socks5,221.176.85.225,1080,China,CN,Guangzhou,elite,true,18.95,AS9808,China Mobile communications corporation,13025.8,1783472965.7977574
-socks5,124.16.111.16,7890,China,CN,Haidian,elite,true,6.32,AS7497,CNIC-CAS,1187.68,1783472964.3085701
-http,218.77.60.210,11231,China,CN,Shangli,elite,false,34.84,AS4134,Chinanet,8428.85,1783472961.425912
-http,101.5.174.172,7898,China,CN,Haidian,elite,true,29.71,AS4538,CERNET,2050.27,1783472958.4118254
-http,101.71.143.237,8092,China,CN,Hangzhou,elite,false,49.81,AS4837,China Unicom Zhejiang Province Network,2316.79,1783472956.4996836
-http,115.190.91.223,7897,China,CN,Beijing,elite,false,41.36,AS137718,GWBN-WUHAN's IP,4116.94,1783472951.9497302
-http,39.129.25.66,8060,China,CN,Guangzhou,elite,false,15.57,AS9808,China Mobile,1887.59,1783472946.380838
-http,111.79.111.126,3128,China,CN,Hangzhou,transparent,true,63.82,AS149837,China Telecom,1382.16,1783472942.4798555
-http,61.186.243.6,9002,China,CN,Chongqing,elite,false,57.29,AS4134,Chinanet,1204.65,1783472940.6632261
-http,123.112.240.170,9000,China,CN,Beijing,transparent,false,33.42,AS4808,China Unicom Beijing Province Network,2167.89,1783472938.0846972
-http,101.89.150.168,3128,China,CN,Shanghai,transparent,true,88.34,AS4811,China Telecom (Group),1618.94,1783472937.8019056
-http,113.204.79.230,9091,China,CN,Jinrongjie,elite,false,97.48,AS4837,CHINA UNICOM China169 Backbone,1034.61,1783472932.5877328
-http,59.36.172.219,5004,China,CN,Shenzhen,elite,false,4.63,AS4134,Chinanet,6716.6,1783472931.3322473
-socks5,120.133.82.62,44074,China,CN,Chaowai,elite,true,1.82,AS133119,China Unicom IP network,23140.41,1783472917.4688199
-http,61.49.87.3,80,China,CN,Beijing,elite,true,27.95,AS4808,China Unicom Beijing Province Network,827.2,1783472912.1864707
-socks5,101.5.174.172,7898,China,CN,Haidian,elite,true,27.7,AS4538,CERNET,5784.47,1783472910.3983548
-http,112.65.132.182,3128,China,CN,Shanghai,transparent,true,12.99,AS17621,China Unicom CHINA169 Shanghai Province Network,18078.29,1783472907.8352554
-http,114.94.148.37,18080,China,CN,Hangzhou,elite,true,85.3,AS4812,China Telecom (Group),1826.3,1783472902.5601733
-socks5,221.225.48.100,8989,China,CN,Suzhou,elite,true,6.36,AS140292,CHINANET jiangsu province network,6909.82,1783472895.0441742
-http,101.66.199.247,8085,China,CN,Hangzhou,elite,false,3.76,AS4837,China Unicom Zhejiang Province Network,2033.44,1783472891.6578493
-http,60.13.154.137,9898,China,CN,Ürümqi,anonymous,true,81.82,AS4837,CNC Group CHINA169 Xinjiang Province Network,13454.19,1783472878.660035
-http,123.235.13.226,7002,China,CN,Qingdao,anonymous,false,28.42,AS4837,CNC Group CHINA169 Shandong Province Network,795.44,1783472872.3864129
-socks5,114.104.204.191,10801,China,CN,Hefei,elite,true,17.82,AS4134,Chinanet,3624.02,1783472826.6334407
-socks5,120.133.82.62,44093,China,CN,Chaowai,elite,true,2.51,AS133119,China Unicom IP network,17375.64,1783472787.0129967
+socks4,220.167.89.10,10800,China,CN,Chengdu,elite,true,18.34,AS4134,Chinanet,1393.89,1783473276.2724564
+socks4,106.52.215.138,7890,China,CN,Guangzhou,elite,true,46.92,AS45090,Shenzhen Tencent Computer Systems Company Limited,1020.75,1783473273.4033725
+socks5,59.58.190.9,1080,China,CN,Putian,elite,true,69.05,AS4134,Chinanet,3393.25,1783473273.1427934
+socks4,124.16.111.16,7890,China,CN,Haidian,elite,true,41.83,AS7497,CNIC-CAS,1027.28,1783473267.42116
+socks4,61.191.119.134,10800,China,CN,Hefei,elite,true,18.83,AS4134,Chinanet,8401.66,1783473266.377957
+socks4,222.212.85.149,5678,China,CN,Chengdu,elite,true,17.02,AS4134,Chinanet,4397.43,1783473265.7655294
+socks4,101.5.174.172,7898,China,CN,Haidian,elite,true,33.22,AS4538,CERNET,8498.46,1783473265.3057692
+http,60.13.154.137,9898,China,CN,Ürümqi,anonymous,true,80.0,AS4837,CNC Group CHINA169 Xinjiang Province Network,8462.35,1783473265.2403674
+http,114.94.148.37,18080,China,CN,Hangzhou,elite,true,85.3,AS4812,China Telecom (Group),2250.72,1783473264.4364235
+http,111.79.111.126,3128,China,CN,Hangzhou,transparent,true,63.82,AS149837,China Telecom,9461.4,1783473261.4987733
+socks4,117.175.168.195,1080,China,CN,Guangzhou,elite,true,82.02,AS9808,China Mobile communications corporation,1448.8,1783473259.602976
+socks5,134.175.238.113,1080,China,CN,Guangzhou,elite,true,49.82,AS45090,Shenzhen Tencent Computer Systems Company Limited,3021.28,1783473258.4585984
+socks4,222.209.81.12,10800,China,CN,Chengdu,elite,true,16.19,AS4134,Chinanet,2359.53,1783473255.5901787
+http,220.197.44.36,3128,China,CN,Jinrongjie,transparent,true,59.85,AS4837,China Unicom Network,4600.91,1783473253.5688016
+http,183.215.23.242,9091,China,CN,Qingyuan,elite,false,97.83,AS56047,China Mobile Communications Corporation,686.48,1783473252.6134346
+http,101.6.70.131,4780,China,CN,Beijing,elite,false,7.83,AS24348,CERNET,1198.05,1783473246.614096
+http,101.71.143.237,8092,China,CN,Hangzhou,elite,false,49.81,AS4837,China Unicom Zhejiang Province Network,1248.11,1783473245.106097
+http,61.158.175.38,9002,China,CN,Zhengzhou,elite,false,98.07,AS4837,CNC Group CHINA169 Henan Province Network,1139.25,1783473244.6445444
+socks5,120.133.82.62,44039,China,CN,Chaowai,elite,true,2.03,AS133119,China Unicom IP network,18013.55,1783473244.3010788
+http,123.138.24.114,8800,China,CN,Xi'an,elite,true,98.52,AS4837,CNC Group CHINA169 Shanni Province Network,997.33,1783473243.5730708
+http,101.66.199.247,8085,China,CN,Hangzhou,elite,false,4.15,AS4837,China Unicom Zhejiang Province Network,991.66,1783473241.3003433
+http,115.191.40.196,7890,China,CN,Beijing,elite,true,42.63,AS137718,GWBN-WUHAN's IP,7958.32,1783473241.29658
+socks4,116.233.109.135,1080,China,CN,Shanghai,elite,true,51.15,AS4812,China Telecom (Group),4274.72,1783473240.945466
+socks4,180.158.224.87,1080,China,CN,Shanghai,elite,true,48.49,AS4812,China Telecom (Group),8300.9,1783473237.7480762
+http,113.204.79.230,9091,China,CN,Jinrongjie,elite,false,97.48,AS4837,CHINA UNICOM China169 Backbone,1047.13,1783473230.7814546
+socks5,203.25.208.163,1515,China,CN,Guangzhou,elite,true,58.22,AS139220,China Telecom,2046.4,1783473229.1391745
+socks5,120.133.82.62,44047,China,CN,Chaowai,elite,true,1.61,AS133119,China Unicom IP network,4994.45,1783473224.0012453
+socks5,59.37.168.32,2000,China,CN,Guangzhou,elite,true,67.59,AS136199,CHINANET Guangdong province Yuedong MAN network,5707.86,1783473223.288301
+http,61.49.87.3,80,China,CN,Beijing,elite,true,27.96,AS4808,China Unicom Beijing Province Network,7168.06,1783473218.774096
+socks5,112.28.149.152,8443,China,CN,Guangzhou,elite,true,80.59,AS9808,China Mobile,1960.88,1783473216.938042
+socks5,114.104.204.191,10801,China,CN,Hefei,elite,true,17.84,AS4134,Chinanet,2552.97,1783473214.4068003
+socks5,120.133.82.62,44131,China,CN,Chaowai,elite,true,1.55,AS133119,China Unicom IP network,18374.83,1783473208.9604886
+socks5,47.92.82.167,8081,China,CN,Beijing,elite,true,1.12,AS37963,Hangzhou Alibaba Advertising Co,6519.83,1783473208.1631103
+socks5,221.176.85.225,1080,China,CN,Guangzhou,elite,true,18.95,AS9808,China Mobile communications corporation,18707.04,1783473195.4225726
+socks5,223.111.182.16,1021,China,CN,Nanjing,elite,true,36.56,AS56046,China Mobile communications corporation,4754.31,1783473194.35416
+http,120.205.70.102,8060,China,CN,Guangzhou,elite,false,14.55,AS9808,China Mobile communications corporation,8262.61,1783473190.820689
+socks5,124.16.111.16,7890,China,CN,Haidian,elite,true,6.43,AS7497,CNIC-CAS,2322.11,1783473188.438368
+socks5,106.52.215.138,7890,China,CN,Guangzhou,elite,true,45.47,AS45090,Shenzhen Tencent Computer Systems Company Limited,3053.39,1783473180.6046576
+http,115.190.167.163,80,China,CN,Haidian,transparent,true,31.58,AS137718,"Beijing Volcano Engine Technology Co., Ltd.",9838.58,1783473169.4852154
+http,101.89.150.168,3128,China,CN,Shanghai,transparent,true,88.34,AS4811,China Telecom (Group),9915.24,1783473161.5862293
+http,61.186.243.6,9002,China,CN,Chongqing,elite,false,57.29,AS4134,Chinanet,1243.05,1783473158.9884465
+socks5,101.5.174.172,7898,China,CN,Haidian,elite,true,27.72,AS4538,CERNET,1361.53,1783473158.1932893
+socks5,221.176.85.229,1080,China,CN,Guangzhou,elite,true,24.28,AS9808,China Mobile communications corporation,2735.96,1783473149.7717278
+socks5,120.133.82.62,44226,China,CN,Chaowai,elite,true,1.91,AS133119,China Unicom IP network,30255.41,1783473132.3786318
+http,153.0.171.163,8085,China,CN,Haikou,elite,false,97.96,AS4837,China Unicom Hainan Province Network,6075.96,1783473131.539358
+http,124.128.149.84,8090,China,CN,Jinan,transparent,true,73.52,AS4837,CHINA UNICOM China169 Backbone,2839.74,1783473081.6164427
 http,203.3.112.2,6666,China,CN,Guangzhou,elite,false,31.6,AS63835,"No.293, Wanbao Avenue",15162.38,1783472969.4387074
-socks4,106.52.215.138,7890,China,CN,Guangzhou,elite,true,46.92,AS45090,Shenzhen Tencent Computer Systems Company Limited,2750.02,1783472959.390633
