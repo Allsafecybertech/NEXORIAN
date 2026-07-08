@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "190.93.179.125",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "190.104.143.94",
+    "port": 4153,
     "country": "Paraguay",
     "country_code": "PY",
-    "city": "Ciudad del Este",
+    "city": "Asunción",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.47,
+    "asn": "AS27895",
+    "isp": "Núcleo S.A.",
+    "latency_ms": 1273.87,
+    "last_checked": 1783503599.3293736
+  },
+  {
+    "protocol": "http",
+    "ip": "24.152.40.49",
+    "port": 8080,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "Coronel Oviedo",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.27,
-    "asn": "AS262183",
-    "isp": "Multi Link S.A.",
-    "latency_ms": 7941.25,
-    "last_checked": 1783502907.985555
+    "ssl": true,
+    "uptime_percent": 13.08,
+    "asn": "AS269976",
+    "isp": "TV MAX CABLE S.A.",
+    "latency_ms": 1852.05,
+    "last_checked": 1783503584.934758
   },
   {
     "protocol": "http",
@@ -23,40 +38,10 @@
     "city": "Asunción",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 65.77,
+    "uptime_percent": 65.78,
     "asn": "AS28103",
     "isp": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-    "latency_ms": 10060.74,
-    "last_checked": 1783502902.6689513
-  },
-  {
-    "protocol": "http",
-    "ip": "170.245.132.86",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Carapeguá",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.43,
-    "asn": "AS270096",
-    "isp": "MACHADO BAEZ, NERY JAVIER",
-    "latency_ms": 9112.95,
-    "last_checked": 1783502815.8603375
-  },
-  {
-    "protocol": "http",
-    "ip": "170.245.132.81",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Carapeguá",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.93,
-    "asn": "AS270096",
-    "isp": "MACHADO BAEZ, NERY JAVIER",
-    "latency_ms": 2520.03,
-    "last_checked": 1783502750.2868364
+    "latency_ms": 4217.98,
+    "last_checked": 1783503565.6239896
   }
 ]
