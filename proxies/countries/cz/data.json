@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "90.178.216.215",
-    "port": 4153,
+    "ip": "78.111.112.118",
+    "port": 4145,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
+    "city": "Kryry",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 49.27,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 1719.35,
-    "last_checked": 1783490329.2893765
+    "uptime_percent": 38.99,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 74.21,
+    "last_checked": 1783490956.3731563
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 53.49,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 3453.16,
+    "last_checked": 1783490925.3957267
   },
   {
     "protocol": "http",
@@ -26,8 +41,8 @@
     "uptime_percent": 84.31,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4324.46,
-    "last_checked": 1783490326.6082046
+    "latency_ms": 9385.51,
+    "last_checked": 1783490916.5482807
   },
   {
     "protocol": "socks5",
@@ -38,10 +53,40 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 28.42,
+    "uptime_percent": 28.45,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 10278.45,
-    "last_checked": 1783490260.2065609
+    "latency_ms": 7077.32,
+    "last_checked": 1783490896.4284658
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 12.24,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 291.03,
+    "last_checked": 1783490828.327824
+  },
+  {
+    "protocol": "http",
+    "ip": "90.181.120.18",
+    "port": 8082,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 28.13,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 6595.78,
+    "last_checked": 1783490817.8398833
   }
 ]
