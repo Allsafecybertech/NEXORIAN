@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "200.106.236.142",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "Tegucigalpa",
+    "city": "San Pedro Sula",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.62,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 1770.24,
+    "last_checked": 1783485890.9957895
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Ciudad Choluteca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.14,
+    "asn": "AS27884",
+    "isp": "Cablecolor S.A.",
+    "latency_ms": 1172.5,
+    "last_checked": 1783485885.8850863
+  },
+  {
+    "protocol": "http",
+    "ip": "179.49.113.225",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Comayagua",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 29.64,
-    "asn": "AS23383",
-    "isp": "Metrored S.a. De C.V.",
-    "latency_ms": 14334.73,
-    "last_checked": 1783485252.897047
+    "uptime_percent": 18.28,
+    "asn": "AS262234",
+    "isp": "Asociacion De Servicio De Internet S. De RL",
+    "latency_ms": 10833.05,
+    "last_checked": 1783485778.3798156
   },
   {
     "protocol": "http",
@@ -26,7 +56,22 @@
     "uptime_percent": 53.54,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 8038.67,
-    "last_checked": 1783485212.9727626
+    "latency_ms": 10744.6,
+    "last_checked": 1783485755.4679337
+  },
+  {
+    "protocol": "http",
+    "ip": "190.185.112.58",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 9.19,
+    "asn": "AS27932",
+    "isp": "Redes y Telecomunicaciones",
+    "latency_ms": 7724.04,
+    "last_checked": 1783485707.55453
   }
 ]
