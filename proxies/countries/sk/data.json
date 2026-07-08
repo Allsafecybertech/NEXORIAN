@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "91.217.33.161",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "188.121.172.2",
+    "port": 1080,
     "country": "Slovakia",
     "country_code": "SK",
-    "city": "Trnava",
+    "city": "Pezinok",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.6,
+    "asn": "AS43451",
+    "isp": "Slovanet a.s.",
+    "latency_ms": 3152.13,
+    "last_checked": 1783481641.4333766
+  },
+  {
+    "protocol": "http",
+    "ip": "185.225.204.5",
+    "port": 3128,
+    "country": "Slovakia",
+    "country_code": "SK",
+    "city": "Giraltovce",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.46,
-    "asn": "AS201603",
-    "isp": "AIRNET s.r.o.",
-    "latency_ms": 10954.1,
-    "last_checked": 1783481025.427743
+    "uptime_percent": 10.65,
+    "asn": "AS34820",
+    "isp": "DELTA ONLINE spol. s r.o.",
+    "latency_ms": 4846.46,
+    "last_checked": 1783481589.6311798
   }
 ]
