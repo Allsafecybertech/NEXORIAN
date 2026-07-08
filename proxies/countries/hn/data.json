@@ -1,33 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "181.78.44.63",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "La Unión",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 53.58,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 4759.61,
-    "last_checked": 1783544965.2476084
-  },
-  {
-    "protocol": "http",
     "ip": "80.80.91.132",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "Tegucigalpa",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 28.39,
+    "ssl": false,
+    "uptime_percent": 28.42,
     "asn": "AS273189",
     "isp": "CA NETWORKS S.A. DE C.V.",
-    "latency_ms": 1775.81,
-    "last_checked": 1783544960.6073716
+    "latency_ms": 2001.17,
+    "last_checked": 1783545583.7748013
+  },
+  {
+    "protocol": "http",
+    "ip": "190.185.112.58",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.2,
+    "asn": "AS27932",
+    "isp": "Redes y Telecomunicaciones",
+    "latency_ms": 2855.89,
+    "last_checked": 1783545549.6861427
   },
   {
     "protocol": "http",
@@ -37,11 +37,41 @@
     "country_code": "HN",
     "city": "Comayagua",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 20.49,
+    "ssl": false,
+    "uptime_percent": 20.48,
     "asn": "AS262234",
     "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 411.49,
-    "last_checked": 1783544941.2995822
+    "latency_ms": 15619.03,
+    "last_checked": 1783545532.5242736
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Ciudad Choluteca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 19.34,
+    "asn": "AS27884",
+    "isp": "Cablecolor S.A.",
+    "latency_ms": 1157.34,
+    "last_checked": 1783545488.7018638
+  },
+  {
+    "protocol": "http",
+    "ip": "38.7.24.17",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "San Pedro Sula",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 4.24,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 9651.95,
+    "last_checked": 1783545442.894694
   }
 ]
