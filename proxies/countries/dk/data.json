@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "194.150.110.134",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "168.222.43.82",
+    "port": 9090,
     "country": "Denmark",
     "country_code": "DK",
-    "city": "Taastrup",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 68.48,
-    "asn": "AS31590",
-    "isp": "Modulweb ApS",
-    "latency_ms": 8002.24,
-    "last_checked": 1783553657.3219438
+    "city": "Copenhagen",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.46,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 564.7,
+    "last_checked": 1783554281.5534682
+  },
+  {
+    "protocol": "socks5",
+    "ip": "168.222.43.82",
+    "port": 9090,
+    "country": "Denmark",
+    "country_code": "DK",
+    "city": "Copenhagen",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.31,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 1259.81,
+    "last_checked": 1783554250.7516575
   },
   {
     "protocol": "socks4",
@@ -23,10 +38,10 @@
     "city": "Humlebæk",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 51.31,
+    "uptime_percent": 51.2,
     "asn": "AS3292",
     "isp": "TDC Holding A/S",
-    "latency_ms": 3148.8,
-    "last_checked": 1783553684.6872723
+    "latency_ms": 89.8,
+    "last_checked": 1783554295.6997151
   }
 ]
