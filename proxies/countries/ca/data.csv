@@ -1,9 +1,15 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,20.151.20.143,3128,Canada,CA,Toronto,elite,true,35.17,AS8075,Microsoft Corporation,8556.44,1783481645.2644954
-http,96.1.101.113,80,Canada,CA,Calgary,elite,false,27.14,AS852,TELUS Communications Inc.,12151.04,1783481615.4575534
-http,167.114.172.208,3129,Canada,CA,Montreal,elite,false,37.62,AS16276,OVH SAS,5519.01,1783481611.697018
-http,148.113.202.99,3128,Canada,CA,Beauharnois,transparent,false,68.68,AS16276,OVH SAS,9594.69,1783481607.4931529
-http,158.69.49.179,8080,Canada,CA,Montreal,transparent,true,35.29,AS16276,OVH SAS,12467.87,1783481604.7919025
-socks5,167.114.172.208,1088,Canada,CA,Montreal,elite,true,99.96,AS16276,OVH SAS,578.75,1783481541.170988
-socks5,184.95.235.194,1080,Canada,CA,Montreal,elite,true,41.53,AS22652,Videotron Telecom Ltee,1817.0,1783481534.1633873
-socks5,38.49.210.79,40000,Canada,CA,Montreal,elite,true,95.92,AS26832,Rica Web Services,1472.5,1783481533.3950455
+socks4,24.37.245.42,51056,Canada,CA,Laval,elite,true,16.18,AS5769,Le Groupe Videotron Ltee,1160.34,1783482263.9153273
+socks5,167.114.172.208,1088,Canada,CA,Montreal,elite,true,99.96,AS16276,OVH SAS,634.96,1783482263.255529
+socks4,45.73.0.118,5678,Canada,CA,Montreal,elite,true,21.53,AS5769,Videotron Ltee,3556.62,1783482258.8612633
+http,148.113.167.24,8080,Canada,CA,Montreal,transparent,false,25.5,AS16276,OVH SAS,17399.4,1783482224.7451851
+http,167.114.172.208,3129,Canada,CA,Montreal,elite,false,37.65,AS16276,OVH SAS,13651.45,1783482223.7452533
+http,96.1.101.113,80,Canada,CA,Calgary,elite,false,27.14,AS852,TELUS Communications Inc.,14482.4,1783482222.6465952
+socks5,184.95.235.194,1080,Canada,CA,Montreal,elite,true,41.53,AS22652,Videotron Telecom Ltee,1125.29,1783482221.4495816
+socks5,38.49.218.166,9050,Canada,CA,Montreal,elite,true,22.87,AS26832,Rica Web Services,1209.79,1783482214.5243483
+http,20.151.20.143,3128,Canada,CA,Toronto,elite,false,35.17,AS8075,Microsoft Corporation,11609.03,1783482214.4742744
+socks5,38.49.210.79,40000,Canada,CA,Montreal,elite,true,95.92,AS26832,Rica Web Services,613.91,1783482205.1412766
+http,158.69.49.179,8080,Canada,CA,Montreal,transparent,false,40.74,AS16276,OVH SAS,6701.91,1783482184.4654288
+socks5,184.95.220.42,1080,Canada,CA,Montreal,elite,true,41.63,AS22652,Videotron Telecom Ltee,2439.3,1783482183.4010475
+http,148.113.202.99,3128,Canada,CA,Beauharnois,transparent,false,68.69,AS16276,OVH SAS,6274.44,1783482162.6799006
+socks5,68.233.127.229,1080,Canada,CA,Montreal,elite,true,53.25,AS31898,Oracle Corporation,12762.82,1783482081.6521103

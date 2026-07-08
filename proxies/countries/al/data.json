@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "80.78.73.120",
+    "ip": "185.190.90.2",
+    "port": 4145,
+    "country": "Albania",
+    "country_code": "AL",
+    "city": "Rrashbull",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 13.8,
+    "asn": "AS212637",
+    "isp": "Lightnet Sh.p.k.",
+    "latency_ms": 177.52,
+    "last_checked": 1783482261.5051286
+  },
+  {
+    "protocol": "socks4",
+    "ip": "80.78.74.8",
     "port": 65530,
     "country": "Albania",
     "country_code": "AL",
     "city": "Tirana",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.9,
+    "uptime_percent": 39.28,
     "asn": "AS21183",
     "isp": "Vodafone Albania Sh.A.",
-    "latency_ms": 197.69,
-    "last_checked": 1783481660.9088607
+    "latency_ms": 1205.27,
+    "last_checked": 1783482221.9981127
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "AL",
     "city": "Krume",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 22.51,
     "asn": "AS206088",
     "isp": "shqiponjaisp.al LLC",
-    "latency_ms": 8297.13,
-    "last_checked": 1783481645.3238137
-  },
-  {
-    "protocol": "http",
-    "ip": "188.93.112.240",
-    "port": 8080,
-    "country": "Albania",
-    "country_code": "AL",
-    "city": "Tirana",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 6.42,
-    "asn": "AS210693",
-    "isp": "Kamenicanet sh.p.k",
-    "latency_ms": 4591.4,
-    "last_checked": 1783481642.520474
-  },
-  {
-    "protocol": "http",
-    "ip": "188.164.218.209",
-    "port": 8080,
-    "country": "Albania",
-    "country_code": "AL",
-    "city": "Tirana",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 27.61,
-    "asn": "AS21183",
-    "isp": "Vodafone Albania Sh.A.",
-    "latency_ms": 4192.01,
-    "last_checked": 1783481620.9523077
+    "latency_ms": 8081.81,
+    "last_checked": 1783482220.8278325
   }
 ]
