@@ -1,21 +1,21 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "81.198.87.36",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "13.140.17.206",
+    "port": 3128,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.52,
-    "asn": "AS12578",
-    "isp": "Lattelekom",
-    "latency_ms": 186.92,
-    "last_checked": 1783479267.6015542
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 36.32,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 6224.08,
+    "last_checked": 1783479812.570529
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "85.31.96.14",
     "port": 9150,
     "country": "Latvia",
@@ -23,11 +23,26 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 23.77,
+    "uptime_percent": 19.27,
     "asn": "AS43513",
     "isp": "Sia Nano IT",
-    "latency_ms": 2001.43,
-    "last_checked": 1783479241.4857495
+    "latency_ms": 30980.22,
+    "last_checked": 1783479810.737604
+  },
+  {
+    "protocol": "socks5",
+    "ip": "31.57.158.84",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.81,
+    "asn": "AS56971",
+    "isp": "CGI GLOBAL LIMITED",
+    "latency_ms": 382.61,
+    "last_checked": 1783479790.8659139
   },
   {
     "protocol": "socks5",
@@ -38,10 +53,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 81.0,
+    "uptime_percent": 81.07,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 171.76,
-    "last_checked": 1783479229.204859
+    "latency_ms": 210.16,
+    "last_checked": 1783479722.6857579
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.57,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 12539.57,
+    "last_checked": 1783479702.6632867
   }
 ]
