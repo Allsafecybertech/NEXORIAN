@@ -1,33 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "110.34.1.178",
-    "port": 7777,
+    "ip": "110.34.1.180",
+    "port": 32650,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 20.35,
+    "ssl": false,
+    "uptime_percent": 8.44,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 3515.27,
-    "last_checked": 1783498781.5781887
-  },
-  {
-    "protocol": "http",
-    "ip": "139.5.75.83",
-    "port": 8080,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Patan",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.0,
-    "asn": "AS17501",
-    "isp": "WLINK",
-    "latency_ms": 3571.52,
-    "last_checked": 1783498771.6328754
+    "latency_ms": 10427.68,
+    "last_checked": 1783499373.3319106
   },
   {
     "protocol": "http",
@@ -37,11 +22,26 @@
     "country_code": "NP",
     "city": "Butwal",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 8.69,
     "asn": "AS140072",
     "isp": "Fiberworld Communication Pvt. Ltd",
-    "latency_ms": 446.35,
-    "last_checked": 1783498719.3880975
+    "latency_ms": 7520.78,
+    "last_checked": 1783499345.3920135
+  },
+  {
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 10.99,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1069.86,
+    "last_checked": 1783499350.5528228
   }
 ]
