@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "38.7.24.161",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.58,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 9546.62,
-    "last_checked": 1783599537.4999776
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.74,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 749.33,
+    "last_checked": 1783600140.8933344
   },
   {
     "protocol": "http",
@@ -22,11 +22,26 @@
     "country_code": "HN",
     "city": "San Pedro Sula",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 18.04,
     "asn": "AS274085",
     "isp": "Corporate Solutions S De RL De CV",
-    "latency_ms": 4003.3,
-    "last_checked": 1783599427.4467268
+    "latency_ms": 12470.52,
+    "last_checked": 1783600102.6752596
+  },
+  {
+    "protocol": "http",
+    "ip": "200.106.236.142",
+    "port": 8080,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 29.35,
+    "asn": "AS23383",
+    "isp": "Metrored S.a. De C.V.",
+    "latency_ms": 6765.94,
+    "last_checked": 1783600090.4718478
   }
 ]
