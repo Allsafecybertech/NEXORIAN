@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "176.12.72.62",
+    "ip": "77.245.102.106",
     "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Astana",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 34.33,
+    "asn": "AS35104",
+    "isp": "Jusan Mobile JSC",
+    "latency_ms": 401.67,
+    "last_checked": 1783591200.9382682
+  },
+  {
+    "protocol": "http",
+    "ip": "199.189.255.230",
+    "port": 8080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 20.27,
+    "ssl": false,
+    "uptime_percent": 53.72,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 8337.24,
-    "last_checked": 1783590520.5617096
+    "latency_ms": 12056.21,
+    "last_checked": 1783591162.9582617
   },
   {
     "protocol": "http",
@@ -22,11 +37,26 @@
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 98.68,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 1674.67,
-    "last_checked": 1783590500.6217194
+    "latency_ms": 4866.38,
+    "last_checked": 1783591153.836895
+  },
+  {
+    "protocol": "http",
+    "ip": "176.12.73.250",
+    "port": 3128,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 21.66,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 1708.09,
+    "last_checked": 1783591137.4718773
   }
 ]
