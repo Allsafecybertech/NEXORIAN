@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "91.199.160.81",
-    "port": 8443,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Veselí nad Lužnicí",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 73.24,
-    "asn": "AS62212",
-    "isp": "SmartApe OU",
-    "latency_ms": 359.42,
-    "last_checked": 1783627749.6532922
-  },
-  {
-    "protocol": "socks4",
     "ip": "109.69.211.18",
     "port": 1080,
     "country": "Czechia",
@@ -23,14 +8,29 @@
     "city": "Přerov",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 51.49,
+    "uptime_percent": 51.47,
     "asn": "AS196815",
     "isp": "LAN servis s.r.o",
-    "latency_ms": 177.94,
-    "last_checked": 1783627743.3695476
+    "latency_ms": 1168.98,
+    "last_checked": 1783628358.0948925
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "91.184.250.2",
+    "port": 9050,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.47,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 8893.89,
+    "last_checked": 1783628351.5205932
+  },
+  {
+    "protocol": "socks4",
     "ip": "91.199.160.81",
     "port": 8443,
     "country": "Czechia",
@@ -38,11 +38,11 @@
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 69.16,
+    "uptime_percent": 73.32,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 1405.33,
-    "last_checked": 1783627722.6072075
+    "latency_ms": 2403.48,
+    "last_checked": 1783628346.1709607
   },
   {
     "protocol": "http",
@@ -56,37 +56,67 @@
     "uptime_percent": 84.37,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 3588.75,
-    "last_checked": 1783627709.5205643
+    "latency_ms": 3538.22,
+    "last_checked": 1783628345.4044037
   },
   {
     "protocol": "http",
-    "ip": "91.139.78.174",
+    "ip": "193.179.52.197",
     "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
+    "city": "Prague",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 15.95,
+    "uptime_percent": 28.8,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 6891.9,
-    "last_checked": 1783627670.775847
+    "latency_ms": 5704.76,
+    "last_checked": 1783628340.563905
   },
   {
-    "protocol": "socks5",
-    "ip": "91.184.250.2",
-    "port": 9050,
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.29,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 7398.94,
+    "last_checked": 1783628287.4174542
+  },
+  {
+    "protocol": "http",
+    "ip": "91.199.160.81",
+    "port": 8443,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Veselí nad Lužnicí",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 31.27,
+    "uptime_percent": 70.3,
     "asn": "AS62212",
     "isp": "SmartApe OU",
-    "latency_ms": 10726.61,
-    "last_checked": 1783627607.2126071
+    "latency_ms": 630.76,
+    "last_checked": 1783628282.9910102
+  },
+  {
+    "protocol": "socks5",
+    "ip": "91.199.160.81",
+    "port": 8443,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Veselí nad Lužnicí",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.15,
+    "asn": "AS62212",
+    "isp": "SmartApe OU",
+    "latency_ms": 1240.01,
+    "last_checked": 1783628222.2246685
   }
 ]
