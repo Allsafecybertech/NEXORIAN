@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "190.185.112.58",
-    "port": 999,
+    "ip": "190.130.6.11",
+    "port": 8080,
     "country": "Honduras",
     "country_code": "HN",
     "city": "Tegucigalpa",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 9.22,
-    "asn": "AS27932",
-    "isp": "Redes y Telecomunicaciones",
-    "latency_ms": 402.13,
-    "last_checked": 1783593179.5528293
+    "uptime_percent": 14.9,
+    "asn": "AS7727",
+    "isp": "Hondutel",
+    "latency_ms": 8885.35,
+    "last_checked": 1783593876.7331023
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Ciudad Choluteca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.7,
+    "asn": "AS27884",
+    "isp": "Cablecolor S.A.",
+    "latency_ms": 2233.4,
+    "last_checked": 1783593871.3429377
   },
   {
     "protocol": "http",
-    "ip": "38.226.223.1",
+    "ip": "38.188.186.43",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "San Pedro Sula",
+    "city": "Comayagua",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 17.99,
-    "asn": "AS274085",
-    "isp": "Corporate Solutions S De RL De CV",
-    "latency_ms": 7979.83,
-    "last_checked": 1783593170.9751024
+    "uptime_percent": 13.94,
+    "asn": "AS263725",
+    "isp": "Multicable De Honduras",
+    "latency_ms": 4232.51,
+    "last_checked": 1783593845.864906
   },
   {
     "protocol": "http",
@@ -37,26 +52,11 @@
     "country_code": "HN",
     "city": "Comayagua",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 18.37,
     "asn": "AS262234",
     "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 4016.64,
-    "last_checked": 1783593160.6585498
-  },
-  {
-    "protocol": "http",
-    "ip": "179.49.113.230",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Comayagua",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 20.64,
-    "asn": "AS262234",
-    "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 16286.41,
-    "last_checked": 1783593159.0912092
+    "latency_ms": 4234.38,
+    "last_checked": 1783593833.9982924
   }
 ]
