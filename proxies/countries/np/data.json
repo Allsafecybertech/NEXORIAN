@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.16,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1001.44,
+    "last_checked": 1783631345.424282
+  },
+  {
     "protocol": "http",
     "ip": "110.34.1.178",
     "port": 7777,
@@ -7,26 +22,41 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 20.44,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 3860.13,
-    "last_checked": 1783630774.4183724
+    "latency_ms": 5375.68,
+    "last_checked": 1783631330.827851
   },
   {
     "protocol": "http",
-    "ip": "139.5.75.83",
-    "port": 8080,
+    "ip": "103.154.12.2",
+    "port": 8088,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Gulariyā",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 53.03,
+    "asn": "AS137580",
+    "isp": "Everest Wireless Network pvt. ltd",
+    "latency_ms": 7636.49,
+    "last_checked": 1783631323.5442414
+  },
+  {
+    "protocol": "http",
+    "ip": "43.245.85.46",
+    "port": 808,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Patan",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 25.24,
-    "asn": "AS17501",
-    "isp": "WLINK",
-    "latency_ms": 7819.56,
-    "last_checked": 1783630771.726396
+    "ssl": false,
+    "uptime_percent": 21.35,
+    "asn": "AS45650",
+    "isp": "Vianet",
+    "latency_ms": 8125.59,
+    "last_checked": 1783631246.3680086
   }
 ]
