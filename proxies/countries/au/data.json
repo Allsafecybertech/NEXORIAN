@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "103.248.47.230",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Kurnell",
-    "anonymity": "elite",
+    "city": "Melbourne",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 43.42,
-    "asn": "AS133417",
-    "isp": "Dicker Data Ltd",
-    "latency_ms": 4817.24,
-    "last_checked": 1783583614.5788927
+    "uptime_percent": 31.07,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 4439.56,
+    "last_checked": 1783583961.807337
   },
   {
     "protocol": "socks5",
@@ -26,8 +26,23 @@
     "uptime_percent": 49.62,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 3522.61,
-    "last_checked": 1783583605.2113254
+    "latency_ms": 3471.94,
+    "last_checked": 1783583907.848965
+  },
+  {
+    "protocol": "http",
+    "ip": "46.250.241.229",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 41.89,
+    "asn": "AS141995",
+    "isp": "Contabo Asia Private Limited",
+    "latency_ms": 14614.05,
+    "last_checked": 1783583867.6798487
   },
   {
     "protocol": "http",
@@ -38,10 +53,10 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 99.87,
+    "uptime_percent": 99.88,
     "asn": "AS7600",
     "isp": "AAPT Limited",
-    "latency_ms": 769.27,
-    "last_checked": 1783583687.9516861
+    "latency_ms": 765.79,
+    "last_checked": 1783583992.9314928
   }
 ]
