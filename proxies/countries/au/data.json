@@ -1,18 +1,33 @@
 [
   {
+    "protocol": "socks5",
+    "ip": "170.64.156.211",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 52.03,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 3824.34,
+    "last_checked": 1783562647.0488374
+  },
+  {
     "protocol": "http",
-    "ip": "159.196.182.72",
+    "ip": "46.250.241.190",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Melbourne",
+    "city": "Sydney",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 27.41,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2992.83,
-    "last_checked": 1783562065.932902
+    "ssl": false,
+    "uptime_percent": 29.73,
+    "asn": "AS141995",
+    "isp": "Contabo Asia Private Limited",
+    "latency_ms": 11406.69,
+    "last_checked": 1783562641.369527
   },
   {
     "protocol": "http",
@@ -26,38 +41,8 @@
     "uptime_percent": 42.01,
     "asn": "AS141995",
     "isp": "Contabo Asia Private Limited",
-    "latency_ms": 15403.32,
-    "last_checked": 1783562047.8986576
-  },
-  {
-    "protocol": "socks5",
-    "ip": "170.64.156.211",
-    "port": 1080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 51.89,
-    "asn": "AS14061",
-    "isp": "DigitalOcean, LLC",
-    "latency_ms": 2573.74,
-    "last_checked": 1783562016.9939773
-  },
-  {
-    "protocol": "http",
-    "ip": "103.18.205.162",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Melbourne",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.07,
-    "asn": "AS134371",
-    "isp": "Circle Network",
-    "latency_ms": 6496.07,
-    "last_checked": 1783561973.7008262
+    "latency_ms": 14969.78,
+    "last_checked": 1783562632.9932544
   },
   {
     "protocol": "http",
@@ -67,12 +52,57 @@
     "country_code": "AU",
     "city": "North Sydney",
     "anonymity": "elite",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 33.1,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 12392.93,
-    "last_checked": 1783561894.7329783
+    "latency_ms": 21129.0,
+    "last_checked": 1783562621.9976153
+  },
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.24,
+    "asn": "AS31898",
+    "isp": "Oracle Corporation",
+    "latency_ms": 6968.36,
+    "last_checked": 1783562672.4604957
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 9.57,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 8086.54,
+    "last_checked": 1783562652.0851576
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 8.62,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 11638.29,
+    "last_checked": 1783562488.3976552
   },
   {
     "protocol": "http",
@@ -86,7 +116,7 @@
     "uptime_percent": 100.0,
     "asn": "AS7600",
     "isp": "AAPT Limited",
-    "latency_ms": 690.36,
-    "last_checked": 1783562097.8405683
+    "latency_ms": 653.01,
+    "last_checked": 1783562626.4675126
   }
 ]
