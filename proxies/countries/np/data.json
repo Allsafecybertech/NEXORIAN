@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "202.166.197.177",
-    "port": 2121,
+    "ip": "202.166.220.40",
+    "port": 8080,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.52,
+    "ssl": true,
+    "uptime_percent": 32.69,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 1563.12,
-    "last_checked": 1783570981.588775
+    "latency_ms": 7743.95,
+    "last_checked": 1783571686.3678477
+  },
+  {
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.05,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 1088.4,
+    "last_checked": 1783571669.3278167
   }
 ]
