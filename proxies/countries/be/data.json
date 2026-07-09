@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "188.190.10.47",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "34.140.137.151",
+    "port": 80,
     "country": "Belgium",
     "country_code": "BE",
     "city": "Brussels",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 83.09,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 5171.23,
-    "last_checked": 1783608895.631196
+    "ssl": false,
+    "uptime_percent": 58.01,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 66.56,
+    "last_checked": 1783609487.8952763
   },
   {
     "protocol": "socks4",
@@ -23,11 +23,26 @@
     "city": "Brussels",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 86.58,
+    "uptime_percent": 86.59,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 5950.54,
-    "last_checked": 1783608884.47651
+    "latency_ms": 9967.38,
+    "last_checked": 1783609472.6822639
+  },
+  {
+    "protocol": "socks5",
+    "ip": "188.190.10.47",
+    "port": 1080,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 83.1,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 8578.91,
+    "last_checked": 1783609404.826681
   },
   {
     "protocol": "http",
@@ -38,25 +53,10 @@
     "city": "Brussels",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 75.44,
+    "uptime_percent": 75.46,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 11710.71,
-    "last_checked": 1783608839.751305
-  },
-  {
-    "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.0,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 13468.54,
-    "last_checked": 1783608808.7685702
+    "latency_ms": 13573.22,
+    "last_checked": 1783609370.9834938
   }
 ]
