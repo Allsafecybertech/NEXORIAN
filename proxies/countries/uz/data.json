@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "130.49.171.75",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "87.192.233.75",
+    "port": 3128,
     "country": "Uzbekistan",
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.59,
-    "asn": "AS43647",
-    "isp": "Servercore UZ",
-    "latency_ms": 16149.3,
-    "last_checked": 1783573751.5554576
+    "ssl": false,
+    "uptime_percent": 24.43,
+    "asn": "AS8193",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "latency_ms": 1977.87,
+    "last_checked": 1783574361.325659
   },
   {
     "protocol": "http",
@@ -26,8 +26,8 @@
     "uptime_percent": 82.56,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 868.11,
-    "last_checked": 1783573715.9358115
+    "latency_ms": 2408.18,
+    "last_checked": 1783574352.6449347
   },
   {
     "protocol": "http",
@@ -37,12 +37,12 @@
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 43.92,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 7518.53,
-    "last_checked": 1783573694.3970776
+    "latency_ms": 3696.01,
+    "last_checked": 1783574346.4576814
   },
   {
     "protocol": "http",
@@ -52,11 +52,26 @@
     "country_code": "UZ",
     "city": "Tashkent",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 89.02,
+    "ssl": false,
+    "uptime_percent": 89.03,
     "asn": "AS8193",
     "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "latency_ms": 2052.57,
-    "last_checked": 1783573683.7333236
+    "latency_ms": 9163.39,
+    "last_checked": 1783574344.6599357
+  },
+  {
+    "protocol": "socks5",
+    "ip": "130.49.171.75",
+    "port": 1080,
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "city": "Tashkent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.59,
+    "asn": "AS43647",
+    "isp": "Servercore UZ",
+    "latency_ms": 1492.78,
+    "last_checked": 1783574273.5057082
   }
 ]
