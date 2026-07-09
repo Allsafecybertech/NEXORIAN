@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.170.128.125",
-    "port": 999,
+    "protocol": "socks4",
+    "ip": "190.104.143.94",
+    "port": 4153,
     "country": "Paraguay",
     "country_code": "PY",
-    "city": "Ciudad del Este",
+    "city": "Asunción",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 9.57,
+    "asn": "AS27895",
+    "isp": "Núcleo S.A.",
+    "latency_ms": 4276.0,
+    "last_checked": 1783621463.8333898
+  },
+  {
+    "protocol": "http",
+    "ip": "190.52.165.120",
+    "port": 8080,
+    "country": "Paraguay",
+    "country_code": "PY",
+    "city": "San Lorenzo",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 9.02,
-    "asn": "AS61512",
-    "isp": "GIG@NET SOCIEDAD ANONIMA",
-    "latency_ms": 8762.3,
-    "last_checked": 1783620822.3080044
+    "uptime_percent": 10.22,
+    "asn": "AS27866",
+    "isp": "CO.PA.CO.",
+    "latency_ms": 2891.34,
+    "last_checked": 1783621462.6171021
   },
   {
     "protocol": "http",
@@ -26,22 +41,7 @@
     "uptime_percent": 65.75,
     "asn": "AS28103",
     "isp": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-    "latency_ms": 1493.18,
-    "last_checked": 1783620800.4890373
-  },
-  {
-    "protocol": "http",
-    "ip": "170.245.132.81",
-    "port": 999,
-    "country": "Paraguay",
-    "country_code": "PY",
-    "city": "Carapeguá",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.99,
-    "asn": "AS270096",
-    "isp": "MACHADO BAEZ, NERY JAVIER",
-    "latency_ms": 3765.75,
-    "last_checked": 1783620800.4575546
+    "latency_ms": 2490.0,
+    "last_checked": 1783621432.8449936
   }
 ]

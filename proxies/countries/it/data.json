@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "87.121.148.126",
-    "port": 49200,
+    "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Palazzago",
+    "city": "Furnari",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 65.89,
-    "asn": "AS210218",
-    "isp": "Open Fiber S.P.A.",
-    "latency_ms": 92.04,
-    "last_checked": 1783620850.4200227
+    "ssl": true,
+    "uptime_percent": 49.17,
+    "asn": "AS3269",
+    "isp": "Telecom Italia S.p.A",
+    "latency_ms": 260.27,
+    "last_checked": 1783621468.4627986
   },
   {
     "protocol": "socks4",
@@ -26,11 +26,11 @@
     "uptime_percent": 87.48,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 943.1,
-    "last_checked": 1783620838.5467145
+    "latency_ms": 3013.82,
+    "last_checked": 1783621467.3269248
   },
   {
-    "protocol": "socks4",
+    "protocol": "socks5",
     "ip": "5.59.248.134",
     "port": 8081,
     "country": "Italy",
@@ -38,11 +38,41 @@
     "city": "Pomezia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.16,
+    "uptime_percent": 31.85,
     "asn": "AS212271",
     "isp": "Cinzia Tocci trading as Lumanex Srl",
-    "latency_ms": 3915.54,
-    "last_checked": 1783620828.7726834
+    "latency_ms": 2905.27,
+    "last_checked": 1783621448.8941567
+  },
+  {
+    "protocol": "http",
+    "ip": "185.191.106.41",
+    "port": 8081,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 22.89,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 3740.09,
+    "last_checked": 1783621442.309127
+  },
+  {
+    "protocol": "http",
+    "ip": "93.187.25.12",
+    "port": 58080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Siena",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.31,
+    "asn": "AS43960",
+    "isp": "Consorzio Terrecablate",
+    "latency_ms": 7410.86,
+    "last_checked": 1783621432.059825
   },
   {
     "protocol": "socks5",
@@ -53,26 +83,11 @@
     "city": "Milan",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.97,
+    "uptime_percent": 85.96,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 461.41,
-    "last_checked": 1783620785.3259306
-  },
-  {
-    "protocol": "http",
-    "ip": "185.191.106.0",
-    "port": 8081,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 22.63,
-    "asn": "AS44092",
-    "isp": "Mywic Costumers",
-    "latency_ms": 447.25,
-    "last_checked": 1783620774.9580038
+    "latency_ms": 2590.59,
+    "last_checked": 1783621342.2790303
   },
   {
     "protocol": "socks4",
@@ -83,26 +98,11 @@
     "city": "Teramo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.95,
+    "uptime_percent": 18.11,
     "asn": "AS21034",
     "isp": "Micso S.r.l.",
-    "latency_ms": 172.05,
-    "last_checked": 1783620895.3811393
-  },
-  {
-    "protocol": "http",
-    "ip": "212.77.75.25",
-    "port": 3129,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.36,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 5240.77,
-    "last_checked": 1783620891.5639527
+    "latency_ms": 3208.66,
+    "last_checked": 1783621496.3578935
   },
   {
     "protocol": "socks5",
@@ -116,7 +116,7 @@
     "uptime_percent": 99.86,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 154.85,
-    "last_checked": 1783620891.3938127
+    "latency_ms": 238.7,
+    "last_checked": 1783621490.7063673
   }
 ]
