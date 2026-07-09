@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "217.169.223.18",
-    "port": 1080,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 17.71,
-    "asn": "AS9125",
-    "isp": "Orion Telekom Client Network",
-    "latency_ms": 3156.3,
-    "last_checked": 1783628931.36984
-  },
-  {
     "protocol": "http",
     "ip": "109.198.22.61",
     "port": 808,
@@ -22,11 +7,26 @@
     "country_code": "RS",
     "city": "Novi Pazar",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 81.14,
+    "ssl": false,
+    "uptime_percent": 81.13,
     "asn": "AS8400",
     "isp": "MadNet ISP",
-    "latency_ms": 1809.14,
-    "last_checked": 1783628925.539326
+    "latency_ms": 3284.13,
+    "last_checked": 1783629556.3294456
+  },
+  {
+    "protocol": "socks4",
+    "ip": "91.150.77.58",
+    "port": 56921,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.62,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 3128.72,
+    "last_checked": 1783629537.8412786
   }
 ]
