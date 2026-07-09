@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Bern",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 69.18,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 666.79,
-    "last_checked": 1783595381.7155147
-  },
-  {
     "protocol": "socks4",
     "ip": "45.95.232.35",
     "port": 1080,
@@ -26,11 +11,11 @@
     "uptime_percent": 88.3,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3831.96,
-    "last_checked": 1783595342.0197487
+    "latency_ms": 4315.46,
+    "last_checked": 1783595980.6565087
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "5.101.85.133",
     "port": 9050,
     "country": "Switzerland",
@@ -38,11 +23,26 @@
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 54.79,
+    "uptime_percent": 55.26,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 20619.04,
-    "last_checked": 1783595310.1472821
+    "latency_ms": 4312.18,
+    "last_checked": 1783595961.4773471
+  },
+  {
+    "protocol": "http",
+    "ip": "45.95.232.35",
+    "port": 3128,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 74.28,
+    "asn": "AS215540",
+    "isp": "Global Connectivity Solutions LLP",
+    "latency_ms": 2724.8,
+    "last_checked": 1783595957.5440223
   },
   {
     "protocol": "socks5",
@@ -56,7 +56,22 @@
     "uptime_percent": 87.17,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 3740.82,
-    "last_checked": 1783595233.6130269
+    "latency_ms": 12328.72,
+    "last_checked": 1783595957.426636
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.101.85.133",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.79,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 5310.39,
+    "last_checked": 1783595866.0800831
   }
 ]
