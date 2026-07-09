@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "147.91.22.150",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
     "country": "Serbia",
     "country_code": "RS",
     "city": "Belgrade",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.95,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 103.63,
+    "last_checked": 1783635560.019175
+  },
+  {
+    "protocol": "http",
+    "ip": "109.111.242.134",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 24.9,
-    "asn": "AS13092",
-    "isp": "Akademska mreza Republike Srbije - AMRES",
-    "latency_ms": 19833.04,
-    "last_checked": 1783634863.6436791
+    "uptime_percent": 12.47,
+    "asn": "AS28964",
+    "isp": "ORIONTELEKOM",
+    "latency_ms": 12151.48,
+    "last_checked": 1783635520.5453703
   }
 ]

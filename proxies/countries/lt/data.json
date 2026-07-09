@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.206.161.77",
-    "port": 9091,
+    "protocol": "http",
+    "ip": "88.119.139.237",
+    "port": 53281,
     "country": "Lithuania",
     "country_code": "LT",
-    "city": "Šiauliai",
+    "city": "Klaipėda",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.38,
+    "asn": "AS8764",
+    "isp": "Telia Lietuva",
+    "latency_ms": 5007.27,
+    "last_checked": 1783635500.7997885
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.193.25.206",
+    "port": 9050,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.84,
-    "asn": "AS61272",
-    "isp": "Informacines sistemos ir technologijos, UAB",
-    "latency_ms": 4738.77,
-    "last_checked": 1783634935.6671407
+    "uptime_percent": 18.74,
+    "asn": "AS62282",
+    "isp": "UAB Delska Lithuania",
+    "latency_ms": 17057.98,
+    "last_checked": 1783635450.6832716
+  },
+  {
+    "protocol": "http",
+    "ip": "89.40.2.194",
+    "port": 3128,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Vilnius",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 48.55,
+    "asn": "AS212531",
+    "isp": "UAB \"Interneto vizija\"",
+    "latency_ms": 12727.36,
+    "last_checked": 1783635427.3301947
   },
   {
     "protocol": "socks5",
@@ -26,22 +56,7 @@
     "uptime_percent": 41.73,
     "asn": "AS8764",
     "isp": "Telia Lietuva",
-    "latency_ms": 3282.25,
-    "last_checked": 1783634852.554723
-  },
-  {
-    "protocol": "http",
-    "ip": "89.40.2.194",
-    "port": 3128,
-    "country": "Lithuania",
-    "country_code": "LT",
-    "city": "Vilnius",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 48.32,
-    "asn": "AS212531",
-    "isp": "UAB \"Interneto vizija\"",
-    "latency_ms": 2963.01,
-    "last_checked": 1783634791.2466547
+    "latency_ms": 7247.17,
+    "last_checked": 1783635411.6007497
   }
 ]
