@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "169.159.128.73",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "196.223.129.21",
+    "port": 80,
     "country": "South Africa",
     "country_code": "ZA",
-    "city": "Pretoria",
+    "city": "Stellenbosch",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.14,
+    "ssl": false,
+    "uptime_percent": 30.17,
     "asn": "AS328471",
-    "isp": "Herotel",
-    "latency_ms": 1878.37,
-    "last_checked": 1783625984.4976141
+    "isp": "HERO TELECOMS (PTY) LTD",
+    "latency_ms": 905.61,
+    "last_checked": 1783626289.759912
+  },
+  {
+    "protocol": "http",
+    "ip": "102.218.41.98",
+    "port": 8082,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Durban",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 21.72,
+    "asn": "AS328942",
+    "isp": "IMVULA ITECHNOLOGIES (PTY) LTD",
+    "latency_ms": 4605.29,
+    "last_checked": 1783626264.3687718
   },
   {
     "protocol": "socks4",
@@ -26,8 +41,53 @@
     "uptime_percent": 66.17,
     "asn": "AS37100",
     "isp": "SEACOM Limited Networks",
-    "latency_ms": 1963.63,
-    "last_checked": 1783625977.733177
+    "latency_ms": 8144.15,
+    "last_checked": 1783626254.5092866
+  },
+  {
+    "protocol": "socks5",
+    "ip": "102.217.190.157",
+    "port": 7080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Cape Town",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 60.46,
+    "asn": "AS328970",
+    "isp": "CloudGistics",
+    "latency_ms": 1621.73,
+    "last_checked": 1783626249.2732582
+  },
+  {
+    "protocol": "http",
+    "ip": "196.6.115.165",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Tzaneen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 21.93,
+    "asn": "AS328638",
+    "isp": "LWIC",
+    "latency_ms": 3479.8,
+    "last_checked": 1783626248.8918107
+  },
+  {
+    "protocol": "http",
+    "ip": "196.251.223.54",
+    "port": 8080,
+    "country": "South Africa",
+    "country_code": "ZA",
+    "city": "Brits",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 5.96,
+    "asn": "AS37403",
+    "isp": "Info-Gro (PTY) Ltd",
+    "latency_ms": 5622.29,
+    "last_checked": 1783626247.0832477
   },
   {
     "protocol": "socks4",
@@ -41,37 +101,7 @@
     "uptime_percent": 56.39,
     "asn": "AS37542",
     "isp": "Iclix (PTY) Ltd",
-    "latency_ms": 9840.2,
-    "last_checked": 1783625966.7932417
-  },
-  {
-    "protocol": "http",
-    "ip": "197.100.98.169",
-    "port": 8080,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Bloemfontein",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.09,
-    "asn": "AS3741",
-    "isp": "Dimension Data",
-    "latency_ms": 2752.76,
-    "last_checked": 1783625957.773406
-  },
-  {
-    "protocol": "http",
-    "ip": "196.223.129.21",
-    "port": 80,
-    "country": "South Africa",
-    "country_code": "ZA",
-    "city": "Stellenbosch",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 30.17,
-    "asn": "AS328471",
-    "isp": "HERO TELECOMS (PTY) LTD",
-    "latency_ms": 8074.03,
-    "last_checked": 1783625875.0959885
+    "latency_ms": 8195.59,
+    "last_checked": 1783626242.4071252
   }
 ]
