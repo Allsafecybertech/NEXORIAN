@@ -1,48 +1,18 @@
 [
   {
     "protocol": "http",
-    "ip": "87.121.148.126",
-    "port": 49200,
+    "ip": "185.191.106.0",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Palazzago",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 65.89,
-    "asn": "AS210218",
-    "isp": "Open Fiber S.P.A.",
-    "latency_ms": 69.41,
-    "last_checked": 1783663148.2482455
-  },
-  {
-    "protocol": "http",
-    "ip": "194.183.1.205",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Rome",
+    "city": "Milan",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.0,
-    "asn": "AS5394",
-    "isp": "UNIDATA S.p.A.",
-    "latency_ms": 10384.92,
-    "last_checked": 1783663086.5475225
-  },
-  {
-    "protocol": "http",
-    "ip": "78.134.20.48",
-    "port": 8080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Pitigliano",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 9.26,
-    "asn": "AS35612",
-    "isp": "NGI",
-    "latency_ms": 6659.39,
-    "last_checked": 1783663075.934356
+    "ssl": true,
+    "uptime_percent": 22.63,
+    "asn": "AS44092",
+    "isp": "Mywic Costumers",
+    "latency_ms": 5196.31,
+    "last_checked": 1783663690.6992438
   },
   {
     "protocol": "socks4",
@@ -56,8 +26,8 @@
     "uptime_percent": 87.43,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 401.41,
-    "last_checked": 1783663191.9881551
+    "latency_ms": 1712.44,
+    "last_checked": 1783663798.4407563
   },
   {
     "protocol": "socks5",
@@ -71,23 +41,8 @@
     "uptime_percent": 85.89,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 1180.45,
-    "last_checked": 1783663120.1228154
-  },
-  {
-    "protocol": "http",
-    "ip": "212.77.75.25",
-    "port": 3129,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Empoli",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 27.84,
-    "asn": "AS15691",
-    "isp": "Leonet srl Empoli",
-    "latency_ms": 305.36,
-    "last_checked": 1783663171.2739897
+    "latency_ms": 1499.14,
+    "last_checked": 1783663754.377854
   },
   {
     "protocol": "socks5",
@@ -101,8 +56,8 @@
     "uptime_percent": 99.86,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 270.03,
-    "last_checked": 1783663148.5011573
+    "latency_ms": 190.57,
+    "last_checked": 1783663781.87408
   },
   {
     "protocol": "socks4",
@@ -113,10 +68,25 @@
     "city": "Teramo",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 18.87,
+    "uptime_percent": 18.85,
     "asn": "AS21034",
     "isp": "Micso S.r.l.",
-    "latency_ms": 1176.14,
-    "last_checked": 1783663136.8608687
+    "latency_ms": 1218.55,
+    "last_checked": 1783663761.7261314
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 27.86,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 11740.22,
+    "last_checked": 1783663674.2478454
   }
 ]
