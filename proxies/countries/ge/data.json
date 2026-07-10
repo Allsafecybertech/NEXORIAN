@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "85.117.32.166",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "85.117.56.82",
+    "port": 8080,
     "country": "Georgia",
     "country_code": "GE",
     "city": "Tbilisi",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.66,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 14.22,
     "asn": "AS20771",
     "isp": "Caucasus Online Ltd.",
-    "latency_ms": 1284.19,
-    "last_checked": 1783655390.9593434
+    "latency_ms": 12379.07,
+    "last_checked": 1783655816.9958932
   },
   {
     "protocol": "http",
@@ -22,56 +22,11 @@
     "country_code": "GE",
     "city": "Tbilisi",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 9.93,
     "asn": "AS20771",
     "isp": "Caucasus Online Ltd.",
-    "latency_ms": 9043.87,
-    "last_checked": 1783655353.6118562
-  },
-  {
-    "protocol": "http",
-    "ip": "85.117.56.85",
-    "port": 8080,
-    "country": "Georgia",
-    "country_code": "GE",
-    "city": "Tbilisi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 17.72,
-    "asn": "AS20771",
-    "isp": "Caucasus Online Ltd.",
-    "latency_ms": 4926.0,
-    "last_checked": 1783655273.6225128
-  },
-  {
-    "protocol": "http",
-    "ip": "80.241.251.54",
-    "port": 8080,
-    "country": "Georgia",
-    "country_code": "GE",
-    "city": "Tbilisi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.44,
-    "asn": "AS16010",
-    "isp": "Corporate",
-    "latency_ms": 2078.49,
-    "last_checked": 1783655267.3883927
-  },
-  {
-    "protocol": "http",
-    "ip": "85.117.56.43",
-    "port": 8080,
-    "country": "Georgia",
-    "country_code": "GE",
-    "city": "Tbilisi",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 12.57,
-    "asn": "AS20771",
-    "isp": "Caucasus Online Ltd.",
-    "latency_ms": 2518.67,
-    "last_checked": 1783655216.3896883
+    "latency_ms": 213.33,
+    "last_checked": 1783655718.3510532
   }
 ]
