@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "181.115.67.3",
+    "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 15.8,
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.06,
     "asn": "AS14754",
     "isp": "Telgua",
-    "latency_ms": 746.47,
-    "last_checked": 1783673627.9652593
+    "latency_ms": 12004.29,
+    "last_checked": 1783674205.799931
+  },
+  {
+    "protocol": "http",
+    "ip": "80.80.91.132",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Tegucigalpa",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.15,
+    "asn": "AS273189",
+    "isp": "CA NETWORKS S.A. DE C.V.",
+    "latency_ms": 2104.19,
+    "last_checked": 1783674188.8769326
   },
   {
     "protocol": "http",
@@ -26,37 +41,7 @@
     "uptime_percent": 53.62,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 9083.69,
-    "last_checked": 1783673600.0064201
-  },
-  {
-    "protocol": "http",
-    "ip": "179.49.113.225",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "Comayagua",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 18.45,
-    "asn": "AS262234",
-    "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 3102.4,
-    "last_checked": 1783673579.0718787
-  },
-  {
-    "protocol": "http",
-    "ip": "38.7.24.17",
-    "port": 8080,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "San Pedro Sula",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 4.25,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 13052.87,
-    "last_checked": 1783673505.9918396
+    "latency_ms": 5364.59,
+    "last_checked": 1783674108.8155727
   }
 ]
