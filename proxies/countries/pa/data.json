@@ -1,17 +1,32 @@
 [
   {
     "protocol": "http",
-    "ip": "190.61.85.225",
-    "port": 999,
+    "ip": "190.61.127.115",
+    "port": 8080,
     "country": "Panama",
     "country_code": "PA",
     "city": "Panama City",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.66,
+    "ssl": true,
+    "uptime_percent": 19.33,
     "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 3539.65,
-    "last_checked": 1783697883.9638767
+    "isp": "Ufinet Panama S.A",
+    "latency_ms": 814.83,
+    "last_checked": 1783698528.5911784
+  },
+  {
+    "protocol": "http",
+    "ip": "45.229.56.64",
+    "port": 999,
+    "country": "Panama",
+    "country_code": "PA",
+    "city": "La Chorrera",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 5.69,
+    "asn": "AS266692",
+    "isp": "Geek Networks",
+    "latency_ms": 16249.29,
+    "last_checked": 1783698437.6738324
   }
 ]
