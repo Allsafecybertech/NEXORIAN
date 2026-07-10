@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "http",
+    "ip": "92.63.83.23",
+    "port": 3129,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 27.68,
+    "asn": "AS44575",
+    "isp": "SIA \"MWTV\"",
+    "latency_ms": 7959.65,
+    "last_checked": 1783703349.2041974
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 77.88,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 1215.25,
+    "last_checked": 1783703232.0865927
+  },
+  {
     "protocol": "socks5",
     "ip": "185.236.22.192",
     "port": 9050,
@@ -11,38 +41,8 @@
     "uptime_percent": 33.65,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 10287.05,
-    "last_checked": 1783702786.3716273
-  },
-  {
-    "protocol": "socks5",
-    "ip": "195.135.255.98",
-    "port": 1080,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 77.86,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 4218.32,
-    "last_checked": 1783702744.5613956
-  },
-  {
-    "protocol": "http",
-    "ip": "13.140.17.206",
-    "port": 3128,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 35.82,
-    "asn": "AS42532",
-    "isp": "SIA VEESP",
-    "latency_ms": 11983.05,
-    "last_checked": 1783702706.2578835
+    "latency_ms": 13795.01,
+    "last_checked": 1783703170.3065617
   },
   {
     "protocol": "socks4",
@@ -53,10 +53,10 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 58.87,
+    "uptime_percent": 58.88,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 159.65,
-    "last_checked": 1783702760.296183
+    "latency_ms": 166.51,
+    "last_checked": 1783703359.7253406
   }
 ]
