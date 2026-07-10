@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.2,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 66.7,
-    "last_checked": 1783722259.2893057
-  },
-  {
     "protocol": "socks4",
     "ip": "188.190.10.47",
     "port": 1080,
@@ -23,11 +8,26 @@
     "city": "Brussels",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.67,
+    "uptime_percent": 88.68,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 2284.26,
-    "last_checked": 1783722254.6245887
+    "latency_ms": 5045.86,
+    "last_checked": 1783722832.3758318
+  },
+  {
+    "protocol": "http",
+    "ip": "188.190.10.47",
+    "port": 1080,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 78.17,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 9934.09,
+    "last_checked": 1783722820.7996786
   },
   {
     "protocol": "socks5",
@@ -38,25 +38,25 @@
     "city": "Brussels",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 85.0,
+    "uptime_percent": 85.01,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 9806.23,
-    "last_checked": 1783722241.3203287
+    "latency_ms": 16454.03,
+    "last_checked": 1783722810.4791224
   },
   {
     "protocol": "http",
-    "ip": "188.190.10.47",
-    "port": 1080,
+    "ip": "34.140.137.151",
+    "port": 80,
     "country": "Belgium",
     "country_code": "BE",
     "city": "Brussels",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 78.16,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 6812.17,
-    "last_checked": 1783722207.3298523
+    "ssl": false,
+    "uptime_percent": 58.21,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 77.58,
+    "last_checked": 1783722769.728818
   }
 ]
