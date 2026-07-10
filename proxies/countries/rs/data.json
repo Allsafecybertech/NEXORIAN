@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.32,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 1137.14,
+    "last_checked": 1783694379.504341
+  },
+  {
     "protocol": "http",
     "ip": "82.117.211.42",
     "port": 8085,
@@ -7,11 +22,26 @@
     "country_code": "RS",
     "city": "Novi Sad",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.2,
+    "ssl": true,
+    "uptime_percent": 34.25,
     "asn": "AS31042",
     "isp": "Serbia BroadBand",
-    "latency_ms": 4723.54,
-    "last_checked": 1783693691.277562
+    "latency_ms": 10370.11,
+    "last_checked": 1783694310.9838188
+  },
+  {
+    "protocol": "http",
+    "ip": "217.16.136.160",
+    "port": 80,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Niš",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 82.43,
+    "asn": "AS197423",
+    "isp": "Jotel",
+    "latency_ms": 6287.63,
+    "last_checked": 1783694226.2620785
   }
 ]
