@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Parksepa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 63.58,
+    "asn": "AS202652",
+    "isp": "SkyLive Telecom ldt",
+    "latency_ms": 220.91,
+    "last_checked": 1783704541.4909453
+  },
+  {
+    "protocol": "socks4",
     "ip": "45.67.131.229",
     "port": 1080,
     "country": "Estonia",
@@ -8,11 +23,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 93.02,
+    "uptime_percent": 93.04,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 2131.24,
-    "last_checked": 1783703992.8463275
+    "latency_ms": 5895.78,
+    "last_checked": 1783704539.1440701
   },
   {
     "protocol": "socks4",
@@ -23,11 +38,11 @@
     "city": "Tallinn",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 34.28,
+    "uptime_percent": 34.29,
     "asn": "",
     "isp": "WorkTitans B.V",
-    "latency_ms": 5428.94,
-    "last_checked": 1783703988.2202842
+    "latency_ms": 144.49,
+    "last_checked": 1783704530.2086759
   },
   {
     "protocol": "http",
@@ -38,11 +53,11 @@
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 91.22,
+    "uptime_percent": 91.24,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 709.7,
-    "last_checked": 1783703978.4079523
+    "latency_ms": 2858.68,
+    "last_checked": 1783704528.355083
   },
   {
     "protocol": "socks5",
@@ -56,23 +71,38 @@
     "uptime_percent": 91.51,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 1391.08,
-    "last_checked": 1783703977.5574899
+    "latency_ms": 2806.55,
+    "last_checked": 1783704513.727207
   },
   {
-    "protocol": "socks5",
-    "ip": "5.45.118.209",
+    "protocol": "socks4",
+    "ip": "5.45.125.201",
     "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
     "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 90.68,
+    "uptime_percent": 66.48,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 336.38,
-    "last_checked": 1783703970.5130565
+    "latency_ms": 9248.66,
+    "last_checked": 1783704507.9532866
+  },
+  {
+    "protocol": "http",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 14.1,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 9665.45,
+    "last_checked": 1783704506.3205206
   },
   {
     "protocol": "http",
@@ -86,22 +116,52 @@
     "uptime_percent": 39.02,
     "asn": "AS198068",
     "isp": "PAGM network",
-    "latency_ms": 11876.38,
-    "last_checked": 1783703969.3926928
+    "latency_ms": 4014.47,
+    "last_checked": 1783704479.8677914
   },
   {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
+    "protocol": "socks5",
+    "ip": "5.45.118.209",
+    "port": 1080,
     "country": "Estonia",
     "country_code": "EE",
-    "city": "Parksepa",
+    "city": "Jõhvi",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 63.55,
-    "asn": "AS202652",
-    "isp": "SkyLive Telecom ldt",
-    "latency_ms": 7485.45,
-    "last_checked": 1783703960.9836152
+    "uptime_percent": 90.68,
+    "asn": "AS198068",
+    "isp": "PAGM network",
+    "latency_ms": 201.86,
+    "last_checked": 1783704448.096399
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.181.23.213",
+    "port": 8443,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 35.2,
+    "asn": "",
+    "isp": "WorkTitans B.V",
+    "latency_ms": 4305.65,
+    "last_checked": 1783704417.806319
+  },
+  {
+    "protocol": "http",
+    "ip": "217.78.239.5",
+    "port": 4555,
+    "country": "Estonia",
+    "country_code": "EE",
+    "city": "Tallinn",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 15.8,
+    "asn": "AS211211",
+    "isp": "IT-Develop DOO",
+    "latency_ms": 12452.62,
+    "last_checked": 1783704319.6021788
   }
 ]
