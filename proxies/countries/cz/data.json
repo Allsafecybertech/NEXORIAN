@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "109.108.126.166",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Lanškroun",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 61.85,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 129.59,
+    "last_checked": 1783643031.6806324
+  },
+  {
+    "protocol": "http",
+    "ip": "193.179.52.197",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 28.47,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 5430.59,
+    "last_checked": 1783643028.663859
+  },
+  {
     "protocol": "http",
     "ip": "77.240.97.77",
     "port": 8080,
@@ -11,8 +41,23 @@
     "uptime_percent": 23.45,
     "asn": "AS42189",
     "isp": "DOBRISNET",
-    "latency_ms": 92.19,
-    "last_checked": 1783642479.5345323
+    "latency_ms": 3114.93,
+    "last_checked": 1783642981.5233188
+  },
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Strážnice",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 12.29,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 108.31,
+    "last_checked": 1783642971.4984252
   },
   {
     "protocol": "http",
@@ -26,22 +71,7 @@
     "uptime_percent": 84.38,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4358.64,
-    "last_checked": 1783642459.5260334
-  },
-  {
-    "protocol": "http",
-    "ip": "45.139.91.62",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Pilsen",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 27.57,
-    "asn": "AS197296",
-    "isp": "United Networks SE",
-    "latency_ms": 7204.2,
-    "last_checked": 1783642359.703965
+    "latency_ms": 5564.62,
+    "last_checked": 1783642960.3743849
   }
 ]
