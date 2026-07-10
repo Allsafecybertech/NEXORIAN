@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 33.09,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 2925.95,
-    "last_checked": 1783725805.6975145
-  },
-  {
-    "protocol": "http",
     "ip": "103.18.205.162",
     "port": 8080,
     "country": "Australia",
     "country_code": "AU",
     "city": "Melbourne",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 31.36,
     "asn": "AS134371",
     "isp": "Circle Network",
-    "latency_ms": 2733.92,
-    "last_checked": 1783725847.0637643
+    "latency_ms": 2413.75,
+    "last_checked": 1783726396.9161296
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 80,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 8.65,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 3734.84,
+    "last_checked": 1783726345.648541
+  },
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.47,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 1557.14,
+    "last_checked": 1783726472.384593
   },
   {
     "protocol": "http",
@@ -38,10 +53,10 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 98.2,
+    "uptime_percent": 98.21,
     "asn": "AS7600",
     "isp": "AAPT Limited",
-    "latency_ms": 660.51,
-    "last_checked": 1783725862.2859335
+    "latency_ms": 697.08,
+    "last_checked": 1783726383.9944823
   }
 ]
