@@ -1,17 +1,47 @@
 [
   {
-    "protocol": "http",
-    "ip": "202.166.220.40",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "118.91.175.146",
+    "port": 5678,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Nanche Bazar",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.01,
+    "asn": "AS24550",
+    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+    "latency_ms": 3900.51,
+    "last_checked": 1783660192.8013577
+  },
+  {
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
     "country": "Nepal",
     "country_code": "NP",
     "city": "Kathmandu",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.11,
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 11.21,
     "asn": "AS17501",
     "isp": "WorldLink Communications",
-    "latency_ms": 8993.18,
-    "last_checked": 1783659492.4326227
+    "latency_ms": 998.13,
+    "last_checked": 1783660180.7283723
+  },
+  {
+    "protocol": "http",
+    "ip": "103.124.97.12",
+    "port": 8080,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Pokhara",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.26,
+    "asn": "AS138388",
+    "isp": "Pokhara Internet Pvt. Ltd",
+    "latency_ms": 12132.85,
+    "last_checked": 1783660124.1374228
   }
 ]
