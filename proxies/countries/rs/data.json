@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.117.211.42",
-    "port": 8085,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Novi Sad",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 33.97,
-    "asn": "AS31042",
-    "isp": "Serbia BroadBand",
-    "latency_ms": 103.34,
-    "last_checked": 1783651755.6414607
-  },
-  {
-    "protocol": "http",
-    "ip": "95.140.113.74",
-    "port": 6666,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 42.32,
-    "asn": "AS9125",
-    "isp": "Orion Telekom Network",
-    "latency_ms": 8589.91,
-    "last_checked": 1783651748.2962735
-  },
-  {
     "protocol": "socks4",
     "ip": "91.150.77.58",
     "port": 56921,
@@ -41,7 +11,52 @@
     "uptime_percent": 12.62,
     "asn": "AS8400",
     "isp": "TELEKOM SRBIJA a.d.",
-    "latency_ms": 1139.87,
-    "last_checked": 1783651785.713275
+    "latency_ms": 157.26,
+    "last_checked": 1783652377.4832978
+  },
+  {
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 18.15,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Client Network",
+    "latency_ms": 3127.57,
+    "last_checked": 1783652357.6094651
+  },
+  {
+    "protocol": "http",
+    "ip": "82.117.211.42",
+    "port": 8085,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Sad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.06,
+    "asn": "AS31042",
+    "isp": "Serbia BroadBand",
+    "latency_ms": 8412.18,
+    "last_checked": 1783652291.6142433
+  },
+  {
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 42.49,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 2421.91,
+    "last_checked": 1783652318.5229619
   }
 ]
