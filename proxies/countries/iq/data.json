@@ -1,18 +1,33 @@
 [
   {
     "protocol": "socks4",
-    "ip": "109.224.12.170",
-    "port": 52015,
+    "ip": "109.224.22.35",
+    "port": 51372,
     "country": "Iraq",
     "country_code": "IQ",
     "city": "Baghdad",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 15.15,
+    "uptime_percent": 23.88,
     "asn": "AS203214",
     "isp": "Hulum",
-    "latency_ms": 427.57,
-    "last_checked": 1783654168.8887022
+    "latency_ms": 356.34,
+    "last_checked": 1783654758.309168
+  },
+  {
+    "protocol": "socks4",
+    "ip": "188.72.16.74",
+    "port": 1080,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Sulaymaniyah",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.66,
+    "asn": "AS49571",
+    "isp": "CELLNET - Garden City",
+    "latency_ms": 493.16,
+    "last_checked": 1783654733.198117
   },
   {
     "protocol": "http",
@@ -26,8 +41,8 @@
     "uptime_percent": 16.3,
     "asn": "AS21277",
     "isp": "Allay Nawroz Telecom Company for Communication/Ltd.",
-    "latency_ms": 9934.52,
-    "last_checked": 1783654127.8199067
+    "latency_ms": 10300.02,
+    "last_checked": 1783654667.8554714
   },
   {
     "protocol": "http",
@@ -41,22 +56,37 @@
     "uptime_percent": 96.96,
     "asn": "AS205889",
     "isp": "Giganet Telecom",
-    "latency_ms": 131.32,
-    "last_checked": 1783654084.4708514
+    "latency_ms": 174.57,
+    "last_checked": 1783654789.9005804
   },
   {
-    "protocol": "socks5",
-    "ip": "212.237.125.216",
-    "port": 6969,
+    "protocol": "http",
+    "ip": "185.166.24.221",
+    "port": 1981,
     "country": "Iraq",
     "country_code": "IQ",
     "city": "Erbil",
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 52.34,
-    "asn": "AS206206",
-    "isp": "Kurdistan Net 4",
-    "latency_ms": 793.17,
-    "last_checked": 1783654199.772146
+    "uptime_percent": 23.29,
+    "asn": "AS207097",
+    "isp": "Online Company Ltd",
+    "latency_ms": 10994.47,
+    "last_checked": 1783654699.9654262
+  },
+  {
+    "protocol": "http",
+    "ip": "185.166.24.221",
+    "port": 1976,
+    "country": "Iraq",
+    "country_code": "IQ",
+    "city": "Erbil",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.4,
+    "asn": "AS207097",
+    "isp": "Online Company Ltd",
+    "latency_ms": 12429.77,
+    "last_checked": 1783654655.745218
   }
 ]
