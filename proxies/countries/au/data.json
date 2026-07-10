@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 32.88,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 3584.42,
-    "last_checked": 1783648744.9509108
-  },
-  {
     "protocol": "socks5",
     "ip": "170.64.156.211",
     "port": 1080,
@@ -23,11 +8,26 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 44.35,
+    "uptime_percent": 44.54,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 1655.84,
-    "last_checked": 1783648739.0715318
+    "latency_ms": 1456.16,
+    "last_checked": 1783649361.9123902
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.142.97",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "North Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.09,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 15834.18,
+    "last_checked": 1783649353.2932594
   },
   {
     "protocol": "http",
@@ -37,12 +37,27 @@
     "country_code": "AU",
     "city": "North Sydney",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 34.44,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 12656.33,
-    "last_checked": 1783648722.9957407
+    "latency_ms": 15182.69,
+    "last_checked": 1783649332.1746645
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.58,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 10556.73,
+    "last_checked": 1783649321.5158706
   },
   {
     "protocol": "http",
@@ -52,11 +67,11 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 98.45,
+    "ssl": true,
+    "uptime_percent": 98.46,
     "asn": "AS7600",
     "isp": "AAPT Limited",
-    "latency_ms": 651.34,
-    "last_checked": 1783648798.8790686
+    "latency_ms": 656.59,
+    "last_checked": 1783649323.162345
   }
 ]
