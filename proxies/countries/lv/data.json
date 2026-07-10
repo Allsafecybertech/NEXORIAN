@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "http",
+    "ip": "89.36.161.56",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.84,
+    "asn": "AS56630",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 10856.5,
+    "last_checked": 1783674843.4512734
+  },
+  {
     "protocol": "socks4",
     "ip": "85.31.96.14",
     "port": 9150,
@@ -8,11 +23,26 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 21.62,
+    "uptime_percent": 21.74,
     "asn": "AS43513",
     "isp": "Sia Nano IT",
-    "latency_ms": 9717.2,
-    "last_checked": 1783674233.5575163
+    "latency_ms": 9917.59,
+    "last_checked": 1783674823.1232326
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 78.14,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 523.26,
+    "last_checked": 1783674755.5734642
   },
   {
     "protocol": "socks5",
@@ -23,25 +53,10 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.36,
+    "uptime_percent": 17.47,
     "asn": "AS43513",
     "isp": "Sia Nano IT",
-    "latency_ms": 2348.6,
-    "last_checked": 1783674231.3644726
-  },
-  {
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
-    "country": "Latvia",
-    "country_code": "LV",
-    "city": "Riga",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 58.85,
-    "asn": "AS2588",
-    "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 3504.61,
-    "last_checked": 1783674291.9412014
+    "latency_ms": 19600.23,
+    "last_checked": 1783674709.672155
   }
 ]
