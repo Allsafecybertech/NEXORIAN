@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "185.253.116.162",
-    "port": 1080,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 96.57,
-    "asn": "AS59711",
-    "isp": "HZ Hosting Ltd",
-    "latency_ms": 2526.42,
-    "last_checked": 1783694392.6634283
-  },
-  {
-    "protocol": "socks4",
     "ip": "74.162.65.56",
     "port": 1080,
     "country": "United Arab Emirates",
@@ -26,11 +11,11 @@
     "uptime_percent": 97.16,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 781.07,
-    "last_checked": 1783694385.7782319
+    "latency_ms": 567.44,
+    "last_checked": 1783694958.4480293
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "185.253.116.162",
     "port": 1080,
     "country": "United Arab Emirates",
@@ -38,11 +23,26 @@
     "city": "Dubai",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 89.88,
+    "uptime_percent": 96.53,
     "asn": "AS59711",
     "isp": "HZ Hosting Ltd",
-    "latency_ms": 6391.19,
-    "last_checked": 1783694367.42392
+    "latency_ms": 2722.66,
+    "last_checked": 1783694949.2759202
+  },
+  {
+    "protocol": "http",
+    "ip": "74.162.157.57",
+    "port": 3128,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 94.78,
+    "asn": "AS8075",
+    "isp": "Microsoft Corporation",
+    "latency_ms": 3274.01,
+    "last_checked": 1783694945.3847477
   },
   {
     "protocol": "http",
@@ -56,8 +56,23 @@
     "uptime_percent": 79.85,
     "asn": "AS45102",
     "isp": "Alibaba Cloud LLC",
-    "latency_ms": 5277.89,
-    "last_checked": 1783694359.6941223
+    "latency_ms": 11196.72,
+    "last_checked": 1783694932.4615571
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.253.116.162",
+    "port": 1080,
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "city": "Dubai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 90.11,
+    "asn": "AS59711",
+    "isp": "HZ Hosting Ltd",
+    "latency_ms": 2785.41,
+    "last_checked": 1783694918.9064758
   },
   {
     "protocol": "socks5",
@@ -71,37 +86,7 @@
     "uptime_percent": 97.33,
     "asn": "AS8075",
     "isp": "Microsoft Corporation",
-    "latency_ms": 677.59,
-    "last_checked": 1783694295.9091394
-  },
-  {
-    "protocol": "http",
-    "ip": "47.91.109.17",
-    "port": 8083,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 0.97,
-    "asn": "AS45102",
-    "isp": "Alibaba Cloud LLC",
-    "latency_ms": 9614.71,
-    "last_checked": 1783694173.9836397
-  },
-  {
-    "protocol": "http",
-    "ip": "91.73.223.206",
-    "port": 3128,
-    "country": "United Arab Emirates",
-    "country_code": "AE",
-    "city": "Dubai",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 65.72,
-    "asn": "AS15802",
-    "isp": "Emirates Integrated Telecommunications Company PJSC",
-    "latency_ms": 9194.24,
-    "last_checked": 1783694336.7614255
+    "latency_ms": 1739.42,
+    "last_checked": 1783694764.5693686
   }
 ]
