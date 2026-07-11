@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "91.126.244.112",
-    "port": 8080,
+    "ip": "83.97.79.114",
+    "port": 8443,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Sant Adrià de Besòs",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.37,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 125.41,
+    "last_checked": 1783781981.0704
+  },
+  {
+    "protocol": "http",
+    "ip": "2.139.38.192",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 33.49,
-    "asn": "AS35699",
-    "isp": "Adamo Telecom Iberia S.A Catalonia",
-    "latency_ms": 4766.19,
-    "last_checked": 1783781225.6918075
+    "ssl": false,
+    "uptime_percent": 29.38,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 3766.39,
+    "last_checked": 1783781957.9872856
   },
   {
     "protocol": "http",
@@ -26,8 +41,23 @@
     "uptime_percent": 10.98,
     "asn": "AS12479",
     "isp": "Uni2",
-    "latency_ms": 3339.85,
-    "last_checked": 1783781208.2977054
+    "latency_ms": 3590.9,
+    "last_checked": 1783781941.6270566
+  },
+  {
+    "protocol": "socks5",
+    "ip": "65.20.105.241",
+    "port": 10001,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.93,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 1142.37,
+    "last_checked": 1783781935.028144
   },
   {
     "protocol": "http",
@@ -41,7 +71,7 @@
     "uptime_percent": 74.54,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 142.36,
-    "last_checked": 1783781372.5051003
+    "latency_ms": 126.4,
+    "last_checked": 1783781912.344404
   }
 ]
