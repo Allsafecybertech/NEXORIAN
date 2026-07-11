@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "185.190.154.121",
-    "port": 4145,
+    "protocol": "http",
+    "ip": "217.16.136.160",
+    "port": 80,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Belgrade",
+    "city": "Niš",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.09,
-    "asn": "AS8400",
-    "isp": "TELEKOM-SRBIJA",
-    "latency_ms": 7392.5,
-    "last_checked": 1783793323.6453242
+    "ssl": false,
+    "uptime_percent": 74.32,
+    "asn": "AS197423",
+    "isp": "Jotel",
+    "latency_ms": 13351.19,
+    "last_checked": 1783793932.8158092
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Belgrade",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 41.16,
+    "uptime_percent": 41.1,
     "asn": "AS9125",
     "isp": "Orion Telekom Network",
-    "latency_ms": 10595.1,
-    "last_checked": 1783793163.3679354
+    "latency_ms": 5217.13,
+    "last_checked": 1783793798.4598985
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.15,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 130.13,
+    "last_checked": 1783794003.6965988
   }
 ]
