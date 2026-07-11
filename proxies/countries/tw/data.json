@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "220.128.223.136",
+    "port": 8083,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "New Taipei City",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.18,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 1685.46,
+    "last_checked": 1783810152.8516524
+  },
+  {
+    "protocol": "socks4",
+    "ip": "140.235.38.56",
+    "port": 50161,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.42,
+    "asn": "AS212336",
+    "isp": "Sunoaki Network LLC",
+    "latency_ms": 4749.66,
+    "last_checked": 1783810149.2399375
+  },
+  {
+    "protocol": "http",
     "ip": "34.81.160.132",
     "port": 80,
     "country": "Taiwan",
@@ -11,52 +41,7 @@
     "uptime_percent": 32.77,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 644.64,
-    "last_checked": 1783809592.5482252
-  },
-  {
-    "protocol": "socks5",
-    "ip": "140.235.38.56",
-    "port": 50161,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 62.75,
-    "asn": "AS212336",
-    "isp": "Sunoaki Network LLC",
-    "latency_ms": 9946.63,
-    "last_checked": 1783809577.6670659
-  },
-  {
-    "protocol": "http",
-    "ip": "27.147.28.73",
-    "port": 8080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Xindian District",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 7.3,
-    "asn": "AS18429",
-    "isp": "Extra-Lan Technologies Co., LTD",
-    "latency_ms": 9376.78,
-    "last_checked": 1783809554.4918456
-  },
-  {
-    "protocol": "socks5",
-    "ip": "83.147.14.14",
-    "port": 5555,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.71,
-    "asn": "AS61112",
-    "isp": "Akile LTD",
-    "latency_ms": 20952.56,
-    "last_checked": 1783809318.1116407
+    "latency_ms": 651.45,
+    "last_checked": 1783810128.4169118
   }
 ]
