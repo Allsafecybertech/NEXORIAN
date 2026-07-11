@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "85.206.161.77",
+    "port": 9091,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Šiauliai",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.94,
+    "asn": "AS61272",
+    "isp": "Informacines sistemos ir technologijos, UAB",
+    "latency_ms": 1171.84,
+    "last_checked": 1783733640.9996097
+  },
+  {
+    "protocol": "http",
+    "ip": "85.206.161.77",
+    "port": 9091,
+    "country": "Lithuania",
+    "country_code": "LT",
+    "city": "Šiauliai",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 17.41,
+    "asn": "AS61272",
+    "isp": "Informacines sistemos ir technologijos, UAB",
+    "latency_ms": 3606.37,
+    "last_checked": 1783733585.6716163
+  },
+  {
     "protocol": "socks5",
     "ip": "80.209.239.219",
     "port": 9055,
@@ -8,25 +38,10 @@
     "city": "Vilnius",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 17.19,
+    "uptime_percent": 17.27,
     "asn": "AS212531",
     "isp": "UAB \"Interneto vizija\"",
-    "latency_ms": 874.32,
-    "last_checked": 1783733038.1580226
-  },
-  {
-    "protocol": "socks5",
-    "ip": "45.81.254.174",
-    "port": 9118,
-    "country": "Lithuania",
-    "country_code": "LT",
-    "city": "Vilnius",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 61.32,
-    "asn": "AS212853",
-    "isp": "MB Redfox Cloud",
-    "latency_ms": 19540.76,
-    "last_checked": 1783732887.4196873
+    "latency_ms": 5924.0,
+    "last_checked": 1783733559.3483837
   }
 ]
