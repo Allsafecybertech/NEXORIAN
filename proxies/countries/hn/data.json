@@ -1,32 +1,47 @@
 [
   {
     "protocol": "http",
-    "ip": "186.33.20.193",
+    "ip": "181.78.44.63",
     "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "La Unión",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 53.65,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 1662.08,
+    "last_checked": 1783756790.4533489
+  },
+  {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 27.75,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 6502.27,
-    "last_checked": 1783756156.6759493
+    "uptime_percent": 15.85,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 3774.66,
+    "last_checked": 1783756763.6187491
   },
   {
     "protocol": "http",
-    "ip": "45.4.85.210",
+    "ip": "179.49.113.230",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "Rancho Grande",
+    "city": "Comayagua",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 22.35,
+    "ssl": false,
+    "uptime_percent": 20.81,
     "asn": "AS262234",
     "isp": "Asociacion De Servicio De Internet S. De RL",
-    "latency_ms": 3044.89,
-    "last_checked": 1783756057.9692247
+    "latency_ms": 7426.45,
+    "last_checked": 1783756705.8281164
   }
 ]
