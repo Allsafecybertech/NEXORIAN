@@ -1,5 +1,20 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "45.73.0.118",
+    "port": 5678,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 22.0,
+    "asn": "AS5769",
+    "isp": "Videotron Ltee",
+    "latency_ms": 1619.82,
+    "last_checked": 1783748391.4199545
+  },
+  {
     "protocol": "socks5",
     "ip": "51.222.12.245",
     "port": 10084,
@@ -8,11 +23,11 @@
     "city": "Beauharnois",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 64.65,
+    "uptime_percent": 64.54,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 557.72,
-    "last_checked": 1783747793.3397012
+    "latency_ms": 634.07,
+    "last_checked": 1783748379.9228146
   },
   {
     "protocol": "socks4",
@@ -23,56 +38,26 @@
     "city": "Beauharnois",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 73.31,
+    "uptime_percent": 73.34,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 530.53,
-    "last_checked": 1783747777.6385198
+    "latency_ms": 476.82,
+    "last_checked": 1783748370.4887164
   },
   {
-    "protocol": "socks5",
-    "ip": "68.233.127.229",
-    "port": 1080,
+    "protocol": "socks4",
+    "ip": "142.112.52.229",
+    "port": 8443,
     "country": "Canada",
     "country_code": "CA",
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 52.63,
-    "asn": "AS31898",
-    "isp": "Oracle Corporation",
-    "latency_ms": 23436.26,
-    "last_checked": 1783747766.663699
-  },
-  {
-    "protocol": "socks5",
-    "ip": "184.95.220.42",
-    "port": 1080,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 41.55,
-    "asn": "AS22652",
-    "isp": "Videotron Telecom Ltee",
-    "latency_ms": 1688.23,
-    "last_checked": 1783747756.232596
-  },
-  {
-    "protocol": "http",
-    "ip": "173.181.143.245",
-    "port": 80,
-    "country": "Canada",
-    "country_code": "CA",
-    "city": "Vancouver",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 36.42,
-    "asn": "AS852",
-    "isp": "TELUS Communications Inc.",
-    "latency_ms": 12426.69,
-    "last_checked": 1783747745.2845736
+    "uptime_percent": 24.67,
+    "asn": "AS577",
+    "isp": "Bell Canada",
+    "latency_ms": 1464.8,
+    "last_checked": 1783748342.2892408
   },
   {
     "protocol": "socks5",
@@ -86,8 +71,23 @@
     "uptime_percent": 95.81,
     "asn": "AS26832",
     "isp": "Rica Web Services",
-    "latency_ms": 4227.59,
-    "last_checked": 1783747721.2668552
+    "latency_ms": 711.9,
+    "last_checked": 1783748338.3858104
+  },
+  {
+    "protocol": "socks5",
+    "ip": "184.95.220.42",
+    "port": 1080,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Montreal",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.55,
+    "asn": "AS22652",
+    "isp": "Videotron Telecom Ltee",
+    "latency_ms": 1583.91,
+    "last_checked": 1783748307.6998527
   },
   {
     "protocol": "socks5",
@@ -98,26 +98,26 @@
     "city": "Beauharnois",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 55.48,
+    "uptime_percent": 55.62,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 2593.64,
-    "last_checked": 1783747707.2156248
+    "latency_ms": 4241.96,
+    "last_checked": 1783748280.8466039
   },
   {
-    "protocol": "socks5",
-    "ip": "184.95.235.194",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "54.39.154.107",
+    "port": 8082,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "elite",
+    "city": "Beauharnois",
+    "anonymity": "anonymous",
     "ssl": true,
-    "uptime_percent": 41.48,
-    "asn": "AS22652",
-    "isp": "Videotron Telecom Ltee",
-    "latency_ms": 1151.89,
-    "last_checked": 1783747661.7329679
+    "uptime_percent": 21.16,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 6768.52,
+    "last_checked": 1783748268.3147533
   },
   {
     "protocol": "socks5",
@@ -131,23 +131,38 @@
     "uptime_percent": 99.9,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 579.78,
-    "last_checked": 1783747797.6682425
+    "latency_ms": 800.22,
+    "last_checked": 1783748399.4850733
   },
   {
     "protocol": "http",
-    "ip": "151.243.236.236",
+    "ip": "96.1.101.113",
     "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Beauharnois",
+    "city": "Calgary",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 67.86,
+    "uptime_percent": 27.66,
+    "asn": "AS852",
+    "isp": "TELUS Communications Inc.",
+    "latency_ms": 7697.32,
+    "last_checked": 1783748364.7326167
+  },
+  {
+    "protocol": "http",
+    "ip": "148.113.202.99",
+    "port": 3128,
+    "country": "Canada",
+    "country_code": "CA",
+    "city": "Beauharnois",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 58.92,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 220.76,
-    "last_checked": 1783747792.8449051
+    "latency_ms": 17329.89,
+    "last_checked": 1783748358.4925194
   },
   {
     "protocol": "socks5",
@@ -158,25 +173,25 @@
     "city": "Montreal",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 50.11,
+    "uptime_percent": 50.2,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 11080.85,
-    "last_checked": 1783747728.134358
+    "latency_ms": 22555.67,
+    "last_checked": 1783748351.9516957
   },
   {
     "protocol": "http",
-    "ip": "148.113.167.24",
-    "port": 8080,
+    "ip": "151.243.236.236",
+    "port": 80,
     "country": "Canada",
     "country_code": "CA",
-    "city": "Montreal",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 25.49,
+    "city": "Beauharnois",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 67.85,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 11380.85,
-    "last_checked": 1783747677.791832
+    "latency_ms": 232.39,
+    "last_checked": 1783748320.8994386
   }
 ]
