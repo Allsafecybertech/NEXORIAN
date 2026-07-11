@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "217.16.136.160",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "91.150.77.58",
+    "port": 56921,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Niš",
+    "city": "Belgrade",
     "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.69,
+    "asn": "AS8400",
+    "isp": "TELEKOM SRBIJA a.d.",
+    "latency_ms": 1139.63,
+    "last_checked": 1783790375.677313
+  },
+  {
+    "protocol": "http",
+    "ip": "109.111.242.134",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 74.86,
-    "asn": "AS197423",
-    "isp": "Jotel",
-    "latency_ms": 12401.22,
-    "last_checked": 1783789727.4758506
+    "uptime_percent": 12.48,
+    "asn": "AS28964",
+    "isp": "ORIONTELEKOM",
+    "latency_ms": 5550.24,
+    "last_checked": 1783790331.350229
   }
 ]
