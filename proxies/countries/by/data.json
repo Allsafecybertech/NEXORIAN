@@ -1,36 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "86.57.178.182",
-    "port": 4153,
-    "country": "Belarus",
-    "country_code": "BY",
-    "city": "Minsk",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 38.32,
-    "asn": "AS6697",
-    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "latency_ms": 3293.37,
-    "last_checked": 1783810750.3665009
-  },
-  {
-    "protocol": "http",
-    "ip": "91.149.142.139",
-    "port": 8080,
-    "country": "Belarus",
-    "country_code": "BY",
-    "city": "Minsk",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.09,
-    "asn": "AS31143",
-    "isp": "Cosmos TV Jllc",
-    "latency_ms": 3325.01,
-    "last_checked": 1783810708.495314
-  },
-  {
-    "protocol": "socks4",
     "ip": "80.249.81.179",
     "port": 9050,
     "country": "Belarus",
@@ -41,7 +11,52 @@
     "uptime_percent": 33.4,
     "asn": "AS12406",
     "isp": "Business network jv",
-    "latency_ms": 1664.64,
-    "last_checked": 1783810707.8684762
+    "latency_ms": 1677.68,
+    "last_checked": 1783811399.2417545
+  },
+  {
+    "protocol": "socks4",
+    "ip": "86.57.178.182",
+    "port": 4153,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 38.46,
+    "asn": "AS6697",
+    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "latency_ms": 7406.94,
+    "last_checked": 1783811395.451606
+  },
+  {
+    "protocol": "http",
+    "ip": "91.149.142.139",
+    "port": 8080,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 38.13,
+    "asn": "AS31143",
+    "isp": "Cosmos TV Jllc",
+    "latency_ms": 6680.57,
+    "last_checked": 1783811296.6963947
+  },
+  {
+    "protocol": "socks5",
+    "ip": "80.249.81.179",
+    "port": 9050,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.8,
+    "asn": "AS12406",
+    "isp": "Business network jv",
+    "latency_ms": 10413.11,
+    "last_checked": 1783811175.3293211
   }
 ]
