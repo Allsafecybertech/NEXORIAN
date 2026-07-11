@@ -1,21 +1,6 @@
 [
   {
     "protocol": "http",
-    "ip": "103.131.232.9",
-    "port": 8080,
-    "country": "Australia",
-    "country_code": "AU",
-    "city": "Goulburn",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.02,
-    "asn": "AS45447",
-    "isp": "YLess4U Pty Ltd",
-    "latency_ms": 8881.15,
-    "last_checked": 1783740256.9758492
-  },
-  {
-    "protocol": "http",
     "ip": "61.29.96.146",
     "port": 8000,
     "country": "Australia",
@@ -26,23 +11,23 @@
     "uptime_percent": 9.59,
     "asn": "AS2764",
     "isp": "AAPT Limited",
-    "latency_ms": 16952.32,
-    "last_checked": 1783740243.7958379
+    "latency_ms": 4457.59,
+    "last_checked": 1783740847.7078834
   },
   {
     "protocol": "http",
-    "ip": "51.161.142.97",
-    "port": 8080,
+    "ip": "61.29.96.146",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "North Sydney",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 34.66,
-    "asn": "AS16276",
-    "isp": "OVH SAS",
-    "latency_ms": 12508.55,
-    "last_checked": 1783740236.6221051
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": true,
+    "uptime_percent": 8.66,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 6121.23,
+    "last_checked": 1783740842.7846975
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,40 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 42.53,
+    "uptime_percent": 42.57,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 2772.29,
-    "last_checked": 1783740105.460747
+    "latency_ms": 5647.13,
+    "last_checked": 1783740791.7186873
+  },
+  {
+    "protocol": "http",
+    "ip": "51.161.142.97",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "North Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.67,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 3923.83,
+    "last_checked": 1783740669.8511102
+  },
+  {
+    "protocol": "http",
+    "ip": "210.8.69.102",
+    "port": 808,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Sydney",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 98.14,
+    "asn": "AS7600",
+    "isp": "AAPT Limited",
+    "latency_ms": 657.52,
+    "last_checked": 1783740890.1931717
   }
 ]
