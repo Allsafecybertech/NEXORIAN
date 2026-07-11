@@ -1,3 +1,5 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,147.231.163.133,80,Czechia,CZ,Prague,anonymous,false,84.47,AS2852,CESNET z.s.p.o.,6425.95,1783786104.368969
-http,193.179.52.197,3128,Czechia,CZ,Prague,elite,false,29.24,AS13036,T-Mobile Czech Republic a.s.,10030.26,1783786055.6518734
+socks4,109.108.126.166,1080,Czechia,CZ,Lanškroun,elite,true,57.41,AS42908,"O2 Czech Republic, a.s.",1152.32,1783786750.0864174
+http,147.231.163.133,80,Czechia,CZ,Prague,anonymous,false,84.47,AS2852,CESNET z.s.p.o.,8119.03,1783786712.399887
+socks4,85.132.139.45,4153,Czechia,CZ,Slavkov u Brna,elite,true,44.26,AS205400,GIN's network,1081.06,1783786701.764
+http,45.139.91.62,8080,Czechia,CZ,Pilsen,transparent,false,27.25,AS197296,United Networks SE,7299.42,1783786597.4479399
