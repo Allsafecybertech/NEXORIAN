@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "197.253.23.4",
-    "port": 8080,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 30.13,
-    "asn": "AS37282",
-    "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 6211.24,
-    "last_checked": 1783752577.763852
-  },
-  {
     "protocol": "socks4",
     "ip": "196.1.182.130",
     "port": 1080,
@@ -23,11 +8,26 @@
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 65.31,
+    "uptime_percent": 65.34,
     "asn": "AS37629",
     "isp": "eStream Networks",
-    "latency_ms": 683.26,
-    "last_checked": 1783752562.5943778
+    "latency_ms": 1786.04,
+    "last_checked": 1783753190.3733459
+  },
+  {
+    "protocol": "http",
+    "ip": "197.253.23.4",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 30.13,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 2041.58,
+    "last_checked": 1783753185.9787056
   },
   {
     "protocol": "http",
@@ -37,26 +37,41 @@
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 10.72,
     "asn": "AS37148",
     "isp": "GLO",
-    "latency_ms": 2776.34,
-    "last_checked": 1783752485.2500453
+    "latency_ms": 4762.53,
+    "last_checked": 1783753157.5730639
   },
   {
     "protocol": "socks4",
-    "ip": "154.113.17.107",
+    "ip": "154.113.202.81",
     "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Lagos",
+    "city": "Abeokuta",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 4.95,
+    "uptime_percent": 2.97,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 7725.74,
-    "last_checked": 1783752586.449244
+    "latency_ms": 584.1,
+    "last_checked": 1783753201.4064333
+  },
+  {
+    "protocol": "http",
+    "ip": "155.93.96.210",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Abuja",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.25,
+    "asn": "AS16284",
+    "isp": "Vodacom Business Nigeria",
+    "latency_ms": 8812.47,
+    "last_checked": 1783753139.472944
   }
 ]
