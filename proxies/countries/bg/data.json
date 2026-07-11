@@ -11,8 +11,8 @@
     "uptime_percent": 14.99,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 243.93,
-    "last_checked": 1783758000.3806815
+    "latency_ms": 3288.2,
+    "last_checked": 1783758597.539515
   },
   {
     "protocol": "http",
@@ -26,8 +26,23 @@
     "uptime_percent": 47.57,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 8284.07,
-    "last_checked": 1783757965.6491773
+    "latency_ms": 5020.72,
+    "last_checked": 1783758586.419586
+  },
+  {
+    "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 49.36,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 144.52,
+    "last_checked": 1783758585.3133082
   },
   {
     "protocol": "http",
@@ -41,68 +56,23 @@
     "uptime_percent": 16.76,
     "asn": "AS199173",
     "isp": "Technolux Ltd",
-    "latency_ms": 7311.3,
-    "last_checked": 1783757962.4069192
+    "latency_ms": 3189.09,
+    "last_checked": 1783758536.099401
   },
   {
     "protocol": "http",
-    "ip": "85.196.179.34",
+    "ip": "193.68.115.14",
     "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 11.55,
-    "asn": "AS29580",
-    "isp": "Mobiltel BNG",
-    "latency_ms": 10488.76,
-    "last_checked": 1783757941.950246
-  },
-  {
-    "protocol": "http",
-    "ip": "5.104.183.25",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Svoge",
+    "city": "Ablanitsa",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 16.12,
-    "asn": "AS205331",
-    "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 9371.65,
-    "last_checked": 1783757927.9614987
-  },
-  {
-    "protocol": "socks5",
-    "ip": "185.205.210.154",
-    "port": 1085,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 55.45,
-    "asn": "AS44901",
-    "isp": "Belcloud LTD",
-    "latency_ms": 20091.58,
-    "last_checked": 1783757925.10112
-  },
-  {
-    "protocol": "http",
-    "ip": "5.104.183.41",
-    "port": 8080,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Svoge",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 16.09,
-    "asn": "AS205331",
-    "isp": "Wi-Max Network Ltd.",
-    "latency_ms": 5277.22,
-    "last_checked": 1783757916.8318617
+    "uptime_percent": 7.79,
+    "asn": "AS48584",
+    "isp": "Sarnica-Net LTD",
+    "latency_ms": 9703.69,
+    "last_checked": 1783758521.8358076
   },
   {
     "protocol": "http",
@@ -116,7 +86,52 @@
     "uptime_percent": 5.71,
     "asn": "AS8717",
     "isp": "A1 Bulgaria EAD",
-    "latency_ms": 5810.75,
-    "last_checked": 1783757799.7358377
+    "latency_ms": 9346.94,
+    "last_checked": 1783758515.2318707
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.50.19.150",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 14.73,
+    "asn": "AS8717",
+    "isp": "Spectrum NET",
+    "latency_ms": 3169.9,
+    "last_checked": 1783758582.913257
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.10",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 14.3,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 3628.49,
+    "last_checked": 1783758558.2244616
+  },
+  {
+    "protocol": "http",
+    "ip": "213.169.33.12",
+    "port": 8001,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 20.63,
+    "asn": "AS8717",
+    "isp": "A1 Bulgaria EAD",
+    "latency_ms": 7001.11,
+    "last_checked": 1783758478.2695282
   }
 ]
