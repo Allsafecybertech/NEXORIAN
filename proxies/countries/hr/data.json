@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "212.92.204.54",
-    "port": 8080,
+    "protocol": "socks4",
+    "ip": "82.132.19.108",
+    "port": 4153,
     "country": "Croatia",
     "country_code": "HR",
     "city": "Zagreb",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 15.57,
+    "asn": "AS2108",
+    "isp": "Croatian Academic and Research Network",
+    "latency_ms": 149.94,
+    "last_checked": 1783818596.8314893
+  },
+  {
+    "protocol": "http",
+    "ip": "188.129.8.242",
+    "port": 81,
+    "country": "Croatia",
+    "country_code": "HR",
+    "city": "Rijeka",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 6.18,
-    "asn": "AS35549",
-    "isp": "A1 Hrvatska d.o.o",
-    "latency_ms": 2037.37,
-    "last_checked": 1783817986.3090596
+    "uptime_percent": 40.97,
+    "asn": "AS29485",
+    "isp": "A1 Hrvatska d.o.o.",
+    "latency_ms": 5029.36,
+    "last_checked": 1783818565.497286
   }
 ]
