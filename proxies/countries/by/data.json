@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "86.57.178.182",
+    "port": 4153,
+    "country": "Belarus",
+    "country_code": "BY",
+    "city": "Minsk",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 41.5,
+    "asn": "AS6697",
+    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "latency_ms": 179.89,
+    "last_checked": 1783892319.4380572
+  },
+  {
+    "protocol": "socks5",
     "ip": "80.249.81.179",
     "port": 9050,
     "country": "Belarus",
@@ -8,26 +23,11 @@
     "city": "Minsk",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 33.4,
+    "uptime_percent": 28.78,
     "asn": "AS12406",
     "isp": "Business network jv",
-    "latency_ms": 14780.03,
-    "last_checked": 1783891784.6935234
-  },
-  {
-    "protocol": "http",
-    "ip": "93.125.3.22",
-    "port": 8080,
-    "country": "Belarus",
-    "country_code": "BY",
-    "city": "Minsk",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 11.58,
-    "asn": "AS42772",
-    "isp": "Unitary enterprise A1",
-    "latency_ms": 5524.32,
-    "last_checked": 1783891743.736869
+    "latency_ms": 8229.76,
+    "last_checked": 1783892063.748812
   },
   {
     "protocol": "http",
@@ -37,11 +37,11 @@
     "country_code": "BY",
     "city": "Minsk",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.49,
+    "ssl": true,
+    "uptime_percent": 38.5,
     "asn": "AS31143",
     "isp": "Cosmos TV Jllc",
-    "latency_ms": 5281.06,
-    "last_checked": 1783891738.522142
+    "latency_ms": 1832.4,
+    "last_checked": 1783892307.6899502
   }
 ]

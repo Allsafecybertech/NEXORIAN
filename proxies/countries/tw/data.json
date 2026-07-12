@@ -1,6 +1,6 @@
 [
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "140.235.38.56",
     "port": 50161,
     "country": "Taiwan",
@@ -8,11 +8,41 @@
     "city": "Taipei",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 62.6,
+    "uptime_percent": 62.57,
     "asn": "AS212336",
     "isp": "Sunoaki Network LLC",
-    "latency_ms": 19580.31,
-    "last_checked": 1783891783.2642014
+    "latency_ms": 1140.06,
+    "last_checked": 1783892356.57062
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.235",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 21.55,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 4803.97,
+    "last_checked": 1783892355.2035837
+  },
+  {
+    "protocol": "http",
+    "ip": "118.163.120.181",
+    "port": 58837,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 4.69,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 5438.33,
+    "last_checked": 1783892338.221203
   },
   {
     "protocol": "http",
@@ -26,38 +56,8 @@
     "uptime_percent": 32.89,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 684.44,
-    "last_checked": 1783891764.3309288
-  },
-  {
-    "protocol": "http",
-    "ip": "220.128.223.136",
-    "port": 8083,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "New Taipei City",
-    "anonymity": "anonymous",
-    "ssl": false,
-    "uptime_percent": 9.23,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 713.46,
-    "last_checked": 1783891722.6206684
-  },
-  {
-    "protocol": "socks5",
-    "ip": "83.147.14.14",
-    "port": 5555,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 26.25,
-    "asn": "AS61112",
-    "isp": "Akile LTD",
-    "latency_ms": 2792.74,
-    "last_checked": 1783891690.6232998
+    "latency_ms": 1116.3,
+    "last_checked": 1783892311.9644492
   },
   {
     "protocol": "http",
@@ -68,40 +68,10 @@
     "city": "Neihu District",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.88,
+    "uptime_percent": 45.93,
     "asn": "AS63199",
     "isp": "CDS Global Cloud Co., Ltd",
-    "latency_ms": 676.59,
-    "last_checked": 1783891771.3322284
-  },
-  {
-    "protocol": "http",
-    "ip": "203.73.62.104",
-    "port": 60808,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "New Taipei City",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 3.14,
-    "asn": "AS4780",
-    "isp": "Digital United Inc.",
-    "latency_ms": 17032.3,
-    "last_checked": 1783891768.4676335
-  },
-  {
-    "protocol": "http",
-    "ip": "210.61.216.63",
-    "port": 60808,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Xinzhuang District",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 5.28,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 5160.9,
-    "last_checked": 1783891789.5655465
+    "latency_ms": 637.69,
+    "last_checked": 1783892397.928819
   }
 ]
