@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "31.170.17.141",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "89.36.161.56",
+    "port": 3128,
     "country": "Latvia",
     "country_code": "LV",
-    "city": "Saldus",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.72,
+    "asn": "AS56630",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 17540.97,
+    "last_checked": 1783891755.9118497
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 6.72,
-    "asn": "AS42099",
-    "isp": "DNET ITRisinajumi Ltd.",
-    "latency_ms": 150.26,
-    "last_checked": 1783890853.6843798
+    "uptime_percent": 33.65,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 8141.06,
+    "last_checked": 1783891730.847162
   },
   {
     "protocol": "socks4",
@@ -26,8 +41,23 @@
     "uptime_percent": 34.7,
     "asn": "AS41745",
     "isp": "Baykov Ilya Sergeevich",
-    "latency_ms": 13951.69,
-    "last_checked": 1783890812.045274
+    "latency_ms": 8185.71,
+    "last_checked": 1783891713.2364318
+  },
+  {
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.55,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 178.31,
+    "last_checked": 1783891673.4719365
   },
   {
     "protocol": "socks4",
@@ -41,8 +71,23 @@
     "uptime_percent": 59.17,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 7351.9,
-    "last_checked": 1783891493.5757296
+    "latency_ms": 3300.17,
+    "last_checked": 1783891787.5067081
+  },
+  {
+    "protocol": "http",
+    "ip": "13.140.17.206",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 35.43,
+    "asn": "AS42532",
+    "isp": "SIA VEESP",
+    "latency_ms": 12057.16,
+    "last_checked": 1783891735.1080132
   },
   {
     "protocol": "http",
@@ -53,10 +98,10 @@
     "city": "Riga",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 28.72,
+    "uptime_percent": 28.73,
     "asn": "AS44575",
     "isp": "SIA \"MWTV\"",
-    "latency_ms": 3652.55,
-    "last_checked": 1783891396.4547143
+    "latency_ms": 8275.35,
+    "last_checked": 1783891727.6945252
   }
 ]
