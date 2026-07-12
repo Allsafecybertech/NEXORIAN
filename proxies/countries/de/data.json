@@ -1215,7 +1215,22 @@
     "last_checked": 1783826577.0590732
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
+    "ip": "209.38.214.48",
+    "port": 1080,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Frankfurt am Main",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 55.3,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 776.45,
+    "last_checked": 1783827306.4351518
+  },
+  {
+    "protocol": "socks4",
     "ip": "213.165.43.73",
     "port": 46650,
     "country": "Germany",
@@ -1223,26 +1238,11 @@
     "city": "Frankfurt am Main",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.83,
+    "uptime_percent": 36.36,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 3029.49,
-    "last_checked": 1783826950.6751049
-  },
-  {
-    "protocol": "http",
-    "ip": "213.165.43.234",
-    "port": 3128,
-    "country": "Germany",
-    "country_code": "DE",
-    "city": "Frankfurt am Main",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 37.85,
-    "asn": "AS210644",
-    "isp": "Aeza International LTD",
-    "latency_ms": 4664.79,
-    "last_checked": 1783826946.3919778
+    "latency_ms": 2728.58,
+    "last_checked": 1783827304.8347414
   },
   {
     "protocol": "socks5",
@@ -1253,10 +1253,40 @@
     "city": "Frankfurt Am Main",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 94.37,
+    "uptime_percent": 94.4,
     "asn": "AS210644",
     "isp": "xorek.cloud International LTD",
-    "latency_ms": 85.12,
-    "last_checked": 1783826857.5373008
+    "latency_ms": 38.48,
+    "last_checked": 1783827297.7182693
+  },
+  {
+    "protocol": "http",
+    "ip": "213.135.6.13",
+    "port": 8080,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Saarbrücken",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 11.17,
+    "asn": "AS12941",
+    "isp": "intersaar GmbH",
+    "latency_ms": 2556.99,
+    "last_checked": 1783827198.1568358
+  },
+  {
+    "protocol": "socks5",
+    "ip": "209.38.214.48",
+    "port": 1080,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Frankfurt am Main",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.0,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 1945.51,
+    "last_checked": 1783827101.630629
   }
 ]
