@@ -1,6 +1,51 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
+    "ip": "103.18.205.162",
+    "port": 8080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Melbourne",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 31.62,
+    "asn": "AS134371",
+    "isp": "Circle Network",
+    "latency_ms": 3537.03,
+    "last_checked": 1783880636.3578904
+  },
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.63,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 6452.12,
+    "last_checked": 1783880592.7554278
+  },
+  {
+    "protocol": "http",
+    "ip": "180.181.215.232",
+    "port": 3128,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Brisbane",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 33.22,
+    "asn": "AS4764",
+    "isp": "Wideband Networks Pty Ltd",
+    "latency_ms": 5622.34,
+    "last_checked": 1783880579.9296198
+  },
+  {
+    "protocol": "socks5",
     "ip": "168.138.9.147",
     "port": 1080,
     "country": "Australia",
@@ -8,11 +53,26 @@
     "city": "Melbourne",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.73,
+    "uptime_percent": 40.26,
     "asn": "AS31898",
     "isp": "Oracle Corporation",
-    "latency_ms": 10230.55,
-    "last_checked": 1783880066.2072113
+    "latency_ms": 11010.95,
+    "last_checked": 1783880535.2028174
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.04,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 1826.4,
+    "last_checked": 1783880518.3580751
   },
   {
     "protocol": "http",
@@ -23,10 +83,10 @@
     "city": "Sydney",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 87.03,
+    "uptime_percent": 87.05,
     "asn": "AS7600",
     "isp": "AAPT Limited",
-    "latency_ms": 677.1,
-    "last_checked": 1783880102.5381012
+    "latency_ms": 648.49,
+    "last_checked": 1783880630.3579745
   }
 ]
