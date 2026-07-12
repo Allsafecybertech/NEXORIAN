@@ -1,32 +1,47 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "protocol": "http",
+    "ip": "190.130.6.11",
+    "port": 8080,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "San Pedro Sula",
+    "city": "Tegucigalpa",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 15.96,
-    "asn": "AS14754",
-    "isp": "Telgua",
-    "latency_ms": 762.75,
-    "last_checked": 1783851602.7637088
+    "ssl": false,
+    "uptime_percent": 15.04,
+    "asn": "AS7727",
+    "isp": "Hondutel",
+    "latency_ms": 11659.47,
+    "last_checked": 1783852112.4702702
   },
   {
     "protocol": "http",
-    "ip": "45.182.22.250",
+    "ip": "181.115.67.3",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
     "city": "San Pedro Sula",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.78,
-    "asn": "AS263725",
-    "isp": "Multicable De Honduras",
-    "latency_ms": 6043.61,
-    "last_checked": 1783851539.5690331
+    "uptime_percent": 7.09,
+    "asn": "AS14754",
+    "isp": "Telgua",
+    "latency_ms": 11538.41,
+    "last_checked": 1783852105.162773
+  },
+  {
+    "protocol": "http",
+    "ip": "179.49.113.225",
+    "port": 999,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Comayagua",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 18.71,
+    "asn": "AS262234",
+    "isp": "Asociacion De Servicio De Internet S. De RL",
+    "latency_ms": 6569.21,
+    "last_checked": 1783852096.907336
   }
 ]
