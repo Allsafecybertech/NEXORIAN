@@ -481,33 +481,33 @@
   },
   {
     "protocol": "http",
-    "ip": "212.252.71.20",
-    "port": 8080,
-    "country": "Turkey",
-    "country_code": "TR",
-    "city": "Kilis",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.06,
-    "asn": "AS34984",
-    "isp": "GUNEYDOGUTELEKOM",
-    "latency_ms": 1617.03,
-    "last_checked": 1783835937.0898068
-  },
-  {
-    "protocol": "http",
     "ip": "212.252.73.18",
     "port": 8080,
     "country": "Türkiye",
     "country_code": "TR",
     "city": "Istanbul",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 25.23,
+    "ssl": true,
+    "uptime_percent": 25.24,
     "asn": "AS34984",
     "isp": "Superonline Iletisim Hizmetleri A.S.",
-    "latency_ms": 327.77,
-    "last_checked": 1783835933.773534
+    "latency_ms": 3320.93,
+    "last_checked": 1783836298.711813
+  },
+  {
+    "protocol": "http",
+    "ip": "212.252.73.30",
+    "port": 8080,
+    "country": "Türkiye",
+    "country_code": "TR",
+    "city": "Istanbul",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 24.8,
+    "asn": "AS34984",
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "latency_ms": 8272.98,
+    "last_checked": 1783836264.000549
   },
   {
     "protocol": "http",
@@ -517,11 +517,26 @@
     "country_code": "TR",
     "city": "Malıköy",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 23.04,
     "asn": "AS34984",
     "isp": "Superonline Iletisim Hizmetleri A.S.",
-    "latency_ms": 4386.7,
-    "last_checked": 1783835904.6133263
+    "latency_ms": 6330.4,
+    "last_checked": 1783836251.2596517
+  },
+  {
+    "protocol": "http",
+    "ip": "212.174.242.114",
+    "port": 8080,
+    "country": "Türkiye",
+    "country_code": "TR",
+    "city": "Ankara",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 6.25,
+    "asn": "AS9121",
+    "isp": "TurkTelecom",
+    "latency_ms": 8293.32,
+    "last_checked": 1783836171.1627882
   }
 ]
