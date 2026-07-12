@@ -1,5 +1,35 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.71,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 1179.35,
+    "last_checked": 1783835998.660663
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.108.126.166",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Lanškroun",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 58.91,
+    "asn": "AS42908",
+    "isp": "O2 Czech Republic, a.s.",
+    "latency_ms": 7305.99,
+    "last_checked": 1783835961.788991
+  },
+  {
     "protocol": "http",
     "ip": "188.119.98.126",
     "port": 9999,
@@ -7,27 +37,12 @@
     "country_code": "CZ",
     "city": "Strážnice",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 12.38,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 3660.07,
-    "last_checked": 1783835366.4771242
-  },
-  {
-    "protocol": "http",
-    "ip": "185.73.103.23",
-    "port": 3128,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Karlovy Vary",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.07,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 9270.54,
-    "last_checked": 1783835358.7035096
+    "latency_ms": 5689.67,
+    "last_checked": 1783835961.7681308
   },
   {
     "protocol": "http",
@@ -41,22 +56,37 @@
     "uptime_percent": 84.47,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 10858.75,
-    "last_checked": 1783835353.5665033
+    "latency_ms": 5635.95,
+    "last_checked": 1783835953.2341132
   },
   {
     "protocol": "http",
-    "ip": "185.82.238.42",
-    "port": 8888,
+    "ip": "46.231.72.42",
+    "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Šebetov",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.52,
+    "city": "Kvasice",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 60.5,
     "asn": "AS42908",
     "isp": "O2 Czech Republic, a.s.",
-    "latency_ms": 256.08,
-    "last_checked": 1783835319.9005892
+    "latency_ms": 166.53,
+    "last_checked": 1783835947.7724895
+  },
+  {
+    "protocol": "http",
+    "ip": "193.179.52.197",
+    "port": 3128,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 30.27,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 3586.13,
+    "last_checked": 1783835927.4678621
   }
 ]

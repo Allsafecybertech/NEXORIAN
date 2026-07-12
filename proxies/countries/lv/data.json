@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.130.212.97",
-    "port": 8119,
+    "protocol": "socks4",
+    "ip": "185.236.22.192",
+    "port": 9050,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 13.84,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 8216.72,
-    "last_checked": 1783835339.681872
+    "ssl": true,
+    "uptime_percent": 34.79,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 4239.45,
+    "last_checked": 1783835991.8345685
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.73,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 12082.46,
+    "last_checked": 1783835964.6424801
   },
   {
     "protocol": "socks5",
@@ -23,11 +38,11 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 79.94,
+    "uptime_percent": 79.95,
     "asn": "AS42532",
     "isp": "SIA VEESP",
-    "latency_ms": 3223.82,
-    "last_checked": 1783835339.4219382
+    "latency_ms": 10470.84,
+    "last_checked": 1783835830.3717918
   },
   {
     "protocol": "socks4",
@@ -38,10 +53,25 @@
     "city": "Riga",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 59.01,
+    "uptime_percent": 59.0,
     "asn": "AS2588",
     "isp": "SIA \"BITE Latvija\"",
-    "latency_ms": 177.35,
-    "last_checked": 1783835350.2709978
+    "latency_ms": 3194.96,
+    "last_checked": 1783836001.9423158
+  },
+  {
+    "protocol": "http",
+    "ip": "155.212.224.2",
+    "port": 3128,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 56.53,
+    "asn": "AS9002",
+    "isp": "RETN Limited",
+    "latency_ms": 11664.6,
+    "last_checked": 1783835889.867384
   }
 ]
