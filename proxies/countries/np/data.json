@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "118.91.175.146",
-    "port": 5678,
-    "country": "Nepal",
-    "country_code": "NP",
-    "city": "Nanche Bazar",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 40.11,
-    "asn": "AS24550",
-    "isp": "Websurfer Nepal Communication System Pvt. Ltd",
-    "latency_ms": 1900.06,
-    "last_checked": 1783819178.6787517
-  },
-  {
     "protocol": "http",
     "ip": "103.154.12.2",
     "port": 8088,
@@ -22,12 +7,27 @@
     "country_code": "NP",
     "city": "Gulariyā",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 55.28,
+    "ssl": true,
+    "uptime_percent": 55.32,
     "asn": "AS137580",
     "isp": "Everest Wireless Network pvt. ltd",
-    "latency_ms": 8089.4,
-    "last_checked": 1783819163.6768374
+    "latency_ms": 2290.67,
+    "last_checked": 1783819748.7446501
+  },
+  {
+    "protocol": "http",
+    "ip": "110.34.1.180",
+    "port": 32650,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.55,
+    "asn": "AS4007",
+    "isp": "Subisu Cablenet",
+    "latency_ms": 5339.78,
+    "last_checked": 1783819748.606746
   },
   {
     "protocol": "http",
@@ -37,26 +37,41 @@
     "country_code": "NP",
     "city": "Kathmandu",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 3.91,
     "asn": "AS4007",
     "isp": "Subisu Cablenet",
-    "latency_ms": 7048.54,
-    "last_checked": 1783819054.1201935
+    "latency_ms": 10659.67,
+    "last_checked": 1783819678.7999244
   },
   {
     "protocol": "http",
-    "ip": "139.5.75.83",
+    "ip": "202.166.197.177",
+    "port": 2121,
+    "country": "Nepal",
+    "country_code": "NP",
+    "city": "Kathmandu",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 9.57,
+    "asn": "AS17501",
+    "isp": "WorldLink Communications",
+    "latency_ms": 5554.95,
+    "last_checked": 1783819763.605359
+  },
+  {
+    "protocol": "http",
+    "ip": "202.166.220.40",
     "port": 8080,
     "country": "Nepal",
     "country_code": "NP",
-    "city": "Patan",
+    "city": "Kathmandu",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 25.48,
+    "uptime_percent": 30.4,
     "asn": "AS17501",
-    "isp": "WLINK",
-    "latency_ms": 5515.11,
-    "last_checked": 1783819020.9280202
+    "isp": "WorldLink Communications",
+    "latency_ms": 3816.96,
+    "last_checked": 1783819707.8687274
   }
 ]
