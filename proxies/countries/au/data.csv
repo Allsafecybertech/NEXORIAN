@@ -1,3 +1,4 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,33.25,AS4764,Wideband Networks Pty Ltd,16154.34,1783840725.2178986
-http,51.161.142.97,8080,Australia,AU,North Sydney,elite,false,34.67,AS16276,OVH SAS,9867.13,1783840655.5719059
+socks5,170.64.156.211,1080,Australia,AU,Sydney,elite,true,39.47,AS14061,"DigitalOcean, LLC",1472.01,1783841269.503191
+http,51.161.137.166,8080,Australia,AU,North Sydney,elite,false,35.05,AS16276,OVH SAS,14044.2,1783841243.6265872
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,40.27,AS31898,Oracle Corporation,19599.33,1783841186.7538652
