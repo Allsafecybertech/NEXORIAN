@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 58.54,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 60.0,
-    "last_checked": 1783841335.6299813
-  },
-  {
-    "protocol": "socks5",
-    "ip": "188.190.10.47",
-    "port": 1080,
-    "country": "Belgium",
-    "country_code": "BE",
-    "city": "Brussels",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 86.37,
-    "asn": "AS57169",
-    "isp": "EDIS GmbH",
-    "latency_ms": 13454.07,
-    "last_checked": 1783841334.7238612
-  },
-  {
     "protocol": "socks4",
     "ip": "188.190.10.47",
     "port": 1080,
@@ -41,8 +11,23 @@
     "uptime_percent": 90.17,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 10734.5,
-    "last_checked": 1783841302.71875
+    "latency_ms": 20342.13,
+    "last_checked": 1783841945.8525236
+  },
+  {
+    "protocol": "http",
+    "ip": "34.140.137.151",
+    "port": 80,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 58.55,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 71.93,
+    "last_checked": 1783841921.3390393
   },
   {
     "protocol": "http",
@@ -52,11 +37,26 @@
     "country_code": "BE",
     "city": "Brussels",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 80.15,
+    "ssl": true,
+    "uptime_percent": 80.17,
     "asn": "AS57169",
     "isp": "EDIS GmbH",
-    "latency_ms": 20600.68,
-    "last_checked": 1783841284.223942
+    "latency_ms": 3439.73,
+    "last_checked": 1783841907.2295887
+  },
+  {
+    "protocol": "socks5",
+    "ip": "188.190.10.47",
+    "port": 1080,
+    "country": "Belgium",
+    "country_code": "BE",
+    "city": "Brussels",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 86.38,
+    "asn": "AS57169",
+    "isp": "EDIS GmbH",
+    "latency_ms": 3248.31,
+    "last_checked": 1783841894.5171244
   }
 ]
