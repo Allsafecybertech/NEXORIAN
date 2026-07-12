@@ -1,10 +1,10 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,false,33.25,AS4764,Wideband Networks Pty Ltd,2335.44,1783887817.2340524
-http,51.161.137.166,8080,Australia,AU,North Sydney,elite,false,34.95,AS16276,OVH SAS,16049.45,1783887817.0808055
-http,51.161.142.97,8080,Australia,AU,North Sydney,elite,false,34.56,AS16276,OVH SAS,13378.74,1783887795.3658028
-http,103.131.232.9,8080,Australia,AU,Goulburn,transparent,false,23.17,AS45447,YLess4U Pty Ltd,11611.64,1783887754.393445
-socks5,170.64.156.211,1080,Australia,AU,Sydney,elite,true,38.84,AS14061,"DigitalOcean, LLC",6045.8,1783887658.6310182
-socks5,103.248.47.230,1080,Australia,AU,Kurnell,elite,true,42.02,AS133417,Dicker Data Ltd,9054.2,1783887794.6672785
-http,203.23.238.21,80,Australia,AU,Canberra,anonymous,false,28.86,AS18390,Spintel Pty Ltd,2492.01,1783887786.2778935
-http,103.18.205.162,8080,Australia,AU,Melbourne,transparent,false,31.62,AS134371,Circle Network,4717.19,1783887729.344533
-http,210.8.69.102,808,Australia,AU,Sydney,elite,true,87.32,AS7600,AAPT Limited,653.03,1783887841.3507545
+http,180.181.215.232,3128,Australia,AU,Brisbane,transparent,true,33.25,AS4764,Wideband Networks Pty Ltd,5085.8,1783888463.9480274
+socks5,170.64.156.211,1080,Australia,AU,Sydney,elite,true,38.84,AS14061,"DigitalOcean, LLC",1519.49,1783888454.2494838
+http,51.161.137.166,8080,Australia,AU,North Sydney,elite,false,34.95,AS16276,OVH SAS,12568.63,1783888409.5559027
+http,103.18.205.162,8080,Australia,AU,Melbourne,transparent,true,31.62,AS134371,Circle Network,2941.55,1783888362.096779
+http,51.161.142.97,8080,Australia,AU,North Sydney,elite,false,34.57,AS16276,OVH SAS,14458.84,1783888335.9760287
+http,103.249.237.158,8888,Australia,AU,Sydney,transparent,false,31.28,AS133159,Mammoth Media Pty Ltd,17857.02,1783888443.290101
+http,159.196.182.72,8080,Australia,AU,Melbourne,transparent,false,27.06,AS4764,Wideband Networks Pty Ltd,13759.44,1783888355.6721406
+socks5,168.138.9.147,1080,Australia,AU,Melbourne,elite,true,40.26,AS31898,Oracle Corporation,4435.23,1783888326.3975227
+http,210.8.69.102,808,Australia,AU,Sydney,elite,true,87.34,AS7600,AAPT Limited,647.94,1783888500.6980298

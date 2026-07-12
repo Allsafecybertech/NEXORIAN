@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "140.235.38.56",
+    "port": 50161,
     "country": "Taiwan",
     "country_code": "TW",
     "city": "Taipei",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 32.88,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 8630.62,
-    "last_checked": 1783887745.4183543
+    "ssl": true,
+    "uptime_percent": 62.59,
+    "asn": "AS212336",
+    "isp": "Sunoaki Network LLC",
+    "latency_ms": 6542.97,
+    "last_checked": 1783888467.3108559
   },
   {
     "protocol": "socks5",
@@ -26,8 +26,38 @@
     "uptime_percent": 62.61,
     "asn": "AS212336",
     "isp": "Sunoaki Network LLC",
-    "latency_ms": 9644.38,
-    "last_checked": 1783887459.0190961
+    "latency_ms": 7015.88,
+    "last_checked": 1783888457.6266453
+  },
+  {
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 32.89,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 664.74,
+    "last_checked": 1783888428.619164
+  },
+  {
+    "protocol": "http",
+    "ip": "118.163.120.181",
+    "port": 58837,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 4.68,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 8885.83,
+    "last_checked": 1783888365.3167129
   },
   {
     "protocol": "http",
@@ -37,26 +67,11 @@
     "country_code": "TW",
     "city": "Neihu District",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 45.52,
+    "ssl": false,
+    "uptime_percent": 45.59,
     "asn": "AS63199",
     "isp": "CDS Global Cloud Co., Ltd",
-    "latency_ms": 715.7,
-    "last_checked": 1783887863.2840776
-  },
-  {
-    "protocol": "http",
-    "ip": "211.22.151.163",
-    "port": 60808,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taoyuan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 3.07,
-    "asn": "AS3462",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 7789.59,
-    "last_checked": 1783887886.481568
+    "latency_ms": 646.78,
+    "last_checked": 1783888482.1726792
   }
 ]
