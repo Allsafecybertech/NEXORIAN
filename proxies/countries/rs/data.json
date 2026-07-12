@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.117.211.42",
-    "port": 8085,
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
     "country": "Serbia",
     "country_code": "RS",
-    "city": "Novi Sad",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.51,
-    "asn": "AS31042",
-    "isp": "Serbia BroadBand",
-    "latency_ms": 8252.51,
-    "last_checked": 1783856347.5439453
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.81,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 179.3,
+    "last_checked": 1783856978.8170135
   },
   {
     "protocol": "http",
@@ -23,10 +23,25 @@
     "city": "Niš",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 74.16,
+    "uptime_percent": 74.26,
     "asn": "AS197423",
     "isp": "Jotel",
-    "latency_ms": 148.85,
-    "last_checked": 1783856282.2782242
+    "latency_ms": 138.3,
+    "last_checked": 1783856927.9876404
+  },
+  {
+    "protocol": "http",
+    "ip": "82.117.211.42",
+    "port": 8085,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Novi Sad",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 34.53,
+    "asn": "AS31042",
+    "isp": "Serbia BroadBand",
+    "latency_ms": 4089.51,
+    "last_checked": 1783856920.1403224
   }
 ]

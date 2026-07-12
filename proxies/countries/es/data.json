@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "65.20.105.241",
-    "port": 10001,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.26,
-    "asn": "AS20473",
-    "isp": "The Constant Company, LLC",
-    "latency_ms": 4151.47,
-    "last_checked": 1783856369.5836768
-  },
-  {
-    "protocol": "socks4",
     "ip": "83.56.15.57",
     "port": 5678,
     "country": "Spain",
@@ -26,38 +11,8 @@
     "uptime_percent": 30.38,
     "asn": "AS3352",
     "isp": "Telefonica de Espana SAU",
-    "latency_ms": 3217.83,
-    "last_checked": 1783856358.2045333
-  },
-  {
-    "protocol": "http",
-    "ip": "103.240.146.107",
-    "port": 6443,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 5.85,
-    "asn": "AS36007",
-    "isp": "Kamatera, Inc.",
-    "latency_ms": 3440.4,
-    "last_checked": 1783856345.8482037
-  },
-  {
-    "protocol": "http",
-    "ip": "195.189.190.245",
-    "port": 9090,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Mácher",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.12,
-    "asn": "AS207906",
-    "isp": "Suballocated IT1",
-    "latency_ms": 1495.64,
-    "last_checked": 1783856339.413478
+    "latency_ms": 3226.36,
+    "last_checked": 1783856978.9772668
   },
   {
     "protocol": "http",
@@ -71,8 +26,53 @@
     "uptime_percent": 66.29,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 5119.97,
-    "last_checked": 1783856330.2116382
+    "latency_ms": 5129.91,
+    "last_checked": 1783856958.7526119
+  },
+  {
+    "protocol": "socks5",
+    "ip": "83.97.79.114",
+    "port": 8443,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 36.81,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 3241.79,
+    "last_checked": 1783856953.2415047
+  },
+  {
+    "protocol": "http",
+    "ip": "195.189.190.245",
+    "port": 9090,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Mácher",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 20.12,
+    "asn": "AS207906",
+    "isp": "Suballocated IT1",
+    "latency_ms": 2442.98,
+    "last_checked": 1783856942.681812
+  },
+  {
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 18359,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Valencia",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 13.06,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 12409.69,
+    "last_checked": 1783856910.6549516
   },
   {
     "protocol": "http",
@@ -82,27 +82,57 @@
     "country_code": "ES",
     "city": "Aiguamúrcia",
     "anonymity": "transparent",
-    "ssl": true,
+    "ssl": false,
     "uptime_percent": 27.2,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A.",
-    "latency_ms": 6886.03,
-    "last_checked": 1783856322.607247
+    "latency_ms": 3488.0,
+    "last_checked": 1783856895.7270858
   },
   {
     "protocol": "http",
-    "ip": "85.85.179.233",
-    "port": 8080,
+    "ip": "81.0.49.104",
+    "port": 20500,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Barcelona",
+    "city": "Valencia",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 38.32,
+    "ssl": true,
+    "uptime_percent": 26.65,
     "asn": "AS15704",
-    "isp": "Xtra Telecom S.A.",
-    "latency_ms": 5038.63,
-    "last_checked": 1783856278.4639347
+    "isp": "MasMovil Access Network",
+    "latency_ms": 5956.94,
+    "last_checked": 1783856874.1153762
+  },
+  {
+    "protocol": "socks5",
+    "ip": "81.0.49.104",
+    "port": 18500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Valencia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 79.47,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 1403.52,
+    "last_checked": 1783856506.5896459
+  },
+  {
+    "protocol": "socks4",
+    "ip": "65.20.105.241",
+    "port": 10001,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 42.26,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 7213.74,
+    "last_checked": 1783856977.9098203
   },
   {
     "protocol": "http",
@@ -116,7 +146,7 @@
     "uptime_percent": 74.81,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 128.16,
-    "last_checked": 1783856360.4174633
+    "latency_ms": 259.29,
+    "last_checked": 1783856971.4670312
   }
 ]
