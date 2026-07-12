@@ -1,21 +1,6 @@
 [
   {
     "protocol": "socks4",
-    "ip": "41.75.84.86",
-    "port": 4153,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 44.87,
-    "asn": "AS37282",
-    "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 1673.2,
-    "last_checked": 1783825792.7616637
-  },
-  {
-    "protocol": "socks4",
     "ip": "102.36.231.77",
     "port": 1080,
     "country": "Nigeria",
@@ -23,41 +8,56 @@
     "city": "Irewe",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 52.28,
+    "uptime_percent": 52.39,
     "asn": "AS328555",
     "isp": "Timeless Network Services Ltd",
-    "latency_ms": 1624.18,
-    "last_checked": 1783825792.4914489
+    "latency_ms": 596.24,
+    "last_checked": 1783826356.9540977
   },
   {
-    "protocol": "socks4",
-    "ip": "196.1.182.130",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "154.113.209.162",
+    "port": 8082,
     "country": "Nigeria",
     "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "elite",
+    "city": "Abuja",
+    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 67.66,
-    "asn": "AS37629",
-    "isp": "eStream Networks",
-    "latency_ms": 668.7,
-    "last_checked": 1783825784.6869164
+    "uptime_percent": 21.93,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 9953.47,
+    "last_checked": 1783826337.4346895
   },
   {
     "protocol": "socks4",
-    "ip": "154.113.196.17",
+    "ip": "154.113.198.17",
     "port": 5678,
     "country": "Nigeria",
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 7.17,
+    "uptime_percent": 11.74,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 573.96,
-    "last_checked": 1783825782.415217
+    "latency_ms": 7803.68,
+    "last_checked": 1783826323.328408
+  },
+  {
+    "protocol": "http",
+    "ip": "154.113.208.190",
+    "port": 8080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Abuja",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 40.62,
+    "asn": "AS37282",
+    "isp": "Main one Cable Company Nigeria Limited",
+    "latency_ms": 3138.39,
+    "last_checked": 1783826260.3349993
   },
   {
     "protocol": "http",
@@ -67,27 +67,12 @@
     "country_code": "NG",
     "city": "Lagos",
     "anonymity": "transparent",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 30.32,
     "asn": "AS37282",
     "isp": "Main one Cable Company Nigeria Limited",
-    "latency_ms": 9464.29,
-    "last_checked": 1783825775.3170805
-  },
-  {
-    "protocol": "socks5",
-    "ip": "213.111.130.38",
-    "port": 1080,
-    "country": "Nigeria",
-    "country_code": "NG",
-    "city": "Lagos",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 100.0,
-    "asn": "AS8849",
-    "isp": "Melbikomas UAB",
-    "latency_ms": 732.79,
-    "last_checked": 1783825766.0437722
+    "latency_ms": 4882.34,
+    "last_checked": 1783826362.2367167
   },
   {
     "protocol": "socks5",
@@ -101,7 +86,22 @@
     "uptime_percent": 100.0,
     "asn": "AS8849",
     "isp": "Melbikomas UAB",
-    "latency_ms": 704.37,
-    "last_checked": 1783825341.3014896
+    "latency_ms": 879.11,
+    "last_checked": 1783826375.2675495
+  },
+  {
+    "protocol": "socks5",
+    "ip": "213.111.130.38",
+    "port": 1080,
+    "country": "Nigeria",
+    "country_code": "NG",
+    "city": "Lagos",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 100.0,
+    "asn": "AS8849",
+    "isp": "Melbikomas UAB",
+    "latency_ms": 721.14,
+    "last_checked": 1783826089.1977487
   }
 ]

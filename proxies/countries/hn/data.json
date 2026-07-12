@@ -1,18 +1,33 @@
 [
   {
     "protocol": "http",
-    "ip": "80.80.91.132",
+    "ip": "186.33.20.193",
     "port": 999,
     "country": "Honduras",
     "country_code": "HN",
-    "city": "Tegucigalpa",
+    "city": "San Pedro Sula",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 31.97,
-    "asn": "AS273189",
-    "isp": "CA NETWORKS S.A. DE C.V.",
-    "latency_ms": 10972.89,
-    "last_checked": 1783825755.1959047
+    "uptime_percent": 28.51,
+    "asn": "AS52468",
+    "isp": "Ufinet Panama S.A.",
+    "latency_ms": 3103.95,
+    "last_checked": 1783826338.351825
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "country": "Honduras",
+    "country_code": "HN",
+    "city": "Ciudad Choluteca",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.53,
+    "asn": "AS27884",
+    "isp": "Cablecolor S.A.",
+    "latency_ms": 1436.77,
+    "last_checked": 1783826321.4049964
   },
   {
     "protocol": "http",
@@ -22,41 +37,11 @@
     "country_code": "HN",
     "city": "San Pedro Sula",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 28.54,
+    "ssl": false,
+    "uptime_percent": 28.56,
     "asn": "AS52468",
     "isp": "Ufinet Panama S.A.",
-    "latency_ms": 11516.49,
-    "last_checked": 1783825718.7065594
-  },
-  {
-    "protocol": "http",
-    "ip": "181.115.67.3",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "San Pedro Sula",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 7.09,
-    "asn": "AS14754",
-    "isp": "Telgua",
-    "latency_ms": 3051.93,
-    "last_checked": 1783825690.2068007
-  },
-  {
-    "protocol": "http",
-    "ip": "181.78.44.63",
-    "port": 999,
-    "country": "Honduras",
-    "country_code": "HN",
-    "city": "La Unión",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 53.63,
-    "asn": "AS52468",
-    "isp": "Ufinet Panama S.A.",
-    "latency_ms": 11615.56,
-    "last_checked": 1783825685.6199527
+    "latency_ms": 12335.2,
+    "last_checked": 1783826236.5078144
   }
 ]
