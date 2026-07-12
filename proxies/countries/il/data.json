@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "93.184.4.254",
+    "protocol": "socks4",
+    "ip": "31.168.143.90",
     "port": 1080,
     "country": "Israel",
     "country_code": "IL",
-    "city": "Dolev",
+    "city": "Rehovot",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 26.18,
-    "asn": "AS47253",
-    "isp": "BCI Telecommunication & Advanced Technology Company",
-    "latency_ms": 7663.11,
-    "last_checked": 1783896466.0692413
+    "uptime_percent": 65.55,
+    "asn": "AS8551",
+    "isp": "BEZEQ-INTERNATIONAL",
+    "latency_ms": 288.29,
+    "last_checked": 1783897193.0190742
+  },
+  {
+    "protocol": "http",
+    "ip": "83.229.73.113",
+    "port": 13554,
+    "country": "Israel",
+    "country_code": "IL",
+    "city": "Haifa",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 26.47,
+    "asn": "AS44709",
+    "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "latency_ms": 10476.58,
+    "last_checked": 1783897171.741056
   },
   {
     "protocol": "http",
@@ -23,10 +38,10 @@
     "city": "Ramat Gan",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 54.86,
+    "uptime_percent": 54.9,
     "asn": "AS1680",
     "isp": "013 Netvision Network",
-    "latency_ms": 279.76,
-    "last_checked": 1783896593.7375095
+    "latency_ms": 275.18,
+    "last_checked": 1783897170.3150551
   }
 ]
