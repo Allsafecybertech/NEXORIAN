@@ -1,33 +1,48 @@
 [
   {
     "protocol": "http",
-    "ip": "180.181.215.232",
-    "port": 3128,
+    "ip": "61.29.96.146",
+    "port": 8000,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Brisbane",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 33.25,
-    "asn": "AS4764",
-    "isp": "Wideband Networks Pty Ltd",
-    "latency_ms": 5758.19,
-    "last_checked": 1783823273.3438692
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 9.61,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 12106.78,
+    "last_checked": 1783823907.4854283
   },
   {
     "protocol": "http",
-    "ip": "46.250.241.229",
-    "port": 3128,
+    "ip": "61.29.96.146",
+    "port": 80,
     "country": "Australia",
     "country_code": "AU",
-    "city": "Sydney",
-    "anonymity": "transparent",
+    "city": "Albury",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 8.7,
+    "asn": "AS2764",
+    "isp": "AAPT Limited",
+    "latency_ms": 2675.94,
+    "last_checked": 1783823874.3337498
+  },
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "country": "Australia",
+    "country_code": "AU",
+    "city": "Kurnell",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 41.57,
-    "asn": "AS141995",
-    "isp": "Contabo Asia Private Limited",
-    "latency_ms": 13541.62,
-    "last_checked": 1783823262.2599063
+    "uptime_percent": 42.26,
+    "asn": "AS133417",
+    "isp": "Dicker Data Ltd",
+    "latency_ms": 4865.63,
+    "last_checked": 1783823832.0866153
   },
   {
     "protocol": "http",
@@ -37,11 +52,11 @@
     "country_code": "AU",
     "city": "Sydney",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 90.95,
+    "ssl": true,
+    "uptime_percent": 90.92,
     "asn": "AS7600",
     "isp": "AAPT Limited",
-    "latency_ms": 739.1,
-    "last_checked": 1783823358.5706525
+    "latency_ms": 886.88,
+    "last_checked": 1783824003.4550803
   }
 ]
