@@ -1,20 +1,5 @@
 [
   {
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 32.83,
-    "asn": "AS396982",
-    "isp": "Google LLC",
-    "latency_ms": 719.62,
-    "last_checked": 1783840190.9471397
-  },
-  {
     "protocol": "socks4",
     "ip": "140.235.38.56",
     "port": 50161,
@@ -26,8 +11,23 @@
     "uptime_percent": 62.61,
     "asn": "AS212336",
     "isp": "Sunoaki Network LLC",
-    "latency_ms": 18904.33,
-    "last_checked": 1783840178.2497141
+    "latency_ms": 6303.58,
+    "last_checked": 1783840747.470458
+  },
+  {
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 32.83,
+    "asn": "AS396982",
+    "isp": "Google LLC",
+    "latency_ms": 681.19,
+    "last_checked": 1783840725.4785414
   },
   {
     "protocol": "socks5",
@@ -41,22 +41,37 @@
     "uptime_percent": 62.74,
     "asn": "AS212336",
     "isp": "Sunoaki Network LLC",
-    "latency_ms": 10833.1,
-    "last_checked": 1783839866.95879
+    "latency_ms": 14748.92,
+    "last_checked": 1783840690.8065608
+  },
+  {
+    "protocol": "socks5",
+    "ip": "112.105.12.58",
+    "port": 1111,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taichung",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.35,
+    "asn": "AS18049",
+    "isp": "TINP",
+    "latency_ms": 28088.01,
+    "last_checked": 1783840539.5106347
   },
   {
     "protocol": "http",
-    "ip": "210.201.86.72",
-    "port": 8080,
+    "ip": "211.22.151.163",
+    "port": 60808,
     "country": "Taiwan",
     "country_code": "TW",
-    "city": "Banqiao",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 5.69,
-    "asn": "AS7482",
-    "isp": "Asia Pacific On-line Service Inc.",
-    "latency_ms": 7683.71,
-    "last_checked": 1783840162.0786371
+    "city": "Taoyuan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 3.06,
+    "asn": "AS3462",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "latency_ms": 5420.15,
+    "last_checked": 1783840777.1442735
   }
 ]
