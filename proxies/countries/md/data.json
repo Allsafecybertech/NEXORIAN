@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.28.81.217",
-    "port": 8443,
+    "protocol": "socks4",
+    "ip": "46.55.3.113",
+    "port": 4145,
     "country": "Moldova",
     "country_code": "MD",
     "city": "Chisinau",
-    "anonymity": "transparent",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 44.6,
+    "asn": "AS8926",
+    "isp": "JSC \"Moldtelecom\" S.A",
+    "latency_ms": 1271.55,
+    "last_checked": 1783974583.7054098
+  },
+  {
+    "protocol": "http",
+    "ip": "85.120.255.185",
+    "port": 8899,
+    "country": "Moldova",
+    "country_code": "MD",
+    "city": "Chisinau",
+    "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 22.74,
-    "asn": "AS31252",
-    "isp": "SC STARNET SRL",
-    "latency_ms": 3196.63,
-    "last_checked": 1783973851.5406144
+    "uptime_percent": 28.83,
+    "asn": "AS48753",
+    "isp": "AVA HOST SRL",
+    "latency_ms": 13061.5,
+    "last_checked": 1783974440.6639009
   }
 ]
