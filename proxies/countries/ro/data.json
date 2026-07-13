@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "5.2.238.216",
-    "port": 8787,
+    "protocol": "socks4",
+    "ip": "81.12.157.98",
+    "port": 5678,
     "country": "Romania",
     "country_code": "RO",
-    "city": "Eforie Nord",
-    "anonymity": "transparent",
+    "city": "Roșcani",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 29.67,
-    "asn": "AS8708",
-    "isp": "RCS & RDS",
-    "latency_ms": 3546.55,
-    "last_checked": 1783969162.5638974
+    "uptime_percent": 58.39,
+    "asn": "AS12302",
+    "isp": "Vodafone RO",
+    "latency_ms": 3204.2,
+    "last_checked": 1783969787.9124506
   },
   {
     "protocol": "http",
@@ -22,27 +22,12 @@
     "country_code": "RO",
     "city": "Drobeta-Turnu Severin",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 8.17,
+    "ssl": true,
+    "uptime_percent": 8.18,
     "asn": "AS49052",
     "isp": "Data ZYX SRL",
-    "latency_ms": 7416.88,
-    "last_checked": 1783969132.590318
-  },
-  {
-    "protocol": "socks5",
-    "ip": "85.120.217.53",
-    "port": 1080,
-    "country": "Romania",
-    "country_code": "RO",
-    "city": "Bucharest",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 39.92,
-    "asn": "",
-    "isp": "Institutul National de Cercetare-Dezvoltare in informatica - ICI Bucuresti",
-    "latency_ms": 574.92,
-    "last_checked": 1783969074.7407749
+    "latency_ms": 3518.23,
+    "last_checked": 1783969718.7398822
   },
   {
     "protocol": "socks5",
@@ -53,10 +38,40 @@
     "city": "Bucharest",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 14.07,
+    "uptime_percent": 14.09,
     "asn": "AS200651",
     "isp": "FlokiNET ehf",
-    "latency_ms": 1906.91,
-    "last_checked": 1783968645.725162
+    "latency_ms": 2620.51,
+    "last_checked": 1783969703.2651293
+  },
+  {
+    "protocol": "http",
+    "ip": "5.2.238.216",
+    "port": 8787,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Eforie Nord",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.68,
+    "asn": "AS8708",
+    "isp": "RCS & RDS",
+    "latency_ms": 4530.39,
+    "last_checked": 1783969672.269202
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.120.217.53",
+    "port": 1080,
+    "country": "Romania",
+    "country_code": "RO",
+    "city": "Bucharest",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 40.41,
+    "asn": "",
+    "isp": "Institutul National de Cercetare-Dezvoltare in informatica - ICI Bucuresti",
+    "latency_ms": 298.2,
+    "last_checked": 1783969567.7295766
   }
 ]
