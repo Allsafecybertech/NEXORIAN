@@ -1,18 +1,48 @@
 [
   {
-    "protocol": "http",
-    "ip": "155.212.224.2",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "85.31.96.14",
+    "port": 9150,
     "country": "Latvia",
     "country_code": "LV",
     "city": "Riga",
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.07,
-    "asn": "AS9002",
-    "isp": "RETN Limited",
-    "latency_ms": 11180.75,
-    "last_checked": 1783924171.9333155
+    "uptime_percent": 23.35,
+    "asn": "AS43513",
+    "isp": "Sia Nano IT",
+    "latency_ms": 6864.67,
+    "last_checked": 1783924741.9956093
+  },
+  {
+    "protocol": "socks5",
+    "ip": "85.31.96.14",
+    "port": 9150,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 17.86,
+    "asn": "AS43513",
+    "isp": "Sia Nano IT",
+    "latency_ms": 4005.36,
+    "last_checked": 1783924549.1667042
+  },
+  {
+    "protocol": "socks5",
+    "ip": "185.236.22.192",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.62,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 13889.89,
+    "last_checked": 1783924372.250683
   },
   {
     "protocol": "http",
@@ -22,11 +52,26 @@
     "country_code": "LV",
     "city": "Riga",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 30.76,
+    "ssl": false,
+    "uptime_percent": 30.77,
     "asn": "AS44575",
     "isp": "SIA \"MWTV\"",
-    "latency_ms": 139.11,
-    "last_checked": 1783924155.7847826
+    "latency_ms": 9171.18,
+    "last_checked": 1783924738.4570427
+  },
+  {
+    "protocol": "socks4",
+    "ip": "185.176.220.23",
+    "port": 9050,
+    "country": "Latvia",
+    "country_code": "LV",
+    "city": "Riga",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 33.7,
+    "asn": "AS39845",
+    "isp": "2 Cloud Ltd",
+    "latency_ms": 14689.42,
+    "last_checked": 1783924735.5788593
   }
 ]
