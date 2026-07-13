@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
+    "protocol": "socks4",
+    "ip": "109.120.155.157",
+    "port": 1080,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.8,
+    "asn": "AS210644",
+    "isp": "Aeza International LTD",
+    "latency_ms": 9821.96,
+    "last_checked": 1783951771.2673688
+  },
+  {
+    "protocol": "socks5",
     "ip": "138.124.26.19",
     "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 78.24,
+    "ssl": true,
+    "uptime_percent": 83.42,
     "asn": "AS210644",
     "isp": "Aeza International LTD",
-    "latency_ms": 173.12,
-    "last_checked": 1783951169.7008092
+    "latency_ms": 231.65,
+    "last_checked": 1783951762.109367
   },
   {
     "protocol": "http",
@@ -26,8 +41,23 @@
     "uptime_percent": 85.38,
     "asn": "AS206170",
     "isp": "Yelles AB",
-    "latency_ms": 881.93,
-    "last_checked": 1783951147.6788516
+    "latency_ms": 7003.48,
+    "last_checked": 1783951759.723818
+  },
+  {
+    "protocol": "http",
+    "ip": "193.148.58.181",
+    "port": 3128,
+    "country": "Sweden",
+    "country_code": "SE",
+    "city": "Stockholm",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 12.21,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 6633.89,
+    "last_checked": 1783951758.2664394
   },
   {
     "protocol": "http",
@@ -38,26 +68,11 @@
     "city": "Stockholm",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 51.35,
+    "uptime_percent": 51.38,
     "asn": "AS205775",
     "isp": "Neon Core Network LLC",
-    "latency_ms": 3396.51,
-    "last_checked": 1783951137.3055596
-  },
-  {
-    "protocol": "http",
-    "ip": "144.31.230.199",
-    "port": 3000,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 16.5,
-    "asn": "AS215439",
-    "isp": "Play2go International Limited",
-    "latency_ms": 8748.96,
-    "last_checked": 1783951121.7558398
+    "latency_ms": 10890.52,
+    "last_checked": 1783951737.5466433
   },
   {
     "protocol": "socks5",
@@ -71,37 +86,22 @@
     "uptime_percent": 99.05,
     "asn": "AS35100",
     "isp": "Patrik Lagerman",
-    "latency_ms": 477.91,
-    "last_checked": 1783951107.5868874
+    "latency_ms": 2522.95,
+    "last_checked": 1783951717.0718853
   },
   {
-    "protocol": "http",
-    "ip": "91.186.217.84",
-    "port": 3128,
+    "protocol": "socks5",
+    "ip": "193.148.58.181",
+    "port": 1080,
     "country": "Sweden",
     "country_code": "SE",
     "city": "Stockholm",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 20.61,
-    "asn": "AS203273",
-    "isp": "NetCrafters OU",
-    "latency_ms": 5816.26,
-    "last_checked": 1783951103.4038744
-  },
-  {
-    "protocol": "http",
-    "ip": "2.26.124.123",
-    "port": 3128,
-    "country": "Sweden",
-    "country_code": "SE",
-    "city": "Stockholm",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 35.36,
-    "asn": "AS198550",
-    "isp": "Node Host Limited",
-    "latency_ms": 7372.67,
-    "last_checked": 1783951100.8599494
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 25.61,
+    "asn": "AS41745",
+    "isp": "Baykov Ilya Sergeevich",
+    "latency_ms": 11385.6,
+    "last_checked": 1783951603.8981795
   }
 ]
