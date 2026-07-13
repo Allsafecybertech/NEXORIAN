@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Kryry",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 39.2,
+    "asn": "AS47232",
+    "isp": "ISP Alliance a.s.",
+    "latency_ms": 7289.17,
+    "last_checked": 1783963153.8024223
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.69.211.18",
     "port": 1080,
     "country": "Czechia",
@@ -8,11 +23,26 @@
     "city": "Přerov",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 57.16,
+    "uptime_percent": 57.19,
     "asn": "AS196815",
     "isp": "LAN servis s.r.o",
-    "latency_ms": 1146.72,
-    "last_checked": 1783962598.6092372
+    "latency_ms": 156.95,
+    "last_checked": 1783963143.5082152
+  },
+  {
+    "protocol": "http",
+    "ip": "77.240.97.77",
+    "port": 8080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Dobříš",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 23.59,
+    "asn": "AS42189",
+    "isp": "DOBRISNET",
+    "latency_ms": 1086.85,
+    "last_checked": 1783963135.7998056
   },
   {
     "protocol": "http",
@@ -26,23 +56,8 @@
     "uptime_percent": 16.14,
     "asn": "AS13036",
     "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 4760.11,
-    "last_checked": 1783962573.4563222
-  },
-  {
-    "protocol": "http",
-    "ip": "77.240.97.77",
-    "port": 8080,
-    "country": "Czechia",
-    "country_code": "CZ",
-    "city": "Dobříš",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 23.58,
-    "asn": "AS42189",
-    "isp": "DOBRISNET",
-    "latency_ms": 3141.32,
-    "last_checked": 1783962514.8877783
+    "latency_ms": 1856.02,
+    "last_checked": 1783963131.9839125
   },
   {
     "protocol": "http",
@@ -56,22 +71,37 @@
     "uptime_percent": 84.51,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 4754.82,
-    "last_checked": 1783962492.3311453
+    "latency_ms": 4044.06,
+    "last_checked": 1783963101.3188305
   },
   {
     "protocol": "http",
-    "ip": "185.73.103.23",
+    "ip": "193.179.52.197",
     "port": 3128,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Karlovy Vary",
+    "city": "Prague",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 31.96,
+    "asn": "AS13036",
+    "isp": "T-Mobile Czech Republic a.s.",
+    "latency_ms": 5174.73,
+    "last_checked": 1783963047.9238603
+  },
+  {
+    "protocol": "http",
+    "ip": "90.181.120.18",
+    "port": 8082,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Prague",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 8.09,
-    "asn": "AS201476",
-    "isp": "ISP Alliance a.s.",
-    "latency_ms": 9821.05,
-    "last_checked": 1783962445.2898257
+    "uptime_percent": 28.27,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 8211.44,
+    "last_checked": 1783963017.4690711
   }
 ]
