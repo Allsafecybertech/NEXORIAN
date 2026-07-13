@@ -1,33 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "77.245.102.106",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "46.8.31.104",
+    "port": 1080,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Astana",
+    "city": "Karaganda",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 26.59,
-    "asn": "AS35104",
-    "isp": "Jusan Mobile JSC",
-    "latency_ms": 336.27,
-    "last_checked": 1783902536.7781355
-  },
-  {
-    "protocol": "http",
-    "ip": "89.218.175.84",
-    "port": 8080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Atyrau",
-    "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 14.06,
-    "asn": "AS9198",
-    "isp": "JSC Kazakhtelecom",
-    "latency_ms": 5727.72,
-    "last_checked": 1783902530.1003807
+    "uptime_percent": 36.35,
+    "asn": "AS203087",
+    "isp": "PE Fedinyak Sergey Vyacheslavovich",
+    "latency_ms": 1170.09,
+    "last_checked": 1783903166.3532052
   },
   {
     "protocol": "http",
@@ -38,11 +23,26 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 53.55,
+    "uptime_percent": 53.56,
     "asn": "AS200590",
     "isp": "NLS Kazakhstan LLC",
-    "latency_ms": 421.98,
-    "last_checked": 1783902515.4802456
+    "latency_ms": 772.14,
+    "last_checked": 1783903161.8228939
+  },
+  {
+    "protocol": "socks4",
+    "ip": "176.12.72.62",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 34.91,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 8183.65,
+    "last_checked": 1783903152.0652726
   },
   {
     "protocol": "http",
@@ -56,23 +56,23 @@
     "uptime_percent": 26.25,
     "asn": "AS41798",
     "isp": "JSC Transtelecom",
-    "latency_ms": 8450.03,
-    "last_checked": 1783902486.1840768
+    "latency_ms": 10040.9,
+    "last_checked": 1783903082.4741685
   },
   {
-    "protocol": "socks5",
-    "ip": "199.189.255.230",
-    "port": 1080,
+    "protocol": "http",
+    "ip": "193.124.204.164",
+    "port": 9999,
     "country": "Kazakhstan",
     "country_code": "KZ",
-    "city": "Almaty",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 57.04,
-    "asn": "AS205431",
-    "isp": "Netfire TEC",
-    "latency_ms": 2908.24,
-    "last_checked": 1783902288.0871031
+    "city": "Astana",
+    "anonymity": "anonymous",
+    "ssl": false,
+    "uptime_percent": 21.93,
+    "asn": "AS41798",
+    "isp": "JSC Transtelecom",
+    "latency_ms": 15864.3,
+    "last_checked": 1783903050.99584
   },
   {
     "protocol": "socks4",
@@ -83,11 +83,26 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 60.93,
+    "uptime_percent": 60.95,
     "asn": "AS205431",
     "isp": "Netfire TEC",
-    "latency_ms": 2208.96,
-    "last_checked": 1783902602.1275651
+    "latency_ms": 2608.27,
+    "last_checked": 1783903200.8845856
+  },
+  {
+    "protocol": "http",
+    "ip": "93.185.68.82",
+    "port": 8080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Atyrau",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 32.52,
+    "asn": "AS35104",
+    "isp": "JSC \"KazTransCom\"",
+    "latency_ms": 1458.52,
+    "last_checked": 1783903178.7446828
   },
   {
     "protocol": "socks4",
@@ -98,26 +113,11 @@
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 45.84,
+    "uptime_percent": 45.83,
     "asn": "AS42447",
     "isp": "EQU Technologies LLP",
-    "latency_ms": 8439.1,
-    "last_checked": 1783902596.5573018
-  },
-  {
-    "protocol": "http",
-    "ip": "93.185.68.82",
-    "port": 8080,
-    "country": "Kazakhstan",
-    "country_code": "KZ",
-    "city": "Atyrau",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 32.51,
-    "asn": "AS35104",
-    "isp": "JSC \"KazTransCom\"",
-    "latency_ms": 7400.88,
-    "last_checked": 1783902569.6638904
+    "latency_ms": 1650.55,
+    "last_checked": 1783903173.8290162
   },
   {
     "protocol": "http",
@@ -131,23 +131,38 @@
     "uptime_percent": 98.72,
     "asn": "AS29355",
     "isp": "Kcell JSC",
-    "latency_ms": 927.7,
-    "last_checked": 1783902516.3891654
+    "latency_ms": 795.3,
+    "last_checked": 1783903168.804582
   },
   {
-    "protocol": "socks5",
-    "ip": "93.170.73.0",
+    "protocol": "http",
+    "ip": "199.189.255.230",
+    "port": 1080,
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "city": "Almaty",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 48.96,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 4731.98,
+    "last_checked": 1783903148.1969135
+  },
+  {
+    "protocol": "http",
+    "ip": "199.189.255.230",
     "port": 8080,
     "country": "Kazakhstan",
     "country_code": "KZ",
     "city": "Almaty",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 40.8,
-    "asn": "AS42447",
-    "isp": "EQU Technologies LLP",
-    "latency_ms": 12164.94,
-    "last_checked": 1783902089.7848642
+    "uptime_percent": 56.63,
+    "asn": "AS205431",
+    "isp": "Netfire TEC",
+    "latency_ms": 1857.41,
+    "last_checked": 1783903138.3334937
   },
   {
     "protocol": "socks5",
@@ -161,7 +176,7 @@
     "uptime_percent": 46.63,
     "asn": "AS48988",
     "isp": "Modern Server Solutions LLP",
-    "latency_ms": 1656.59,
-    "last_checked": 1783902502.3518798
+    "latency_ms": 983.0,
+    "last_checked": 1783902888.9261022
   }
 ]
