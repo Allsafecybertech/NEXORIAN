@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "140.235.38.56",
-    "port": 50161,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Taipei",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 62.8,
-    "asn": "AS212336",
-    "isp": "Sunoaki Network LLC",
-    "latency_ms": 3054.34,
-    "last_checked": 1783929557.970678
-  },
-  {
-    "protocol": "http",
-    "ip": "164.52.11.194",
-    "port": 18080,
-    "country": "Taiwan",
-    "country_code": "TW",
-    "city": "Neihu District",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 47.44,
-    "asn": "AS63199",
-    "isp": "CDS Global Cloud Co., Ltd",
-    "latency_ms": 2098.33,
-    "last_checked": 1783929536.7812903
-  },
-  {
     "protocol": "http",
     "ip": "34.81.160.132",
     "port": 80,
@@ -41,8 +11,68 @@
     "uptime_percent": 32.95,
     "asn": "AS396982",
     "isp": "Google LLC",
-    "latency_ms": 662.29,
-    "last_checked": 1783929426.326757
+    "latency_ms": 688.89,
+    "last_checked": 1783930185.3755121
+  },
+  {
+    "protocol": "socks4",
+    "ip": "140.235.38.56",
+    "port": 50161,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.81,
+    "asn": "AS212336",
+    "isp": "Sunoaki Network LLC",
+    "latency_ms": 6542.12,
+    "last_checked": 1783930181.812729
+  },
+  {
+    "protocol": "socks5",
+    "ip": "140.235.38.56",
+    "port": 50161,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Taipei",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 62.54,
+    "asn": "AS212336",
+    "isp": "Sunoaki Network LLC",
+    "latency_ms": 11311.31,
+    "last_checked": 1783930156.4703083
+  },
+  {
+    "protocol": "http",
+    "ip": "27.147.28.73",
+    "port": 8080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Xindian District",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 7.34,
+    "asn": "AS18429",
+    "isp": "Extra-Lan Technologies Co., LTD",
+    "latency_ms": 3405.97,
+    "last_checked": 1783930147.4796343
+  },
+  {
+    "protocol": "http",
+    "ip": "164.52.11.194",
+    "port": 18080,
+    "country": "Taiwan",
+    "country_code": "TW",
+    "city": "Neihu District",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 47.5,
+    "asn": "AS63199",
+    "isp": "CDS Global Cloud Co., Ltd",
+    "latency_ms": 13701.32,
+    "last_checked": 1783930037.466918
   },
   {
     "protocol": "http",
@@ -52,11 +82,11 @@
     "country_code": "TW",
     "city": "Taoyuan",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 3.07,
     "asn": "AS3462",
     "isp": "Chunghwa Telecom Co., Ltd.",
-    "latency_ms": 5291.21,
-    "last_checked": 1783929580.99988
+    "latency_ms": 9092.23,
+    "last_checked": 1783930192.859987
   }
 ]
