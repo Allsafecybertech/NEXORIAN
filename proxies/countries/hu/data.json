@@ -1,17 +1,32 @@
 [
   {
-    "protocol": "http",
-    "ip": "89.135.59.77",
-    "port": 8090,
+    "protocol": "socks4",
+    "ip": "89.132.170.211",
+    "port": 4145,
     "country": "Hungary",
     "country_code": "HU",
-    "city": "Pusztavacs",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 10.33,
+    "city": "Nagykanizsa",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 43.57,
     "asn": "AS21334",
     "isp": "One Hungary Ltd.",
-    "latency_ms": 4983.95,
-    "last_checked": 1783938136.8318322
+    "latency_ms": 1265.52,
+    "last_checked": 1783938864.6180642
+  },
+  {
+    "protocol": "http",
+    "ip": "31.46.33.59",
+    "port": 53281,
+    "country": "Hungary",
+    "country_code": "HU",
+    "city": "Tiszafüred",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 15.47,
+    "asn": "AS5483",
+    "isp": "htc",
+    "latency_ms": 6560.81,
+    "last_checked": 1783938745.4140801
   }
 ]
