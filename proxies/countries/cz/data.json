@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "193.179.52.197",
-    "port": 3128,
+    "protocol": "socks4",
+    "ip": "90.178.216.215",
+    "port": 4153,
     "country": "Czechia",
     "country_code": "CZ",
     "city": "Prague",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 30.91,
-    "asn": "AS13036",
-    "isp": "T-Mobile Czech Republic a.s.",
-    "latency_ms": 3614.08,
-    "last_checked": 1783900700.3993478
+    "uptime_percent": 42.37,
+    "asn": "AS5610",
+    "isp": "Telefonica O2 Czech Republic, a.s.",
+    "latency_ms": 4222.38,
+    "last_checked": 1783901384.5199797
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "country": "Czechia",
+    "country_code": "CZ",
+    "city": "Přerov",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.52,
+    "asn": "AS196815",
+    "isp": "LAN servis s.r.o",
+    "latency_ms": 7250.08,
+    "last_checked": 1783901361.6542087
   },
   {
     "protocol": "http",
@@ -26,8 +41,8 @@
     "uptime_percent": 8.08,
     "asn": "AS201476",
     "isp": "ISP Alliance a.s.",
-    "latency_ms": 3257.24,
-    "last_checked": 1783900656.270998
+    "latency_ms": 11257.64,
+    "last_checked": 1783901344.4546356
   },
   {
     "protocol": "http",
@@ -41,22 +56,22 @@
     "uptime_percent": 84.5,
     "asn": "AS2852",
     "isp": "CESNET z.s.p.o.",
-    "latency_ms": 335.67,
-    "last_checked": 1783900638.282351
+    "latency_ms": 1616.84,
+    "last_checked": 1783901248.3121002
   },
   {
-    "protocol": "socks4",
-    "ip": "90.178.216.215",
-    "port": 4153,
+    "protocol": "http",
+    "ip": "45.139.91.62",
+    "port": 8080,
     "country": "Czechia",
     "country_code": "CZ",
-    "city": "Prague",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.31,
-    "asn": "AS5610",
-    "isp": "Telefonica O2 Czech Republic, a.s.",
-    "latency_ms": 974.15,
-    "last_checked": 1783900804.5612895
+    "city": "Pilsen",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 27.04,
+    "asn": "AS197296",
+    "isp": "United Networks SE",
+    "latency_ms": 4071.39,
+    "last_checked": 1783901359.308438
   }
 ]
