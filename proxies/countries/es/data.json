@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "65.20.105.241",
+    "port": 10001,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Alcobendas",
+    "city": "Madrid",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 66.34,
-    "asn": "AS57286",
-    "isp": "Gigas Hosting SL",
-    "latency_ms": 5130.48,
-    "last_checked": 1783951781.8581097
+    "ssl": true,
+    "uptime_percent": 42.31,
+    "asn": "AS20473",
+    "isp": "The Constant Company, LLC",
+    "latency_ms": 107.75,
+    "last_checked": 1783952399.217807
+  },
+  {
+    "protocol": "socks5",
+    "ip": "81.0.49.104",
+    "port": 18500,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Valencia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 72.81,
+    "asn": "AS15704",
+    "isp": "MasMovil Access Network",
+    "latency_ms": 7416.67,
+    "last_checked": 1783952378.185279
   },
   {
     "protocol": "http",
@@ -26,38 +41,38 @@
     "uptime_percent": 34.07,
     "asn": "AS35699",
     "isp": "Adamo Telecom Iberia S.A Catalonia",
-    "latency_ms": 5605.72,
-    "last_checked": 1783951745.527834
+    "latency_ms": 9902.67,
+    "last_checked": 1783952355.6318448
   },
   {
     "protocol": "http",
-    "ip": "85.85.179.233",
-    "port": 8080,
+    "ip": "81.0.49.104",
+    "port": 20500,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Barcelona",
+    "city": "Valencia",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 36.4,
+    "ssl": false,
+    "uptime_percent": 26.86,
     "asn": "AS15704",
-    "isp": "Xtra Telecom S.A.",
-    "latency_ms": 7349.66,
-    "last_checked": 1783951713.445128
+    "isp": "MasMovil Access Network",
+    "latency_ms": 7511.82,
+    "last_checked": 1783952328.584772
   },
   {
     "protocol": "http",
-    "ip": "90.174.128.42",
+    "ip": "141.227.128.55",
     "port": 3128,
     "country": "Spain",
     "country_code": "ES",
     "city": "Madrid",
     "anonymity": "transparent",
     "ssl": true,
-    "uptime_percent": 11.05,
-    "asn": "AS12479",
-    "isp": "Uni2",
-    "latency_ms": 299.84,
-    "last_checked": 1783951707.977448
+    "uptime_percent": 32.87,
+    "asn": "AS16276",
+    "isp": "OVH SAS",
+    "latency_ms": 4856.19,
+    "last_checked": 1783952315.782426
   },
   {
     "protocol": "http",
@@ -71,7 +86,7 @@
     "uptime_percent": 75.14,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 144.45,
-    "last_checked": 1783951756.345192
+    "latency_ms": 4983.69,
+    "last_checked": 1783952368.9980297
   }
 ]
