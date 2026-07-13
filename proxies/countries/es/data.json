@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "http",
-    "ip": "85.85.179.233",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "83.97.79.114",
+    "port": 8443,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Barcelona",
-    "anonymity": "transparent",
+    "city": "Madrid",
+    "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 37.22,
-    "asn": "AS15704",
-    "isp": "Xtra Telecom S.A.",
-    "latency_ms": 1485.36,
-    "last_checked": 1783916371.2786117
+    "uptime_percent": 36.87,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 1381.73,
+    "last_checked": 1783916945.4512398
   },
   {
     "protocol": "http",
@@ -22,27 +22,12 @@
     "country_code": "ES",
     "city": "Dos Hermanas",
     "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 22.28,
+    "ssl": true,
+    "uptime_percent": 22.29,
     "asn": "AS211141",
     "isp": "Pinkbear SLU",
-    "latency_ms": 2245.35,
-    "last_checked": 1783916332.269992
-  },
-  {
-    "protocol": "http",
-    "ip": "83.97.79.114",
-    "port": 8443,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 23.69,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 1125.42,
-    "last_checked": 1783916328.6728828
+    "latency_ms": 7935.57,
+    "last_checked": 1783916936.0971081
   },
   {
     "protocol": "socks5",
@@ -53,26 +38,11 @@
     "city": "Valencia",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 74.75,
+    "uptime_percent": 74.79,
     "asn": "AS15704",
     "isp": "MasMovil Access Network",
-    "latency_ms": 4536.93,
-    "last_checked": 1783916308.8315535
-  },
-  {
-    "protocol": "http",
-    "ip": "188.227.140.181",
-    "port": 8080,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "A Coruña",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 8.21,
-    "asn": "AS56882",
-    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-    "latency_ms": 4665.13,
-    "last_checked": 1783916282.1500344
+    "latency_ms": 288.49,
+    "last_checked": 1783916909.55227
   },
   {
     "protocol": "http",
@@ -86,8 +56,38 @@
     "uptime_percent": 66.32,
     "asn": "AS57286",
     "isp": "Gigas Hosting SL",
-    "latency_ms": 13832.31,
-    "last_checked": 1783916258.5876772
+    "latency_ms": 12735.06,
+    "last_checked": 1783916878.5894861
+  },
+  {
+    "protocol": "http",
+    "ip": "188.227.140.181",
+    "port": 8080,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "A Coruña",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 8.21,
+    "asn": "AS56882",
+    "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+    "latency_ms": 10751.57,
+    "last_checked": 1783916869.0178607
+  },
+  {
+    "protocol": "http",
+    "ip": "83.97.79.114",
+    "port": 8443,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 23.7,
+    "asn": "AS62005",
+    "isp": "BlueVPS OU",
+    "latency_ms": 1212.57,
+    "last_checked": 1783916824.5448318
   },
   {
     "protocol": "http",
@@ -101,38 +101,23 @@
     "uptime_percent": 32.87,
     "asn": "AS16276",
     "isp": "OVH SAS",
-    "latency_ms": 5550.39,
-    "last_checked": 1783916249.5552166
+    "latency_ms": 10597.73,
+    "last_checked": 1783916821.4473665
   },
   {
     "protocol": "http",
-    "ip": "195.189.190.245",
-    "port": 9090,
+    "ip": "85.85.179.233",
+    "port": 8080,
     "country": "Spain",
     "country_code": "ES",
-    "city": "Mácher",
+    "city": "Barcelona",
     "anonymity": "transparent",
     "ssl": false,
-    "uptime_percent": 20.19,
-    "asn": "AS207906",
-    "isp": "Suballocated IT1",
-    "latency_ms": 942.57,
-    "last_checked": 1783916176.374311
-  },
-  {
-    "protocol": "socks5",
-    "ip": "83.97.79.114",
-    "port": 8443,
-    "country": "Spain",
-    "country_code": "ES",
-    "city": "Madrid",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 36.86,
-    "asn": "AS62005",
-    "isp": "BlueVPS OU",
-    "latency_ms": 3217.88,
-    "last_checked": 1783915852.5512447
+    "uptime_percent": 37.34,
+    "asn": "AS15704",
+    "isp": "Xtra Telecom S.A.",
+    "latency_ms": 619.46,
+    "last_checked": 1783916817.212424
   },
   {
     "protocol": "socks4",
@@ -146,8 +131,23 @@
     "uptime_percent": 42.31,
     "asn": "AS20473",
     "isp": "The Constant Company, LLC",
-    "latency_ms": 1115.06,
-    "last_checked": 1783916396.77713
+    "latency_ms": 3125.84,
+    "last_checked": 1783916990.8611975
+  },
+  {
+    "protocol": "http",
+    "ip": "2.139.38.192",
+    "port": 3128,
+    "country": "Spain",
+    "country_code": "ES",
+    "city": "Madrid",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 29.63,
+    "asn": "AS3352",
+    "isp": "RIMA (Red IP Multi Acceso)",
+    "latency_ms": 2512.49,
+    "last_checked": 1783916961.5129545
   },
   {
     "protocol": "http",
@@ -157,12 +157,12 @@
     "country_code": "ES",
     "city": "Ibiza Town",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 31.85,
+    "ssl": false,
+    "uptime_percent": 31.91,
     "asn": "AS12430",
     "isp": "Vodafone Espana S.A.U.",
-    "latency_ms": 2587.16,
-    "last_checked": 1783916364.8052547
+    "latency_ms": 5339.7,
+    "last_checked": 1783916811.2890868
   },
   {
     "protocol": "http",
@@ -176,7 +176,7 @@
     "uptime_percent": 75.01,
     "asn": "AS15704",
     "isp": "Xtra Telecom S.A",
-    "latency_ms": 251.45,
-    "last_checked": 1783916403.4966035
+    "latency_ms": 133.92,
+    "last_checked": 1783916993.6232991
   }
 ]
