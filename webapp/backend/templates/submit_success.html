@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+{% block content %}
+<section class="container py-5">
+  <div class="card shadow-sm border-0 rounded-4">
+    <div class="card-body p-5 text-center">
+      <h2 class="fw-bold">Payment submission received</h2>
+      <p class="text-secondary">Your proof has been received and will be reviewed shortly.</p>
+      <a class="btn btn-primary" href="/dashboard?email={{ payment.email }}">Go to dashboard</a>
+    </div>
+  </div>
+</section>
+{% endblock %}

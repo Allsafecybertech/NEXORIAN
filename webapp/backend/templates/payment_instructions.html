@@ -1,0 +1,65 @@
+{% extends 'layout.html' %}
+{% block content %}
+<section class="container py-5">
+  <div class="row g-4">
+    <div class="col-lg-6">
+      <div class="card shadow-sm border-0 rounded-4 h-100">
+        <div class="card-body p-4">
+          <h2 class="fw-bold">Complete payment options</h2>
+          <p class="text-secondary">Payment ID: <strong>{{ payment.id }}</strong></p>
+          <h4 class="mt-4">Flutterwave (Fiat)</h4>
+          <p>Pay <strong>${{ plan.price }}</strong> for <strong>{{ plan.id }}</strong>.</p>
+          {% if flutterwave_link %}
+            <a class="btn btn-primary" href="{{ flutterwave_link }}" target="_blank">Pay via Flutterwave</a>
+          {% else %}
+            <div class="alert alert-warning">No Flutterwave key configured yet. Use admin confirmation while you add your credentials.</div>
+          {% endif %}
+          <p class="mt-3"><a href="/admin/confirm?payment_id={{ payment.id }}">Confirm manually</a> if you are testing locally.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="card shadow-sm border-0 rounded-4 h-100">
+        <div class="card-body p-4">
+          <h4>Crypto payment</h4>
+          <p class="text-secondary">Send BTC, USDT, LTC, or USDC and submit your transaction details for auto-checking.</p>
+          <form method="post" action="/submit-crypto" enctype="multipart/form-data">
+            <input type="hidden" name="payment_id" value="{{ payment.id }}">
+            <div class="mb-3">
+              <input name="tx_hash" class="form-control" placeholder="Transaction hash" required>
+            </div>
+            <div class="mb-3">
+              <select name="chain" class="form-control">
+                <option value="eth">Ethereum / USDC / USDT</option>
+                <option value="bsc">BSC / USDT</option>
+                <option value="btc">Bitcoin</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <input name="screenshot" type="file" class="form-control" required>
+            </div>
+            <button class="btn btn-primary w-100" type="submit">Submit Crypto Proof</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card shadow-sm border-0 rounded-4 mt-4">
+    <div class="card-body p-4">
+      <h4>Manual bank transfer</h4>
+      <p class="text-secondary">Send your payment to the provided account and upload a full screenshot proof.</p>
+      <form method="post" action="/submit-manual" enctype="multipart/form-data">
+        <input type="hidden" name="payment_id" value="{{ payment.id }}">
+        <div class="mb-3">
+          <input name="account" class="form-control" placeholder="Payer account used" required>
+        </div>
+        <div class="mb-3">
+          <input name="screenshot" type="file" class="form-control" required>
+        </div>
+        <button class="btn btn-outline-dark" type="submit">Submit Manual Proof</button>
+      </form>
+    </div>
+  </div>
+</section>
+{% endblock %}

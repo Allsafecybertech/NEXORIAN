@@ -1,0 +1,7 @@
+{% extends 'layout.html' %}
+{% block content %}
+  <h2>Purchase Successful</h2>
+  <p>Subscription token: <strong>{{ sub.token }}</strong></p>
+  <p>Use this token with the API endpoint <code>/api/get-proxy?token=...</code></p>
+  <a class="btn btn-primary" href="/dashboard?email={{ sub.email }}">Go to Dashboard</a>
+{% endblock %}

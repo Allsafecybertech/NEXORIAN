@@ -1,0 +1,30 @@
+{% extends 'layout.html' %}
+{% block content %}
+<section class="container py-5">
+  <div class="text-center mb-5">
+    <h1 class="fw-bold">Subscription plans</h1>
+    <p class="text-secondary">Choose from flexible plans for personal use, business automation, and large-scale scraping.</p>
+  </div>
+  <div class="row g-4">
+    {% for p in plans %}
+    <div class="col-md-4">
+      <div class="card h-100 shadow-sm border-0 rounded-4">
+        <div class="card-body p-4">
+          <h5 class="card-title fw-bold">{{ p.id }}</h5>
+          <p class="text-secondary">Daily proxy allocation for all your automation needs.</p>
+          <div class="display-6 fw-bold">${{ p.price }}</div>
+          <div class="my-3 text-muted">{{ p.daily_quota }} proxy requests per day</div>
+          <form method="post" action="/purchase">
+            <input type="hidden" name="plan_id" value="{{ p.id }}">
+            <div class="mb-3">
+              <input name="email" class="form-control" placeholder="Email address" required>
+            </div>
+            <button class="btn btn-primary w-100" type="submit">Choose Plan</button>
+          </form>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

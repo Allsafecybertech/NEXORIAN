@@ -1,0 +1,29 @@
+{% extends 'layout.html' %}
+{% block content %}
+<section class="container py-5">
+  <div class="row">
+    <div class="col-lg-6">
+      <h1 class="fw-bold">Contact us</h1>
+      <p class="text-secondary">Use the form below to reach the NEXORIAN team for support, billing, or partnership requests.</p>
+      <div class="card shadow-sm border-0 rounded-4">
+        <div class="card-body">
+          <p class="mb-1"><strong>Email:</strong> support@nexorian.example</p>
+          <p class="mb-0"><strong>Hours:</strong> 24/7 support via ticketing</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="card shadow-sm border-0 rounded-4">
+        <div class="card-body">
+          <form>
+            <div class="mb-3"><input class="form-control" placeholder="Name"></div>
+            <div class="mb-3"><input class="form-control" placeholder="Email"></div>
+            <div class="mb-3"><textarea class="form-control" rows="4" placeholder="Message"></textarea></div>
+            <button class="btn btn-primary">Send Message</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}
