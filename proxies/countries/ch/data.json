@@ -1,18 +1,18 @@
 [
   {
-    "protocol": "socks4",
+    "protocol": "http",
     "ip": "45.95.232.35",
-    "port": 1080,
+    "port": 3128,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 88.11,
+    "uptime_percent": 74.69,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 2492.01,
-    "last_checked": 1783996146.7335231
+    "latency_ms": 6267.46,
+    "last_checked": 1783996728.4075456
   },
   {
     "protocol": "http",
@@ -26,37 +26,37 @@
     "uptime_percent": 69.84,
     "asn": "AS14956",
     "isp": "RouterHosting LLC",
-    "latency_ms": 8818.99,
-    "last_checked": 1783996129.437097
+    "latency_ms": 6221.94,
+    "last_checked": 1783996692.04953
   },
   {
-    "protocol": "http",
-    "ip": "74.242.169.16",
-    "port": 3128,
-    "country": "Switzerland",
-    "country_code": "CH",
-    "city": "Zurich",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 15.84,
-    "asn": "AS8075",
-    "isp": "Microsoft Corporation",
-    "latency_ms": 8918.46,
-    "last_checked": 1783996109.1073964
-  },
-  {
-    "protocol": "http",
+    "protocol": "socks5",
     "ip": "45.95.232.35",
-    "port": 3128,
+    "port": 1080,
     "country": "Switzerland",
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 74.69,
+    "ssl": true,
+    "uptime_percent": 86.57,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 4824.62,
-    "last_checked": 1783996090.1638408
+    "latency_ms": 9102.07,
+    "last_checked": 1783996669.7024584
+  },
+  {
+    "protocol": "socks5",
+    "ip": "45.85.93.15",
+    "port": 4567,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Geneva",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 20.95,
+    "asn": "AS199058",
+    "isp": "Serva ONE LTD",
+    "latency_ms": 7557.94,
+    "last_checked": 1783996643.4140127
   }
 ]
