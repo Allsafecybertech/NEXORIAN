@@ -1,6 +1,7 @@
 protocol,ip,port,country,country_code,city,anonymity,ssl,uptime_percent,asn,isp,latency_ms,last_checked
-http,193.68.115.14,8080,Bulgaria,BG,Ablanitsa,transparent,false,7.86,AS48584,Sarnica-Net LTD,6233.2,1783999769.6389124
-http,151.237.84.9,8080,Bulgaria,BG,Kardzhali,transparent,true,22.32,AS48233,Netroniks EOOD,7196.31,1783999733.9879668
-http,82.137.90.192,80,Bulgaria,BG,Haskovo,elite,false,48.08,AS8866,Bulgarian Telecommunications Company Plc.,8245.77,1783999729.780434
-http,87.126.65.11,1388,Bulgaria,BG,Stara Zagora,transparent,false,5.99,AS8866,Vivacom Bulgaria EAD,10446.3,1783999668.8819888
-http,213.169.33.8,8001,Bulgaria,BG,Sofia,transparent,true,14.4,AS8717,A1 Bulgaria EAD,3144.47,1783999653.729845
+socks4,46.10.198.10,4153,Bulgaria,BG,Sofia,elite,true,51.02,AS8866,Vivacom Bulgaria EAD,150.43,1784000346.384706
+http,46.10.209.230,8080,Bulgaria,BG,Sofia,elite,true,5.61,AS8866,BTC-BROADBAND,1250.23,1784000339.4420793
+socks4,109.160.97.49,4145,Bulgaria,BG,Rousse,elite,true,15.28,AS205352,Kabelnet LTD,3269.87,1784000335.0212069
+http,82.137.90.192,80,Bulgaria,BG,Haskovo,elite,false,48.07,AS8866,Bulgarian Telecommunications Company Plc.,6293.29,1784000334.2340546
+socks5,185.205.210.154,1085,Bulgaria,BG,Sofia,elite,true,37.6,AS44901,Belcloud LTD,19819.06,1784000229.362408
+http,213.169.33.7,8001,Bulgaria,BG,Sofia,transparent,false,10.94,AS8717,A1 Bulgaria EAD,6200.06,1784000314.8479092
