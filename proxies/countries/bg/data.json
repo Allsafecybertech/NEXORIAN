@@ -1,6 +1,21 @@
 [
   {
     "protocol": "socks4",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Sofia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 50.96,
+    "asn": "AS8866",
+    "isp": "Vivacom Bulgaria EAD",
+    "latency_ms": 144.16,
+    "last_checked": 1784003990.1018877
+  },
+  {
+    "protocol": "socks4",
     "ip": "109.160.97.49",
     "port": 4145,
     "country": "Bulgaria",
@@ -11,23 +26,8 @@
     "uptime_percent": 15.29,
     "asn": "AS205352",
     "isp": "Kabelnet LTD",
-    "latency_ms": 278.08,
-    "last_checked": 1784003403.708193
-  },
-  {
-    "protocol": "socks4",
-    "ip": "46.10.198.10",
-    "port": 4153,
-    "country": "Bulgaria",
-    "country_code": "BG",
-    "city": "Sofia",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 50.92,
-    "asn": "AS8866",
-    "isp": "Vivacom Bulgaria EAD",
-    "latency_ms": 148.55,
-    "last_checked": 1784003383.339834
+    "latency_ms": 262.33,
+    "last_checked": 1784003979.5692456
   },
   {
     "protocol": "http",
@@ -41,22 +41,37 @@
     "uptime_percent": 48.08,
     "asn": "AS8866",
     "isp": "Bulgarian Telecommunications Company Plc.",
-    "latency_ms": 338.32,
-    "last_checked": 1784003347.9605706
+    "latency_ms": 8285.62,
+    "last_checked": 1784003970.9182744
   },
   {
-    "protocol": "socks5",
-    "ip": "185.205.210.154",
-    "port": 1085,
+    "protocol": "http",
+    "ip": "193.68.115.14",
+    "port": 8080,
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "city": "Ablanitsa",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 7.86,
+    "asn": "AS48584",
+    "isp": "Sarnica-Net LTD",
+    "latency_ms": 4244.12,
+    "last_checked": 1784003963.8642852
+  },
+  {
+    "protocol": "http",
+    "ip": "85.196.179.34",
+    "port": 8080,
     "country": "Bulgaria",
     "country_code": "BG",
     "city": "Sofia",
     "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 37.59,
-    "asn": "AS44901",
-    "isp": "Belcloud LTD",
-    "latency_ms": 15002.66,
-    "last_checked": 1784003170.4497623
+    "ssl": false,
+    "uptime_percent": 11.94,
+    "asn": "AS29580",
+    "isp": "Mobiltel BNG",
+    "latency_ms": 12605.93,
+    "last_checked": 1784003871.7707324
   }
 ]
