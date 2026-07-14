@@ -1095,7 +1095,7 @@
     "last_checked": 1784000216.9239836
   },
   {
-    "protocol": "socks5",
+    "protocol": "socks4",
     "ip": "209.38.214.48",
     "port": 1080,
     "country": "Germany",
@@ -1103,11 +1103,41 @@
     "city": "Frankfurt am Main",
     "anonymity": "elite",
     "ssl": true,
-    "uptime_percent": 47.93,
+    "uptime_percent": 55.22,
     "asn": "AS14061",
     "isp": "DigitalOcean, LLC",
-    "latency_ms": 3040.52,
-    "last_checked": 1784000352.2403045
+    "latency_ms": 4342.06,
+    "last_checked": 1784000681.3654504
+  },
+  {
+    "protocol": "socks4",
+    "ip": "212.227.186.120",
+    "port": 5678,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Berlin",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 27.41,
+    "asn": "AS8560",
+    "isp": "IONOS SE",
+    "latency_ms": 5189.33,
+    "last_checked": 1784000680.261154
+  },
+  {
+    "protocol": "http",
+    "ip": "209.38.214.48",
+    "port": 3128,
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Frankfurt am Main",
+    "anonymity": "elite",
+    "ssl": false,
+    "uptime_percent": 19.52,
+    "asn": "AS14061",
+    "isp": "DigitalOcean, LLC",
+    "latency_ms": 4596.03,
+    "last_checked": 1784000567.5658076
   },
   {
     "protocol": "socks5",
@@ -1121,7 +1151,7 @@
     "uptime_percent": 23.71,
     "asn": "AS8560",
     "isp": "IONOS SE",
-    "latency_ms": 8503.27,
-    "last_checked": 1784000144.2064295
+    "latency_ms": 10319.03,
+    "last_checked": 1784000565.443984
   }
 ]
