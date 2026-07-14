@@ -1,18 +1,33 @@
 [
   {
-    "protocol": "http",
-    "ip": "45.59.122.132",
-    "port": 80,
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
     "country": "Switzerland",
     "country_code": "CH",
-    "city": "Bern",
+    "city": "Wädenswil",
     "anonymity": "elite",
-    "ssl": false,
-    "uptime_percent": 69.86,
-    "asn": "AS14956",
-    "isp": "RouterHosting LLC",
-    "latency_ms": 4214.43,
-    "last_checked": 1784006377.9353752
+    "ssl": true,
+    "uptime_percent": 30.2,
+    "asn": "AS48971",
+    "isp": "netz116",
+    "latency_ms": 1087.86,
+    "last_checked": 1784006980.2916834
+  },
+  {
+    "protocol": "socks5",
+    "ip": "5.101.85.133",
+    "port": 9050,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Zurich",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 54.76,
+    "asn": "AS63023",
+    "isp": "GTHost",
+    "latency_ms": 14067.96,
+    "last_checked": 1784006966.0164812
   },
   {
     "protocol": "socks4",
@@ -26,8 +41,23 @@
     "uptime_percent": 56.27,
     "asn": "AS63023",
     "isp": "GTHost",
-    "latency_ms": 4966.86,
-    "last_checked": 1784006375.5139937
+    "latency_ms": 19985.88,
+    "last_checked": 1784006961.327322
+  },
+  {
+    "protocol": "http",
+    "ip": "45.59.122.132",
+    "port": 80,
+    "country": "Switzerland",
+    "country_code": "CH",
+    "city": "Bern",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 69.86,
+    "asn": "AS14956",
+    "isp": "RouterHosting LLC",
+    "latency_ms": 2679.24,
+    "last_checked": 1784006920.869244
   },
   {
     "protocol": "http",
@@ -37,12 +67,12 @@
     "country_code": "CH",
     "city": "Zurich",
     "anonymity": "elite",
-    "ssl": false,
+    "ssl": true,
     "uptime_percent": 74.68,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 5989.66,
-    "last_checked": 1784006285.4248068
+    "latency_ms": 12098.87,
+    "last_checked": 1784006918.2705698
   },
   {
     "protocol": "socks5",
@@ -56,7 +86,7 @@
     "uptime_percent": 86.55,
     "asn": "AS215540",
     "isp": "Global Connectivity Solutions LLP",
-    "latency_ms": 6721.86,
-    "last_checked": 1784006269.9931288
+    "latency_ms": 2499.79,
+    "last_checked": 1784006795.5700157
   }
 ]
