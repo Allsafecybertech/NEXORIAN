@@ -1,6 +1,36 @@
 [
   {
     "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "transparent",
+    "ssl": true,
+    "uptime_percent": 38.9,
+    "asn": "AS9125",
+    "isp": "Orion Telekom Network",
+    "latency_ms": 385.91,
+    "last_checked": 1784005189.4200208
+  },
+  {
+    "protocol": "http",
+    "ip": "77.46.138.49",
+    "port": 8080,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Oraovica",
+    "anonymity": "transparent",
+    "ssl": false,
+    "uptime_percent": 2.55,
+    "asn": "AS8400",
+    "isp": "TELEKOM-SRBIJA",
+    "latency_ms": 4146.26,
+    "last_checked": 1784005168.7328982
+  },
+  {
+    "protocol": "http",
     "ip": "217.16.136.160",
     "port": 80,
     "country": "Serbia",
@@ -8,11 +38,26 @@
     "city": "Niš",
     "anonymity": "elite",
     "ssl": false,
-    "uptime_percent": 76.11,
+    "uptime_percent": 76.16,
     "asn": "AS197423",
     "isp": "Jotel",
-    "latency_ms": 3118.69,
-    "last_checked": 1784004531.955847
+    "latency_ms": 143.83,
+    "last_checked": 1784005155.8782322
+  },
+  {
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
+    "country": "Serbia",
+    "country_code": "RS",
+    "city": "Belgrade",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 45.91,
+    "asn": "AS15958",
+    "isp": "CETIN Ltd. Belgrade",
+    "latency_ms": 7334.57,
+    "last_checked": 1784005154.7944567
   },
   {
     "protocol": "http",
@@ -22,57 +67,12 @@
     "country_code": "RS",
     "city": "Novi Sad",
     "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 35.4,
+    "ssl": false,
+    "uptime_percent": 35.39,
     "asn": "AS31042",
     "isp": "Serbia BroadBand",
-    "latency_ms": 4054.24,
-    "last_checked": 1784004497.6770906
-  },
-  {
-    "protocol": "http",
-    "ip": "77.46.138.233",
-    "port": 8080,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Oraovica",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 2.57,
-    "asn": "AS8400",
-    "isp": "TELEKOM-SRBIJA",
-    "latency_ms": 12619.65,
-    "last_checked": 1784004459.887374
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.190.154.121",
-    "port": 4145,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 43.36,
-    "asn": "AS8400",
-    "isp": "TELEKOM-SRBIJA",
-    "latency_ms": 185.83,
-    "last_checked": 1784004599.8582425
-  },
-  {
-    "protocol": "socks4",
-    "ip": "95.140.118.34",
-    "port": 1080,
-    "country": "Serbia",
-    "country_code": "RS",
-    "city": "Belgrade",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 42.06,
-    "asn": "AS9125",
-    "isp": "Orion Telekom Network",
-    "latency_ms": 141.46,
-    "last_checked": 1784004576.9925387
+    "latency_ms": 6718.37,
+    "last_checked": 1784005121.0186536
   },
   {
     "protocol": "http",
@@ -86,7 +86,7 @@
     "uptime_percent": 25.1,
     "asn": "AS13092",
     "isp": "Akademska mreza Republike Srbije - AMRES",
-    "latency_ms": 145.89,
-    "last_checked": 1784004575.6706107
+    "latency_ms": 145.76,
+    "last_checked": 1784005206.6879177
   }
 ]
