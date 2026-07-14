@@ -1,35 +1,5 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "149.62.186.244",
-    "port": 1080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Milan",
-    "anonymity": "elite",
-    "ssl": true,
-    "uptime_percent": 87.24,
-    "asn": "AS47242",
-    "isp": "Host SpA",
-    "latency_ms": 2228.87,
-    "last_checked": 1783997943.6123888
-  },
-  {
-    "protocol": "http",
-    "ip": "93.187.25.12",
-    "port": 58080,
-    "country": "Italy",
-    "country_code": "IT",
-    "city": "Siena",
-    "anonymity": "transparent",
-    "ssl": true,
-    "uptime_percent": 28.44,
-    "asn": "AS43960",
-    "isp": "Consorzio Terrecablate",
-    "latency_ms": 1151.38,
-    "last_checked": 1783997941.4128492
-  },
-  {
     "protocol": "http",
     "ip": "87.121.148.126",
     "port": 49200,
@@ -41,23 +11,38 @@
     "uptime_percent": 66.95,
     "asn": "AS210218",
     "isp": "Open Fiber S.P.A.",
-    "latency_ms": 1157.64,
-    "last_checked": 1783997908.2865458
+    "latency_ms": 5839.26,
+    "last_checked": 1783998557.3653188
   },
   {
-    "protocol": "http",
-    "ip": "79.52.233.34",
-    "port": 8080,
+    "protocol": "socks5",
+    "ip": "5.59.248.134",
+    "port": 8081,
     "country": "Italy",
     "country_code": "IT",
-    "city": "Rome",
-    "anonymity": "transparent",
-    "ssl": false,
-    "uptime_percent": 34.52,
-    "asn": "AS3269",
-    "isp": "INTERBUSINESS",
-    "latency_ms": 15333.8,
-    "last_checked": 1783997878.8271363
+    "city": "Pomezia",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 31.67,
+    "asn": "AS212271",
+    "isp": "Cinzia Tocci trading as Lumanex Srl",
+    "latency_ms": 8156.82,
+    "last_checked": 1783998371.9872696
+  },
+  {
+    "protocol": "socks4",
+    "ip": "149.62.186.244",
+    "port": 1080,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Milan",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 87.24,
+    "asn": "AS47242",
+    "isp": "Host SpA",
+    "latency_ms": 1265.78,
+    "last_checked": 1783998588.589452
   },
   {
     "protocol": "socks5",
@@ -71,8 +56,23 @@
     "uptime_percent": 85.66,
     "asn": "AS47242",
     "isp": "Host SpA",
-    "latency_ms": 2042.46,
-    "last_checked": 1783997992.5459294
+    "latency_ms": 1016.83,
+    "last_checked": 1783998349.784762
+  },
+  {
+    "protocol": "http",
+    "ip": "212.77.75.25",
+    "port": 3129,
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Empoli",
+    "anonymity": "elite",
+    "ssl": true,
+    "uptime_percent": 28.64,
+    "asn": "AS15691",
+    "isp": "Leonet srl Empoli",
+    "latency_ms": 305.8,
+    "last_checked": 1783998529.421844
   },
   {
     "protocol": "socks5",
@@ -86,7 +86,7 @@
     "uptime_percent": 99.85,
     "asn": "AS15691",
     "isp": "Leonet srl Empoli",
-    "latency_ms": 206.62,
-    "last_checked": 1783997927.1804543
+    "latency_ms": 161.0,
+    "last_checked": 1783998409.4314575
   }
 ]
